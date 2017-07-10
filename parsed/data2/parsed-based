@@ -1,0 +1,2173 @@
+0001	Columbus, Oh.
+0002	Memphis, Tn.
+0003	New York
+0004	Paris, France
+0005	Gurgaon, India
+0008	Boston
+0009	Palo Alto, Ca.
+0010	Seattle, Wa.
+0011	Singapore
+0012	Mt. Laurel, N.J.
+0013	San Francisco
+0014	Singapore
+0015	South San Francisco
+0016	Denver
+0017	Germany
+0018	New York
+0019	Gurgaon, India
+0020	New York
+0021	Seoul
+0022	St. Louis
+0023	Mountain View, Ca.
+0024	San Francisco
+0025	Santa Monica, Ca.
+0027	Shanghai, China
+0028	Vancouver
+0030	San Francisco
+0031	Mumbai, India
+0032	Bellevue, Wa.
+0033	Mountain View, Ca.
+0034	U.K.
+0035	New York
+0036	Mountain View, Ca.
+0037	Concord, Ma.
+0038	Boston
+0042	New York
+0043	New York
+0044	San Francisco
+0045	Austin, Tex.
+0046	San Francisco
+0048	San Francisco
+0049	San Diego, Ca.
+0051	Israel
+0052	San Francisco
+0053	New York
+0058	Boston
+0059	New York
+0060	Nigeria
+0061	Israel
+0063	New York
+0064	Warren, N.J.
+0065	Minneapolis, Mn.
+0066	San Francisco
+0067	Boston, Ma.
+0069	New York
+0070	Chicago
+0071	Dallas and Beijing
+0072	New York
+0073	Portland, Ore.
+0074	San Francisco
+0075	Washington, D.C.
+0076	Singapore
+0077	London
+0078	New York
+0079	New York
+0080	L.A.
+0081	Mountain View, Ca.
+0082	Alameda, Ca.
+0083	Chicago
+0084	Berkeley, Ca.
+0085	Tel Aviv, Israel
+0086	Glendale, Ca.
+0087	Kitchener, Ontario
+0088	Shanghai, China
+0089	New York
+0090	Palo Alto, Ca.
+0091	New York
+0093	London
+0094	San Francisco
+0095	Seattle
+0096	New York
+0097	Seattle
+0098	Santa Clara, Ca.
+0099	San Francisco
+0100	Watertown, Ma.
+0101	New York
+0102	Bothell, Wa.
+0103	Austin, Tex.
+0105	Mountain View, Ca.
+0106	Wilmington, De.
+0108	Bangalore, India
+0109	Cambridge, Ma.
+0110	Singapore
+0111	Bangalore
+0112	London
+0113	Chicago
+0115	Redwood City, Ca.
+0116	San Francisco
+0117	Oakland, Ca.
+0119	San Francisco
+0120	New York
+0121	Noida, India
+0122	Tel Aviv, Israel
+0123	London
+0124	London
+0125	Cambridge, Ma.
+0126	Chicago
+0127	San Francisco
+0130	Berlin
+0131	San Francisco
+0132	Oakland, Ca.
+0133	London
+0134	Toronto
+0135	London
+0136	Seoul, Korea
+0137	Mountain View, Ca.
+0138	San Francisco
+0144	Dublin, Ireland
+0145	Amsterdam
+0146	Burlingame, Ca.
+0147	Hong Kong
+0148	New York
+0150	Lausanne, Switzerland
+0151	San Mateo, Ca.
+0152	New York
+0154	Chicago
+0155	Cambridge, Ma.
+0157	Seoul
+0159	San Diego
+0160	Oakland, Ca.
+0162	London
+0163	Palo Alto, Ca.
+0165	Vienna, Austria
+0167	Taipei, Taiwan
+0168	New York
+0169	San Diego, Ca.
+0170	Richardson, Tex.
+0171	Santa Monica, Ca.
+0172	Chicago
+0173	Tel Aviv, Israel
+0174	Ho Chi Minh, Vietnam
+0175	New York
+0176	Nanjing, China
+0178	Gurgaon, India
+0179	Cambridge, Ma.
+0180	London
+0181	Scottsdale, Az.
+0182	Helsinki
+0185	San Francisco
+0186	New York
+0187	San Francisco
+0189	Mumbai, India
+0190	Irvine, Ca.
+0191	San Mateo, Ca.
+0192	Mumbai, India
+0193	Tel Aviv, Israel
+0196	Hyderabad, India
+0197	San Francisco
+0198	San Francisco
+0199	Menlo Park, Ca
+0201	Bangalore, India
+0202	New York
+0203	Indianapolis, In.
+0204	Bangalore, India
+0205	Noida, India
+0206	Israel
+0207	Menlo Park, Ca.
+0208	San Francisco
+0210	New York
+0211	Houston
+0212	Yokneam, Israel and New York
+0213	San Francisco
+0216	Toronto, Canada
+0217	Sunnyvale, Ca.
+0218	Salt Lake City, Ut.
+0219	Mumbai, India
+0220	Mountain View, Ca.
+0221	Sunnyvale, Ca.
+0222	New York
+0223	Dubai
+0224	Norwood, Ma.
+0226	Paris
+0227	New York
+0228	Kuala Lumpur, Malaysia
+0229	New York
+0230	Estonia
+0231	New York
+0232	New York
+0233	Palo Alto, Ca.
+0234	Tel Aviv, Israel
+0235	Tokyo
+0236	San Francisco
+0237	Newark, Ca.
+0238	Pleasanton, Ca.
+0239	Thousand Oaks, Ca.
+0240	San Francisco
+0241	London
+0242	New York
+0243	Philadelphia, Pa.
+0244	Montreal, Quebec
+0245	Baltimore, Md.
+0249	San Francisco and Melbourne, Australia
+0250	Bangkok, Thailand
+0251	New York
+0252	London
+0253	Zurich, Switzerland
+0254	Brooklyn, N.Y.
+0255	Durham, N.C.
+0256	Kuala Lumpur, Malaysia
+0257	Vancouver, B.C.
+0258	Paris
+0260	Menlo Park, Ca.
+0261	Galway, Ireland
+0262	San Francisco
+0263	Boston
+0264	Arizona
+0265	Bellevue, Wa.
+0266	India
+0267	Paris
+0268	New York
+0269	San Francisco
+0270	San Francisco
+0271	Toronto
+0272	New York
+0274	China
+0276	Brooklyn, N.Y.
+0277	Bangalore, India
+0278	Boston
+0279	San Jose, Ca.
+0280	L.A.
+0281	New York
+0282	Tel Aviv, Israel
+0283	Dublin, Ireland
+0284	U.K.
+0287	San Francisco
+0288	Charlottesville, Va.
+0289	Mountain View, Ca.
+0291	San Francisco
+0292	Jakarta, Indonesia
+0293	Winnipeg
+0294	Berlin
+0295	Palo Alto, Ca.
+0296	Plymouth, Mn.
+0298	East Palo Alto, Ca
+0299	Menlo Park, Ca.
+0300	Mountain View, Ca..
+0301	Menlo Park, Calif.
+0302	Pullman, Wa.
+0304	Menlo Park, Ca.
+0305	Chicago
+0306	Chicago
+0307	Redwood City, Ca.
+0308	London
+0309	San Francisco
+0311	Redwood City, Ca.
+0312	U.K.
+0313	Berlin, Germany
+0314	Munich, Germany
+0315	U.K.
+0316	New York
+0317	Rajasthan, India
+0318	Belmont, Ma.
+0319	San Francisco
+0320	London
+0321	New York
+0322	San Francisco
+0323	Malaysia
+0324	Reston, Va.
+0325	Brooklyn, N.Y.
+0328	Wellingon, New Zealand
+0329	Mumbai, India
+0330	Bangalore, India
+0331	Bangalore, India
+0332	New York
+0333	Louisville, Ky.
+0334	Boston
+0335	Atlanta, Ga.
+0336	Philadelphia, Pa.
+0339	Raleigh, N.C.
+0340	Cupertino, Ca.
+0341	Israel
+0342	Bellevue, Wa.
+0343	St. Louis, Mo.
+0344	San Francisco
+0345	New York
+0346	Dublin, Ireland
+0347	San Francisco
+0348	Beijing, China
+0349	Mountain View, Ca.
+0350	Atlanta
+0352	Boston
+0353	Bangalore, India
+0354	Menlo Park, Ca.
+0356	Hangzhou, China
+0357	San Francisco
+0360	New York
+0361	San Francisco, and Nairobi, Kenya
+0362	New York
+0363	Paris, France
+0364	Santa Barbara, Ca.
+0365	San Francisco
+0366	Copenhagen
+0367	Stockholm, Sweden
+0368	Beijing, China
+0370	San Francisco
+0371	Waltham, Ma.
+0372	Singapore
+0373	Mumbai, India
+0374	New York
+0375	New York
+0376	a year-old, San Francisco
+0377	San Francisco
+0378	Las Vegas
+0380	Santa Barbara, Ca.
+0382	Columbus, Oh.
+0383	San Francisco
+0384	Hamburg, Germany
+0385	Mumbai, India and San Francisco
+0387	Boston
+0388	San Francisco
+0389	San Francisco
+0390	Australia
+0392	Santa Monica, Ca.
+0393	Fishers, Ind.
+0394	L.A.
+0395	L.A.
+0396	Los Altos, Ca.
+0397	San Francisco
+0398	Tel Aviv, Israel
+0399	Fukuoka, Japan
+0402	Austin, Tex.
+0403	San Francisco
+0404	Dallas, Tex.
+0405	Boston
+0406	Jerusalemn
+0407	Tel Aviv, Israel
+0408	Oakland, Ca.
+0411	Redwood City, Ca.
+0413	Berkeley, Ca.
+0414	Kitchener, Ontario
+0415	San Francisco
+0416	Berlin
+0417	Tel Aviv
+0419	Guadalajara, Mexico
+0420	San Francisco
+0422	San Francisco
+0423	Burlingame, Ca.
+0424	London
+0425	Paris
+0426	Seattle
+0427	Austin, Tex.
+0428	London
+0429	Munich, Germany
+0430	Mumbai, India
+0431	Danville, Ca.
+0432	Washington, D.C.
+0434	Madison, Wi.
+0435	Irvine, Ca.
+0436	New York
+0437	San Jose, Ca.
+0438	San Francisco
+0440	Kirkland, Wa.
+0441	San Diego, Ca.
+0442	San Clemente, Ca..
+0443	Charlottesville, Va.
+0446	Cambridge, Ma.
+0447	Pittsburgh, Pa.
+0448	Austin- and Australia
+0449	Bangalore, India
+0450	Cambridge, Ma.
+0451	St. Louis, Mo.
+0452	Paris
+0453	San Francisco
+0454	Philadelphia, Pa.
+0456	San Fransisco
+0458	San Francisco
+0459	London
+0460	Yokneam, Israel
+0462	San Francisco
+0463	New York
+0464	Hangzhou, China
+0465	New York and San Francisco
+0468	Moscow and San Francisco
+0469	San Mateo, Ca.
+0470	San Mateo, Ca.
+0471	Redwood City, Ca.
+0472	New York
+0473	Redmond, Wa.
+0474	New York
+0475	Brussels
+0476	Tel Aviv, Israel
+0477	Cambridge, Ma.
+0478	Redwood City, Ca.
+0479	Cupertino, Ca.
+0480	San Francisco
+0481	Venice, Ca.
+0482	Vienna, Austria
+0483	Mountain View, Ca.
+0485	Waltham, Ma.
+0487	New York and Paris
+0488	Cupertino, Ca.
+0489	San Francisco
+0490	San Francisco, Ca.
+0491	Millbrae, Ca.
+0493	San Jose, Ca.
+0494	Tel Aviv, Israel
+0495	Saskatoon, Saskatchewan
+0496	Montreal
+0497	Vancouver
+0498	Berlin and San Francisco
+0499	Paris
+0500	San Francisco
+0501	Solana Beach, Ca.
+0502	Venice, Ca.
+0503	New York
+0506	Korea
+0507	Scottsdale, Az.
+0508	Tokyo, Japan
+0509	Austin, Tex.
+0510	San Mateo, Ca.
+0511	New York
+0512	Tel Aviv, Israel
+0515	San Francisco
+0516	China
+0517	Hong Kong
+0518	Palermo, Italy
+0519	Boston
+0520	Tel Aviv, Israel
+0521	Mountain View, Ca.
+0522	San Francisco
+0523	Tokyo, Japan
+0524	Redwood City, Ca.
+0525	Menlo Park, Ca.
+0530	Menlo Park, Ca.
+0531	China
+0532	San Francisco
+0533	Gurgaon, India
+0534	Ramat Gan, Israel
+0535	New York
+0536	Chicago
+0537	Denver
+0538	New York
+0539	San Mateo, Ca.
+0540	San Francisco
+0541	San Francisco
+0542	San Jose, Ca.
+0543	New York and Helsinki
+0544	Indianapolis, In.
+0545	Mill Valley, Ca.
+0546	Nantes, France
+0547	Thuwal, Saudi Arabia
+0548	Seattle, Wa.
+0550	Austin, Tex.
+0551	Owings Mills, Md.
+0552	Folsom, Ca.
+0556	Barcelona, Spain
+0557	New York
+0558	San Francisco
+0559	Munich, Germany
+0560	Copenhagen, Denmark
+0562	Munich, Germany
+0564	Shanghai, China
+0565	San Francisco
+0566	Rehovot, Israel
+0567	Chicago
+0568	New York
+0569	New York
+0570	New York
+0571	San Bruno, Ca.
+0573	Berlin
+0574	San Francisco
+0576	New York
+0578	San Francisco
+0579	New York
+0580	San Francisco
+0581	San Francisco- and Bangalore
+0582	New York
+0583	Mountain View, Ca.
+0584	Cambridge, Ma.
+0585	Toronto
+0586	U.K.
+0587	Belo Horizonte, Brazil
+0588	Santa Monica, Ca.
+0589	London
+0590	New Delhi, India
+0591	Brooklyn
+0594	L.A.
+0598	Burlington, Ma.
+0599	Sunnyvale, Ca.
+0600	Charlotte, N.C.
+0602	Richmond, Va.
+0604	Menlo Park, Ca.
+0605	Tel Aviv
+0608	Scotts Valley, Ca.
+0609	Dallas, Tex.
+0610	China
+0612	New York
+0613	London
+0614	 L.A.
+0615	Cambridge, U.K.
+0616	Berlin
+0617	San Diego
+0618	San Francisco
+0619	San Jose, Ca.
+0623	Seattle
+0624	Denver, Co.
+0625	Bay Area
+0627	Menlo Park, Ca.
+0628	San Francisco
+0629	Charleston, S.C.
+0630	Edinburgh, Scotland
+0631	San Francisco
+0632	Atlanta, Ga.
+0633	 Albany, Ca.
+0634	Stockholm, Sweden
+0635	Alameda, Calif.
+0636	Cambridge, Ma.
+0637	L.A.
+0639	San Francisco
+0640	Oxford, Ct.
+0641	Cambridge, U.K.
+0642	New York
+0643	San Francisco
+0644	San Francisco
+0645	San Francisco
+0646	San Francisco
+0647	San Francisco
+0648	Sao Paulo, Brazil
+0650	Chiba, Japan
+0651	San Francisco
+0652	San Francisco
+0653	New York
+0654	San Francisco
+0655	Lehi, Ut.
+0656	San Francisco
+0657	Hamburg, Germany
+0658	San Francisco
+0659	Cambridge, Ma.
+0660	Toronto
+0661	New Delhi, India
+0662	Lexington, Ma.
+0663	Bangkok, Thailand
+0664	Mountain View, Ca.
+0666	Washington, D.C.
+0667	La Jolla, Ca.
+0668	Shenzhen, China
+0669	U.K.
+0670	Luxembourg
+0671	Auburn, Ca.
+0672	Bangalore, India
+0673	Singapore
+0675	Lausanne, Switzerland
+0676	Ra’anana, Israel
+0678	London
+0679	South San Francisco
+0680	Bangalore, India
+0681	Santa Clara, Ca.
+0682	Portland, Or.
+0683	Culver City, Ca.
+0684	San Francisco
+0685	New York
+0686	Boston
+0687	Palo Alto, Ca.
+0688	New York
+0689	London
+0690	Boulder, Co.
+0691	Mountain View, Ca.
+0692	San Francisco
+0693	New York
+0694	Tel Aviv, Israel
+0695	Sunnyvale, Ca.
+0696	Birmingham, Ala.
+0697	San Francisco
+0698	Gaithersburg, Md.
+0699	Palo Alto, Ca.
+0700	Tel Aviv, Israel
+0701	Austin, Tex.
+0702	Irvine, Ca.
+0703	Lagos, Nigeria
+0704	Berkeley, Ca.
+0705	San Francisco
+0706	Mountain View, Ca.
+0707	Redwood Shores, Ca.
+0708	Tokyo, Japan
+0709	New York
+0710	Sunnyvale, Ca.
+0711	San Mateo, Ca.
+0712	San Francisco
+0713	L.A.
+0714	Jakarta, Indonesia
+0715	Oxfordshire, U.K.
+0716	Milan, Italy
+0717	Burlingame, Ca.
+0718	Bangalore, India
+0719	Singapore
+0720	San Francisco
+0722	New York
+0723	Regensburg, Germany
+0724	Regensburg, Germany
+0725	Austin, Tex.
+0726	London
+0727	Kalamazoo, Mi.
+0728	Greenbelt, Md.
+0729	London
+0731	Toronto
+0732	New York
+0733	Denver
+0734	San Carlos, Ca.
+0735	San Mateo, Ca.
+0736	Munich
+0737	South San Francisco, Ca.
+0738	Israel
+0739	San Jose, Ca.
+0740	Laguna Beach, Ca.
+0741	Bellevue, Wa.
+0742	Berlin
+0743	Fort Lauderdale, Fla.
+0744	San Jose, Ca.
+0745	Austin, Tex.
+0746	Denver
+0747	Phoenix, Az.
+0748	Denver
+0749	Franklin, Ma.
+0750	San Francisco
+0751	Edinburgh, Scotland
+0752	New York
+0753	Sydney, Australia
+0754	Beijing, China
+0755	San Francisco
+0756	Mountain View, Ca.
+0757	Seattle
+0758	 L.A.
+0759	Denver
+0760	Berlin
+0761	London- and San Francisco
+0762	Berlin
+0764	Menlo Park, Ca.
+0765	Singapore
+0766	New York
+0767	San Francisco
+0768	Austin, Tex.
+0769	New Delhi, India
+0770	New York
+0771	St. Louis, Mo.
+0772	Beijing, China
+0773	Morgan Hill, Ca.
+0774	New York
+0776	San Francisco, Ca.
+0777	Portland, Ore.
+0778	Mountain View, Ca.
+0779	Denver, Co.
+0780	Austin, Tex.
+0781	Bay Area
+0782	Chicago
+0783	New York
+0784	Toronto, Ontario
+0785	San Diego
+0786	Stockholm, Sweden
+0787	Boston
+0788	Indianapolis, In.
+0789	San Francisco
+0791	Canton, Ma.
+0793	Sunnyvale, Ca.
+0794	Shanghai, China- and La Jolla, Ca.
+0795	Shanghai, China
+0796	Washington, D.C.
+0797	Cape Town, South Africa
+0799	Palo Alto, Ca.
+0800	Bozeman, Mt.
+0801	Singapore
+0802	New York
+0803	San Francisco
+0804	San Francisco
+0805	New York
+0806	Chicago
+0807	Reston, Va.
+0808	New Delhi, India
+0809	Washington, D.C.
+0810	San Diego
+0811	Scottsdale, Az.
+0812	San Francisco
+0813	Amsterdam
+0814	San Francisco
+0815	Seattle, Wa.
+0816	San Francisco
+0817	Bangalore, India
+0819	South San Francisco
+0821	Gurgaon, India
+0823	Chicago
+0824	Kirkland, Wa.
+0825	Boston
+0827	New York
+0828	Columbus, Oh.
+0829	San Francisco
+0830	Tel Aviv
+0831	Palo Alto, Ca.
+0832	Redwood City, Ca.
+0833	Austin, Tex.
+0834	Paris
+0835	Kentucky
+0836	Beijing
+0837	London
+0838	Singapore
+0839	Alameda, Ca.
+0840	Paris
+0841	Singapore
+0842	London
+0844	Irvine, Ca.
+0845	New York
+0846	New York
+0848	Copenhagen, Denmark
+0849	Dublin, Ireland
+0850	Brooklyn, N.Y.
+0851	Durham, N.C.
+0852	San Diego, Ca.
+0853	Chicago
+0854	Sydney, Australia
+0855	New York
+0857	Brooklyn, N.Y.
+0858	Palo Alto
+0859	San Francisco
+0860	San Diego
+0862	Cambridge, Ma.
+0863	Sydney, Australia
+0864	Redwood City, Ca.
+0865	New York
+0866	L.A.
+0867	New York
+0868	Draper, Ut.
+0869	Tel Aviv, Israel
+0870	San Francisco
+0871	Palo Alto, Ca.
+0872	Singapore
+0875	Buffalo, N.Y.
+0876	San Francisco
+0877	London
+0878	Indianapolis, Ia.
+0879	Manchester, England
+0880	Seattle
+0881	Montreal, Canada
+0882	Bangalore, India
+0883	Waterloo, Ontario
+0884	New York
+0885	San Francisco
+0886	Paris
+0887	Singapore
+0889	Turkey
+0890	Beijing, China
+0891	Redwood City, Ca.
+0892	Paris
+0893	Suzhou, China
+0894	San Francisco
+0895	New York
+0897	Hong Kong and Silicon Valley
+0898	San Francisco
+0900	Bay Area
+0901	Berlin
+0902	San Francisco
+0903	San Francisco
+0904	San Francisco
+0905	San Francisco
+0906	Philadelphia, Pa.
+0907	Jerusalem
+0908	Mumbai, India
+0909	New York
+0910	Boston
+0911	Austin, Tex.
+0912	San Francisco
+0913	Mountain View, Ca.
+0914	Oslo, Norway
+0915	Mexico City, Mexico
+0916	San Diego, Ca.
+0917	San Francisco
+0920	Beijing
+0921	New York
+0922	Tel Aviv, Israel
+0923	Palo Alto
+0924	Berlin
+0925	Palo Alto, Ca.
+0926	Sunnyvale, Ca.
+0927	New York
+0928	Hayward, Ca. and Shanghai, China
+0929	Portland, Or.
+0930	London
+0931	Hong Kong
+0932	Reston, Va.
+0934	Lund, Sweden
+0935	Pasadena, Ca.
+0936	Palo Alto, Ca.
+0937	Hod Hasharon, Israel
+0938	London
+0939	Paris
+0940	London
+0941	San Francisco
+0942	San Francisco
+0943	Ontario, Canada
+0944	Chicago, Il.
+0945	Cambridge, U.K.
+0947	London
+0948	San Francisco
+0949	Oxford, U.K., and Dublin, Ireland
+0950	Charlotte, N.C.
+0951	Dublin, Ireland
+0952	Seattle
+0953	Sandy, Ut.
+0954	Berlin, Germany
+0955	San Francisco
+0956	Taramani, India
+0957	Bangalore, India
+0958	Washington, D.C.
+0959	Mumbai, India
+0960	Nashville, Tn.
+0961	Bangkok, Thailand
+0962	Hong Kong
+0963	Berlin
+0964	Brooklyn, N.Y.
+0965	San Francisco
+0966	Spain
+0967	Madrid, Spain
+0968	San Francisco
+0969	Milan, Italy
+0970	Chicago
+0972	Menlo Park, Ca.
+0973	Ontario
+0974	London
+0975	Tokyo
+0976	New York
+0977	New York
+0978	New York
+0979	Brooklyn, N.Y.
+0980	New York
+0981	Austin, Tx.
+0982	Boston
+0983	Houston, Tex.
+0984	Cincinnati, Oh.
+0985	New York
+0986	Hamburg, Germany
+0987	New York
+0988	London
+0989	Denver, Co.
+0990	Chicago
+0991	Toronto
+0992	Cape Town, South Africa
+0993	Palo Alto, Ca.
+0994	Singapore
+0995	El Segundo, Ca.
+0996	London
+0997	Houston, Tex.
+0998	Stockholm, Sweden
+0999	London
+1000	Bratislava, Slovakia
+1003	New York
+1004	Sandy, Ut.
+1005	Seattle
+1006	San Francisco and New York
+1007	San Mateo, Ca.
+1008	San Francisco
+1009	Culver City, Ca.
+1010	Plainfield, Il.
+1011	Iran
+1012	Paris
+1013	Paris
+1014	Chicago, Il.
+1015	Santa Clara, Ca.
+1016	Alpharetta, Ga., and Mumbai, India
+1017	Emeryville, Ca.
+1018	Palo Alto, Ca.
+1021	Thousand Oaks, Ca.
+1022	Grand Rapids, Mi.
+1023	California City, Ca.
+1024	Alexandria, Va.
+1025	London- and St. Petersburg
+1026	Cupertino, Ca.
+1027	Falls Church, Va.
+1028	New York
+1029	Cambridge, Ma.
+1030	Oakland, Ca.
+1034	Cincinnati, Oh.
+1035	London
+1036	Paris
+1038	New York
+1039	L.A.
+1040	New York
+1042	Boston
+1043	L.A.
+1045	Cambridge, Ma.
+1046	New York
+1047	New Delhi, India
+1049	Mountain View, Ca.
+1052	Arcueil, France
+1053	New York
+1054	Sydney, Australia
+1055	Campbell, Ca.
+1056	Atlanta, Ga.
+1057	Chicago, Il.
+1058	Seattle
+1061	New York City
+1062	London
+1063	L.A.
+1064	Dublin, Ireland
+1066	L.A.
+1067	Salt Lake City, Ut.
+1068	South Jordan, Utah
+1069	London
+1070	Paris
+1071	Boston
+1072	Palo Alto, Ca.
+1073	San Francisco
+1077	Lund, Sweden
+1078	Houston, Tex.
+1079	Moscow
+1080	San Mateo, Ca.
+1081	New York, Hong Kong, and Singapore
+1082	Vero Beach, Fla.
+1083	Chicago
+1084	Toronto
+1085	Hod Hasharon, Israel
+1086	Santa Monica, Ca.
+1087	New York City
+1088	China
+1089	Bangalore
+1090	Mexico City
+1091	Ann Harbor, Mi.
+1092	Oulu, Finland
+1093	London
+1094	Washington, D.C.
+1095	Shenzhen, China
+1096	Santa Monica, Ca.
+1097	San Francisco
+1100	Cincinnati, Oh.
+1101	New York
+1102	Sacramento, Ca.
+1104	Boston
+1105	San Francisco
+1106	San Francisco
+1107	San Diego, Ca.
+1108	Fort Lee, N.J.
+1109	Waltham, Ma.
+1110	New York
+1111	San Bruno, Ca.
+1112	Tel Aviv
+1113	San Diego
+1114	Bristol, England
+1115	Seattle
+1116	New York
+1117	Arlington, Va.
+1118	Lenoir, Tn.
+1119	San Francisco
+1120	Palo Alto, Ca.
+1121	India
+1122	Singapore
+1124	Belgium
+1125	Baltimore
+1126	Austin, Tex.
+1127	San Francisco
+1128	San Francisco
+1130	New York
+1131	Seattle
+1132	Waterloo, Ontario
+1133	New Haven, Cn.
+1134	Dallas, Tex.
+1135	San Francisco
+1136	San Francisco
+1137	Redwood City, Ca.
+1138	Boulder
+1140	Tel Aviv
+1141	Berlin
+1142	New York City
+1143	Mountain View, Ca.
+1144	Ottawa, Ontario
+1145	San Francisco
+1146	Israel
+1147	Beijing
+1149	New York
+1150	London
+1151	Paris
+1152	Oslo, Norway
+1153	Berlin
+1154	London
+1155	Santa Monica Ca.
+1156	San Francisco
+1157	Pasadena, Ca.
+1158	Lehi, Ut.
+1159	London
+1160	San Francisco
+1161	Greenwood Village, Co.
+1162	Israel
+1163	San Francisco
+1164	Walnut, Ca.
+1165	San Francisco
+1166	Singapore
+1167	Toronto- and Menlo Park, Ca.
+1168	San Francisco
+1169	Dublin, Ireland
+1170	Charlottesville, Va.
+1171	New York
+1172	Shanghai
+1173	Martinsried, Germany
+1174	Seattle
+1175	Singapore
+1176	Palo Alto, Ca.
+1177	San Francisco
+1179	Zellwood, Fl.
+1180	Mumbai
+1181	New York
+1183	Plymouth, Pa.
+1184	New Delhi, India
+1185	Brooklyn, N.Y.
+1186	Dublin, Ireland
+1187	Beijing
+1189	London
+1190	Tel Aviv, Israel
+1191	Melbourne, Australia
+1192	Singapore
+1193	Tel Aviv- and Bay Area
+1194	Seattle
+1195	San Francisco
+1196	Baltimore, Md.
+1198	Beijing, China
+1199	Bend, Or.
+1200	Vancouver
+1203	Brooklyn, N.Y.
+1207	Gurgaon, India
+1208	Chicago
+1209	New York
+1210	Denver
+1211	New York
+1212	Palo Alto, Ca.
+1213	Boston
+1214	Luxembourg
+1215	San Mateo, Ca.
+1216	Columbia
+1217	San Francisco
+1218	Warsaw, Poland
+1219	Belgium
+1220	Singapore
+1221	Half Moon Bay, Ca.
+1223	Germany
+1224	Dublin, Ireland
+1225	Cleveland, Oh.
+1226	Sunnyvale, Ca.
+1227	Las Vegas
+1228	Lake Forest, Ca.
+1229	San Francisco
+1230	Singapore
+1231	Pune, India
+1232	Atlanta, Ga.
+1233	London
+1234	Indianapolis, Ia.
+1235	Boston
+1236	Oakland, Ca.
+1237	Milan, Italy
+1239	Palo Alto, Ca.
+1242	Zurich
+1243	Miami, Fl.
+1244	Baltimore
+1245	Cincinnati, Oh.
+1246	London
+1247	New York
+1249	Cleveland, Oh.
+1250	Helsinki, Finland
+1251	Milan, Italy
+1252	Missoula, Mt.
+1253	Bangalore, India
+1255	San Francisco
+1256	San Francisco
+1257	New York
+1258	New York City
+1259	Bangalore, India
+1262	San Francisco
+1263	New York
+1264	San Francisco
+1266	Trogen, Switzerland
+1267	Santa Monica, Ca.
+1268	Bangkok, Thailand
+1269	Seattle
+1270	Beijing, China
+1271	Finland
+1272	Seattle
+1273	San Francisco
+1274	Pittsburgh, Pa.
+1275	London
+1276	Tigard, Ore.
+1278	New York
+1279	Boston
+1280	San Francisco
+1281	Maple Grove, Mn.
+1282	Manhattan Beach, Ca.
+1283	Warren, N.J.
+1284	Venice, Ca.
+1285	Labège, France
+1286	San Francisco
+1287	Berkeley, Ca.
+1288	San Francisco
+1290	New York
+1291	London
+1292	New York
+1293	Seattle, Wa.
+1294	San Diego, Ca.
+1295	San Francisco
+1296	Singapore
+1297	Irvine, Ca.
+1300	Paris
+1301	Boston
+1302	New Delhi, India
+1303	Palo Alto, Ca.
+1304	Menlo Park, Ca.
+1305	Beijing, China
+1306	San Francisco
+1307	Tokyo, Japan
+1308	Tel Aviv, Israel
+1309	Salt Lake City, Ut.
+1310	Herzliya, Israel
+1311	San Francisco
+1312	Bangalore, India
+1313	Seattle
+1314	San Francisco
+1316	San Francisco
+1317	Wellington, New Zealand
+1318	Paris, France
+1319	Berlin, Germany
+1320	Malvern, Pa.
+1321	San Francisco
+1322	Chicago
+1323	Gurgaon, India
+1324	Cambridge, U.K.
+1325	Carlsbad, Ca.
+1326	Herzelia, Israel
+1327	Freemont, Ca.
+1328	Portland, Or.
+1329	Palo Alto, Ca.
+1330	 Auckland, N.Z.
+1331	San Francisco
+1332	Nova Scotia, Canada
+1333	New York
+1337	U.K.
+1339	Berlin, Germany
+1341	Paris, France
+1344	Shanghai, China
+1345	Stockholm, Sweden
+1346	China
+1347	Grand Rapids, Mi.
+1348	Turku, Finland
+1352	Chicago
+1353	Berlin
+1354	Berlin
+1355	 New York
+1356	San Francisco
+1357	San Francisco
+1358	Tokyo
+1359	Boston
+1360	Seattle
+1361	Beijing
+1363	San Francisco
+1364	San Jose, Ca.
+1365	Geneva, Switzerland
+1366	San Francisco
+1367	San Diego, Ca.
+1368	North Reading, Ma.
+1371	San Francisco
+1372	Berlin
+1374	San Francisco
+1375	San Francisco
+1376	Burlington, Ma.
+1377	Watertown, Ma.
+1378	Palo Alto, Ca.
+1379	Cambridge, Ma.
+1381	San Diego, Ca.
+1382	Palo Alto, Ca.
+1383	Gurgaon, India
+1384	Paris, France
+1385	Paris, France
+1386	Austin, Tex.
+1387	Amsterdam
+1388	Boulder, Co.
+1389	Boulder, Co.
+1390	Menlo Park, Ca.
+1391	Sunnyvale, Ca.
+1392	New York
+1393	Munich, Germany
+1394	San Mateo, Ca.- and Bengaluru, India
+1395	Minnetonka, Mn.
+1396	Melbourne, Australia
+1399	Irvington, N.Y.
+1400	Los Altos, Ca.
+1401	Toronto
+1402	Research Triangle Park, N.C.
+1403	New York
+1404	New York
+1405	San Mateo, Ca.
+1406	Sunnyvale, Ca.
+1411	San Francisco
+1412	San Francisco
+1413	Montreal
+1414	Brussels
+1415	London
+1416	Paris
+1417	Berlin
+1418	Palo Alto, Ca.
+1419	Palo Alto, Ca.
+1420	San Francisco
+1421	Palo Alto, Ca.
+1422	New York
+1423	Seattle
+1424	Aliso Viejo, Ca.
+1425	San Francisco
+1427	Boston
+1428	Woburn, Ma.
+1429	Sao Paulo, Brazil
+1430	Seoul
+1431	San Francisco
+1432	Houston, Tex.
+1433	Boston
+1434	San Francisco
+1435	Bozeman, Mt.
+1436	San Bruno, Ca.
+1437	Montreal
+1438	San Francisco and Tel Aviv
+1440	Ft. Lauderdale, Fla.
+1441	Palo Alto, Ca.
+1442	Raleigh, N.C.
+1443	Redwood City, Ca.
+1444	Menlo Park, Ca.
+1445	Seoul
+1450	Miami, Fla.
+1451	San Francisco
+1452	Menlo Park, Ca.
+1453	Palo Alto, Ca.
+1454	Scottsdale, Az.
+1455	San Francisco
+1456	Gurgaon, India
+1457	San Francisco
+1458	Chicago
+1459	New York
+1460	Emeryville, Ca.
+1461	Natick, Ma.
+1462	San Francisco
+1463	Salt Lake City, Ut.
+1464	Gurgaon, India
+1465	New York
+1466	London
+1467	New York
+1468	Sacramento, Ca.
+1469	Culver City, Ca.
+1470	Bolinbrook, Il.
+1471	Dallas, Tex.
+1475	Paris
+1476	Leopoldshafen, Germany
+1477	Redwood City, Ca.
+1478	Redwood City, Ca.
+1480	Foster City, Ca.
+1481	Paris
+1482	San Francisco
+1483	Boston
+1484	New York
+1485	New York City
+1486	Richmond, Va.
+1488	Menlo Park, Ca.
+1489	Oakland, Ca.
+1490	Palo Alto, Ca.
+1491	San Francisco
+1492	Stockholm
+1493	New York
+1494	San Francisco
+1495	Wroclaw, Poland
+1496	Boston
+1497	Montreal
+1498	New York
+1499	Hamburg, Germany
+1500	Wilmington, De.
+1501	New York
+1502	New York
+1503	Paris
+1504	Menlo Park, Ca.
+1505	New York
+1506	Atlanta, Ga
+1507	San Francisco
+1508	bitcoin
+1509	Folsom, Ca.
+1510	Mumbai, india
+1511	Atlanta, Ga.
+1513	San Francisco
+1515	Dubai
+1516	Tel Aviv, Israel
+1517	Rehovot, Israel
+1518	Bangalore
+1519	El Dorado Hills, Ca.
+1520	Arlington, Va.
+1521	Boston and New York
+1523	Play Vista, Ca.
+1524	New York
+1525	San Diego
+1526	Malayia
+1527	San Francisco
+1528	Sunnyvale, Ca.
+1529	Oxfordshire, England
+1530	Bay Area
+1531	Hunan, China
+1532	Bangalore, India
+1533	Paris
+1534	Cambridge, Ma.
+1535	Lund, Sweden
+1536	Berlin
+1537	Buenos Aires
+1538	Hangzhou, China
+1540	Munich, Germany
+1541	Redwood City, Ca.
+1542	Santa Rosa, Ca.
+1544	Owings Mills, Md.
+1545	Shanghai, China
+1547	Washington, D.C.
+1548	New York
+1549	Guiyang, China
+1550	Cambridge, Ma.
+1551	Tel Aviv, Israel
+1552	Bangalore, India
+1553	Seattle
+1554	Hangzhou, China
+1555	London
+1556	Mountain View, Ca.
+1557	San Francisco
+1558	San Francisco
+1559	Cairo, Egypt
+1560	L.A.
+1563	San Rafael, Ca.
+1564	Tel Aviv, Israel
+1565	Boston
+1566	Seattle
+1567	Gothenburg, Sweden
+1568	Redwood City, Ca.
+1570	Burlingame, Ca.
+1571	New York
+1575	Gurgaon, India
+1576	Chapel Hill, N.C.
+1577	Cambridge, U.K.
+1578	Shanghai, China
+1579	San Francisco
+1582	Lexington, Ma.
+1583	Redwood City, Ca.
+1584	New York
+1588	Reston, Va.
+1589	New York
+1590	Pittsburgh Pa.
+1591	China
+1592	Indianapolis, In.
+1593	Markham, Canada
+1594	Frederick, Md.
+1595	Ottawa, Canada
+1596	San Diego, Ca.
+1597	New York
+1598	Cambridge, Ma.
+1599	Mumbai, India
+1600	Redwood City, Ca.
+1601	Boston
+1603	Cambridge, Ma.
+1604	Charlotte, N.C.
+1605	San Francisco
+1606	Campbell, Ca.
+1607	Chicago, Il.
+1608	San Francisco
+1609	Chicago
+1610	New York
+1611	London
+1613	Indianapolis, In..
+1614	Charlottesville, Va.
+1615	San Francisco
+1616	New York
+1617	La Jolla, Ca.
+1618	Bozeman, Mo.
+1619	Amsterdam
+1621	Bozeman, Mo.
+1622	Israel
+1625	Bethesda, Md.
+1626	Chicago
+1627	Denver
+1628	Denver
+1630	Needham, Ma.
+1631	Wilmington, N.C.
+1633	Sunnyvale, Ca.
+1634	Seattle
+1635	Calabasas, Ca.
+1636	Charlotte, N.C.
+1637	Palo Alto, Ca.
+1638	New York
+1639	Zurich, Switzerland
+1640	L.A.
+1641	San Francisco
+1643	London
+1644	Beijing, China
+1645	Boston, Ma.
+1646	Ann Arbor, Mi.
+1647	Singapore
+1648	Stockholm, Swedish
+1649	Oakland, Ca.
+1650	London
+1651	Indianapolis, In.
+1652	New York
+1653	San Diego, Ca.
+1654	San Francisco
+1655	Berlin, Germany
+1656	Ottawa, Canada
+1657	London
+1658	Miami, Fl.
+1660	Paris
+1662	Santa Clara, Ca.
+1663	New York
+1664	San Francisco
+1668	Santa Clara, Ca.
+1669	San Francisco
+1670	New York
+1671	Rome, Italy
+1672	Zhenjiang, China
+1673	London
+1674	Palo Alto, Ca.
+1680	Golden, Co.
+1681	Herzliya, Israel
+1682	Leeds, U.K.
+1683	New York
+1684	Washington, D.C.
+1685	Berlin
+1687	New York
+1688	Bangalore, Indian
+1689	Denver, Co.
+1690	L.A.
+1691	New York
+1692	Washington, D.C.
+1693	San Jose, Ca.
+1694	Paris
+1695	San Francisco
+1696	Montreal
+1697	New York
+1698	Sydney, Australia
+1699	Provo, Ut.
+1700	Vancouver, British Columbia
+1701	San Francisco
+1702	Boston
+1703	New York
+1704	New York
+1705	Denver
+1706	Berlin
+1707	San Francisco
+1712	Westborough, Ma.
+1716	Sweden
+1717	Paris, France
+1718	Lond
+1719	San Francisco
+1720	Sunnyvale, Ca
+1722	San Francisco
+1723	Reno, Nv.
+1725	Bellevue, Wa.
+1726	Beijing
+1727	Istanbul, Turkey
+1728	New York
+1729	Shanghai
+1730	Dublin, Ireland
+1731	Boston
+1732	Redwood City, Ca.
+1733	Somerville, Ma.
+1734	China
+1735	St. Louis, Mo.
+1736	Limberg, The Netherlands
+1737	Des Moines, Ia.
+1738	Sheffield, U.K.
+1742	New York City
+1743	Dublin, Ireland
+1744	Bath, England
+1745	Bangalore, India
+1746	Toulouse, France
+1748	London
+1749	Israel
+1750	New York
+1751	Leeds, England
+1753	San Francisco, Ca.
+1754	Vienna, Austria
+1755	Copenhagen, Denmark
+1756	London
+1757	San Francisco
+1759	Columbia, Ms.
+1760	Cambridge, Ma.
+1761	Atlanta, Ga.
+1762	Madison, Wi.
+1763	Israel
+1764	Brooklyn, N.Y.
+1765	Palo Alto, Ca.
+1767	New York
+1768	London
+1770	Seattle, Wa.
+1771	Santa Monica, Ca.
+1772	Palo Alto, Ca.
+1773	Paris
+1774	Chicago
+1776	Berlin, Germany
+1777	San Francisco
+1781	London
+1782	Los Altos, Ca.
+1783	New York
+1785	San Francisco
+1786	L.A.
+1787	Stockholm, Sweden
+1788	New York
+1789	New York
+1790	Amsterdam
+1791	Tel Aviv, Israel
+1792	San Francisco
+1793	Paris, France
+1794	London
+1795	Santa Monica, Ca.
+1796	Ramat Gan, Israel
+1797	New York
+1798	Detroit
+1799	Fremont, Ca.
+1800	San Francisco
+1801	Santa Clara, Ca.
+1802	Boulder, Co.
+1803	Austin, Tex.
+1805	El Segundo, Ca.
+1806	New York and Seoul
+1807	Boston
+1809	Boston
+1810	Hod-Hasharon, Israel
+1811	South San Francisco
+1813	St. Cloud, Mn.
+1814	New York
+1815	London
+1817	Toronto, Canada
+1818	Gaithersburg, Md.
+1819	Seattle
+1820	San Francisco
+1822	Lisle, Il.
+1823	Framingham, Ma.
+1824	Brooklyn, New York
+1825	Raleigh, N.C.
+1826	Charlotte, N.C.
+1827	Boston
+1828	Mississauga, Canada
+1829	Barcelona, Spain
+1830	Chicago
+1831	Seattle
+1832	Watertown, Ma.
+1833	San Francisco
+1834	San Diego, Ca.
+1835	Paris, France
+1839	Manassas, Va.
+1840	London
+1841	Kirkland, Wa.
+1842	New York
+1843	Brooklyn, N.Y.
+1844	Washington, D.C.
+1845	Miami, Fl.
+1846	Beaverton, Or.
+1848	Redwood City, Ca.
+1849	Burlington, Ma.
+1850	Mountain View, Ca.
+1851	Austin, Tex.
+1852	San Leandro, Ca.
+1854	Chicago
+1855	London
+1856	San Francisco
+1857	Redwood City, Ca.
+1858	San Mateo, Ca.
+1859	Santa Clara, Ca.
+1860	Culver City, Ca.
+1861	Boston
+1862	Beijing
+1863	San Francisco
+1864	San Francisco
+1865	Singapore
+1867	Toronto
+1868	London
+1869	Provo, Ut.
+1874	New York
+1875	L.A.
+1876	L.A.
+1879	Los Altos, Ca.
+1880	New York City
+1881	Cupertino, Ca.
+1882	Tel Aviv, Israel
+1884	New York
+1885	Oslo, Norway
+1887	Boulder, Co.
+1888	Durham, N.C.
+1889	Redwood City, Ca.
+1890	Needham, Ma.
+1891	Menlo Park, Ca.
+1892	Santa Clara, Ca.
+1893	San Francisco
+1894	Hallandale, Fla.
+1896	Westminster, Co.
+1897	Austin, Tex.
+1898	Palo Alto, Ca.
+1901	Pune, India
+1902	U.K.
+1903	New York
+1904	St. George, Ut.
+1905	Lisbon
+1906	Houston, Tx.
+1907	Shanghai, China
+1908	San Diego, Ca.
+1910	Singapore
+1911	Palo Alto, Ca.
+1913	Lincoln, Neb.
+1914	Stamford, Ct.
+1915	Kuala Lumpur
+1916	San Francisco
+1919	Brooklyn
+1920	New York
+1921	Shanghai, China
+1922	Montreal
+1923	San Carlos, Ca.
+1924	London
+1925	San Francisco
+1926	New York
+1927	McLean, Va.
+1928	San Francisco
+1929	London
+1930	Melbourne, Australia
+1931	London
+1932	New York
+1933	Brooklyn, N.Y.
+1934	San Francisco
+1936	San Francisco
+1937	San Francisco
+1939	Palo Alto, Ca.
+1940	San Francisco, Ca.
+1941	San Jose, Ca.
+1943	London
+1944	San Francisco
+1945	Minneapolis, Mn.
+1946	San Francisco
+1948	Columbus, Oh.
+1949	Miami and New York
+1951	Palo Alto, Ca.
+1952	Austin, Tex.
+1954	Herzliya, Israel
+1955	Carlsbad, Ca.
+1956	San Francisco
+1957	San Francisco
+1958	Oklahoma City, Ok.
+1959	Boston
+1960	Luxembourg
+1961	New York
+1962	Madrid, Spain
+1963	Seoul
+1964	Lafayette, La.
+1965	London
+1968	Detroit, Mi.
+1969	Bengaluru, India
+1970	Lehi, Utah
+1971	Minneapolis, Mn.
+1972	Paris
+1974	Bengaluru, India
+1975	Paris, France
+1976	San Mateo, Ca.
+1977	Chattanooga, Tn.
+1978	Santa Clara, Ca.
+1979	Bengaluru, India
+1980	Denver
+1981	Chicago
+1982	Toronto
+1983	New York
+1984	New York
+1985	Oakland, Ca.
+1986	San Jose, Ca.
+1987	Pasadena, Ca.
+1988	New York
+1989	L.A.
+1991	San Francisco
+1992	Ghent, Belgium
+1993	London
+1994	San Mateo, Ca.
+1995	Boston
+1996	Boston, Ma.
+1997	New York City
+1998	Bavaria- and New York
+1999	Munich, Germany
+2000	Hoboken, N.J.
+2001	London
+2002	San Jose, Ca.
+2003	Jacksonville, Fla.
+2004	Burlington, Ma.
+2005	Glendale, Ca.
+2006	Bay Area
+2007	Boston, Ma
+2010	San Francisco
+2011	New York
+2012	Wolcott, Co.
+2013	Oakland Ca.
+2014	Cambridge, Mass.
+2015	Singapore
+2016	Berlin
+2017	Cambridge, Ma.
+2018	San Mateo, Ca.
+2019	Mountain View, Ca.
+2020	Shenzhen, China
+2021	New Delhi, India
+2022	Lausanne, Switzerland
+2023	Washington, D.C.
+2024	Australia
+2025	Atlanta
+2026	London
+2027	San Jose, Ca.
+2028	New York
+2030	Hayward, Ca.
+2031	Grenoble, France
+2033	Berlin
+2034	Vancouver and San Jose, Ca.
+2036	New York
+2037	Nantes, France
+2038	Menlo Park, Ca.
+2040	Ottawa, Canada
+2041	Johns Creek, Ga.
+2042	Shanghai
+2043	Madrid, Spain
+2044	Nanjing, China
+2045	London
+2046	London
+2047	San Francisco and Tel Aviv
+2049	Singapore
+2050	Melbourne, Australia
+2051	Zurich, Switzerland
+2052	Paris
+2053	Boston
+2054	Bangalore, India
+2055	Beijing, China
+2056	Chicago
+2057	San Francisco
+2058	San Francisco
+2059	New York
+2060	L.A.
+2061	San Jose, Ca.
+2062	New York
+2063	Centennial, Co.
+2064	San Ramon, Ca.
+2065	Palo Alto, Ca.
+2066	Mountain View, Ca.
+2067	London
+2068	San Francisco
+2069	Nyack, New York
+2070	Austin, Tex.
+2071	Iowa City, Ia.
+2072	Culver City, Ca.
+2073	Singapore
+2074	New York
+2075	San Jose, Ca.
+2076	Gurgaon, India
+2077	Beijing
+2078	London
+2079	Milan, Italy
+2080	Tapei, Taiwan
+2081	Hayward, Ca.
+2082	Berlin
+2083	Beijing
+2084	San Francisco
+2086	Salt Lake City, Ut.
+2087	Gurgaon, India
+2088	Singapore
+2089	San Jose, Ca.
+2090	Tokyo
+2091	New York
+2092	Pune, India
+2093	London
+2094	San Franciso
+2095	Princeton, N.J.
+2097	San Francisco
+2098	London- and Copenhagen
+2099	Boston
+2100	Jakarta, Indonesia
+2101	San Francisco, Ca.
+2102	L.A.
+2103	South San Francisco, Ca.
+2104	Brooklyn
+2105	Dublin, Ireland
+2106	Warsaw, Poland
+2107	London
+2108	San Francisco
+2109	San Diego
+2111	a three-year-old, Austin, Tex.
+2112	Beijing, China
+2113	Seattle
+2115	London
+2117	Palo Alto, Ca.
+2118	Saratoga, Ca.
+2119	Palo Alto, Ca.
+2120	London
+2121	Jerusalem, Israel
+2122	Brooklyn, N.Y.
+2123	Montreal, Canada
+2124	San Francisco
+2125	San Francisco
+2126	Redwood City, Ca.
+2127	Berkeley, Ca.
+2128	Somerville, Ma.
+2129	London
+2130	New York
+2131	Santa Monica, Ca.
+2132	Emeryville, Ca.
+2133	Rockville, Md.
+2134	Reno, Nv.
+2135	Shanghai, China
+2136	Bellevue, Wa.
+2137	Santa Clara, Ca.
+2138	Paris, France
+2139	Santa Cruz, Ca.
+2140	Paris
+2141	Kansas City Mo.
+2142	Milwaukee, Wi.
+2145	San Francisco, Ca.
+2146	Irvine, Ca.
+2148	San Diego, Ca.
+2149	Stockholm, Sweden
+2150	Oxford, England
+2151	San Francisco
+2152	Berlin, Germany
+2153	Beijing
+2156	London
+2157	Zhengzhou, China
+2158	New York
+2159	San Francisco
+2160	Boulder, Co.
+2161	Palo Alto, Ca.
+2162	San Francisco
+2163	San Francisco
+2165	San Francisco
+2166	Tel Aviv and New York
+2167	Santa Clara, Ca.
+2168	San Francisco
+2169	Chicago
+2170	Palo Alto, Ca.
+2171	Berlin
+2173	San Francisco
+2176	Singapore
+2177	Richardson, Tex.
+2178	Bay Area
+2179	Farmington, Ct.
+2181	Dublin, Ireland
+2182	Berlin
+2183	Toronto
+2184	Seattle
+2185	Pleasanton, Ca.
+2186	San Mateo, Ca.
+2187	Toronto
+2188	Beijing
+2190	London
+2191	San Francisco
+2192	Mountain View, Ca.
+2193	Hoboken, N.J.
+2194	Beijing
+2195	Hangzhou, China
+2196	Danville, Ca.
+2197	L.A.
+2198	Bratislava, Slovakia
+2199	Utrecht, The Netherlands
+2200	Montreal
+2201	Munich
+2202	Redmond, Wa.
+2203	Beijing
+2204	New York
+2205	Herzliya, Israel
+2206	Cleveland, Oh.
+2207	Chicago
+2209	Beijing
+2210	New York
+2211	London
+2212	Palo Alto, Ca.
+2213	South Korea and Indonesia
+2214	Bangalore, India
+2215	Southampton, U.K.
+2216	Fort Lauderdale, Fl.
+2217	New York
+2218	Bellevue, Wa.
+2219	L.A.
+2221	Manchester, U.K.
+2222	Danville, Ca.
+2225	Gatineau, Quebec
+2226	Pittsburgh, Pa.
+2227	London
+2228	Paris
+2229	Halifax, Nova Scotia
+2230	Singapore
+2231	Chicago
+2232	Newark, Ca.
+2233	Singapore
+2234	New York
+2235	New York
+2236	Redwood City, Ca.
+2237	Pasadena, Ca.
+2239	Boston
+2240	Redwood City, Ca.
+2241	New York
+2243	San Francisco
+2244	Singapore and Philippines
+2245	San Francisco, Ca.
+2246	Bangalore, India
+2247	New York
+2248	New Delhi, India
+2249	Hangzhou, China
+2250	Malmo, Sweden
+2251	Mountain View, Ca.
+2252	Palo Alto, Ca.
+2253	Sydney, Australia
+2254	San Francisco
+2255	Singapore
+2256	Poland
+2257	New York
+2258	Stockholm, Sweden
+2259	Boston, Ma.
+2260	Brooklyn, N.Y.
+2261	Lincoln, Ne.
+2262	Menlo Park, Ca.
+2263	San Francisco, Ca.
+2264	Denver
+2265	Watertown, Ma.
+2266	London
+2267	San Francisco
+2268	Minneapolis, Mn.
+2269	Milpitas, Ca.
+2270	Vancouver
+2271	New York
+2273	San Francisco
+2274	Lausanne, Switzerland
+2275	Palo Alto, Ca.
+2277	Beijing, China
+2280	Tel Aviv, Israel
+2281	Denver, Co.
+2282	Woburn, Ma.
+2283	Austin, Tex.
+2284	Beijing, China
+2286	San Francisco, Ca.
+2288	Belmont, Ca.
+2289	New York
+2290	New Delhi, India
+2292	New Delhi, India
+2293	Santa Cruz, Ca.
+2294	San Francisco
+2295	St. Louis
+2296	Redwood Shores, Ca.
+2297	Brooklyn
+2298	Seattle
+2299	Wellington, New Zealand
+2303	Stockholm, Sweden
+2304	Stockholm, Sweden
+2305	Denver, Co.
+2306	Miami, Fla.
+2307	Mountain View, Ca.
+2308	Parsippany, N.J.
+2309	San Bruno, Ca.
+2312	San Francisco
+2313	New York
+2314	Cambridge, Ma.
+2315	San Francisco
+2316	Israel
+2317	New York
+2318	Stafford, Tex.
+2319	Chicago
+2320	Chicago
+2321	Noida, India
+2323	San Francisco
+2324	Fort Collins, Co.
+2325	China
+2326	Boston
+2329	Austin, Tex.
+2330	Berlin
+2332	Paris
+2333	Beijing, China
+2334	Singapore
+2335	New York
+2337	London
+2338	Shanghai, China
+2339	London
+2340	Denver, Co.
+2341	Mountain View, Ca.
+2342	Seattle
+2343	Shanghai, China
+2344	Westlake Village, Ca.
+2345	Beijing, China
+2346	San Diego
+2347	U.K.
+2348	L.A.
+2349	Cincinnati, Oh.
+2350	Pune, India
+2351	San Diego
+2352	U.K.
+2353	New York
+2354	Dixon, Ca.
+2355	London
+2356	Richmond, Va.
+2357	New Delhi, India
+2358	Arvada, Co.
+2359	New York
+2360	Palo Alto, Ca.
+2361	L.A.
+2365	Israel
+2366	Washington, D.C.
+2367	Oslo, Norway
+2368	Redwood City, Ca.
+2369	New York
+2370	San Francisco
+2371	Gurgaon, India
+2372	New York
+2373	Palo Alto, Ca.
+2374	Seoul
+2375	San Francisco
+2376	New York
+2377	San Francisco
+2378	Seattle
+2379	Philadelphia, Pa.
+2380	Hong Kong
+2381	Brooklyn, N.Y.
+2382	Munich, Germany
+2383	London
+2384	New York
+2385	New York
+2388	Berkeley, Ca.
+2389	Waltham, Ma.
+2390	Hasselt, Belgium
+2391	Pleasanton, Ca.
+2392	American Fork, Ut.
+2393	San Diego, Ca.
+2394	Bangalore
+2396	Hong Kong
+2397	Campbell, Ca.
+2398	San Francisco
+2399	Singapore
+2400	Marquette-Lez-Lille, France
+2401	Melbourne, Australia
+2402	Menlo Park, Ca.
+2403	Lagos, Nigeria
+2404	San Francisco
+2405	New York City
+2406	Hyderabad, India
+2408	Palo Alto, Ca.
+2409	Liaoning, China
+2410	Irvine, Ca.
+2411	Austin, Tex.- and Sunnyvale, Ca.
+2412	John Creeks, Ga.
+2414	Austin, Tex.
+2415	New York
+2416	Folson, Ca.
+2417	Mountain View, Ca.
+2418	Oakland, Ca.
+2419	Chicago
+2421	Hayward, Ca.
+2422	New York
+2423	San Francisco
+2424	Berkeley, Ca.
+2425	Cambridge, Ma.
+2426	U.K.
+2427	Israel
+2428	Dallas, Tex.
+2429	Palo Alto, Ca.
+2430	Chicago
+2431	Waltham, Ma.
+2432	Shanghai, China and Cambridge, Ma.
+2433	London
+2436	San Francisco
+2437	Santa Monica, Ca.
+2439	Jakarta, Indonesia
+2440	San Francisco
+2441	London
+2442	Tel Aviv, Israel
+2443	Bristol, England
+2444	Paris, France
+2445	San Francisco and Tel Aviv
+2446	Barcelona, Spain
+2447	San Jose, Ca.
+2448	San Francisco
+2449	Mountain View, Ca.
+2450	Provo, Utah
+2451	Singapore
+2452	London
+2453	New York
+2454	Menlo Park, Ca.
+2456	San Francisco
+2457	Menlo Park, Ca.
+2458	Madrid, Spain
+2459	L.A.
+2460	L.A.
+2461	San Francisco
+2462	Jacksonville, Fla.
+2463	Helsinki, Finland
+2464	San Francisco
+2465	Utah
+2466	Menlo Park, Ca.
+2467	Venice Beach, Ca.
+2468	U.K.
+2469	San Francisco
+2470	Dublin, Oh.
+2472	Utah
+2473	Oakland, Ca.
+2474	New York
+2475	Austin, Tex.
+2476	Austin, Tex.
+2477	Beijing
+2478	Redwood City, Ca.
+2479	Shanghai
+2480	Hamburg, Germany
+2481	New York
+2482	Albany, Ga.
+2483	San Francisco
+2484	New York
+2485	San Francisco
+2486	Santa Monica, Ca.
+2487	Dallas
+2488	San Francisco
+2489	Alexandria, Va.
+2490	Palo Alto, Ca.
+2492	San Francisco
+2496	San Francisco
+2497	Madrid
+2498	San Francisco
+2500	San Francisco
+2501	San Francisco
+2503	London
+2504	Redwood City, Ca.
+2505	London
+2506	London
+2507	San Francisco
+2508	New York
+2509	San Diego, Ca.
+2510	Toronto
+2511	Montreal, Quebec
+2512	Minnetonka, Mn.
+2513	San Diego, Ca.
+2514	Los Gatos, Ca.
+2515	Ann Arbor, Mi.
+2517	Millbrae, Ca.
+2518	Toronto, Ontario
+2519	Hong Kong
+2520	Redwood City, Ca.
+2521	San Francisco
+2522	San Francisco
+2523	Palo Alto, Ca.
+2524	Paris
+2525	San Mateo, Ca.
+2526	Chicago
+2531	London
+2533	Irvine, Ca.
+2534	San Diego
+2535	Dubai
+2536	Paris, France
+2537	Berlin, Germany
+2538	San Francisco
+2540	Beverly Hills, Ca.
+2541	Singapore
+2542	Amsterdam
+2544	San Francisco
+2545	New York
+2546	Brooklyn, NY
+2548	New York
+2549	San Mateo, Ca.
+2550	New York
+2551	Seattle, Wa.
+2552	Nairobi, Kenya
+2553	San Francisco
+2554	Dublin, Ireland
+2555	West Palm Beach, Fla.
+2557	St. Paul, Mn.
+2558	Noida, India
+2559	Chicago
+2560	San Francisco
+2564	New York
+2565	Beijing
+2566	Barcelona
+2567	Bellevue, Wa.
+2568	Berlin
+2569	Redwood City, Ca.
+2570	New York
+2571	San Francisco
+2572	London
+2573	Boston
+2574	New York
+2575	London
+2576	Ontario, Canada
+2580	New York

@@ -1,0 +1,2580 @@
+0001	2016-Jan-06	 ng 	Aver	5.5-year-old
+0002	2016-Jan-06	 ng 	Entac Medical	4.5-year-old
+0003	2016-Jan-06	 ng 	Flatiron Health	three-year-old
+0004	2016-Jan-06	 ng 	Kolibree	two-year-old
+0005	2016-Jan-06	 ng 	Mycity4kids	five-year-old
+0006	2016-Jan-06	 ng 	NextCure	new
+0007	2016-Jan-06	 ng 	Petra Pharma	new
+0008	2016-Jan-06	 ng 	Toast	four-year-old
+0009	2016-Jan-06	 ng 	Tracxn	2.5-year-old
+0010	2016-Jan-06	 ng 	UIEvolution	15-year-old
+0011	2016-Jan-06	 ng 	Xfers	nearly two-year-old
+0012	2016-Jan-08	 ng 	Agilence	nine-year-old
+0013	2016-Jan-08	 ng 	Alector	two-year-old
+0014	2016-Jan-08	 ng 	ASLAN Pharmaceuticals	five-year-old
+0015	2016-Jan-08	 ng 	Cortexyme	three-year-old
+0016	2016-Jan-08	 ng 	Cloud Elements	3.5-year-old
+0017	2016-Jan-08	 ng 	Deposit Solutions	four-year-old
+0018	2016-Jan-08	 ng 	Dibs Technology	year-old
+0019	2016-Jan-08	 ng 	MakeMyTrip	15-year-old
+0020	2016-Jan-08	 ng 	KidPass	year-old
+0021	2016-Jan-08	 ng 	MyMusicTaste	four-year-old
+0022	2016-Jan-08	 ng 	PierianDx	year-old
+0023	2016-Jan-08	 ng 	Platzi	two-year-old
+0024	2016-Jan-08	 ng 	Scalr	seven-year-old
+0025	2016-Jan-08	 ng 	StartEngine	four-year-old
+0026	2016-Jan-08	 ng 	Xeris Pharmaceuticals	10-year-old
+0027	2016-Jan-08	 ng 	Zai Lab	1.5-year-old
+0028	2016-Jan-08	 ng 	Zymeworks	unk
+0029	2016-Jan-08	 nf 	Hamilton Lane	unk
+0030	2016-Jan-08	 nf 	K2 Global	seven-month-old
+0031	2016-Jan-13	 ng 	CarTrade	six-year-old
+0032	2016-Jan-13	 ng 	Envelop VR	1.5-year-old
+0033	2016-Jan-13	 ng 	Moltin	2.5-year-old
+0034	2016-Jan-13	 ng 	Moneybox	seven-month-old
+0035	2016-Jan-13	 ng 	mParticle	two-year-old
+0036	2016-Jan-13	 ng 	Shape Security	four-year-old
+0037	2016-Jan-13	 ng 	SmashFly	unk
+0038	2016-Jan-13	 ng 	Zerto	6.5-year-old
+0039	2016-Jan-13	 nf 	Leaders Fund	new
+0040	2016-Jan-13	 nf 	Netflix	unk
+0041	2016-Jan-13	 nf 	TrueBridge Capital Partners	unk
+0042	2016-Jan-22	 ng 	BaubleBar	four-year-old
+0043	2016-Jan-22	 ng 	Canvs	five-year-old
+0044	2016-Jan-22	 ng 	FiveStars	five-year-old
+0045	2016-Jan-22	 ng 	Ice.com	1.5-year-old
+0046	2016-Jan-22	 ng 	Iterable	2.5-year-old
+0047	2016-Jan-22	 ng 	Jugnoo	1.5-year-old
+0048	2016-Jan-22	 ng 	LendUp	three-year-old
+0049	2016-Jan-22	 ng 	LoanHero	1.5-year-old
+0050	2016-Jan-22	 ng 	Mucosis	nine-year-old
+0051	2016-Jan-22	 ng 	Nubo	4.5-year-old
+0052	2016-Jan-22	 ng 	OpenDoor	unk
+0053	2016-Jan-22	 ng 	Roger	year-old
+0054	2016-Jan-22	 ng 	Waldo Photos	new
+0055	2016-Jan-22	 nf 	Abingworth	unk
+0056	2016-Jan-22	 nf 	SGVC II	unk
+0057	2016-Jan-25	 ng 	Aircall	1.5-year-old
+0058	2016-Jan-25	 ng 	DataXu	6.5-year-old
+0059	2016-Jan-25	 ng 	HomePolish	three-year-old
+0060	2016-Jan-25	 ng 	iROKO	four-year-old
+0061	2016-Jan-25	 ng 	mPrest	13-year-old
+0062	2016-Jan-25	 ng 	Omni-ID	nearly nine-year-old
+0063	2016-Jan-25	 ng 	Oscar	unk
+0064	2016-Jan-25	 ng 	Prevalent Networks	unk
+0065	2016-Jan-25	 ng 	RetraceHealth	two-year-old
+0066	2016-Jan-25	 ng 	Wingz	two-year-old
+0067	2016-Jan-25	 ng 	WOO Sports	2.5-year-old
+0068	2016-Jan-25	 ng 	Assemble.VC	new
+0069	2016-Jan-25	 ng 	CAVU Ventures	year-old
+0070	2016-Jan-25	 ng 	Origin Ventures	16-year-old
+0071	2016-Jan-26	 ng 	5miles	1.5-year-old
+0072	2016-Jan-26	 ng 	Authorea	2.5-year-old
+0073	2016-Jan-26	 ng 	Cedexis	six-year-old
+0074	2016-Jan-26	 ng 	Codiak Biosciences	year-old
+0075	2016-Jan-26	 ng 	CosmosID	nine-year-old
+0076	2016-Jan-26	 ng 	Eyeota	three-year-old
+0077	2016-Jan-26	 ng 	FaceIt	three-year-old
+0078	2016-Jan-26	 ng 	Fireglass	1.5-year-old
+0079	2016-Jan-26	 ng 	Grovo	5.5-year-old
+0080	2016-Jan-26	 ng 	HopSkipDrive	year-old
+0081	2016-Jan-26	 ng 	Jan Medical	13-year-old
+0082	2016-Jan-26	 ng 	Jitterbit	10-year-old
+0083	2016-Jan-26	 ng 	ParkWhiz	nine-year-old
+0084	2016-Jan-26	 ng 	Powerhive	four-year-old
+0085	2016-Jan-26	 ng 	Seebo	3.5-year-old
+0086	2016-Jan-26	 ng 	SnapMD	2.5-year-old
+0087	2016-Jan-26	 ng 	Vidyard	4.5-year-old
+0088	2016-Jan-26	 nf 	Qiming Venture Partners	10-year-old
+0089	2016-Jan-27	 ng 	Adicet Bio	1.5-year-old
+0090	2016-Jan-27	 ng 	Branch Metrics	nearly two-year-old
+0091	2016-Jan-27	 ng 	Cadre	nearly two-year-old
+0092	2016-Jan-27	 ng 	Civic	new
+0093	2016-Jan-27	 ng 	HighQ	15-year-old
+0094	2016-Jan-27	 ng 	Lever	3.5-year-old
+0095	2016-Jan-27	 ng 	Moz	unk
+0096	2016-Jan-27	 ng 	PanOpen	nearly three-year-old
+0097	2016-Jan-27	 ng 	PitchBook Data	nearly nine-year-old
+0098	2016-Jan-27	 ng 	Savari	unk
+0099	2016-Jan-27	 ng 	StatMuse	two-year-old
+0100	2016-Jan-27	 ng 	Tarveda Therapeutics	three-year-old
+0101	2016-Jan-27	 ng 	Vestorly	four-year-old
+0102	2016-Jan-27	 ng 	Wevorce	three-year-old
+0103	2016-Jan-27	 ng 	The Zebra	three-year-old
+0104	2016-Jan-27	 nf 	Rakuten Ventures	unk
+0105	2016-Jan-29	 ng 	BloomReach	six-year-old
+0106	2016-Jan-29	 ng 	College Avenue Student Loans	two-year-old
+0107	2016-Jan-29	 ng 	Cronofy	2.5-year-old
+0108	2016-Jan-29	 ng 	FreshMenu	two-year-old
+0109	2016-Jan-29	 ng 	nuTonomy	two-year-old
+0110	2016-Jan-29	 ng 	RedMart	four-year-old
+0111	2016-Jan-29	 ng 	Truebil	year-old
+0112	2016-Jan-29	 ng 	True Potential	nine-year-old
+0113	2016-Jan-29	 ng 	TurboAppeal	year-old
+0114	2016-Jan-29	 nf 	Susa Ventures	2.5-year-old
+0115	2016-Feb-10	 ng 	ARMO BioSciences	four-year-old
+0116	2016-Feb-10	 ng 	CrunchBase	unk
+0117	2016-Feb-10	 ng 	Edyn	2.5-year-old
+0118	2016-Feb-10	 ng 	Gjirafa	2.5-year-old
+0119	2016-Feb-10	 ng 	Lantern	3.5-year-old
+0120	2016-Feb-10	 ng 	Latch	1.5-year-old
+0121	2016-Feb-10	 ng 	Paytm	5.5-year-old
+0122	2016-Feb-10	 ng 	Riskified	3.5-year-old
+0123	2016-Feb-10	 ng 	TiZR	1.5-year-old
+0124	2016-Feb-10	 ng 	WorldRemit	5.5-year-old
+0125	2016-Feb-10	 ng 	Yumanity Therapeutics	14-month-old
+0126	2016-Feb-11	 ng 	First Stop Health	four-year-old
+0127	2016-Feb-11	 ng 	Halo Neuroscience	2.5-year-old
+0128	2016-Feb-11	 ng 	Hexadite	unk
+0129	2016-Feb-11	 ng 	NuuED	year-old
+0130	2016-Feb-11	 ng 	Payleven	three-year-old
+0131	2016-Feb-11	 ng 	SchoolMint	three-year-old
+0132	2016-Feb-11	 ng 	Renew Financial	unk
+0133	2016-Feb-11	 ng 	Sky-Futures	6.5-year-old
+0134	2016-Feb-11	 ng 	Statflo	three-year-old
+0135	2016-Feb-11	 ng 	Student.com	four-year-old
+0136	2016-Feb-11	 ng 	Toss Lab	1.5-year-old
+0137	2016-Feb-11	 ng 	Veniam	four-year-old
+0138	2016-Feb-11	 ng 	ZyBooks	three-year-old
+0139	2016-Feb-11	 nf 	BBVA	unk
+0140	2016-Feb-11	 nf 	Goodwater Capital	two-year-old
+0141	2016-Feb-11	 nf 	IMJ	unk
+0142	2016-Feb-11	 nf 	Jet Blue Technology Ventures	unk
+0143	2016-Feb-11	 nf 	Karma Ventures	new
+0144	2016-Feb-17	 ng 	AQ Metrics	3.5-year-old
+0145	2016-Feb-17	 ng 	Bux	1.5-year-old
+0146	2016-Feb-17	 ng 	Cala Health	two-year-old
+0147	2016-Feb-17	 ng 	Grana	1.5-year-old
+0148	2016-Feb-17	 ng 	Hometeam	three-year-old
+0149	2016-Feb-17	 ng 	Makeable	unk
+0150	2016-Feb-17	 ng 	MindMaze	3.5-year-old
+0151	2016-Feb-17	 ng 	PokitDok	4.5-year-old
+0152	2016-Feb-17	 ng 	Qualia	five-year-old
+0153	2016-Feb-17	 ng 	Rainforest QA	unk
+0154	2016-Feb-17	 ng 	Sprout Social	five-year-old
+0155	2016-Feb-17	 ng 	Synlogic	2.5-year-old
+0156	2016-Feb-17	 ng 	Wavecell	five-year-old
+0157	2016-Feb-17	 ng 	Yello Mobile	unk
+0158	2016-Feb-17	 ng 	YouAppi	five-year-old
+0159	2016-Feb-17	 ng 	ZeaKal	five-year-old
+0160	2016-Feb-17	 nf 	NewSchools Venture Fund	unk
+0161	2016-Feb-17	 nf 	Natural Launchpad	unk
+0162	2016-Feb-18	 ng 	Triptease	three-year-old
+0163	2016-Feb-18	 ng 	Vera	two-year-old
+0164	2016-Feb-18	 nf 	Aaand now Campbell Soup	unk
+0165	2016-Feb-19	 ng 	Anyline	three-year-old
+0166	2016-Feb-19	 ng 	Aria Systems	13-year-old
+0167	2016-Feb-19	 ng 	Athentek	year-old
+0168	2016-Feb-19	 ng 	Centric Digital	nearly seven-year-old
+0169	2016-Feb-19	 ng 	Effector Therapeutics	3.5-year-old
+0170	2016-Feb-19	 ng 	ModoPayments	five-year-old
+0171	2016-Feb-19	 ng 	Nomva	year-old
+0172	2016-Feb-19	 ng 	Opternative	three-year-old
+0173	2016-Feb-19	 ng 	Riskified	nearly four-year-old
+0174	2016-Feb-19	 ng 	Triip	three-year-old
+0175	2016-Feb-22	 ng 	Chainalysis	1.5-year-old
+0176	2016-Feb-22	 ng 	Impact Therapeutics	seven-year-old
+0177	2016-Feb-22	 ng 	JetSmarter	3.5-year-old
+0178	2016-Feb-22	 ng 	Magicpin	year-old
+0179	2016-Feb-22	 ng 	NuoDB	five-year-old
+0180	2016-Feb-22	 ng 	Qubit	five-year-old
+0181	2016-Feb-22	 ng 	Trusona	year-old
+0182	2016-Feb-22	 nf 	Lifeline Ventures	seven-year-old
+0183	2016-Feb-22	 nf 	Nokia Growth Partners	unk
+0184	2016-Feb-22	 nf 	Perceptive Bioscience Investments	unk
+0185	2016-Feb-23	 ng 	Betterview	two-year-old
+0186	2016-Feb-23	 ng 	Namely	four-year-old
+0187	2016-Feb-23	 ng 	MasterClass	three-year-old
+0188	2016-Feb-23	 ng 	Mintos	1.5-year-old
+0189	2016-Feb-23	 ng 	Raw Pressery	three-year-old
+0190	2016-Feb-23	 ng 	Razer	unk
+0191	2016-Feb-23	 ng 	Reflektion	four-year-old
+0192	2016-Feb-23	 ng 	TaskBob	year-old
+0193	2016-Feb-23	 ng 	Team8	two-year-old
+0194	2016-Feb-23	 nf 	500 Startups	unk
+0195	2016-Feb-23	 nf 	Battery Ventures	33-year-old
+0196	2016-Feb-24	 ng 	AppilyEverAfter	months-old
+0197	2016-Feb-24	 ng 	Captain401	year-old
+0198	2016-Feb-24	 ng 	ClearMetal	two-year-old
+0199	2016-Feb-24	 ng 	Deliv	three-year-old
+0200	2016-Feb-24	 ng 	Forty Seven	unk
+0201	2016-Feb-24	 ng 	Loanzen	six-month-old
+0202	2016-Feb-24	 ng 	MakeSpace	three-year-old
+0203	2016-Feb-24	 ng 	NICO	nine-year-old
+0204	2016-Feb-24	 ng 	NoBroker	1.5-year-old
+0205	2016-Feb-24	 ng 	Pocketin	year-old
+0206	2016-Feb-24	 ng 	PolyPid	unk
+0207	2016-Feb-24	 ng 	Quantifind	seven-year-old
+0208	2016-Feb-24	 ng 	RealityShares	 nearly three-year-old
+0209	2016-Feb-24	 ng 	Spruce Finance	unk
+0210	2016-Feb-24	 ng 	TodayTix	three-year-old
+0211	2016-Feb-24	 ng 	Real	three-year-old
+0212	2016-Feb-24	 ng 	ReSec Technologies	nearly four-year-old
+0213	2016-Feb-24	 ng 	YouAppi	4.5-year-old
+0214	2016-Feb-24	 nf 	Andrew Chung	unk
+0215	2016-Feb-24	 nf 	TLV Partners	unk
+0216	2016-Feb-29	 ng 	Borrowell	year-old
+0217	2016-Feb-29	 ng 	Enlighted	seven-year-old
+0218	2016-Feb-29	 ng 	Health Catalyst	unk
+0219	2016-Feb-29	 ng 	Hopscotch	four-year-old
+0220	2016-Feb-29	 ng 	iCharts	unk
+0221	2016-Feb-29	 ng 	Kika Tech	 1.5-year-old
+0222	2016-Feb-29	 ng 	MedCPU	unk
+0223	2016-Feb-29	 ng 	Souq	10.5-year-old
+0224	2016-Feb-29	 nf 	Advancit Capital	four-year-old
+0225	2016-Feb-29	 nf 	Eight Partners	unk
+0226	2016-Mar-02	 ng 	Augment	four-year-old
+0227	2016-Mar-02	 ng 	Blippar	4.5-year-old
+0228	2016-Mar-02	 ng 	Carsome	year-old
+0229	2016-Mar-02	 ng 	Eight Sleep	1.5-year-old
+0230	2016-Mar-02	 ng 	Jobbatical	1.5-year-old
+0231	2016-Mar-02	 ng 	Landit	year-old
+0232	2016-Mar-02	 ng 	Lola	two-year-old
+0233	2016-Mar-02	 ng 	MarianaIQ	two-year-old
+0234	2016-Mar-02	 ng 	MedyMatch Technology	two-year-old
+0235	2016-Mar-02	 ng 	Mercari	three-year-old
+0236	2016-Mar-02	 ng 	Motiv	three-year-old
+0237	2016-Mar-02	 ng 	Replay Technologies	four-year-old
+0238	2016-Mar-02	 ng 	Unchained Labs	1.5-year-old
+0239	2016-Mar-02	 ng 	Xirrus	12-year-old
+0240	2016-Mar-02	 nf 	Resolute Ventures	unk
+0241	2016-Mar-04	 ng 	Autolus	1.5-year-old
+0242	2016-Mar-04	 ng 	Exo	nearly three-year-old
+0243	2016-Mar-04	 ng 	Phenom People	5.5-year-old
+0244	2016-Mar-04	 ng 	SourceKnowledge	6.5-year-old
+0245	2016-Mar-04	 ng 	Terbium Labs	nearly three-year-old
+0246	2016-Mar-04	 nf 	Aberdeen Venture Partners	unk
+0247	2016-Mar-04	 nf 	Eight Partners	unk
+0248	2016-Mar-04	 nf 	Hummer Winblad Venture Partners	unk
+0249	2016-Mar-07	 ng 	Culture Amp	four-year-old
+0250	2016-Mar-07	 ng 	GetLinks	year-old
+0251	2016-Mar-07	 ng 	LightSail	nearly four-year-old
+0252	2016-Mar-07	 ng 	Property Partner	two-year-old
+0253	2016-Mar-07	 ng 	Staff Finder	four-year-old
+0254	2016-Mar-07	 ng 	United Wind	three-year-old
+0255	2016-Mar-07	 ng 	Zaloni	nine-year-old
+0256	2016-Mar-09	 ng 	iFlix	year-old
+0257	2016-Mar-09	 ng 	Indochino	nine-year-old
+0258	2016-Mar-09	 ng 	Intersec	unk
+0259	2016-Mar-09	 nf 	Cisco Systems	unk
+0260	2016-Mar-09	 nf 	Lightspeed Venture Partners	unk
+0261	2016-Mar-10	 ng 	4Tech	five-year-old
+0262	2016-Mar-10	 ng 	Avametric	five-month-old
+0263	2016-Mar-10	 ng 	Constant Therapy	three-year-old
+0264	2016-Mar-10	 ng 	HealthTell	four-year-old
+0265	2016-Mar-10	 ng 	Icertis	seven-year-old
+0266	2016-Mar-10	 ng 	IndiaMART	20-year-old
+0267	2016-Mar-10	 ng 	Julie Desk	two-year-old
+0268	2016-Mar-10	 ng 	Justworks	3.5-year-old
+0269	2016-Mar-10	 ng 	Nom.com	months-old
+0270	2016-Mar-10	 ng 	Penrose Studios	year-old
+0271	2016-Mar-10	 ng 	Resolver	16-year-old
+0272	2016-Mar-10	 ng 	WeWork	unk
+0273	2016-Mar-10	 nf 	Mucker Capital	new
+0274	2016-Mar-11	 ng 	8Dol.com	three-year-old
+0275	2016-Mar-11	 ng 	Aspyrian Therapeutics	six-year-old
+0276	2016-Mar-11	 ng 	Bustle	three-year-old
+0277	2016-Mar-11	 ng 	Flipkart	unk
+0278	2016-Mar-11	 ng 	Inmoji	two-year-old
+0279	2016-Mar-11	 ng 	Propel	year-old
+0280	2016-Mar-11	 ng 	Soothe	three-year-old
+0281	2016-Mar-11	 ng 	Whistle Sports	seven-year-old
+0282	2016-Mar-14	 ng 	Alooma	2.5-year-old
+0283	2016-Mar-14	 ng 	Future Finance	nearly two-year-old
+0284	2016-Mar-14	 ng 	LendInvest	2.5-year-old
+0285	2016-Mar-14	 ng 	Noodle.ai	new
+0286	2016-Mar-14	 nf 	Cherubic Ventures	5.5-year-old
+0287	2016-Mar-15	 ng 	Arterys	4.5-year-old
+0288	2016-Mar-15	 ng 	ChartIQ	four-year-old
+0289	2016-Mar-15	 ng 	Couchbase	seven-year-old
+0290	2016-Mar-15	 ng 	Crate Technology	three-year-old
+0291	2016-Mar-15	 ng 	Forge	three-year-old
+0292	2016-Mar-15	 ng 	Kurio	two-year-old
+0293	2016-Mar-15	 ng 	Librestream	13-year-old
+0294	2016-Mar-15	 ng 	Marley Spoon	two-year-old
+0295	2016-Mar-15	 ng 	Next Insurance	three-month-old
+0296	2016-Mar-15	 ng 	NimbeLink	three-year-old
+0297	2016-Mar-15	 ng 	Outpost Medicine	unk
+0298	2016-Mar-15	 ng 	PowerCore	year-old
+0299	2016-Mar-15	 ng 	Sight Sciences	six-year-old
+0300	2016-Mar-15	 ng 	Skyport Systems	three-year-old
+0301	2016-Mar-15	 ng 	Spirox	four-year-old
+0302	2016-Mar-15	 ng 	Voke	four-year-old
+0303	2016-Mar-15	 nf 	Accel Partners	14-year-old
+0304	2016-Mar-15	 nf 	HealthQuest Partners	three-year-old
+0305	2016-Mar-18	 ng 	Cumulus Funding	five-year-old
+0306	2016-Mar-18	 ng 	HighGround	four-year-old
+0307	2016-Mar-18	 ng 	Kenandy	six-year-old
+0308	2016-Mar-18	 nf 	Atomico	10-year-old
+0309	2016-Mar-18	 nf 	SV Angel	unk
+0310	2016-Mar-18	 nf 	Union Square Ventures	13-year-old
+0311	2016-Mar-21	 ng 	ApniCure	nine-year-old
+0312	2016-Mar-21	 ng 	Atlantic Healthcare	nine-year-old
+0313	2016-Mar-21	 ng 	Distribusion Technologies	3.5-year-old
+0314	2016-Mar-21	 ng 	eGym	five-year-old
+0315	2016-Mar-21	 ng 	Elliptic	three-year-old
+0316	2016-Mar-21	 ng 	FuboTV	nearly two-year-old
+0317	2016-Mar-21	 ng 	Girnar Software	nine-year-old
+0318	2016-Mar-21	 ng 	GreatHorn	year-old
+0319	2016-Mar-21	 ng 	Mattermark	three-year-old
+0320	2016-Mar-21	 ng 	Mirriad	unk
+0321	2016-Mar-21	 ng 	Moat	5.5-year-old
+0322	2016-Mar-21	 ng 	Partender	3.5-year-old
+0323	2016-Mar-21	 ng 	ServisHero	nine-month-old
+0324	2016-Mar-21	 ng 	StreetShares	1.5-year-old
+0325	2016-Mar-21	 ng 	Tinkergarten	1.5-year-old
+0326	2016-Mar-21	 nf 	Bronze Investments	new
+0327	2016-Mar-21	 nf 	Empire Angels	3.5-year-old
+0328	2016-Mar-21	 nf 	Movac	unk
+0329	2016-Mar-21	 nf 	Zodius Capital	five-year-old
+0330	2016-Mar-22	 ng 	Big Basket	4.5-year-old
+0331	2016-Mar-22	 ng 	BYJU	unk
+0332	2016-Mar-22	 ng 	Edgewater Markets	seven-year-old
+0333	2016-Mar-22	 ng 	Edj Analytics	three-year-old
+0334	2016-Mar-22	 ng 	Maxwell Health	3.5-year-old
+0335	2016-Mar-22	 ng 	Terminus	1.5-year-old
+0336	2016-Mar-22	 ng 	Zodiac	year-old
+0337	2016-Mar-22	 nf 	Polytech Ecosystem Ventures	unk
+0338	2016-Mar-22	 nf 	Refactor Capital	unk
+0339	2016-Mar-25	 ng 	6Fusion	unk
+0340	2016-Mar-25	 ng 	Bromium	5.5-year-old
+0341	2016-Mar-25	 ng 	CiValue	two-year-old
+0342	2016-Mar-25	 ng 	DimensionalMechanics	year-old
+0343	2016-Mar-25	 ng 	EndoStim	seven-year-old
+0344	2016-Mar-25	 ng 	FLYR	2.5-year-old
+0345	2016-Mar-25	 ng 	Hive	10-month-old
+0346	2016-Mar-25	 ng 	Iterum Therapeutics	year-old
+0347	2016-Mar-25	 ng 	June	2.5-year-old
+0348	2016-Mar-25	 ng 	Lagou	nearly three-year-old
+0349	2016-Mar-25	 ng 	Soasta	10-year-old
+0350	2016-Mar-25	 nf 	Forté Ventures	four-year-old
+0351	2016-Mar-28	 ng 	Cyberpost	unk
+0352	2016-Mar-28	 ng 	Emulate	two-year-old
+0353	2016-Mar-28	 ng 	FixNix	3.5-year-old
+0354	2016-Mar-28	 ng 	Katerra	six-month-old
+0355	2016-Mar-28	 ng 	Permission Click	three-year-old
+0356	2016-Mar-28	 ng 	Venus Medtech	seven-year-old
+0357	2016-Mar-28	 nf 	Founders Fund	unk
+0358	2016-Mar-28	 nf 	UniCredit evo	unk
+0359	2016-Mar-28	 nf 	Zhuang Chenchao	unk
+0360	2016-Mar-30	 ng 	Asana	unk
+0361	2016-Mar-30	 ng 	Branch	year-old
+0362	2016-Mar-30	 ng 	CockroachDB	1.5-year-old
+0363	2016-Mar-30	 ng 	Frichti	nearly year-old
+0364	2016-Mar-30	 ng 	Invoca	nearly eight-year-old
+0365	2016-Mar-30	 ng 	MapD	2.5-year-old
+0366	2016-Mar-30	 ng 	Planday	2.5-year-old
+0367	2016-Mar-30	 ng 	Spotify	unk
+0368	2016-Mar-30	 ng 	Wanliyun Medical Information Technology	seven-year-old
+0369	2016-Mar-30	 nf 	Bitcoin Development Fund	unk
+0370	2016-Apr-04	 ng 	Comma.ai	seven-month-old
+0371	2016-Apr-04	 ng 	Entasis Therapeutics	nearly year-old
+0372	2016-Apr-04	 ng 	Garena Interactive Holding	seven-year-old
+0373	2016-Apr-04	 ng 	Hungama	16-year-old
+0374	2016-Apr-04	 ng 	Influenster	six-year-old
+0375	2016-Apr-04	 ng 	Reserve	nearly two-year-old
+0376	2016-Apr-04	 ng 	Schoold	year-old
+0377	2016-Apr-04	 ng 	Slack	unk
+0378	2016-Apr-04	 ng 	Strainz	three-year-old
+0379	2016-Apr-04	 nf 	Entrepreneurship and Venture Capital (or EVC)	unk
+0380	2016-Apr-06	 ng 	Anchore	three-month-old
+0381	2016-Apr-06	 ng 	Bright Health	new
+0382	2016-Apr-06	 ng 	CrossChx	four-year-old
+0383	2016-Apr-06	 ng 	Dispatch	unk
+0384	2016-Apr-06	 ng 	Finanzcheck	3.5-year-old
+0385	2016-Apr-06	 ng 	Haptik	four-year-old
+0386	2016-Apr-06	 ng 	Joyowo.com	unk
+0387	2016-Apr-06	 ng 	Lola Travel	10-month-old
+0388	2016-Apr-06	 ng 	Meadow	1.5-year-old
+0389	2016-Apr-06	 ng 	Projector	year-old
+0390	2016-Apr-06	 ng 	Vinomofo	five-year-old
+0391	2016-Apr-06	 nf 	unk	unk
+0392	2016-Apr-07	 ng 	Airmap	15-month-old
+0393	2016-Apr-07	 ng 	CloudOne	5.5-year-old
+0394	2016-Apr-07	 ng 	Clutter	three-year-old
+0395	2016-Apr-07	 ng 	CrownPeak	15-year-old
+0396	2016-Apr-07	 ng 	Electric Imp	five-year-old
+0397	2016-Apr-07	 ng 	Intercom	five-year-old
+0398	2016-Apr-07	 ng 	Karamba Security	nearly year-old
+0399	2016-Apr-07	 ng 	Kyulux	year-old
+0400	2016-Apr-07	 ng 	LinkDoc Technology	unk
+0401	2016-Apr-07	 ng 	LiveSafe	four-year-old
+0402	2016-Apr-07	 ng 	Lumos Pharma	five-year-old
+0403	2016-Apr-07	 ng 	Luxe	nearly three-year-old
+0404	2016-Apr-07	 ng 	Mizzen + Main	four-year-old
+0405	2016-Apr-07	 ng 	RiskRecon	year-old
+0406	2016-Apr-07	 ng 	Sweetch Health	three-year-old
+0407	2016-Apr-07	 ng 	Twiggle	three-year-old
+0408	2016-Apr-07	 ng 	Veriflow	three-year-old
+0409	2016-Apr-07	 nf 	David Prager	unk
+0410	2016-Apr-07	 nf 	Elevation Partners	unk
+0411	2016-Apr-22	 ng 	Anomali	three-year-old
+0412	2016-Apr-22	 ng 	Baidu Video	new
+0413	2016-Apr-22	 ng 	BioBeats	three-year-old
+0414	2016-Apr-22	 ng 	Bridgit	four-year-old
+0415	2016-Apr-22	 ng 	Chameleon	year-old
+0416	2016-Apr-22	 ng 	CareerFoundry	nearly three-year-old
+0417	2016-Apr-22	 ng 	Forter	three-year-old
+0418	2016-Apr-22	 ng 	Hua Medicine	unk
+0419	2016-Apr-22	 ng 	Kueski	four-year-old
+0420	2016-Apr-22	 ng 	Medium	unk
+0421	2016-Apr-22	 nf 	Jamie Goldstein	unk
+0422	2016-Apr-26	 ng 	Auro Robotics	year-old
+0423	2016-Apr-26	 ng 	Kasisto	three-year-old
+0424	2016-Apr-26	 ng 	LaunchPad Recruits	4.5-year-old
+0425	2016-Apr-26	 ng 	Lendix	1.5-year-old
+0426	2016-Apr-26	 ng 	Remitly	five-year-old
+0427	2016-Apr-26	 ng 	SparkCognition	three-year-old
+0428	2016-Apr-26	 ng 	StoryStream	five-year-old
+0429	2016-Apr-26	 ng 	Tado	five-year-old
+0430	2016-Apr-26	 ng 	TranServ	5.5-year-old
+0431	2016-Apr-26	 ng 	Trov	four-year-old
+0432	2016-Apr-26	 ng 	UrbanStems	two-year-old
+0433	2016-Apr-26	 nf 	unk	unk
+0434	2016-Apr-28	 ng 	Ionic	four-year-old
+0435	2016-Apr-28	 ng 	Levyx	three-year-old
+0436	2016-Apr-28	 ng 	Poncho	three-year-old
+0437	2016-Apr-28	 ng 	SpaceVR	year-old
+0438	2016-Apr-28	 ng 	Xola	five-year-old
+0439	2016-Apr-28	 nf 	Menlo Ventures	unk
+0440	2016-Apr-29	 ng 	Cardiac Insight	unk
+0441	2016-Apr-29	 ng 	Slantrange	nearly three-year-old
+0442	2016-Apr-29	 ng 	Stance	6.5-year-old
+0443	2016-Apr-29	 ng 	VividCortex	four-year-old
+0444	2016-Apr-29	 ng 	World View Enterprises	three-year-old
+0445	2016-Apr-29	 nf 	Mayfield	unk
+0446	2016-May-13	 ng 	Accion Systems	three-year-old
+0447	2016-May-13	 ng 	Astrobotic Technology	nine-year-old
+0448	2016-May-13	 ng 	Bigcommerce	seven-year-old
+0449	2016-May-13	 ng 	Capital Float	three-year-old
+0450	2016-May-13	 ng 	EnBiotix	four-year-old
+0451	2016-May-13	 ng 	EndoStim	seven-year-old
+0452	2016-May-13	 ng 	Evaneos	seven-year-old
+0453	2016-May-13	 ng 	Medal	year-old
+0454	2016-May-13	 ng 	Viridity Energy	seven-year-old
+0455	2016-May-13	 nf 	K-Startup Grand Challenge	unk
+0456	2016-May-13	 nf 	VSL Partners	two-year-old
+0457	2016-May-23	 ng 	CloudMinds	unk
+0458	2016-May-23	 ng 	Metadata	year-old
+0459	2016-May-23	 ng 	Rock Pamper Scissors	year-old
+0460	2016-May-23	 ng 	Saguna Networks	7.5-year-old
+0461	2016-May-23	 ng 	SeamlessDocs	five-year-old
+0462	2016-May-23	 ng 	Sun Basket	two-year-old
+0463	2016-May-23	 ng 	Take the Interview	unk
+0464	2016-May-23	 ng 	Weidai	five-year-old
+0465	2016-May-23	 nf 	Harmony Partners	five-year-old
+0466	2016-May-23	 nf 	Kleiner Perkins Caufield & Byers	unk
+0467	2016-May-23	 nf 	OrbiMed	unk
+0468	2016-May-23	 nf 	Runa Capital	nearly six-year-old
+0469	2016-May-24	 ng 	Agari	seven-year-old
+0470	2016-May-24	 ng 	Apixio	seven-year-old
+0471	2016-May-24	 ng 	AutoGrid Systems	five-year-old
+0472	2016-May-24	 ng 	BigID	seven-month-old
+0473	2016-May-24	 ng 	Bloomz	two-year-old
+0474	2016-May-24	 ng 	Gett	six-year-old
+0475	2016-May-24	 ng 	Menu Next Door	year-old
+0476	2016-May-24	 ng 	Nucleix	nine-year-old
+0477	2016-May-24	 ng 	nuTonomy	three-year-old
+0478	2016-May-24	 ng 	Pattern	year-old
+0479	2016-May-24	 ng 	Sensifree	four-year-old
+0480	2016-May-24	 ng 	SigFig	five-year-old
+0481	2016-May-24	 ng 	Snapchat	unk
+0482	2016-May-24	 ng 	TourRadar	six-year-old
+0483	2016-May-24	 ng 	vArmour	five-year-old
+0484	2016-May-24	 nf 	According to Fortune	unk
+0485	2016-May-25	 ng 	Affectiva	seven-year-old
+0486	2016-May-25	 ng 	Arrivo BioVentures	new
+0487	2016-May-25	 ng 	Dashlane	seven-year-old
+0488	2016-May-25	 ng 	Demisto	year-old
+0489	2016-May-25	 ng 	eero	two-year-old
+0490	2016-May-25	 ng 	Entelo	five-year-old
+0491	2016-May-25	 ng 	Stem	seven-year-old
+0492	2016-May-25	 ng 	TransferWise	unk
+0493	2016-May-25	 ng 	Viptela	four-year-old
+0494	2016-May-25	 ng 	Votiro	five-year-old
+0495	2016-May-26	 ng 	7shifts	three-year-old
+0496	2016-May-26	 ng 	AmpMe	year-old
+0497	2016-May-26	 ng 	Buddybuild	unk
+0498	2016-May-26	 ng 	Contentful	five-year-old
+0499	2016-May-26	 ng 	Front App	2.5-year-old
+0500	2016-May-26	 ng 	Lightbend	five-year-old
+0501	2016-May-26	 ng 	Seismic	five-year-old
+0502	2016-May-26	 ng 	Snapchat	unk
+0503	2016-May-26	 ng 	Skillshare	5.5-year-old
+0504	2016-May-26	 nf 	EQT Ventures	unk
+0505	2016-May-27	 ng 	Aleva Neurotherapeutics	nine-year-old
+0506	2016-May-27	 ng 	Althea	year-old
+0507	2016-May-27	 ng 	Centauri Health Solutions	two-year-old
+0508	2016-May-27	 ng 	Creema	5.5-year-old
+0509	2016-May-27	 ng 	EyeQ	five-year-old
+0510	2016-May-27	 ng 	Lumiata	three-year-old
+0511	2016-May-27	 ng 	Meural	two-year-old
+0512	2016-May-27	 ng 	Photomyne	two-year-old
+0513	2016-May-27	 nf 	Grove Ventures	new
+0514	2016-May-27	 nf 	Pantera Capital	16-year-old
+0515	2016-May-31	 ng 	AutoFi	year-old
+0516	2016-May-31	 ng 	Codoon	5.5-year-old
+0517	2016-May-31	 ng 	Lalamove	three-year-old
+0518	2016-May-31	 ng 	Mosaicoon	six-year-old
+0519	2016-May-31	 ng 	Robin	two-year-old
+0520	2016-May-31	 ng 	Twiggle	two-year-old
+0521	2016-May-31	 ng 	Tynker	four-year-old
+0522	2016-May-31	 ng 	WalkMe	four-year-old
+0523	2016-May-31	 ng 	Whill	four-year-old
+0524	2016-May-31	 ng 	WinView	unk
+0525	2016-May-31	 ng 	Zoox	two-year-old
+0526	2016-May-31	 nf 	5AM Ventures	14-year-old
+0527	2016-May-31	 nf 	Chrysalix Venture Capital	unk
+0528	2016-May-31	 nf 	Indie.VC	unk
+0529	2016-May-31	 nf 	Yesterday	new
+0530	2016-Jun-02	 ng 	AccuraGen	three-year-old
+0531	2016-Jun-02	 ng 	Blued	four-year-old
+0532	2016-Jun-02	 ng 	Digit	year-old
+0533	2016-Jun-02	 ng 	Droom	two-year-old
+0534	2016-Jun-02	 ng 	EarlySense	12-year-old
+0535	2016-Jun-02	 ng 	LinkBee	year-old
+0536	2016-Jun-02	 ng 	Luxury Garage Sale	5.5-year-old
+0537	2016-Jun-02	 ng 	Notion	three-year-old
+0538	2016-Jun-02	 ng 	RubiconMD	three-year-old
+0539	2016-Jun-02	 ng 	Tile	3.5-year-old
+0540	2016-Jun-02	 ng 	Tenjin	two-year-old
+0541	2016-Jun-02	 ng 	Uber	unk
+0542	2016-Jun-02	 ng 	uSens	three-year-old
+0543	2016-Jun-02	 ng 	Verto Analytics	three-year-old
+0544	2016-Jun-03	 ng 	DemandJump	year-old
+0545	2016-Jun-03	 ng 	Glassdoor	nine-year-old
+0546	2016-Jun-03	 ng 	InFlectis BioScience	three-year-old
+0547	2016-Jun-03	 ng 	Nomadd	two-year-old
+0548	2016-Jun-03	 ng 	Qumulo	four-year-old
+0549	2016-Jun-03	 ng 	Udemy	six-year-old
+0550	2016-Jun-03	 ng 	Vyze	unk
+0551	2016-Jun-03	 nf 	Greenspring Associates	16-year-old
+0552	2016-Jun-03	 nf 	Moneta Ventures	two-year-old
+0553	2016-Jun-06	 nf 	New York-based ff Venture Capital	unk
+0554	2016-Jun-06	 nf 	State of Mind Ventures	new
+0555	2016-Jun-06	 nf 	_Underscore	new
+0556	2016-Jun-10	 ng 	ABA English (American & British Academy)	nine-year-old
+0557	2016-Jun-10	 ng 	Liberty SBF	five-year-old
+0558	2016-Jun-10	 ng 	Lux	year-old
+0559	2016-Jun-10	 ng 	ProGlove	1.5-year-old
+0560	2016-Jun-10	 ng 	Tonsser	three-year-old
+0561	2016-Jun-10	 nf 	Garrett Van Wagoner	unk
+0562	2016-Jun-15	 ng 	B2X	nine-year-old
+0563	2016-Jun-15	 ng 	Fenqile	three-year-old
+0564	2016-Jun-15	 ng 	Huizuche	two-year-old
+0565	2016-Jun-15	 ng 	Loggly	seven-year-old
+0566	2016-Jun-15	 ng 	Lumus	16-year-old
+0567	2016-Jun-15	 ng 	Procured Health	four-year-old
+0568	2016-Jun-15	 ng 	Qloo	four-year-old
+0569	2016-Jun-15	 ng 	Rgenix	six-year-old
+0570	2016-Jun-15	 ng 	Saavn	nine-year-old
+0571	2016-Jun-15	 ng 	Sapho	two-year-old
+0572	2016-Jun-15	 ng 	Smarter Micro	four-year-old
+0573	2016-Jun-15	 ng 	SoundCloud	unk
+0574	2016-Jun-15	 ng 	Uber	unk
+0575	2016-Jun-15	 nf 	Philadelphia-based 1315 Capital	two-year-old
+0576	2016-Jun-15	 nf 	FirstMark Capital	unk
+0577	2016-Jun-15	 nf 	Golden Gate Ventures	unk
+0578	2016-Jun-16	 ng 	Airbnb	unk
+0579	2016-Jun-16	 ng 	Andela	two-year-old
+0580	2016-Jun-16	 ng 	Collokia	two-year-old
+0581	2016-Jun-16	 ng 	CureJoy	2.5-year-old
+0582	2016-Jun-16	 ng 	Eyeview	unk
+0583	2016-Jun-16	 ng 	Elementum	four-year-old
+0584	2016-Jun-16	 ng 	Mersana Therapeutics	1.5-year-old
+0585	2016-Jun-16	 ng 	Overbond	year-old
+0586	2016-Jun-16	 ng 	Performance Horizon	six-year-old
+0587	2016-Jun-16	 ng 	Samba Tech	12-year-old
+0588	2016-Jun-16	 ng 	Vow To Be Chic	three-year-old
+0589	2016-Jun-17	 ng 	Beamery	two-year-old
+0590	2016-Jun-17	 ng 	ClearTax	five-year-old
+0591	2016-Jun-17	 ng 	Common	year-old
+0592	2016-Jun-17	 ng 	Mark One	2.5-year-old
+0593	2016-Jun-17	 ng 	Tigera	months-old
+0594	2016-Jun-17	 ng 	Vrse	unk
+0595	2016-Jun-20	 nf 	Kellogg eighteen94 Capital	unk
+0596	2016-Jun-20	 nf 	Industry Ventures	unk
+0597	2016-Jun-21	 nf 	Trae Vassallo	unk
+0598	2016-Jun-22	 ng 	128 Technology	two-year-old
+0599	2016-Jun-22	 ng 	AppZen	3.5-year-old
+0600	2016-Jun-22	 ng 	GamEffective	nearly four-year-old
+0601	2016-Jun-22	 ng 	Gong.io	unk
+0602	2016-Jun-22	 ng 	Iggbo	year-old
+0603	2016-Jun-22	 ng 	Kaola FM	unk
+0604	2016-Jun-22	 ng 	Kespry	three-year-old
+0605	2016-Jun-22	 ng 	Kwik	three-year-old
+0606	2016-Jun-22	 ng 	LightCyber	four-year-old
+0607	2016-Jun-22	 ng 	Lystable	1.5-year-old
+0608	2016-Jun-22	 ng 	Pearl	months-old
+0609	2016-Jun-22	 ng 	PediaQ	year-old
+0610	2016-Jun-22	 ng 	UrWork	year-old
+0611	2016-Jun-22	 nf 	DFJ Growth	unk
+0612	2016-Jun-22	 nf 	Female Founders Fund	three-year-old
+0613	2016-Jul-06	 ng 	Darktrace	three-year-old
+0614	2016-Jul-06	 ng 	Homee	nearly year-old
+0615	2016-Jul-06	 ng 	KisanHub	four-year-old
+0616	2016-Jul-06	 ng 	Service Partner One	year-old
+0617	2016-Jul-06	 ng 	StockTwits	unk
+0618	2016-Jul-06	 ng 	Twistlock	1.5-year-old
+0619	2016-Jul-06	 ng 	Veriflow	three-year-old
+0620	2016-Jul-06	 nf 	Akkadian Ventures	unk
+0621	2016-Jul-06	 nf 	Forerunner Ventures	unk
+0622	2016-Jul-15	 ng 	Alphabet Energy	unk
+0623	2016-Jul-15	 ng 	Amplero	months-old
+0624	2016-Jul-15	 ng 	CyberGRX	months-old
+0625	2016-Jul-15	 ng 	Discors	nearly two-year-old
+0626	2016-Jul-15	 ng 	Endotronix	nine-year-old
+0627	2016-Jul-15	 ng 	Findo	two-year-old
+0628	2016-Jul-15	 ng 	GameOn	2.5-year-old
+0629	2016-Jul-15	 ng 	ISI Technology	10-year-old
+0630	2016-Jul-15	 ng 	PureLifi	four-year-old
+0631	2016-Jul-15	 ng 	Scope AR	five-year-old
+0632	2016-Jul-18	 ng 	Azalea Health	unk
+0633	2016-Jul-18	 ng 	Civil Maps	two-year-old
+0634	2016-Jul-18	 ng 	Lifesum	unk
+0635	2016-Jul-18	 ng 	Magnetic Insight	two-year-old
+0636	2016-Jul-18	 ng 	Modo Labs	six-year-old
+0637	2016-Jul-18	 ng 	ZestFinance	six-year-old
+0638	2016-Jul-18	 nf 	Thrive Capital	unk
+0639	2016-Jul-19	 ng 	Blue Cedar Networks	months-old
+0640	2016-Jul-19	 ng 	Cadenza Innovation	3.5-year-old
+0641	2016-Jul-19	 ng 	Cambridge Medical Robotics	two-year-old
+0642	2016-Jul-19	 ng 	CommonBond	five-year-old
+0643	2016-Jul-19	 ng 	Guideline	year-old
+0644	2016-Jul-19	 ng 	Jolt	year-old
+0645	2016-Jul-19	 ng 	Kiip	five-year-old
+0646	2016-Jul-19	 ng 	Zenreach	three-year-old
+0647	2016-Jul-19	 nf 	Bloomberg Beta	unk
+0648	2016-Jul-20	 ng 	CargoX	10-month-old
+0649	2016-Jul-20	 ng 	Fast Japan	unk
+0650	2016-Jul-20	 ng 	Fuller	five-year-old
+0651	2016-Jul-20	 ng 	Pantheon	nearly six-year-old
+0652	2016-Jul-20	 ng 	Sift Science	five-year-old
+0653	2016-Jul-20	 ng 	Sprinklr	seven-year-old
+0654	2016-Jul-20	 ng 	Trim	nearly year-old
+0655	2016-Jul-20	 ng 	ZipBooks	year-old
+0656	2016-Jul-21	 ng 	Brandcast	four-year-old
+0657	2016-Jul-21	 ng 	Deposit Solutions	five-year-old
+0658	2016-Jul-21	 ng 	Doppler Labs	three-year-old
+0659	2016-Jul-21	 ng 	Indigo	two-year-old
+0660	2016-Jul-21	 ng 	Inkbox	year-old
+0661	2016-Jul-21	 ng 	MyWish Marketplaces	seven-year-old
+0662	2016-Jul-21	 ng 	N-of-One	unk
+0663	2016-Jul-21	 ng 	Omise	unk
+0664	2016-Jul-21	 ng 	Redis Labs	five-year-old
+0665	2016-Jul-21	 ng 	ReviewTrackers	four-year-old
+0666	2016-Jul-21	 ng 	Stardog	unk
+0667	2016-Jul-22	 ng 	AristaMD	two-year-old
+0668	2016-Jul-22	 ng 	BYD Company	21-year-old
+0669	2016-Jul-22	 ng 	Eve Sleep	year-old
+0670	2016-Jul-22	 ng 	Global Fashion Group	unk
+0671	2016-Jul-22	 ng 	Kazan Networks	two-year-old
+0672	2016-Jul-22	 ng 	Treebo Hotels	1.5-year-old
+0673	2016-Jul-22	 nf 	KK Fund	two-year-old
+0674	2016-Jul-25	 ng 	Bluebridge	five-year-old
+0675	2016-Jul-25	 ng 	Kandou Bus	five-year-old
+0676	2016-Jul-25	 ng 	SNÉ	three-year-old
+0677	2016-Jul-25	 ng 	StackPath	unk
+0678	2016-Jul-25	 ng 	Tide	1.5-year-old
+0679	2016-Jul-25	 ng 	Tricida	three-year-old
+0680	2016-Jul-25	 ng 	Zoomcar	four-year-old
+0681	2016-Jul-26	 ng 	Acalvio Technologies	year-old
+0682	2016-Jul-26	 ng 	Reflect	year-old
+0683	2016-Jul-26	 ng 	Scopely	five-year-old
+0684	2016-Jul-26	 ng 	Takt	year-old
+0685	2016-Jul-26	 ng 	Transfix	three-year-old
+0686	2016-Jul-26	 nf 	Volition Capital	six-year-old
+0687	2016-Jul-27	 ng 	Automile	three-year-old
+0688	2016-Jul-27	 ng 	B12	year-old
+0689	2016-Jul-27	 ng 	Big Health	year-old
+0690	2016-Jul-27	 ng 	Black Bear Energy	year-old
+0691	2016-Jul-27	 ng 	CellMax Life	three-year-old
+0692	2016-Jul-27	 ng 	Density	two-year-old
+0693	2016-Jul-27	 ng 	Nomad Health	1.5-year-old
+0694	2016-Jul-27	 ng 	Prospera	2.5-year-old
+0695	2016-Jul-27	 ng 	SafeBreach	two-year-old
+0696	2016-Jul-27	 ng 	Shipt	2.5-year-old
+0697	2016-Jul-27	 ng 	Sun Basket	two-year-old
+0698	2016-Jul-27	 ng 	Vtesse	1.5-year-old
+0699	2016-Jul-27	 ng 	Upthere	five-year-old
+0700	2016-Jul-27	 ng 	Zeek	2.5-year-old
+0701	2016-Jul-29	 ng 	BP3 Global	nine-year-old
+0702	2016-Jul-29	 ng 	Cloudvirga	months-old
+0703	2016-Jul-29	 ng 	Jumia	four-year-old
+0704	2016-Jul-29	 ng 	LeadGenius	five-year-old
+0705	2016-Jul-29	 ng 	Mozio	five-year-old
+0706	2016-Jul-29	 ng 	nVision Medical Corp.	4.5-year-old
+0707	2016-Jul-29	 ng 	Reltio	five-year-old
+0708	2016-Jul-29	 ng 	Retty	five-year-old
+0709	2016-Jul-29	 ng 	Roomi	year-old
+0710	2016-Jul-29	 ng 	VytronUS	10-year-old
+0711	2016-Jul-29	 ng 	Wonder Workshop	3.5-year-old
+0712	2016-Aug-08	 ng 	Airbnb	unk
+0713	2016-Aug-08	 ng 	Aligned TeleHealth	four-year-old
+0714	2016-Aug-08	 ng 	Alodokter	two-year-old
+0715	2016-Aug-08	 ng 	ByBox	16-year-old
+0716	2016-Aug-08	 ng 	CharityStars	three-year-old
+0717	2016-Aug-08	 ng 	Cleave Biosciences	six-year-old
+0718	2016-Aug-08	 ng 	Columbia Asia	22-year-old
+0719	2016-Aug-08	 ng 	Funding Societies	year-old
+0720	2016-Aug-08	 ng 	Honor	two-year-old
+0721	2016-Aug-08	 ng 	Igenomix	five-year-old
+0722	2016-Aug-08	 ng 	Kaltura	nine-year-old
+0723	2016-Aug-08	 ng 	Lophius Biosciences	unk
+0724	2016-Aug-08	 ng 	Numares	12-year-old
+0725	2016-Aug-08	 ng 	TheWaveVR	months-old
+0726	2016-Aug-08	 ng 	TruRating	three-year-old
+0727	2016-Aug-08	 ng 	Vestaron Corporation	15-year-old
+0728	2016-Aug-09	 nf 	Cybrary	1.5-year-old
+0729	2016-Aug-09	 nf 	Emotech	two-year-old
+0730	2016-Aug-09	 nf 	Engagio	1.5-year-old
+0731	2016-Aug-09	 nf 	Kepler Communications	year-old
+0732	2016-Aug-09	 nf 	Koko	two-year-old
+0733	2016-Aug-09	 nf 	Kwippit	two-year-old
+0734	2016-Aug-09	 nf 	Farmers Business Network	two-year-old
+0735	2016-Aug-09	 nf 	Finexio	year-old
+0736	2016-Aug-09	 nf 	FinTecSystems	two-year-old
+0737	2016-Aug-09	 nf 	Iconic Therapeutics	14-year-old
+0738	2016-Aug-09	 nf 	Innoviz Technologies	months-old
+0739	2016-Aug-09	 nf 	MapR Technologies	seven-year-old
+0740	2016-Aug-09	 nf 	NextVR	six-year-old
+0741	2016-Aug-09	 nf 	OfferUp	five-year-old
+0742	2016-Aug-09	 nf 	Socius	three-year-old
+0743	2016-Aug-09	 nf 	Woundtech	17-year-old
+0744	2016-Aug-10	 nf 	AceBot.ai	year-old
+0745	2016-Aug-10	 nf 	Alafair Biosciences	five-year-old
+0746	2016-Aug-10	 nf 	Baker	two-year-old
+0747	2016-Aug-10	 nf 	Carvana	5.5-year-old
+0748	2016-Aug-10	 nf 	FullContact	six-year-old
+0749	2016-Aug-10	 nf 	Interactions	12-year-old
+0750	2016-Aug-10	 nf 	Memebox	4.5-year-old
+0751	2016-Aug-10	 nf 	TVSquared	four-year-old
+0752	2016-Aug-10	 nf 	Viridis Learning	seven-year-old
+0753	2016-Aug-12	 ng 	Atomo Diagnostics	six-year-old
+0754	2016-Aug-12	 ng 	MiningLamp	two-year-old
+0755	2016-Aug-12	 ng 	Smooch	10-month-old
+0756	2016-Aug-12	 ng 	UpGuard	four-year-old
+0757	2016-Aug-12	 ng 	Zenoti	six-year-old
+0758	2016-Aug-15	 ng 	Firefly Games	two-year-old
+0759	2016-Aug-15	 ng 	Galvanize	four-year-old
+0760	2016-Aug-15	 ng 	HeavenHR	1.5-year-old
+0761	2016-Aug-15	 ng 	Onfido	four-year-old
+0762	2016-Aug-15	 ng 	Outfittery	four-year-old
+0763	2016-Aug-15	 nf 	Expa Capital	unk
+0764	2016-Aug-15	 nf 	BootUp Capital Partners	months-old
+0765	2016-Aug-16	 ng 	Appknox	two-year-old
+0766	2016-Aug-16	 ng 	Byte Academy	two-year-old
+0767	2016-Aug-16	 ng 	Degreed	4.5-year-old
+0768	2016-Aug-16	 ng 	FloSports	10-year-old
+0769	2016-Aug-16	 ng 	Hike	3.5-year-old
+0770	2016-Aug-16	 ng 	ReviMedia	six-year-old
+0771	2016-Aug-16	 ng 	Tioma Therapeutics	10-year-old
+0772	2016-Aug-16	 ng 	Tsinova	two-year-old
+0773	2016-Aug-16	 ng 	Velodyne	nine-year-old
+0774	2016-Aug-16	 ng 	Vettery	three-year-old
+0775	2016-Aug-18	 ng 	DriveTribe	unk
+0776	2016-Aug-18	 ng 	Heap	three-year-old
+0777	2016-Aug-18	 ng 	ID Experts	13-year-old
+0778	2016-Aug-18	 ng 	Instavest	two-year-old
+0779	2016-Aug-18	 ng 	NextHealth	three-year-old
+0780	2016-Aug-18	 ng 	VUV Analytics	seven-year-old
+0781	2016-Aug-19	 ng 	CellSavers	year-old
+0782	2016-Aug-19	 ng 	DevMynd Software	five-year-old
+0783	2016-Aug-19	 ng 	Dexter	year-old
+0784	2016-Aug-19	 ng 	Ecobee	nine-year-old
+0785	2016-Aug-19	 ng 	Histogen	nine-year-old
+0786	2016-Aug-19	 ng 	KRY	two-year-old
+0787	2016-Aug-19	 ng 	NVBots	three-year-old
+0788	2016-Aug-19	 ng 	SmartFile	seven-year-old
+0789	2016-Aug-19	 nf 	Darwin Ventures	12-year-old
+0790	2016-Aug-19	 nf 	unk	unk
+0791	2016-Aug-22	 ng 	Amylyx Pharmaceuticals	3.5-year-old
+0792	2016-Aug-22	 ng 	Mobike	unk
+0793	2016-Aug-22	 ng 	Quanergy Systems	nearly four-year-old
+0794	2016-Aug-22	 ng 	Singlera Genomics	two-year-old
+0795	2016-Aug-22	 ng 	Teambition	three-year-old
+0796	2016-Aug-22	 ng 	Virtru	four-year-old
+0797	2016-Aug-22	 ng 	Zoona	seven-year-old
+0798	2016-Aug-22	 nf 	Bryant Stibel	unk
+0799	2016-Aug-23	 ng 	Bitfinder	three-year-old
+0800	2016-Aug-23	 ng 	Centricient	year-old
+0801	2016-Aug-23	 ng 	Coda Payments	five-year-old
+0802	2016-Aug-23	 ng 	Lemonade	year-old
+0803	2016-Aug-23	 ng 	LendUp	five-year-old
+0804	2016-Aug-23	 ng 	Logikcull	12-year-old
+0805	2016-Aug-23	 ng 	MediaBrix	five-year-old
+0806	2016-Aug-23	 ng 	RedShelf	4.5-year-old
+0807	2016-Aug-23	 ng 	ThreatQuotient	three-year-old
+0808	2016-Aug-23	 ng 	Vyome Biosciences	six-year-old
+0809	2016-Aug-25	 ng 	Arcadia Power	two-year-old
+0810	2016-Aug-25	 ng 	Curology	two-year-old
+0811	2016-Aug-25	 ng 	Gobiquity	five-year-old
+0812	2016-Aug-25	 ng 	Grabr	year-old
+0813	2016-Aug-25	 ng 	Mint Solutions	six-year-old
+0814	2016-Aug-25	 ng 	Navisens	three-year-old
+0815	2016-Aug-25	 ng 	Panopto	nine-year-old
+0816	2016-Aug-25	 ng 	Symphony Commerce	5.5-year-old
+0817	2016-Aug-25	 ng 	Zoomcar	unk
+0818	2016-Aug-25	 nf 	True Ventures	unk
+0819	2016-Aug-26	 ng 	Denali Therapeutics	year-old
+0820	2016-Aug-26	 ng 	Dice	two-year-old
+0821	2016-Aug-26	 ng 	MobiKwik	seven-year-old
+0822	2016-Aug-26	 nf 	Afore Capital	new
+0823	2016-Aug-31	 nf 	Hyde Park Venture Partners	unk
+0824	2016-Sep-01	 ng 	DefinedCrowd	year-old
+0825	2016-Sep-01	 ng 	DraftKings	unk
+0826	2016-Sep-01	 ng 	Tank Utility	two-year-old
+0827	2016-Sep-01	 ng 	Zeta Interactive	nine-year-old
+0828	2016-Sep-01	 nf 	Drive Capital	three-year-old
+0829	2016-Sep-02	 ng 	Boku	unk
+0830	2016-Sep-02	 ng 	Beyond Verbal	four-year-old
+0831	2016-Sep-02	 ng 	Bitmovin	three-year-old
+0832	2016-Sep-02	 ng 	C3 IoT	seven-year-old
+0833	2016-Sep-02	 ng 	Criquet Shirts	unk
+0834	2016-Sep-02	 ng 	Molotov	year-old
+0835	2016-Sep-02	 ng 	Yum China	spinout of 19-year-old
+0836	2016-Sep-06	 ng 	Cheyipai	seven-year-old
+0837	2016-Sep-06	 ng 	Divido	2.5-year-old
+0838	2016-Sep-06	 ng 	Garena	seven-year-old
+0839	2016-Sep-06	 ng 	Saildrone	four-year-old
+0840	2016-Sep-06	 ng 	VizEat	two-year-old
+0841	2016-Sep-06	 ng 	Zilingo	year-old
+0842	2016-Sep-06	 nf 	Entrepreneur First	five-year-old
+0843	2016-Sep-06	 nf 	Northzone	unk
+0844	2016-Sep-12	 ng 	AcuFocus	15-year-old
+0845	2016-Sep-12	 ng 	Business Talent Group	unk
+0846	2016-Sep-12	 ng 	Datorama	four-year-old
+0847	2016-Sep-12	 ng 	Fusebill	unk
+0848	2016-Sep-12	 ng 	GenieBelt	four-year-old
+0849	2016-Sep-12	 ng 	Inflazome	months-old
+0850	2016-Sep-12	 ng 	Nuxeo	15-year-old
+0851	2016-Sep-12	 ng 	Phononic	unk
+0852	2016-Sep-12	 ng 	Portfolium	two-year-old
+0853	2016-Sep-12	 ng 	Project44	two-year-old
+0854	2016-Sep-12	 nf 	AirTree Ventures	two-year-old
+0855	2016-Sep-13	 ng 	Claroty	months-old
+0856	2016-Sep-13	 ng 	Digg	unk
+0857	2016-Sep-13	 ng 	Industrious	three-year-old
+0858	2016-Sep-13	 ng 	Point	year-old
+0859	2016-Sep-13	 ng 	Sourcery Technologies	four-year-old
+0860	2016-Sep-13	 nf 	Razer	new
+0861	2016-Sep-13	 nf 	unk	unk
+0862	2016-Sep-15	 ng 	BitSight	five-year-old
+0863	2016-Sep-15	 ng 	Canva	four-year-old
+0864	2016-Sep-15	 ng 	Carbon 3D	three-year-old
+0865	2016-Sep-15	 ng 	Ellevest	year-old
+0866	2016-Sep-15	 ng 	FastPay	seven-year-old
+0867	2016-Sep-15	 ng 	Klara	three-year-old
+0868	2016-Sep-15	 ng 	Lucid Software	seven-year-old
+0869	2016-Sep-15	 ng 	Optimove	seven-year-old
+0870	2016-Sep-15	 ng 	Ripple	four-year-old
+0871	2016-Sep-15	 ng 	Tipalti	six-year-old
+0872	2016-Sep-15	 ng 	ViSenze	four-year-old
+0873	2016-Sep-15	 nf 	Sapphire Ventures	unk
+0874	2016-Sep-15	 nf 	China-based Sinovation Ventures	unk
+0875	2016-Sep-19	 nf 	CV Auctions	two-year-old
+0876	2016-Sep-19	 nf 	AdStage	four-year-old
+0877	2016-Sep-19	 nf 	Curve	17-month-old
+0878	2016-Sep-19	 nf 	Doxly	months-old
+0879	2016-Sep-19	 nf 	DueCourse	two-year-old
+0880	2016-Sep-19	 nf 	LumaTax	months-old
+0881	2016-Sep-19	 nf 	OMSignal	five-year-old
+0882	2016-Sep-19	 nf 	Swiggy	two-year-old
+0883	2016-Sep-19	 nf 	Thalmic Labs	four-year-old
+0884	2016-Sep-19	 nf 	White Ops	four-year-old
+0885	2016-Sep-20	 ng 	Fauna	five-year-old
+0886	2016-Sep-20	 ng 	FoodChéri	year-old
+0887	2016-Sep-20	 ng 	Grab	five-year-old
+0888	2016-Sep-20	 ng 	Hostmaker	year-old
+0889	2016-Sep-20	 ng 	Insider	four-year-old
+0890	2016-Sep-20	 ng 	LeEco	12-year-old
+0891	2016-Sep-20	 ng 	Progressly	two-year-old
+0892	2016-Sep-20	 ng 	StarOfService	four-year-old
+0893	2016-Sep-20	 ng 	TenNor Therapeutics	three-year-old
+0894	2016-Sep-20	 ng 	Vlocity	two-year-old
+0895	2016-Sep-20	 ng 	Vroom	three-year-old
+0896	2016-Sep-20	 nf 	Dundee Venture Capital	unk
+0897	2016-Sep-20	 nf 	Spectrum 28	15-month-old
+0898	2016-Sep-21	 ng 	Allset	17-month-old
+0899	2016-Sep-21	 ng 	Catalyze	three-year-old
+0900	2016-Sep-21	 ng 	d.light	nine-year-old
+0901	2016-Sep-21	 ng 	FinanceFox	two-year-old
+0902	2016-Sep-21	 ng 	Gametime	3.5-year-old
+0903	2016-Sep-21	 ng 	InfluxData	four-year-old
+0904	2016-Sep-21	 ng 	Metromile	five-year-old
+0905	2016-Sep-21	 ng 	Mobilize	two-year-old
+0906	2016-Sep-21	 ng 	Nucleus	two-year-old
+0907	2016-Sep-21	 ng 	OurCrowd	unk
+0908	2016-Sep-21	 ng 	Pepperfry	five-year-old
+0909	2016-Sep-21	 ng 	Troops	17-month-old
+0910	2016-Sep-21	 nf 	Elephant Partners	year-old
+0911	2016-Sep-23	 ng 	Aceable	four-year-old
+0912	2016-Sep-23	 ng 	Airbnb	unk
+0913	2016-Sep-23	 ng 	Gfycat (as in “Jiffy Cat”)	year-old
+0914	2016-Sep-23	 ng 	Kahoot!	nearly five-year-old
+0915	2016-Sep-23	 ng 	Linio	four-year-old
+0916	2016-Sep-23	 ng 	Tealium	unk
+0917	2016-Sep-23	 ng 	Zero	months-old
+0918	2016-Sep-23	 nf 	unk	unk
+0919	2016-Sep-23	 nf 	SignalFire	unk
+0920	2016-Sep-28	 ng 	A.I. Nemo	two-year-old
+0921	2016-Sep-28	 ng 	AppNexus	unk
+0922	2016-Sep-28	 ng 	AquaSecurity	year-old
+0923	2016-Sep-28	 ng 	b8ta	year-old
+0924	2016-Sep-28	 ng 	BigchainDB	two-year-old
+0925	2016-Sep-28	 ng 	Contrast Security	three-year-old
+0926	2016-Sep-28	 ng 	Druva	unk
+0927	2016-Sep-28	 ng 	Kustomer	year-old
+0928	2016-Sep-28	 ng 	MicuRx Pharmaceuticals	nine-year-old
+0929	2016-Sep-28	 ng 	OpenSesame	14-year-old
+0930	2016-Sep-28	 ng 	Paddle	four-year-old
+0931	2016-Sep-28	 ng 	Think Labs	four-year-old
+0932	2016-Sep-28	 nf 	Razor’s Edge Ventures	5.5-year-old
+0933	2016-Sep-28	 nf 	SAP	unk
+0934	2016-Sep-29	 ng 	Apptus	16-year-old
+0935	2016-Sep-29	 ng 	codeSpark	2.5-year-old
+0936	2016-Sep-29	 ng 	Folloze	three-year-old
+0937	2016-Sep-29	 ng 	Karamba Security	1.5-year-old
+0938	2016-Sep-29	 ng 	Lingumi	year-old
+0939	2016-Sep-29	 ng 	Lydia	three-year-old
+0940	2016-Sep-29	 ng 	Lystable	two-year-old
+0941	2016-Sep-29	 ng 	Remedy	year-old
+0942	2016-Sep-29	 ng 	Skymind	two-year-old
+0943	2016-Sep-30	 ng 	Dozr	year-old
+0944	2016-Sep-30	 ng 	Home Chef	3.5-year-old
+0945	2016-Sep-30	 ng 	Prowler.io	months-old
+0946	2016-Sep-30	 ng 	Remitly	five-year-old
+0947	2016-Oct-03	 ng 	Aire	2.5-year-old
+0948	2016-Oct-03	 ng 	Benchling	four-year-old
+0949	2016-Oct-03	 ng 	Carrick Therapeutics	year-old
+0950	2016-Oct-03	 ng 	Payzer	two-year-old
+0951	2016-Oct-03	 ng 	Roomex	10-year-old
+0952	2016-Oct-03	 ng 	Rover.com	five-year-old
+0953	2016-Oct-03	 ng 	Simplus	two-year-old
+0954	2016-Oct-03	 ng 	Smava	unk
+0955	2016-Oct-03	 ng 	Tout	six-year-old
+0956	2016-Oct-03	 ng 	Uniphore	unk
+0957	2016-Oct-03	 ng 	Unocoin	nearly three-year-old
+0958	2016-Oct-03	 nf 	Arab Angel Fund	unk
+0959	2016-Oct-04	 ng 	AppsDaily	unk
+0960	2016-Oct-04	 ng 	Aspire Health	3.5-year-old
+0961	2016-Oct-04	 ng 	Eatigo	three-year-old
+0962	2016-Oct-04	 ng 	Grana	two-year-old
+0963	2016-Oct-04	 ng 	GoEuro	four-year-old
+0964	2016-Oct-04	 ng 	Paperspace	two-year-old
+0965	2016-Oct-04	 ng 	Restless Bandit	two-year-old
+0966	2016-Oct-04	 ng 	Saldum Ventures	three-year-old
+0967	2016-Oct-04	 ng 	Source{d}	two-year-old
+0968	2016-Oct-04	 ng 	Stripe	unk
+0969	2016-Oct-04	 ng 	Tannico	four-year-old
+0970	2016-Oct-04	 ng 	Tock	two-year-old
+0971	2016-Oct-04	 nf 	Xiaodong Jiang	unk
+0972	2016-Oct-05	 ng 	BEFORE Brands	five-month-old
+0973	2016-Oct-05	 ng 	Clearpath Robotics	unk
+0974	2016-Oct-05	 ng 	iwoca	five-year-old
+0975	2016-Oct-05	 ng 	Money Forward	four-year-old
+0976	2016-Oct-05	 ng 	Ollie	year-old
+0977	2016-Oct-05	 ng 	Payoneer	unk
+0978	2016-Oct-05	 ng 	Wine n Dine	year-old
+0979	2016-Oct-06	 ng 	Botfactory	3.5-year-old
+0980	2016-Oct-06	 ng 	Code Climate	5.5-year-year-old
+0981	2016-Oct-06	 ng 	CognitiveScale	unk
+0982	2016-Oct-06	 ng 	Cybric	1.5-year-old
+0983	2016-Oct-06	 ng 	DiCentral Corporatiion	16-year-old
+0984	2016-Oct-06	 ng 	Enable Injections	6.5-year-old
+0985	2016-Oct-06	 ng 	Goby	year-old
+0986	2016-Oct-06	 ng 	Happycar	three-year-old
+0987	2016-Oct-06	 ng 	Madefire	five-year-old
+0988	2016-Oct-06	 ng 	OpenGamma	seven-year-old
+0989	2016-Oct-06	 ng 	Welltok	seven-year-old
+0990	2016-Oct-06	 nf 	Corazon Capital	2.5-year-old
+0991	2016-Oct-07	 ng 	Financeit	nine-year-old
+0992	2016-Oct-07	 ng 	Lulalend	two-year-old
+0993	2016-Oct-07	 ng 	Nauto	1.5-year-old
+0994	2016-Oct-07	 ng 	Nugit	three-year-old
+0995	2016-Oct-10	 ng 	Beyond Meat	six-year-old
+0996	2016-Oct-10	 ng 	Eve Sleep	1.5-year-old
+0997	2016-Oct-10	 ng 	OncoResponse	year-old
+0998	2016-Oct-10	 ng 	Soundtrap	four-year-old
+0999	2016-Oct-10	 ng 	StreetTeam	five-year-old
+1000	2016-Oct-10	 ng 	Vectary	two-year-old
+1001	2016-Oct-10	 nf 	BioVentures Investors	unk
+1002	2016-Oct-10	 nf 	EQT Partners	unk
+1003	2016-Oct-11	 ng 	Cassia Networks	two-year-old
+1004	2016-Oct-11	 ng 	Cityworks	30-year-old
+1005	2016-Oct-11	 ng 	CloudCoreo	two-year-old
+1006	2016-Oct-11	 ng 	Everwise	three-year-old
+1007	2016-Oct-11	 ng 	Evidation Health	four-year-old
+1008	2016-Oct-11	 ng 	Kindly Care	two-year-old
+1009	2016-Oct-11	 ng 	HomeMe	1.5-year-old
+1010	2016-Oct-11	 ng 	Infutor Data Solutions	13-year-old
+1011	2016-Oct-11	 ng 	The Iran Internet Group	two-year-old
+1012	2016-Oct-11	 ng 	Navya	two-year-old
+1013	2016-Oct-11	 ng 	Payfit	seven-month-old
+1014	2016-Oct-11	 ng 	Remote Year	1.5-year-old
+1015	2016-Oct-11	 ng 	VenueNext	three-year-old
+1016	2016-Oct-11	 ng 	YuppTV	unk
+1017	2016-Oct-11	 ng 	Zymergen	three-year-old
+1018	2016-Oct-11	 nf 	Amino Capital	four-year-old
+1019	2016-Oct-11	 nf 	Greylock Partners	unk
+1020	2016-Oct-11	 nf 	V5 Partners	unk
+1021	2016-Oct-12	 ng 	Akriveia Therapeutics	year-old
+1022	2016-Oct-12	 ng 	Blue Medora	nine-year-old
+1023	2016-Oct-12	 ng 	C1X	two-year-old
+1024	2016-Oct-12	 ng 	DTI Management	four-year-old
+1025	2016-Oct-12	 ng 	MEL Science	2.5-year-old
+1026	2016-Oct-12	 ng 	Mist	2.5-year-old
+1027	2016-Oct-12	 ng 	Nexus Systems	17-year-old
+1028	2016-Oct-12	 ng 	Noodle	6.5-year-old
+1029	2016-Oct-12	 ng 	Optimus Ride	1.5-year-old
+1030	2016-Oct-12	 ng 	Serverless	year-old
+1031	2016-Oct-12	 ng 	Yi Wei Xing	unk
+1032	2016-Oct-12	 nf 	Baidu Capital	unk
+1033	2016-Oct-12	 nf 	Immersive Capital	unk
+1034	2016-Oct-13	 ng 	Astronomer	year-old
+1035	2016-Oct-13	 ng 	ComplyAdvantage	two-year-old
+1036	2016-Oct-13	 ng 	Coorpacademy	three-year-old
+1037	2016-Oct-13	 ng 	Group Nine	new
+1038	2016-Oct-13	 ng 	PlaceIQ	five-year-old
+1039	2016-Oct-13	 ng 	Pluto TV	three-year-old
+1040	2016-Oct-13	 ng 	TouchBistro	six-year-old
+1041	2016-Oct-13	 nf 	Impact Venture Capital	unk
+1042	2016-Oct-14	 ng 	Baroo	two-year-old
+1043	2016-Oct-14	 ng 	Hyperloop One	unk
+1044	2016-Oct-14	 ng 	InnoGames	nine-year-old
+1045	2016-Oct-14	 ng 	Iora Health	five-year-old
+1046	2016-Oct-14	 ng 	mParticle	3.5-year-old
+1047	2016-Oct-14	 ng 	Veeba Food Services	three-year-old
+1048	2016-Oct-14	 ng 	Virgil Security	two-year-old
+1049	2016-Oct-14	 ng 	Webscale Networks	three-year-old
+1050	2016-Oct-14	 nf 	PIF / Softbank	unk
+1051	2016-Oct-14	 nf 	Founders Factory	unk
+1052	2016-Oct-17	 ng 	Aramisauto	15-year-old
+1053	2016-Oct-17	 ng 	CloudLex	20-month-old
+1054	2016-Oct-17	 ng 	Hyper Anna	nine-month-old
+1055	2016-Oct-17	 ng 	KodaCloud	2.5-year-old
+1056	2016-Oct-17	 ng 	Prelude	1.5-year-old
+1057	2016-Oct-17	 ng 	Snapsheet	six-year-old
+1058	2016-Oct-17	 ng 	Zipwhip	nine-year-old
+1059	2016-Oct-17	 nf 	Daphni	unk
+1060	2016-Oct-17	 nf 	K Fund	unk
+1061	2016-Oct-26	 ng 	Brickwork	three-year-old
+1062	2016-Oct-26	 ng 	Culture Trip	four-year-old
+1063	2016-Oct-26	 ng 	Daqri	six-year-old
+1064	2016-Oct-26	 ng 	Genomics Medicine Ireland	year-old
+1065	2016-Oct-26	 ng 	Habit	new
+1066	2016-Oct-26	 ng 	Hyperloop One	two-year-old
+1067	2016-Oct-26	 ng 	Imzy	year-old
+1068	2016-Oct-26	 ng 	Lendio	10.5-year-old
+1069	2016-Oct-26	 ng 	Perkbox	two-year-old
+1070	2016-Oct-26	 ng 	Selency	two-year-old
+1071	2016-Oct-26	 ng 	TVision Insights	nearly two-year-old
+1072	2016-Oct-26	 ng 	Wavefront	three-year-old
+1073	2016-Oct-26	 ng 	Winnie	year-old
+1074	2016-Oct-26	 nf 	Javelin Venture Partners	unk
+1075	2016-Oct-26	 nf 	SJF Ventures	unk
+1076	2016-Oct-26	 nf 	Underscore.VC	unk
+1077	2016-Oct-27	 ng 	Bonesupport	16-year-old
+1078	2016-Oct-27	 ng 	BrainCheck	two-year-old
+1079	2016-Oct-27	 ng 	Busfor	four-year-old
+1080	2016-Oct-27	 ng 	Cloudian	three-year-old
+1081	2016-Oct-27	 ng 	DemystData	six-year-old
+1082	2016-Oct-27	 ng 	eMindful	13-year-old
+1083	2016-Oct-27	 ng 	ForeverCar	five-year-old
+1084	2016-Oct-27	 ng 	NanoPay	three-year-old
+1085	2016-Oct-27	 ng 	PointGrab	unk
+1086	2016-Oct-27	 ng 	Super League Gaming	two-year-old
+1087	2016-Oct-27	 ng 	Wochit	4.5-year-old
+1088	2016-Oct-27	 ng 	Rokid	two-year-old
+1089	2016-Oct-28	 ng 	Ather Energy	three-year-old
+1090	2016-Oct-28	 ng 	Conekta	five-year-old
+1091	2016-Oct-28	 ng 	CubeWorks	three-year-old
+1092	2016-Oct-28	 ng 	KNL Networks	five-year-old
+1093	2016-Oct-28	 ng 	Libryo	year-old
+1094	2016-Oct-28	 ng 	MPower Financing	1.5-year-old
+1095	2016-Oct-28	 ng 	Orvibo	four-year-old
+1096	2016-Oct-28	 ng 	Retention Science	five-year-old
+1097	2016-Oct-28	 ng 	Unity Biotechnology	year-old
+1098	2016-Oct-28	 nf 	MIT, The Engine 	new
+1099	2016-Oct-28	 nf 	System.One	new
+1100	2016-Oct-31	 ng 	Everything But The House	unk
+1101	2016-Oct-31	 ng 	Giphy	3.5-year-old
+1102	2016-Oct-31	 ng 	Riskalyze	five-year-old
+1103	2016-Oct-31	 nf 	Chicago Ventures	3.5-year-old
+1104	2016-Oct-31	 nf 	Third Rock Ventures	unk
+1105	2016-Nov-01	 ng 	AirPR	five-year-old
+1106	2016-Nov-01	 ng 	Cirina	two-year-old
+1107	2016-Nov-01	 ng 	Classy	10.5-year-old
+1108	2016-Nov-01	 ng 	Cross River Bank	unk
+1109	2016-Nov-01	 ng 	CounterTack	nine-year-old
+1110	2016-Nov-01	 ng 	Emissary	three-year-old
+1111	2016-Nov-01	 ng 	Freshdesk	five-year-old
+1112	2016-Nov-01	 ng 	Gauzy	seven-year-old
+1113	2016-Nov-01	 ng 	GoMeta	three-month-old
+1114	2016-Nov-01	 ng 	Graphcore	nearly year-old
+1115	2016-Nov-01	 ng 	Headset	1.5-year-old
+1116	2016-Nov-01	 ng 	Hubble Contacts	six-month-old
+1117	2016-Nov-01	 ng 	Hungry Marketplace	months-old
+1118	2016-Nov-01	 ng 	Ministry Brands	four-year-old
+1119	2016-Nov-01	 ng 	Nurx	two-year-old
+1120	2016-Nov-01	 ng 	Lilt	1.5-year-old
+1121	2016-Nov-01	 ng 	Ola	unk
+1122	2016-Nov-01	 ng 	Paktor	three-year-old
+1123	2016-Nov-01	 ng 	Postmates	five-year-old
+1124	2016-Nov-01	 ng 	Promethera Biosciences	seven-year-old
+1125	2016-Nov-01	 ng 	Terra’s Kitchen	two-year-old
+1126	2016-Nov-01	 ng 	Tiff’s Treats	16-year-old
+1127	2016-Nov-01	 ng 	uBiome	four-year-old
+1128	2016-Nov-01	 ng 	Unbabel	three-year-old
+1129	2016-Nov-01	 nf 	OurCrowd	unk
+1130	2016-Nov-02	 ng 	Ando	year-old
+1131	2016-Nov-02	 ng 	Atlas Recall	1.5-year-old
+1132	2016-Nov-02	 ng 	Axonify	five-year-old
+1133	2016-Nov-02	 ng 	Biohaven Pharmaceutical	two-year-old
+1134	2016-Nov-02	 ng 	Catapult Health	six-year-old
+1135	2016-Nov-02	 ng 	Fleetsmith	10-month-old
+1136	2016-Nov-02	 ng 	Genos	two-year-old
+1137	2016-Nov-02	 ng 	Interana	three-year-old
+1138	2016-Nov-02	 ng 	MiRagen Therapeutics	nine-year-old
+1139	2016-Nov-02	 ng 	Octane	new
+1140	2016-Nov-02	 ng 	Otonomo	1.5-year-old
+1141	2016-Nov-02	 ng 	Relayr	three-year-old
+1142	2016-Nov-02	 ng 	Spongecell	10-year-old
+1143	2016-Nov-02	 ng 	Teforia	two-year-old
+1144	2016-Nov-02	 ng 	Turnstone Biologics	1.5-year-old
+1145	2016-Nov-02	 ng 	ValiMail	1.5-year-old
+1146	2016-Nov-02	 ng 	Voyager Labs	four-year-old
+1147	2016-Nov-02	 ng 	Xiaozhu.com	four-year-old
+1148	2016-Nov-03	 ng 	Atomized	three-year-old
+1149	2016-Nov-03	 ng 	Catchpoint	unk
+1150	2016-Nov-03	 ng 	Convertr Media	five-year-old
+1151	2016-Nov-03	 ng 	DJiT	unk
+1152	2016-Nov-03	 ng 	The Future Group	three-year-old
+1153	2016-Nov-03	 ng 	German Autolabs	seven-month-old
+1154	2016-Nov-03	 ng 	Gousto	four-year-old
+1155	2016-Nov-03	 ng 	Hollar	year-old
+1156	2016-Nov-03	 ng 	Indio	five-month-old
+1157	2016-Nov-03	 ng 	ObEN	2.5-year-old
+1158	2016-Nov-03	 ng 	Owlet Baby Care	3.5-year-old
+1159	2016-Nov-03	 ng 	pi-top	two-year-old
+1160	2016-Nov-03	 ng 	PlushCare	two-year-old
+1161	2016-Nov-03	 ng 	Recondo	10-year-old
+1162	2016-Nov-03	 ng 	SatixFy	four-year-old
+1163	2016-Nov-03	 ng 	Silvair	three-year-old
+1164	2016-Nov-03	 ng 	Zarget	1.5-year-old
+1165	2016-Nov-03	 ng 	Zipongo	six-year-old
+1166	2016-Nov-03	 ng 	Jubilee Capital Management	year-old
+1167	2016-Nov-03	 ng 	Relay Ventures	10-year-old
+1168	2016-Nov-04	 ng 	Apartment List	five-year-old
+1169	2016-Nov-04	 ng 	Arex	two-year-old
+1170	2016-Nov-04	 ng 	Borrowed & Blue	five-year-old
+1171	2016-Nov-04	 ng 	Droit Financial Technologies	four-year-old
+1172	2016-Nov-04	 ng 	Gfresh	two-year-old
+1173	2016-Nov-04	 ng 	iOmx Therapeutics	unk
+1174	2016-Nov-04	 ng 	Planetary Resources	six-year-old
+1175	2016-Nov-04	 ng 	StyleTribute	three-year-old
+1176	2016-Nov-04	 ng 	Sunflower Labs	seven-month-old
+1177	2016-Nov-04	 ng 	Wish	unk
+1178	2016-Nov-04	 nf 	KEEN Venture Partners	new
+1179	2016-Nov-07	 ng 	Anuvia Plant Nutrients	1.5-year-old
+1180	2016-Nov-07	 ng 	Bizongo	two-year-old
+1181	2016-Nov-07	 ng 	Bonobos	unk
+1182	2016-Nov-07	 ng 	Cohero Health	four-year-old
+1183	2016-Nov-07	 ng 	PetCoach	two-year-old
+1184	2016-Nov-07	 ng 	Rivigo Services	two-year-old
+1185	2016-Nov-07	 ng 	Tailor Brands	two-year-old
+1186	2016-Nov-07	 ng 	Urban Volt	two-year-old
+1187	2016-Nov-08	 ng 	Baidu	unk
+1188	2016-Nov-08	 ng 	Beijing Byte Dance Telecommunications	unk
+1189	2016-Nov-08	 ng 	Electric Jukebox	two-year-old
+1190	2016-Nov-08	 ng 	Feelter	three-year-old
+1191	2016-Nov-08	 ng 	Fillr	1.5-year-old
+1192	2016-Nov-08	 ng 	GuavaPass	1.5-year-old
+1193	2016-Nov-08	 ng 	Indeni	six-year-old
+1194	2016-Nov-08	 ng 	Joy	three-year-old
+1195	2016-Nov-08	 ng 	Periscope Data	four-year-old
+1196	2016-Nov-08	 ng 	Quantified Care	three-year-old
+1197	2016-Nov-08	 ng 	Simple Contacts	year-old
+1198	2016-Nov-08	 ng 	SmartStudy.com	two-year-old
+1199	2016-Nov-08	 ng 	Tend.ai	months-old
+1200	2016-Nov-08	 ng 	Zafin	14-year-old
+1201	2016-Nov-08	 nf 	European Commission	unk
+1202	2016-Nov-08	 nf 	Dolan Family Ventures	unk
+1203	2016-Nov-09	 ng 	Buster	four-year-old
+1204	2016-Nov-09	 ng 	Castle	two-year-old
+1205	2016-Nov-09	 ng 	Hired	four-year-old
+1206	2016-Nov-09	 ng 	Motionsoft	unk
+1207	2016-Nov-09	 ng 	Square Yards	three-year-old
+1208	2016-Nov-09	 ng 	RetireUp	four-year-old
+1209	2016-Nov-09	 ng 	The Wing	year-old
+1210	2016-Nov-09	 ng 	Wurk	year-old
+1211	2016-Nov-10	 ng 	Blackmoon Financial Group	1.5-year-old
+1212	2016-Nov-10	 ng 	Cape Analytics	two-year-old
+1213	2016-Nov-10	 ng 	Crayon	two-year-old
+1214	2016-Nov-10	 ng 	Job Today	1.5-year-old
+1215	2016-Nov-10	 ng 	Neo Technology	nine-year-old
+1216	2016-Nov-10	 ng 	Rappi	year-old
+1217	2016-Nov-10	 ng 	RiskIQ	seven-year-old
+1218	2016-Nov-10	 ng 	SentiOne	five-year-old
+1219	2016-Nov-10	 ng 	Teamleader	four-year-old
+1220	2016-Nov-10	 ng 	Toast	year-old
+1221	2016-Nov-10	 ng 	Zipline International	five-year-old
+1222	2016-Nov-10	 nf 	Material Impact	1.5-year-old
+1223	2016-Nov-11	 ng 	CureVac	16-year-old
+1224	2016-Nov-11	 ng 	CurrencyFair	seven-year-old
+1225	2016-Nov-11	 ng 	Heureka Software	two-year-old
+1226	2016-Nov-11	 ng 	Intuity Medical	14-year-old
+1227	2016-Nov-11	 ng 	PillDrill	three-year-old
+1228	2016-Nov-11	 ng 	ReVision Optics	20-year-old
+1229	2016-Nov-11	 ng 	Singular	two-year-old
+1230	2016-Nov-14	 ng 	Active AI	year-old
+1231	2016-Nov-14	 ng 	ElasticRun	1.5-year-old
+1232	2016-Nov-14	 ng 	Intent Solutions	two-year-old
+1233	2016-Nov-14	 ng 	Nutmeg	six-year-old
+1234	2016-Nov-14	 ng 	PERQ	15-year-old
+1235	2016-Nov-14	 ng 	Quantopian	five-year-old
+1236	2016-Nov-14	 ng 	Roofstock	year-old
+1237	2016-Nov-14	 ng 	Talent Garden	five-year-old
+1238	2016-Nov-14	 ng 	Vacasa	seven-year-old
+1239	2016-Nov-14	 ng 	Zugata	two-year-old
+1240	2016-Nov-14	 nf 	Homestead Capital	unk
+1241	2016-Nov-14	 nf 	Long Hill Capital Management	unk
+1242	2016-Nov-15	 ng 	Ava	two-year-old
+1243	2016-Nov-15	 ng 	CareCloud	nearly eight-year-old
+1244	2016-Nov-15	 ng 	eOriginal	20-year-old
+1245	2016-Nov-15	 ng 	Genetesis	three-year-old
+1246	2016-Nov-15	 ng 	Gluru	three-year-old
+1247	2016-Nov-15	 ng 	Kit	year-old
+1248	2016-Nov-15	 ng 	Logz.io	two-year-old
+1249	2016-Nov-15	 ng 	MacroPoint	seven-year-old
+1250	2016-Nov-15	 ng 	Midaxo	five-year-old
+1251	2016-Nov-15	 ng 	Musement	four-year-old
+1252	2016-Nov-15	 ng 	Orbital Shift	seven-year-old
+1253	2016-Nov-15	 ng 	PlaySimple Games	two-year-old
+1254	2016-Nov-15	 ng 	Procurify	four-year-old
+1255	2016-Nov-15	 ng 	Prynt	2.5.-year-old
+1256	2016-Nov-15	 ng 	Sauce Labs	unk
+1257	2016-Nov-15	 ng 	Siemplify	year-old
+1258	2016-Nov-15	 ng 	xAd	seven-year-old
+1259	2016-Nov-15	 ng 	Zefo	year-old
+1260	2016-Nov-15	 nf 	Boldstart Ventures	unk
+1261	2016-Nov-16	 nf 	Intel Capital	unk
+1262	2016-Nov-17	 ng 	CodeFights	two-year-old
+1263	2016-Nov-17	 ng 	CoverWallet	unk
+1264	2016-Nov-17	 ng 	Domino Data Lab	three-year-old
+1265	2016-Nov-17	 ng 	Glycomine	unk
+1266	2016-Nov-17	 ng 	GuestReady	year-old
+1267	2016-Nov-17	 ng 	Heal	two-year-old
+1268	2016-Nov-17	 ng 	Helpster	10-month-old
+1269	2016-Nov-17	 ng 	Heptio	months-old
+1270	2016-Nov-17	 ng 	Hotbody	two-year-old
+1271	2016-Nov-17	 ng 	Jongla	seven-year-old
+1272	2016-Nov-17	 ng 	M87	four-year-old
+1273	2016-Nov-17	 ng 	Particle	five-year-old
+1274	2016-Nov-17	 ng 	Petuum	months-old
+1275	2016-Nov-17	 ng 	Tray.io	four-year-old
+1276	2016-Nov-17	 ng 	Uplevel Systems	unk
+1277	2016-Nov-17	 nf 	Slow Ventures	unk
+1278	2016-Nov-18	 ng 	BuzzFeed	unk
+1279	2016-Nov-18	 ng 	Cogito	nine-year-old
+1280	2016-Nov-18	 ng 	Handshake	4.5-year-old
+1281	2016-Nov-18	 ng 	Inspire Medical Systems	nine-year-old
+1282	2016-Nov-18	 ng 	PeerStreet	three-year-old
+1283	2016-Nov-18	 ng 	Prevalent	12-year-old
+1284	2016-Nov-18	 ng 	Renew	months-old
+1285	2016-Nov-18	 ng 	Sigfox	seven-year-old
+1286	2016-Nov-18	 ng 	Sparkcentral	five-year-old
+1287	2016-Nov-18	 ng 	Wearhaus	three-year-old
+1288	2016-Nov-18	 ng 	Yup	two-year-old
+1289	2016-Nov-18	 nf 	Sheila Gulati	unk
+1290	2016-Nov-21	 ng 	AdvisorEngine	two-year-old
+1291	2016-Nov-21	 ng 	Cera	five-month-old
+1292	2016-Nov-21	 ng 	Electric	months-old
+1293	2016-Nov-21	 ng 	Garmentory	2.5-year-old
+1294	2016-Nov-21	 ng 	Genalyte	nine-year-old
+1295	2016-Nov-21	 ng 	Joya Communications	four-year-old
+1296	2016-Nov-21	 ng 	PatSnap	nine-year-old
+1297	2016-Nov-21	 ng 	Rapid Healthcare	two-year-old
+1298	2016-Nov-21	 nf 	ARCH Venture Partners	unk
+1299	2016-Nov-21	 nf 	Hyperplane	nearly two-year-old
+1300	2016-Nov-21	 nf 	IDinvest Partners	19-year-old
+1301	2016-Nov-22	 ng 	Apptopia	five-year-old
+1302	2016-Nov-22	 ng 	Aye Finance	two-year-old
+1303	2016-Nov-22	 ng 	Barefoot Networks	3.5-year-old
+1304	2016-Nov-22	 ng 	Findo	months-old
+1305	2016-Nov-22	 ng 	Getui	six-year-old
+1306	2016-Nov-22	 ng 	Helpshift	five-year-old
+1307	2016-Nov-22	 ng 	LifeRobotics	nine-year-old
+1308	2016-Nov-22	 ng 	PayKey	two-year-old
+1309	2016-Nov-22	 ng 	Recursion Pharmaceuticals	three-year-old
+1310	2016-Nov-22	 ng 	SafeDK	two-year-old
+1311	2016-Nov-22	 ng 	True Link Financial	3.5-year-old
+1312	2016-Nov-22	 ng 	Vymo	three-year-old
+1313	2016-Nov-22	 nf 	Biomatics Capital Partners	two-year-old
+1314	2016-Nov-22	 nf 	Caffeinated Capital	seven-year-old
+1315	2016-Nov-22	 nf 	Information Venture Partners	unk
+1316	2016-Nov-22	 nf 	Telescope Partners	1.5-year-old
+1317	2016-Nov-28	 ng 	8i	2.5-year-old
+1318	2016-Nov-28	 ng 	Agricool	year-old
+1319	2016-Nov-28	 ng 	Cashboard	two-year-old
+1320	2016-Nov-28	 ng 	Galera Therapeutics	seven-year-old
+1321	2016-Nov-28	 ng 	Hornet	five-year-old
+1322	2016-Nov-28	 ng 	ItemMaster	seven-year-old
+1323	2016-Nov-28	 ng 	Knowlarity Communications	seven-year-old
+1324	2016-Nov-28	 ng 	Kymab	seven-year-old
+1325	2016-Nov-28	 ng 	Proficio	six-year-old
+1326	2016-Nov-28	 ng 	SafeDK	two-year-old
+1327	2016-Nov-28	 ng 	Shockwave Medical	seven-year-old
+1328	2016-Nov-28	 ng 	Sightbox	two-year-old
+1329	2016-Nov-28	 ng 	Silexica	two-year-old
+1330	2016-Nov-28	 ng 	Soul Machines	months-old
+1331	2016-Nov-28	 ng 	Stripe	six-year-old
+1332	2016-Nov-28	 ng 	Wynd	unk
+1333	2016-Nov-28	 ng 	Zola	three-year-old
+1334	2016-Nov-28	 nf 	BMW i Ventures	unk
+1335	2016-Nov-28	 nf 	Draper Nexus	five-year-old
+1336	2016-Nov-28	 nf 	Playground Ventures	unk
+1337	2016-Nov-28	 nf 	Seraphim Capital	10-year-old
+1338	2016-Nov-28	 nf 	SV Angel	seven-year-old
+1339	2016-Nov-29	 ng 	AudioCure Pharma	six-year-old
+1340	2016-Nov-29	 ng 	BioMensio	unk
+1341	2016-Nov-29	 ng 	Devialet	nine-year-old
+1342	2016-Nov-29	 ng 	Fluidic Energy	unk
+1343	2016-Nov-29	 ng 	HawkEye 360	year-old
+1344	2016-Nov-29	 ng 	Innovent Biologics	five-year-old
+1345	2016-Nov-29	 ng 	OxThera	unk
+1346	2016-Nov-29	 ng 	QuantGroup	two-year-old
+1347	2016-Nov-29	 ng 	Tetra Discovery Partners	six-year-old
+1348	2016-Nov-29	 ng 	Vaadin	16-year-old
+1349	2016-Nov-29	 ng 	TransPod	1.5-year-old
+1350	2016-Nov-29	 nf 	WI Harper Group	unk
+1351	2016-Nov-29	 nf 	Another day	unk
+1352	2016-Nov-30	 ng 	Civis Analytics	three-year-old
+1353	2016-Nov-30	 ng 	Clue	three-year-old
+1354	2016-Nov-30	 ng 	Dubsmash	two-year-old
+1355	2016-Nov-30	 ng 	Gett	six-year-old
+1356	2016-Nov-30	 ng 	Grokker	four-year-old
+1357	2016-Nov-30	 ng 	Hyphenate	1.5-year-old
+1358	2016-Nov-30	 ng 	Inagora	two-year-old
+1359	2016-Nov-30	 ng 	LovePop	2.5-year-old
+1360	2016-Nov-30	 ng 	Nohla Therapeutics	1.5-year-old
+1361	2016-Nov-30	 ng 	Novogene Technology	five-year-old
+1362	2016-Nov-30	 ng 	Ōura Ring	three-year-old
+1363	2016-Nov-30	 ng 	Phil	1.5-year-old
+1364	2016-Nov-30	 ng 	ServiceAide	six-month-old
+1365	2016-Nov-30	 ng 	SonarSource	unk
+1366	2016-Nov-30	 ng 	Sudden Coffee	year-old
+1367	2016-Nov-30	 ng 	TicketSauce	three-year-old
+1368	2016-Nov-30	 ng 	TraceLink	seven-year-old
+1369	2016-Nov-30	 nf 	Accel India	unk
+1370	2016-Nov-30	 nf 	Jungle Ventures	unk
+1371	2016-Dec-01	 ng 	Dashbot	months-old
+1372	2016-Dec-01	 ng 	Geenee	two-year-old
+1373	2016-Dec-01	 ng 	Glossier	two-year-old
+1374	2016-Dec-01	 ng 	Opendoor	three-year-old
+1375	2016-Dec-01	 ng 	Osterhout Design Group	17-year-old
+1376	2016-Dec-01	 ng 	Qstream	unk
+1377	2016-Dec-01	 ng 	SQZ Biotech	three-year-old
+1378	2016-Dec-01	 ng 	WorkRamp	two-year-old
+1379	2016-Dec-01	 nf 	Founder Collective	seven-year-old
+1380	2016-Dec-01	 nf 	F2 Capital	unk
+1381	2016-Dec-02	 ng 	AttackIQ	three-year-old
+1382	2016-Dec-02	 ng 	ConnectedYard	2.5-year-old
+1383	2016-Dec-02	 ng 	Core Diagnostics	four-year-old
+1384	2016-Dec-02	 ng 	Exotec Solutions	year-old
+1385	2016-Dec-02	 ng 	Fidzup	five-year-old
+1386	2016-Dec-02	 ng 	Get Smart Content	five-year-old
+1387	2016-Dec-02	 ng 	Nova Lumos	4.5-year-old
+1388	2016-Dec-02	 ng 	SendGrid	seven-year-old
+1389	2016-Dec-02	 ng 	VictorOps	four-year-old
+1390	2016-Dec-02	 nf 	Bullpen Capital	six-year-old
+1391	2016-Dec-05	 ng 	Datrium	four-year-old
+1392	2016-Dec-05	 ng 	Lemonade	1.5-year-old
+1393	2016-Dec-05	 ng 	Lilium Aviation	nearly two-year-old
+1394	2016-Dec-05	 ng 	Mariana	three-year-old
+1395	2016-Dec-05	 ng 	MedNet Solutions	15-year-old
+1396	2016-Dec-05	 ng 	Zero Latency	three-year-old
+1397	2016-Dec-05	 nf 	ff Venture Capital	unk
+1398	2016-Dec-05	 nf 	The University of Chicago	unk
+1399	2016-Dec-06	 ng 	Abyrx	three-year-old
+1400	2016-Dec-06	 ng 	Accompany	three-year-old
+1401	2016-Dec-06	 ng 	Hubba	four-year-old
+1402	2016-Dec-06	 ng 	Metabolon	16-year-old
+1403	2016-Dec-06	 ng 	MoneyLion	three-year-old
+1404	2016-Dec-06	 ng 	R3	four-year-old
+1405	2016-Dec-06	 ng 	StrongDM	four-year-old
+1406	2016-Dec-06	 ng 	Visbit	1.5-year-old
+1407	2016-Dec-06	 nf 	Huiyin Blockchain Venture	unk
+1408	2016-Dec-06	 nf 	Section 32	unk
+1409	2016-Dec-06	 nf 	Partech Ventures	unk
+1410	2016-Dec-06	 nf 	Tyson Foods	unk
+1411	2016-Dec-08	 ng 	Augmedix	four-year-old
+1412	2016-Dec-08	 ng 	Brandless	year-old
+1413	2016-Dec-08	 ng 	Breather	four-year-old
+1414	2016-Dec-08	 ng 	eFounders	five-year-old
+1415	2016-Dec-08	 ng 	Marvel	three-year-old
+1416	2016-Dec-08	 ng 	Molotov	year-old
+1417	2016-Dec-08	 ng 	Movinga	1.5-year-old
+1418	2016-Dec-08	 ng 	Nectar	2.5-year-old
+1419	2016-Dec-08	 ng 	Osmo	three-year-old
+1420	2016-Dec-08	 ng 	Thanx	four-year-old
+1421	2016-Dec-08	 ng 	Vida Health	two-year-old
+1422	2016-Dec-08	 ng 	Waggle	year-old
+1423	2016-Dec-09	 ng 	AutoGraph	five-year-old
+1424	2016-Dec-09	 ng 	Crossover Health	six-year-old
+1425	2016-Dec-09	 ng 	Elysium Health	two-year-old
+1426	2016-Dec-09	 ng 	Eutilex	unk
+1427	2016-Dec-09	 ng 	Eversound	two-year-old
+1428	2016-Dec-09	 ng 	Nantero	16-year-old
+1429	2016-Dec-09	 ng 	Nubank	three-year-old
+1430	2016-Dec-09	 ng 	Podotree	six-year-old
+1431	2016-Dec-09	 ng 	Sixa	year-old
+1432	2016-Dec-09	 ng 	Vapogenix	unk
+1433	2016-Dec-09	 ng 	Vesper	seven-year-old
+1434	2016-Dec-12	 ng 	ApplePie Capital	three-year-old
+1435	2016-Dec-12	 ng 	Blackmore Sensors and Analytics	year-old
+1436	2016-Dec-12	 ng 	Dynamic Signal	six-year-old
+1437	2016-Dec-12	 ng 	Element AI	months-old
+1438	2016-Dec-12	 ng 	Houseparty	five-year-old
+1439	2016-Dec-12	 ng 	Investoo	new
+1440	2016-Dec-12	 ng 	JetSmarter	four-year-old
+1441	2016-Dec-12	 ng 	Mojio	four-year-old
+1442	2016-Dec-12	 ng 	Pendo	three-year-old
+1443	2016-Dec-12	 ng 	Tact	four-year-old
+1444	2016-Dec-12	 ng 	Wallarm	three-year-old
+1445	2016-Dec-12	 ng 	Zepl	five-year-old
+1446	2016-Dec-12	 nf 	Breakthrough Energy Ventures	unk
+1447	2016-Dec-12	 nf 	LAUNCHub Ventures	four-year-old
+1448	2016-Dec-12	 nf 	unk	unk
+1449	2016-Dec-12	 nf 	Wing Venture Capital	unk
+1450	2016-Dec-13	 ng 	Boatsetter	three-year-old
+1451	2016-Dec-13	 ng 	BreezoMeter	2.5-year-old
+1452	2016-Dec-13	 ng 	Clear Labs	three-year-old
+1453	2016-Dec-13	 ng 	Codementor	three-year-old
+1454	2016-Dec-13	 ng 	CommLoan	two-year-old
+1455	2016-Dec-13	 ng 	Inkling	seven-year-old
+1456	2016-Dec-13	 ng 	Indifi Technologies	1.5-year-old
+1457	2016-Dec-13	 ng 	Iterable	three-year-old
+1458	2016-Dec-13	 ng 	Kenna Security	five-year-old
+1459	2016-Dec-13	 ng 	Lola	two-year-old
+1460	2016-Dec-13	 ng 	Lygos	six-year-old
+1461	2016-Dec-13	 ng 	Nasuni	7.5-year-old
+1462	2016-Dec-13	 ng 	Numerai	14-month-old
+1463	2016-Dec-13	 ng 	ObservePoint	nine-year-old
+1464	2016-Dec-13	 ng 	OfBusiness	year-old
+1465	2016-Dec-13	 ng 	Privacy	2.5-year-old
+1466	2016-Dec-13	 ng 	Signal Media	three-year-old
+1467	2016-Dec-13	 ng 	Socure	four-year-old
+1468	2016-Dec-13	 ng 	SupportPay	5.5-year-old
+1469	2016-Dec-13	 ng 	Survios	three-year-old
+1470	2016-Dec-13	 ng 	Swap.com	four-year-old
+1471	2016-Dec-13	 ng 	Traxo	unk
+1472	2016-Dec-13	 ng 	XSEED Education	unk
+1473	2016-Dec-13	 nf 	Jeff Carter	unk
+1474	2016-Dec-13	 nf 	Pitango Venture Capital	unk
+1475	2016-Dec-14	 ng 	Alinto	16-year-old
+1476	2016-Dec-14	 ng 	Amcure	five-year-old
+1477	2016-Dec-14	 ng 	BlueVine	three-year-old
+1478	2016-Dec-14	 ng 	strong>Boom	year-old
+1479	2016-Dec-14	 ng 	Chappy	new
+1480	2016-Dec-14	 ng 	Conversica	nine-year-old
+1481	2016-Dec-14	 ng 	EcoVadis	nine-year-old
+1482	2016-Dec-14	 ng 	strong>EyeCam	two-year-old
+1483	2016-Dec-14	 ng 	Knowmail	two-year-old
+1484	2016-Dec-14	 ng 	LogicWorks	23-year-old
+1485	2016-Dec-14	 ng 	strong>Managed by Q	three-year-old
+1486	2016-Dec-14	 ng 	strong>ncgCARE	23-year-old
+1487	2016-Dec-14	 ng 	Splash	five-year-old
+1488	2016-Dec-14	 ng 	strong>STRIVR Labs	two-year-old
+1489	2016-Dec-14	 ng 	strong>Suiteness	two-year-old
+1490	2016-Dec-14	 ng 	Symphony	two-year-old
+1491	2016-Dec-14	 ng 	Tripping.com	six-year-old
+1492	2016-Dec-14	 ng 	Truecaller	seven-year-old
+1493	2016-Dec-15	 ng 	Amino Apps	five-year-old
+1494	2016-Dec-15	 ng 	Databricks	three-year-old
+1495	2016-Dec-15	 ng 	ExplainEverything	six-year-old
+1496	2016-Dec-15	 ng 	Goldfinch Bio	unk
+1497	2016-Dec-15	 ng 	Hopper	nine-year-old
+1498	2016-Dec-15	 ng 	HyperScience	three-year-old
+1499	2016-Dec-15	 ng 	Kreditech	4.5-year-old
+1500	2016-Dec-15	 ng 	OWHealth	months-old
+1501	2016-Dec-15	 ng 	Qineqt	three-year-old
+1502	2016-Dec-15	 ng 	Zola	three-year-old
+1503	2016-Dec-15	 nf 	Alven Capital	16-year-old
+1504	2016-Dec-15	 nf 	GoAhead Ventures	1.5-year-old
+1505	2016-Dec-16	 ng 	Cota	two-year-old
+1506	2016-Dec-16	 ng 	Femasys	12-year-old
+1507	2016-Dec-16	 ng 	Memebox	4.5-year-old
+1508	2016-Dec-16	 ng 	OB1	year-old
+1509	2016-Dec-16	 ng 	One	10.5-year-old
+1510	2016-Dec-16	 ng 	Pocket Aces	2.5-year-old
+1511	2016-Dec-16	 ng 	Springbot	four-year-old
+1512	2016-Dec-16	 ng 	VictorOps	four-year-old
+1513	2016-Dec-16	 ng 	Wyre	three-year-old
+1514	2016-Dec-19	 ng 	Airbnb	unk
+1515	2016-Dec-19	 ng 	Careem	4.5-year-old
+1516	2016-Dec-19	 ng 	Dragonera	months-old
+1517	2016-Dec-19	 ng 	Lumus	16-year-old
+1518	2016-Dec-19	 ng 	NoBroker	two-year-old
+1519	2016-Dec-19	 ng 	Marketing Evolution	16-year-old
+1520	2016-Dec-19	 ng 	OneWeb	four-year-old
+1521	2016-Dec-19	 ng 	Starry Internet	two-year-old
+1522	2016-Dec-19	 nf 	Gomif Partners	unk
+1523	2016-Dec-20	 ng 	Appetize	five-year-old
+1524	2016-Dec-20	 ng 	Dynamic Yield	five-year-old
+1525	2016-Dec-20	 ng 	eSUB Construction Software	unk
+1526	2016-Dec-20	 ng 	iPrice	unk
+1527	2016-Dec-20	 ng 	LaunchDarkly	2.5-year-old
+1528	2016-Dec-20	 ng 	LeanData	4.5-year-old
+1529	2016-Dec-20	 ng 	Preservica	four-year-old
+1530	2016-Dec-20	 ng 	SuperFlex	year-old
+1531	2016-Dec-20	 ng 	Yeahmobi	five-year-old
+1532	2016-Dec-20	 ng 	Zoomcar	nearly four-year-old
+1533	2016-Dec-21	 ng 	Azur Drones	four-year-old
+1534	2016-Dec-21	 ng 	Ditto Labs	four-year-old
+1535	2016-Dec-21	 ng 	FlatFrog	nine-year-old
+1536	2016-Dec-21	 ng 	HelloFresh	four-year-old
+1537	2016-Dec-21	 ng 	IguanaFix	three-year-old
+1538	2016-Dec-21	 ng 	Lefit	year-old
+1539	2016-Dec-21	 ng 	Optoro	unk
+1540	2016-Dec-21	 ng 	Price f(x)	five-year-old
+1541	2016-Dec-21	 ng 	Revolution Medicines	year-old
+1542	2016-Dec-21	 ng 	Ygrene Energy Fund	seven-year-old
+1543	2016-Dec-21	 ng 	Zipari	unk
+1544	2016-Dec-21	 nf 	Greenspring Associates	14-year-old
+1545	2016-Dec-22	 ng 	Aihuishou	five-year-old
+1546	2016-Dec-22	 ng 	ApoGen Biotechnologies	new
+1547	2016-Dec-22	 ng 	aXiomatic	months-old
+1548	2016-Dec-22	 ng 	Backtrace I/O	2.5-year-old
+1549	2016-Dec-22	 ng 	Huochebang	two-year-old
+1550	2016-Dec-22	 ng 	Neurable	year-old
+1551	2016-Dec-22	 ng 	Xplenty	four-year-old
+1552	2016-Dec-22	 nf 	Exfinity Venture Partners	2.5-year-old
+1553	2016-Dec-23	 ng 	CrowdCow	1.5-year-old
+1554	2016-Dec-23	 ng 	Koubei	unk
+1555	2016-Dec-23	 ng 	Nutmeg	six-year-old
+1556	2016-Dec-23	 ng 	Plutora	four-year-old
+1557	2016-Dec-23	 ng 	Polychain Capital	six-month-old
+1558	2016-Dec-23	 ng 	Shaper	1.5-year-old
+1559	2016-Dec-23	 nf 	Algebra Ventures	unk
+1560	2016-Dec-23	 nf 	Felicitous Investors	four-year-old
+1561	2016-Dec-23	 nf 	Lightbox India Advisors	unk
+1562	2016-Dec-23	 nf 	SignalFire	unk
+1563	2017-Jan-03	 ng 	Byte Foods	year-old
+1564	2017-Jan-03	 ng 	Flytrex	three-year-old
+1565	2017-Jan-03	 ng 	Intarcia Therapeutics	20-year-old
+1566	2017-Jan-03	 ng 	Integrated Diagnostics	seven-year-old
+1567	2017-Jan-03	 ng 	NA-KD	1.-5-year-old
+1568	2017-Jan-03	 ng 	Minerva Surgical	unk
+1569	2017-Jan-03	 ng 	Monese	three-year-old
+1570	2017-Jan-03	 ng 	Proterra	12-year-old
+1571	2017-Jan-03	 ng 	Rent the Runway	seven-year-old
+1572	2017-Jan-03	 ng 	Tattoodo	three-year-old
+1573	2017-Jan-03	 nf 	Data Collective	unk
+1574	2017-Jan-03	 nf 	Loup Ventures	unk
+1575	2017-Jan-03	 nf 	Trifecta Capital	2.5-year-old
+1576	2017-Jan-04	 ng 	Ascletis	five-year-old
+1577	2017-Jan-04	 ng 	Audio Analytic	unk
+1578	2017-Jan-04	 ng 	Mobibike	1.5-year-old
+1579	2017-Jan-04	 ng 	Ripio	three-year-old
+1580	2017-Jan-04	 ng 	Sarcos Robotics	two-year-old
+1581	2017-Jan-04	 ng 	Satchel	unk
+1582	2017-Jan-04	 ng 	scPharmaceuticals	two-year-old
+1583	2017-Jan-04	 ng 	Synthego	four-year-old
+1584	2017-Jan-04	 nf 	Digitalis	year-old
+1585	2017-Jan-04	 nf 	SoftBank Group technology fund	unk
+1586	2017-Jan-04	 nf 	SOSV Investments	unk
+1587	2017-Jan-04	 nf 	Versant Ventures	unk
+1588	2017-Jan-05	 ng 	Avizia	3.5-year-old
+1589	2017-Jan-05	 ng 	Blockstack	three-year-old
+1590	2017-Jan-05	 ng 	Cerêve	unk
+1591	2017-Jan-05	 ng 	Chushou TV	six-year-old
+1592	2017-Jan-05	 ng 	ClearScholar	year-old
+1593	2017-Jan-05	 ng 	Exact Imaging	13-year-old
+1594	2017-Jan-05	 ng 	Fugue	four-year-old
+1595	2017-Jan-05	 ng 	Klipfolio	15-year-old
+1596	2017-Jan-05	 ng 	Molecular Stethoscope	year-old
+1597	2017-Jan-05	 ng 	Namely	four-year-old
+1598	2017-Jan-05	 ng 	Neon Therapeutics	year-old
+1599	2017-Jan-05	 ng 	OmniActive Health Technologies	unk
+1600	2017-Jan-05	 ng 	Reputation.com	10-year-old
+1601	2017-Jan-05	 ng 	Rethink Robotics	unk
+1602	2017-Jan-05	 nf 	Better Ventures	unk
+1603	2017-Jan-06	 ng 	AOBiome	3.5-year-old
+1604	2017-Jan-06	 ng 	Bardy Diagnostics	three-year-old
+1605	2017-Jan-06	 ng 	BlackThorn Therapeutics	3.5-year-old
+1606	2017-Jan-06	 ng 	Bitglass	3.5-year-old
+1607	2017-Jan-06	 ng 	CloudCraze	seven-year-old
+1608	2017-Jan-06	 ng 	Grail	year-old
+1609	2017-Jan-06	 ng 	Mediafly	10-year-old
+1610	2017-Jan-06	 ng 	Payfone	unk
+1611	2017-Jan-06	 ng 	Weedingtech	five-year-old
+1612	2017-Jan-06	 nf 	Mubadala Development Co.	unk
+1613	2017-Jan-09	 ng 	Blue Pillar	unk
+1614	2017-Jan-09	 ng 	Cavion	13-year-old
+1615	2017-Jan-09	 ng 	CiVi Biopharma	year-old
+1616	2017-Jan-09	 ng 	Eleven James	three-year-old
+1617	2017-Jan-09	 ng 	MatriSys Bioscience	two-year-old
+1618	2017-Jan-09	 ng 	Microbion	35-year-old
+1619	2017-Jan-09	 ng 	MyTomorrows	four-year-old
+1620	2017-Jan-09	 ng 	Satsuma Pharmaceuticals	new
+1621	2017-Jan-09	 ng 	SiteOne	six-year-old
+1622	2017-Jan-09	 ng 	Team8	2.5-year-old
+1623	2017-Jan-09	 nf 	Cendana Capital	unk
+1624	2017-Jan-09	 nf 	PivotNorth Capital	unk
+1625	2017-Jan-10	 ng 	Aledade	two-year-old
+1626	2017-Jan-10	 ng 	The Athletic	year-old
+1627	2017-Jan-10	 ng 	Choozle	4.5-year-old
+1628	2017-Jan-10	 ng 	Cloud Elements	4.5-year-old
+1629	2017-Jan-10	 ng 	Ivantis	10-year-old
+1630	2017-Jan-10	 ng 	Kaminario	six-year-old
+1631	2017-Jan-10	 ng 	Kwipped	five-year-old
+1632	2017-Jan-10	 ng 	Lalamove	three-year-old
+1633	2017-Jan-10	 ng 	Logtrust	5.5-year-old
+1634	2017-Jan-10	 ng 	Mighty AI	two-year-old
+1635	2017-Jan-10	 ng 	MobileCause	12-year-old
+1636	2017-Jan-10	 ng 	PeraHealth	nine-year-old
+1637	2017-Jan-10	 ng 	Phantom	2.5-year-old
+1638	2017-Jan-10	 ng 	Resy	two-year-old
+1639	2017-Jan-10	 ng 	Scandit	unk
+1640	2017-Jan-10	 ng 	SnapMD	three-year-old
+1641	2017-Jan-10	 nf 	Highway1	unk
+1642	2017-Jan-10	 nf 	The Knight Foundation	unk
+1643	2017-Jan-11	 ng 	CompareEuropeGroup	1.5-year-old
+1644	2017-Jan-11	 ng 	EasyStack	two-year-old
+1645	2017-Jan-11	 ng 	ezCater	10-year-old
+1646	2017-Jan-11	 ng 	FarmLogs	four-year-old
+1647	2017-Jan-11	 ng 	HOOQ	two-year-old
+1648	2017-Jan-11	 ng 	iZettle	6.5-year-old
+1649	2017-Jan-11	 ng 	Kuli Kuli	five-year-old
+1650	2017-Jan-11	 ng 	Revl	two-year-old
+1651	2017-Jan-11	 ng 	SmarterHQ	six-year-old
+1652	2017-Jan-11	 ng 	Velocidi	six-year-old
+1653	2017-Jan-11	 nf 	Correlation Ventures	unk
+1654	2017-Jan-11	 nf 	Thayer Ventures	unk
+1655	2017-Jan-12	 ng 	Campanda	3.5-year-old
+1656	2017-Jan-12	 ng 	Clearwater Clinical	12-year-old
+1657	2017-Jan-12	 ng 	Funding Circle	unk
+1658	2017-Jan-12	 ng 	Iguama	2.5-year-old
+1659	2017-Jan-12	 ng 	Kasisto	3.5-year-old
+1660	2017-Jan-12	 ng 	Kayrros	year-old
+1661	2017-Jan-12	 ng 	OncoImmune	unk
+1662	2017-Jan-12	 ng 	Roambee	two-year-old
+1663	2017-Jan-12	 ng 	Stadium Goods	nearly two-year-old
+1664	2017-Jan-12	 ng 	Staffjoy	two-year-old
+1665	2017-Jan-12	 nf 	East Ventures	unk
+1666	2017-Jan-12	 nf 	Engage	unk
+1667	2017-Jan-12	 nf 	Eclipse Ventures	unk
+1668	2017-Jan-13	 ng 	Gridtential	six-year-old
+1669	2017-Jan-13	 ng 	HouseCanary	2.5-year-old
+1670	2017-Jan-13	 ng 	LingoLive	four-year-old
+1671	2017-Jan-13	 ng 	Linkem	16-year-old
+1672	2017-Jan-13	 ng 	MobileMD System	three-year-old
+1673	2017-Jan-13	 ng 	Starship Technologies	2.5-year-old
+1674	2017-Jan-13	 ng 	Yoshi	nearly year-old
+1675	2017-Jan-13	 nf 	Balderton Capital	unk
+1676	2017-Jan-13	 nf 	Cleveland Avenue	unk
+1677	2017-Jan-13	 nf 	Brent Hoberman	unk
+1678	2017-Jan-13	 nf 	Kuang-Chi Group	unk
+1679	2017-Jan-13	 nf 	Northwestern Mutual Life Insurance	unk
+1680	2017-Jan-17	 ng 	Ascent360	three-year-old
+1681	2017-Jan-17	 ng 	AppsFlyer	5.5-year-old
+1682	2017-Jan-17	 ng 	Fraugster	two-year-old
+1683	2017-Jan-17	 ng 	Letgo	year-old
+1684	2017-Jan-17	 ng 	Measure	2.5-year-old
+1685	2017-Jan-17	 ng 	Neufund	six-month-old
+1686	2017-Jan-17	 ng 	OPĀQ Networks	unk
+1687	2017-Jan-17	 ng 	OrderGroove	six-year-old
+1688	2017-Jan-17	 ng 	Practo	nine-year-old
+1689	2017-Jan-17	 ng 	SecureSet Academy	two-year-old
+1690	2017-Jan-17	 ng 	Spaces	year-old
+1691	2017-Jan-17	 ng 	Starburst Labs	4.5-year-old
+1692	2017-Jan-17	 ng 	Upside.com	year-old
+1693	2017-Jan-17	 ng 	Zoom	five-year-old
+1694	2017-Jan-17	 nf 	Serena Capital	nine-year-old
+1695	2017-Jan-17	 nf 	Bunkr	five-year-old
+1696	2017-Jan-17	 nf 	Microsoft has acquired Maluuba	five-year-old
+1697	2017-Jan-18	 ng 	Collibra	nine-year-old
+1698	2017-Jan-18	 ng 	Deputy	nine-year-old
+1699	2017-Jan-18	 ng 	InsideSales	12.5-year-old
+1700	2017-Jan-18	 ng 	Iris Automation	year-old
+1701	2017-Jan-18	 ng 	Laugh.ly	months-old
+1702	2017-Jan-18	 ng 	Neurala	nine-year-old
+1703	2017-Jan-18	 ng 	Pipedrive	six-year-old
+1704	2017-Jan-18	 ng 	Process Street	two-year-old
+1705	2017-Jan-18	 ng 	ProtectWise	3.5-year-old
+1706	2017-Jan-18	 ng 	Zeotap	two-year-old
+1707	2017-Jan-18	 nf 	Alchemist Accelerator	three-year-old
+1708	2017-Jan-18	 nf 	The Tej Kohli Impact Investment Initiative	unk
+1709	2017-Jan-18	 nf 	Motive Partners	unk
+1710	2017-Jan-18	 nf 	New Enterprise Associates	unk
+1711	2017-Jan-18	 nf 	Google, Twitter, Fabric	unk
+1712	2017-Jan-18	 nf 	Simplivity	unk
+1713	2017-Jan-18	 nf 	Jason Child	unk
+1714	2017-Jan-18	 nf 	Compass	unk
+1715	2017-Jan-18	 nf 	unk	unk
+1716	2017-Jan-19	 ng 	Amra	6.5-year-old
+1717	2017-Jan-19	 ng 	Bankin’	six-year-old
+1718	2017-Jan-19	 ng 	Boughtbymany	three-year-old
+1719	2017-Jan-19	 ng 	Credible	four-year-old
+1720	2017-Jan-19	 ng 	DigiLens	13-year-old
+1721	2017-Jan-19	 ng 	Fabric	unk
+1722	2017-Jan-19	 ng 	Fig	1.5-year-year-old
+1723	2017-Jan-19	 ng 	Flirtey	three-year-old
+1724	2017-Jan-19	 ng 	FLYR	three-year-old
+1725	2017-Jan-19	 ng 	Headset	year-old
+1726	2017-Jan-19	 ng 	Huangbaoche	two-year-old
+1727	2017-Jan-19	 ng 	Iyzico	four-year-old
+1728	2017-Jan-19	 ng 	The Players’ Tribune	two-year-old
+1729	2017-Jan-19	 ng 	Shenma Finance	1.5-year-old
+1730	2017-Jan-19	 ng 	SilverCloud Health	five-year-old
+1731	2017-Jan-19	 ng 	Salsify	four-year-old
+1732	2017-Jan-19	 ng 	Split	year-old
+1733	2017-Jan-19	 ng 	TellusLabs	seven-month-old
+1734	2017-Jan-19	 ng 	URWork	five-year-old
+1735	2017-Jan-20	 ng 	Adarza BioSystems	nine-year-old
+1736	2017-Jan-20	 ng 	Cristal Therapeutics	unk
+1737	2017-Jan-20	 ng 	Dwolla	nine-year-old
+1738	2017-Jan-20	 ng 	Faradion	six-year-old
+1739	2017-Jan-20	 ng 	Lmrkts	four-year-old
+1740	2017-Jan-20	 nf 	CAVU Venture Partners	unk
+1741	2017-Jan-20	 nf 	HTC Vive	unk
+1742	2017-Jan-20	 nf 	Raine Ventures	3.5-year-old
+1743	2017-Jan-23	 ng 	Adaptemy	three-year-old
+1744	2017-Jan-23	 ng 	Atlas Genetics	12-year-old
+1745	2017-Jan-23	 ng 	Cuemath	five-year-old
+1746	2017-Jan-23	 ng 	EasyMile	2.5-year-old
+1747	2017-Jan-23	 ng 	Habito	unk
+1748	2017-Jan-23	 ng 	Lobster	three-year-old
+1749	2017-Jan-23	 ng 	Lumus	16-year-old
+1750	2017-Jan-23	 ng 	The Noodle Companies	6.5-year-old
+1751	2017-Jan-23	 ng 	Pitchero	10-year-old
+1752	2017-Jan-23	 ng 	Raze	unk
+1753	2017-Jan-23	 ng 	Talentoday	3.5-year-old
+1754	2017-Jan-23	 ng 	Tricentis	10-year-old
+1755	2017-Jan-23	 ng 	TrustPilot	10-year-old
+1756	2017-Jan-23	 ng 	Whistle Sports	three-year-old
+1757	2017-Jan-23	 nf 	Atomic Management	three-year-old
+1758	2017-Jan-23	 nf 	China, Internet Sector Fund	unk
+1759	2017-Jan-24	 ng 	EquipmentShare	2.5-year-old
+1760	2017-Jan-24	 ng 	LiquiGlide	four-year-old
+1761	2017-Jan-24	 ng 	Prattle	unk
+1762	2017-Jan-24	 ng 	Redox	three-year-old
+1763	2017-Jan-24	 ng 	Secret Double Octopus	1.5-year-old
+1764	2017-Jan-24	 ng 	Voodoo Manufacturing	1.5-year-old
+1765	2017-Jan-24	 nf 	Merus Capital	nine-year-old
+1766	2017-Jan-24	 nf 	Origin Ventures	17-year-old
+1767	2017-Jan-25	 ng 	Button	2.5-year-old
+1768	2017-Jan-25	 ng 	Cleo	15-month-old
+1769	2017-Jan-25	 ng 	Doctolib	3.5-year-old
+1770	2017-Jan-25	 ng 	KenSci	1.5-year-old
+1771	2017-Jan-25	 ng 	Ring	four-year-old
+1772	2017-Jan-25	 ng 	SentinelOne	four-year-old
+1773	2017-Jan-25	 ng 	Vestiaire Collective	unk
+1774	2017-Jan-26	 ng 	Jiobit	1.5-year-old
+1775	2017-Jan-26	 ng 	Lighthouse	three-year-old
+1776	2017-Jan-26	 ng 	Raisin	unk
+1777	2017-Jan-26	 ng 	Reflektive	three-year-old
+1778	2017-Jan-26	 ng 	Verily Life Sciences	unk
+1779	2017-Jan-26	 nf 	Venrock	unk
+1780	2017-Jan-27	 ng 	Biscayne Neurotherapeutics	unk
+1781	2017-Jan-27	 ng 	Koru Kids	year-old
+1782	2017-Jan-27	 ng 	UberCloud	2.5-year-old
+1783	2017-Jan-27	 ng 	WorkFusion	6.5-year-old
+1784	2017-Jan-27	 nf 	Nyca Partners	unk
+1785	2017-Jan-30	 ng 	BitFury Group	four-year-old
+1786	2017-Jan-30	 ng 	The Bouqs	four-year-old
+1787	2017-Jan-30	 ng 	Budbee	three-year-old
+1788	2017-Jan-30	 ng 	CafeX Communications	three-year-old
+1789	2017-Jan-30	 ng 	Entrypoint	year-old
+1790	2017-Jan-30	 ng 	Land Life Company	three-year-old
+1791	2017-Jan-30	 ng 	Mindspace	two-year-old
+1792	2017-Jan-30	 ng 	Reviver	unk
+1793	2017-Jan-30	 ng 	Skinjay	4.5-year-old
+1794	2017-Jan-30	 ng 	Spoke	3.5-year-old
+1795	2017-Jan-31	 nf 	Comparably	1.5-year-old
+1796	2017-Jan-31	 nf 	Earnix	16-year-old
+1797	2017-Jan-31	 nf 	Feedvisor	nearly six-year-old
+1798	2017-Jan-31	 nf 	GoKid	1.5-year-old
+1799	2017-Jan-31	 nf 	Qvivr	2.5-year-old
+1800	2017-Jan-31	 nf 	Radish	year-old
+1801	2017-Jan-31	 nf 	SoundHound	unk
+1802	2017-Jan-31	 nf 	TeamSnap	six-year-old
+1803	2017-Jan-31	 nf 	YouEarnedIt	four-year-old
+1804	2017-Jan-31	 nf 	Third Kind Venture Capital	unk
+1805	2017-Jan-31	 nf 	Centerfield	five-year-old
+1806	2017-Feb-01	 ng 	AIM	1.5-year-old
+1807	2017-Feb-01	 ng 	ClearMotion	unk
+1808	2017-Feb-01	 ng 	Glide Technologies	unk
+1809	2017-Feb-01	 ng 	Inmoji	2.5-year-old
+1810	2017-Feb-01	 ng 	InovyTec	six-year-old
+1811	2017-Feb-01	 ng 	Kinestral Technologies	6.5-year-old
+1812	2017-Feb-01	 ng 	LatiPay	year-old
+1813	2017-Feb-01	 ng 	Netgain	16-year-old
+1814	2017-Feb-01	 ng 	Reserve	2.5-year-old
+1815	2017-Feb-01	 ng 	Trussle	1.5-year-old
+1816	2017-Feb-01	 ng 	Uptake	2.5-year-old
+1817	2017-Feb-01	 ng 	Wealthsimple	2.5-year-old
+1818	2017-Feb-01	 ng 	Xometry	3.5-year-old
+1819	2017-Feb-02	 ng 	Against Gravity	year-old
+1820	2017-Feb-02	 ng 	Airware	5.5-year-old
+1821	2017-Feb-02	 ng 	ApcinteX	unk
+1822	2017-Feb-02	 ng 	Aquilon Energy Services	six-year-old
+1823	2017-Feb-02	 ng 	Disruptor Beam	six-year-old
+1824	2017-Feb-02	 ng 	GAN Integrity	2.5-year-old
+1825	2017-Feb-02	 ng 	GoldenKey	three-year-old
+1826	2017-Feb-02	 ng 	MapAnything	unk
+1827	2017-Feb-02	 ng 	Opti	2.5-year-old
+1828	2017-Feb-02	 ng 	PointClickCare	22-year-old
+1829	2017-Feb-02	 ng 	Scytl	16-year-old
+1830	2017-Feb-02	 ng 	SIM Partners	unk
+1831	2017-Feb-02	 ng 	Suplari	year-old
+1832	2017-Feb-02	 ng 	Tarveda Therapeutics	4.5-year-old
+1833	2017-Feb-02	 ng 	Text IQ	2.5-year-old
+1834	2017-Feb-02	 ng 	Vividion Therapeutics	2.5-year-old
+1835	2017-Feb-02	 ng 	Wity	year-old
+1836	2017-Feb-02	 ng 	Xnor.ai	unk
+1837	2017-Feb-02	 nf 	Grab	unk
+1838	2017-Feb-02	 nf 	Seroba	unk
+1839	2017-Feb-03	 ng 	Ceres Nanosciences	nine-year-old
+1840	2017-Feb-03	 ng 	Hutch	5.5-year-old
+1841	2017-Feb-03	 ng 	Jobaline	four-year-old
+1842	2017-Feb-03	 ng 	LendingFront	2.5-year-old
+1843	2017-Feb-03	 ng 	Litify	months-old
+1844	2017-Feb-03	 ng 	SparkFund	3.5-year-old
+1845	2017-Feb-03	 ng 	Taxfyle	1.5-year-old
+1846	2017-Feb-03	 ng 	VisCardia	1.5-year-old
+1847	2017-Feb-03	 nf 	Legend Capital	unk
+1848	2017-Feb-06	 ng 	Comprehend Systems	six-year-old
+1849	2017-Feb-06	 ng 	Desktop Metal	1.5-year-old
+1850	2017-Feb-06	 ng 	LogicHub	year-old
+1851	2017-Feb-06	 ng 	SubVRsive	1.5-year-old
+1852	2017-Feb-06	 ng 	TerrAvion	three-year-old
+1853	2017-Feb-06	 ng 	Virtualitics	new
+1854	2017-Feb-06	 nf 	Promus Ventures	4.5-year-old
+1855	2017-Feb-07	 ng 	Airsorted	year-old
+1856	2017-Feb-07	 ng 	Chorus.ai	year-old
+1857	2017-Feb-07	 ng 	Comprehend Systems	six-year-old
+1858	2017-Feb-07	 ng 	Exabeam	3.5-year-old
+1859	2017-Feb-07	 ng 	Fungible	1.5-year-old
+1860	2017-Feb-07	 ng 	Goat	six-year-old
+1861	2017-Feb-07	 ng 	Lola	1.5-year-old
+1862	2017-Feb-07	 ng 	Shansong Express	2.5-year-old
+1863	2017-Feb-07	 ng 	SnapRoute	1.5-year-old
+1864	2017-Feb-07	 ng 	Tenka Labs	1.5-year-old
+1865	2017-Feb-07	 ng 	TravelTriangle	three-year-old
+1866	2017-Feb-07	 ng 	Trax	6.5-year-old
+1867	2017-Feb-07	 ng 	Tucows	23-year-old
+1868	2017-Feb-07	 nf 	Frontline Ventures	four-year-old
+1869	2017-Feb-08	 ng 	hatbooks	2.5-year-old
+1870	2017-Feb-08	 nf 	Green Bay Ventures	unk
+1871	2017-Feb-08	 nf 	TrueBridge Capital Partners	unk
+1872	2017-Feb-08	 nf 	Stellaris Venture Partners	unk
+1873	2017-Feb-08	 nf 	Trident Capital Cybersecurity	unk
+1874	2017-Feb-09	 ng 	Better Mortgage	three-year-old
+1875	2017-Feb-09	 ng 	Exactuals	nearly six-year-old
+1876	2017-Feb-09	 ng 	Float	2.5-year-old
+1877	2017-Feb-09	 nf 	Greycroft Partners	unk
+1878	2017-Feb-09	 nf 	Airbnb	unk
+1879	2017-Feb-10	 ng 	Botworx.ai	year-old
+1880	2017-Feb-10	 ng 	Capsule8	months-old
+1881	2017-Feb-10	 ng 	Demisto	1.5-year-old
+1882	2017-Feb-10	 ng 	Empow	2.5-year-old
+1883	2017-Feb-10	 ng 	Evident.io	3.5-year-old
+1884	2017-Feb-10	 ng 	HealthReveal	two-year-old
+1885	2017-Feb-10	 ng 	Oncoinvent	six-year-old
+1886	2017-Feb-10	 nf 	Nasdaq	unk
+1887	2017-Mar-03	 ng 	Bobo's Oat Bars	12-year-old
+1888	2017-Mar-03	 ng 	Boragen	months-old
+1889	2017-Mar-03	 ng 	C3 IoT	unk
+1890	2017-Mar-03	 ng 	Examity	3.5-year-old
+1891	2017-Mar-03	 ng 	Grail	year-old
+1892	2017-Mar-03	 ng 	Hedvig	4.5-year-old
+1893	2017-Mar-03	 ng 	Lucy	year-old
+1894	2017-Mar-03	 ng 	Nearpod	4.5-year-old
+1895	2017-Mar-03	 ng 	OpenRent	unk
+1896	2017-Mar-03	 ng 	Surefire Medical	unk
+1897	2017-Mar-03	 nf 	Next Coast Ventures	1.5-year-old
+1898	2017-Mar-03	 nf 	Ribbit Capital	nearly five-year-old
+1899	2017-Mar-03	 nf 	Sofinnova Partners	unk
+1900	2017-Mar-03	 nf 	Symantec	unk
+1901	2017-Mar-06	 ng 	AgroStar	3.5-year-old
+1902	2017-Mar-06	 ng 	Atom Bank	three-year-old
+1903	2017-Mar-06	 ng 	Brayola	four-year-old
+1904	2017-Mar-06	 ng 	Busybusy	six-year-old
+1905	2017-Mar-06	 ng 	Factory	five-year-old
+1906	2017-Mar-06	 ng 	InGeneron	unk
+1907	2017-Mar-06	 ng 	NextEv	unk
+1908	2017-Mar-06	 ng 	Raken	2.5-year-old
+1909	2017-Mar-06	 nf 	unk	unk
+1910	2017-Mar-07	 ng 	Bigo Live	year-old
+1911	2017-Mar-07	 ng 	Confluent	unk
+1912	2017-Mar-07	 ng 	Current	new
+1913	2017-Mar-07	 ng 	Epicrop	3.5-year-old
+1914	2017-Mar-07	 ng 	Function of Beauty	1.5-year-old
+1915	2017-Mar-07	 ng 	iflix	three-year-old
+1916	2017-Mar-07	 ng 	Peerspace	3.5-year-old
+1917	2017-Mar-07	 nf 	Zero F	unk
+1918	2017-Mar-07	 nf 	Oak HC/FT Partners	unk
+1919	2017-Mar-07	 nf 	Notation Capital	two-year-old
+1920	2017-Mar-08	 ng 	Anchor FM	1.5-year-old
+1921	2017-Mar-08	 ng 	Caicloud	1.5-year-old
+1922	2017-Mar-08	 ng 	Dialogue	year-old
+1923	2017-Mar-08	 ng 	Farmer’s Business Network	2.5-year-old
+1924	2017-Mar-08	 ng 	Garrison Technology	2.5-year-old
+1925	2017-Mar-08	 ng 	Gobi	1.5-year-old
+1926	2017-Mar-08	 ng 	Hubble	nearly-year-old
+1927	2017-Mar-08	 ng 	ID.me	6.5-year-old
+1928	2017-Mar-08	 ng 	Instacart	unk
+1929	2017-Mar-08	 ng 	Isotropic Systems	three-year-old
+1930	2017-Mar-08	 ng 	Liven	3.5-year-old
+1931	2017-Mar-08	 ng 	LoopMe	five-year-old
+1932	2017-Mar-08	 ng 	Qapital	4.5-year-old
+1933	2017-Mar-08	 ng 	Quidd	nearly two-year-old
+1934	2017-Mar-08	 ng 	Veem	three-year-old
+1935	2017-Mar-08	 ng 	Velano Vascular	four-year-old
+1936	2017-Mar-08	 ng 	Virta Health	2.5-year-old
+1937	2017-Mar-08	 ng 	Wrapify	two-year-old
+1938	2017-Mar-08	 nf 	Last year	new
+1939	2017-Mar-09	 ng 	Astro	two-year-old
+1940	2017-Mar-09	 ng 	Chairish	unk
+1941	2017-Mar-09	 ng 	Chowbotics	2.5-year-old
+1942	2017-Mar-09	 ng 	Cradlepoint	unk
+1943	2017-Mar-09	 ng 	Currencycloud	five-year-old
+1944	2017-Mar-09	 ng 	Fluxx	five-year-old
+1945	2017-Mar-09	 ng 	Kidizen	six-year-old
+1946	2017-Mar-09	 ng 	Kinsa	five-year-old
+1947	2017-Mar-09	 ng 	OncoResponse	two-year-old
+1948	2017-Mar-09	 ng 	Prevedere	five-year-old
+1949	2017-Mar-09	 ng 	RealConnex	four-year-old
+1950	2017-Mar-09	 ng 	RiskSense	year-old
+1951	2017-Mar-09	 ng 	ScyllaDB	nearly two-year-old
+1952	2017-Mar-09	 ng 	TurnKey	4.5-year-old
+1953	2017-Mar-09	 ng 	Tushy	new
+1954	2017-Mar-09	 ng 	VATBox	nearly four-year-old
+1955	2017-Mar-09	 ng 	Vertiflex	12-year-old
+1956	2017-Mar-09	 nf 	Blumberg Capital	26-year-old
+1957	2017-Mar-09	 nf 	Rethink Impact	six-year-old
+1958	2017-Mar-10	 ng 	Datebox	1.5-year-old
+1959	2017-Mar-10	 ng 	DraftKings	unk
+1960	2017-Mar-10	 ng 	Job Today	1.5-year-old
+1961	2017-Mar-10	 ng 	Marketing Evolution	16-year-old
+1962	2017-Mar-10	 ng 	Odilo	five-year-old
+1963	2017-Mar-10	 ng 	Viva Republica	unk
+1964	2017-Mar-10	 ng 	Waitr	three-year-old
+1965	2017-Mar-10	 ng 	Wazoku	four-year-old
+1966	2017-Mar-10	 nf 	Verizon Media Tech Venture Studio	unk
+1967	2017-Mar-10	 nf 	Google Kaggle	unk
+1968	2017-Mar-13	 ng 	Autobooks	two-year-old
+1969	2017-Mar-13	 ng 	Borqs	10-year-old
+1970	2017-Mar-13	 ng 	Canopy	three-year-old
+1971	2017-Mar-13	 ng 	Foodsby	five-year-old
+1972	2017-Mar-13	 ng 	GuestToGuest	six-year-old
+1973	2017-Mar-13	 ng 	The Hustle	2.5-year-old
+1974	2017-Mar-13	 ng 	iD Fresh	10-year-old
+1975	2017-Mar-13	 ng 	InterCloud	six-year-old
+1976	2017-Mar-13	 ng 	PokitDok	5.5-year-old
+1977	2017-Mar-13	 ng 	Skuid	four-year-old
+1978	2017-Mar-13	 ng 	StatX	1.5-year-old
+1979	2017-Mar-13	 nf 	Exfinity Venture Partners	2.5-year-old
+1980	2017-Mar-14	 ng 	Baker Technologies	three-year-old
+1981	2017-Mar-14	 ng 	Bringg	3.5-year-old
+1982	2017-Mar-14	 ng 	CellAegis Devices	four-year-old
+1983	2017-Mar-14	 ng 	Dyadic Security	four-year-old
+1984	2017-Mar-14	 ng 	Evrything	six-year-old
+1985	2017-Mar-14	 ng 	Hound Labs	three-year-old
+1986	2017-Mar-14	 ng 	Innovium	two-year-old
+1987	2017-Mar-14	 ng 	ObEN	three-year-old
+1988	2017-Mar-14	 ng 	Peloton Interactive	five-year-old
+1989	2017-Mar-14	 ng 	ProducePay	three-year-old
+1990	2017-Mar-14	 ng 	Roblox	12-year-old
+1991	2017-Mar-14	 ng 	Sift	six-year-old
+1992	2017-Mar-14	 ng 	Silverfin	3.5-year-old
+1993	2017-Mar-14	 ng 	Streetbees	1.5-year-old
+1994	2017-Mar-14	 ng 	Unifi Software	three-year-old
+1995	2017-Mar-14	 ng 	VentureApp	1.5-year-old
+1996	2017-Mar-15	 ng 	908 Devices	nearly five-year-old
+1997	2017-Mar-15	 ng 	CareDox	six-year-old
+1998	2017-Mar-15	 ng 	Crealytics	nine-year-old
+1999	2017-Mar-15	 ng 	Fazua	six-year-old
+2000	2017-Mar-15	 ng 	Flow	nearly two-year-old
+2001	2017-Mar-15	 ng 	Goodlord	nearly three-year-old
+2002	2017-Mar-15	 ng 	Infoworks.io	2.5-year-old
+2003	2017-Mar-15	 ng 	Launcher Solutions	year-old
+2004	2017-Mar-15	 ng 	RedShift BioAnalytics	12-year-old
+2005	2017-Mar-15	 ng 	ServiceTitan	4.5-year-old
+2006	2017-Mar-15	 ng 	ShopChat	nine-month-old
+2007	2017-Mar-15	 ng 	TimeTrade	16-year-old
+2008	2017-Mar-15	 nf 	Biomatics Capital Partners	new
+2009	2017-Mar-15	 nf 	Ross Fubini	unk
+2010	2017-Mar-16	 ng 	AliveCor	six-year-old
+2011	2017-Mar-16	 ng 	Brooklinen	2.5-year-old
+2012	2017-Mar-16	 ng 	Collective Retreats	two-year-old
+2013	2017-Mar-16	 ng 	Countable	nearly four-year-old
+2014	2017-Mar-16	 ng 	eGenesis	nearly three-year-old
+2015	2017-Mar-16	 ng 	EndoMaster	six-year-old
+2016	2017-Mar-16	 ng 	Helpling	three-year-old
+2017	2017-Mar-16	 ng 	Insurify	nearly four-year-old
+2018	2017-Mar-16	 ng 	LimeBike	months-old
+2019	2017-Mar-16	 ng 	Livongo Health	2.5-year-old
+2020	2017-Mar-16	 ng 	Makeblock	5.5-year-old
+2021	2017-Mar-16	 ng 	POPxo	three-year-old
+2022	2017-Mar-16	 ng 	WayRay	4.5-year-old
+2023	2017-Mar-16	 ng 	Weather Analytics	nearly five-year-old
+2024	2017-Mar-16	 nf 	SproutX	unk
+2025	2017-Mar-16	 nf 	TTV Capital	16-year-old
+2026	2017-Mar-17	 ng 	Cell Medica	12-year-old
+2027	2017-Mar-17	 ng 	CNEX Labs	3.5-year-old
+2028	2017-Mar-17	 ng 	Cohero Health	3.5-year-old
+2029	2017-Mar-17	 ng 	Homage	unk
+2030	2017-Mar-17	 ng 	Moximed	three-year-old
+2031	2017-Mar-17	 ng 	MultiX	6.5-year-old
+2032	2017-Mar-17	 ng 	RenalGuard	unk
+2033	2017-Mar-17	 ng 	Solarisbank	year-old
+2034	2017-Mar-17	 ng 	Visier	six-year-old
+2035	2017-Mar-17	 nf 	Pivotal bioVenture Partners	new
+2036	2017-Mar-20	 ng 	Aetion	4.5-year-old
+2037	2017-Mar-20	 ng 	Akeneo	3.5-year-old
+2038	2017-Mar-20	 ng 	BEFORE Brands	year-old
+2039	2017-Mar-20	 ng 	CloudCheckr	six-year-old
+2040	2017-Mar-20	 ng 	FarmLead	unk
+2041	2017-Mar-20	 ng 	Gro Solutions	1.5-year-old
+2042	2017-Mar-20	 ng 	Hypereal	1.5-year-old
+2043	2017-Mar-20	 ng 	MedLumics	unk
+2044	2017-Mar-20	 ng 	Mychebao	4.5-year-old
+2045	2017-Mar-20	 ng 	Nested	year-old
+2046	2017-Mar-20	 ng 	Pulmocide	3.5-year-old
+2047	2017-Mar-20	 ng 	Reduxio Systems	4.5-year-old
+2048	2017-Mar-20	 ng 	ShadeCraft	nearly four-year-old
+2049	2017-Mar-20	 ng 	Tech In Asia	unk
+2050	2017-Mar-20	 nf 	Square Peg Capital	four-year-old
+2051	2017-Mar-21	 ng 	Beekeeper	4.5-year-old
+2052	2017-Mar-21	 ng 	Databerries	2.5-year-old
+2053	2017-Mar-21	 ng 	Fam	months-old
+2054	2017-Mar-21	 ng 	Flipkart	unk
+2055	2017-Mar-21	 ng 	Geek+	1.5-year-old
+2056	2017-Mar-21	 ng 	Jellyvision	15-year-old
+2057	2017-Mar-21	 ng 	PlateIQ	2.5-year-old
+2058	2017-Mar-21	 ng 	Purple Squirrel	two-year-old
+2059	2017-Mar-21	 ng 	RavenPack	unk
+2060	2017-Mar-21	 ng 	Rocket Lab	unk
+2061	2017-Mar-21	 ng 	TextRecruit	three-year-old
+2062	2017-Mar-21	 ng 	WeWork	unk
+2063	2017-Mar-22	 ng 	Boom Technology	2.5-year-old
+2064	2017-Mar-22	 ng 	BioClin Therapeutics	6.5-year-old
+2065	2017-Mar-22	 ng 	Casetext	four-year-old
+2066	2017-Mar-22	 ng 	DeepScale	two-year-old
+2067	2017-Mar-22	 ng 	Elvie	3.5-year-old
+2068	2017-Mar-22	 ng 	HotelTonight	unk
+2069	2017-Mar-22	 ng 	Lynkos	nearly six-year-old
+2070	2017-Mar-22	 ng 	Mythic	five-year-old
+2071	2017-Mar-22	 ng 	Pear Deck	2.5-year-old
+2072	2017-Mar-22	 ng 	Pocketwatch	year-old
+2073	2017-Mar-23	 ng 	Carro	nearly two-year-old
+2074	2017-Mar-23	 ng 	Clarity Money	year-old
+2075	2017-Mar-23	 ng 	Drivemode	2.5-year-old
+2076	2017-Mar-23	 ng 	Ixigo	nearly nine-year-old
+2077	2017-Mar-23	 ng 	Kuaishou	six-year-old
+2078	2017-Mar-23	 ng 	Lystable	two-year-old
+2079	2017-Mar-23	 ng 	MotorK	6.5-year-old
+2080	2017-Mar-23	 ng 	The News Lens	three-year-old
+2081	2017-Mar-23	 ng 	Ripcord	two-year-old
+2082	2017-Mar-23	 ng 	SoundCloud	unk
+2083	2017-Mar-23	 ng 	Ycloset	1.5-year-old
+2084	2017-Mar-23	 ng 	Zenreach	4.5-year-old
+2085	2017-Mar-23	 nf 	Octopus Ventures	unk
+2086	2017-Mar-24	 ng 	Big Squid	eight-year-old
+2087	2017-Mar-24	 ng 	Delhivery	five-year-old
+2088	2017-Mar-24	 ng 	Grab	unk
+2089	2017-Mar-24	 ng 	Paradata	unk
+2090	2017-Mar-24	 ng 	SB Drive	year-old
+2091	2017-Mar-24	 ng 	Maisonette.com	four-year-old
+2092	2017-Mar-24	 ng 	MarketsandMarkets	6.5-year-old
+2093	2017-Mar-24	 ng 	Quantexa	year-old
+2094	2017-Mar-24	 ng 	UrbanSitter	unk
+2095	2017-Mar-27	 ng 	Arable	three-year-old
+2096	2017-Mar-27	 ng 	Cool Planet	nine-year-old
+2097	2017-Mar-27	 ng 	Lightform	two-year-old
+2098	2017-Mar-27	 ng 	Peakon	two-year-old
+2099	2017-Mar-27	 ng 	Placester	nine-year-old
+2100	2017-Mar-27	 ng 	Snapcart	two-year-old
+2101	2017-Mar-27	 ng 	Twist Bioscience	three-year-old
+2102	2017-Mar-27	 nf 	Science	5.5-year-old
+2103	2017-Mar-28	 ng 	Antiva Biosciences	4.5-year-old
+2104	2017-Mar-28	 ng 	Bustle	3.5-year-old
+2105	2017-Mar-28	 ng 	Coras	1.5-year-old
+2106	2017-Mar-28	 ng 	Creamfinance	five-year-old
+2107	2017-Mar-28	 ng 	Flourish	year-old
+2108	2017-Mar-28	 ng 	MasterClass	two-year-old
+2109	2017-Mar-28	 ng 	Slacker	unk
+2110	2017-Mar-28	 ng 	Smyte	2.5-year-old
+2111	2017-Mar-28	 ng 	Tenfold	three-year-old
+2112	2017-Mar-28	 ng 	Tiger Brokers	three-year-old
+2113	2017-Mar-28	 ng 	Wrench	two-year-old
+2114	2017-Mar-28	 nf 	Phoenix Venture Partners	unk
+2115	2017-Mar-29	 ng 	Aiden	nine-month-old
+2116	2017-Mar-29	 ng 	Carbon Health	1.5-year-old
+2117	2017-Mar-29	 ng 	Cognoa	2.5-year-old
+2118	2017-Mar-29	 ng 	ControlUp	five-year-old
+2119	2017-Mar-29	 ng 	Emergent Payments	10-year-old
+2120	2017-Mar-29	 ng 	Emoticast	three-year-old
+2121	2017-Mar-29	 ng 	Freightos	four-year-old
+2122	2017-Mar-29	 ng 	Industrious	four-year-old
+2123	2017-Mar-29	 ng 	Inocucor Technologies	unk
+2124	2017-Mar-29	 ng 	MapD	3.5-year-old
+2125	2017-Mar-29	 ng 	Raise.me	4.5-year-old
+2126	2017-Mar-29	 ng 	Reputation.com	unk
+2127	2017-Mar-29	 ng 	Rigetti Computing	3.5-year-old
+2128	2017-Mar-29	 ng 	RightHand Robotics	2.5-year-old
+2129	2017-Mar-29	 ng 	Ripjar	4.5-year-old
+2130	2017-Mar-29	 ng 	Storyhunter	nearly five-year-old
+2131	2017-Mar-29	 nf 	Arrowroot Capital	three-year-old
+2132	2017-Mar-30	 ng 	Berkeley Research Group	17-year-old
+2133	2017-Mar-30	 ng 	Cava Grill	six-year-old
+2134	2017-Mar-30	 ng 	Filament	five-year-old
+2135	2017-Mar-30	 ng 	Kuaicang	three-year-old
+2136	2017-Mar-30	 ng 	Icertis	unk
+2137	2017-Mar-30	 ng 	JoyRun	2.5-year-old
+2138	2017-Mar-30	 ng 	Ledger	two-year-old
+2139	2017-Mar-30	 ng 	Looker	six-year-old
+2140	2017-Mar-30	 ng 	Oodrive	17-year-old
+2141	2017-Mar-30	 ng 	Pepper	unk
+2142	2017-Mar-30	 ng 	Promentis Pharmaceuticals	unk
+2143	2017-Mar-30	 nf 	Legend Capital	unk
+2144	2017-Mar-30	 nf 	Toyota’s dedicated research organization	unk
+2145	2017-Mar-31	 ng 	ADVR	year-old
+2146	2017-Mar-31	 ng 	Breathe Technologies	12-year-old
+2147	2017-Mar-31	 ng 	Decisely	1.5-year-old
+2148	2017-Mar-31	 ng 	Echo	four-year-old
+2149	2017-Mar-31	 ng 	Optolexia	nearly two-year-old
+2150	2017-Mar-31	 ng 	SpyBiotech	months-old
+2151	2017-Mar-31	 ng 	Stripe	unk
+2152	2017-Mar-31	 ng 	ZenJob	year-old
+2153	2017-Mar-31	 nf 	Banyan Capital	3.5-year-old
+2154	2017-Mar-31	 nf 	Haystack Ventures	unk
+2155	2017-Mar-31	 nf 	WestSummit Capital	unk
+2156	2017-Apr-03	 ng 	Farmstand	year-old
+2157	2017-Apr-03	 ng 	I Believe	nearly five-year-old
+2158	2017-Apr-03	 ng 	LeafLink	year-old
+2159	2017-Apr-03	 ng 	Nitro	12-year-old
+2160	2017-Apr-03	 ng 	Purely Elizabeth	unk
+2161	2017-Apr-03	 ng 	Robinhood	unk
+2162	2017-Apr-03	 ng 	Wag	2.5-year-old
+2163	2017-Apr-03	 nf 	Cloud Apps Capital Partners	3.5-year-old
+2164	2017-Apr-03	 nf 	Israel Secondary Fund	unk
+2165	2017-Apr-04	 ng 	Amino	3.5-year-old
+2166	2017-Apr-04	 ng 	Bizzabo	six-year-old
+2167	2017-Apr-04	 ng 	Cohesity	nearly four-year-old
+2168	2017-Apr-04	 ng 	Grokstyle	two-year-old
+2169	2017-Apr-04	 ng 	PhenixP2P	3.5-year-old
+2170	2017-Apr-04	 ng 	Pluto AI	year-old
+2171	2017-Apr-04	 ng 	Vimcar	four-year-old
+2172	2017-Apr-04	 ng 	Wellthie	unk
+2173	2017-Apr-04	 nf 	Data Collective	unk
+2174	2017-Apr-04	 nf 	Resolute Ventures	unk
+2175	2017-Apr-04	 nf 	Tusk Ventures	unk
+2176	2017-Apr-05	 ng 	AdAsia	one-year-old
+2177	2017-Apr-05	 ng 	Armor	unk
+2178	2017-Apr-05	 ng 	Aurora Innovation	months-old
+2179	2017-Apr-05	 ng 	Azitra	three-year-old
+2180	2017-Apr-05	 ng 	CheckRecipient	nearly four-year-old
+2181	2017-Apr-05	 ng 	Coras	1.5-year-old
+2182	2017-Apr-05	 ng 	Dojo Madness	2.5-year-old
+2183	2017-Apr-05	 ng 	Platterz	two-year-old
+2184	2017-Apr-05	 ng 	Qumulo	four-year-old
+2185	2017-Apr-05	 ng 	SlashNext	three-year-old
+2186	2017-Apr-05	 ng 	Snowflake Computing	nearly five-year-old
+2187	2017-Apr-05	 ng 	Street Contxt	five-year-old
+2188	2017-Apr-05	 ng 	Wecash	nearly four-year-old
+2189	2017-Apr-05	 nf 	83North (formerly Greylock IL)	unk
+2190	2017-Apr-05	 nf 	Forward Partners	4.5-year-old
+2191	2017-Apr-06	 ng 	Crunchbase	10-year-old
+2192	2017-Apr-06	 ng 	DrChrono	unk
+2193	2017-Apr-06	 ng 	Flow	1.5-year-old
+2194	2017-Apr-06	 ng 	Mobvoi	five-year-old
+2195	2017-Apr-06	 ng 	Souche.com	five-year-old
+2196	2017-Apr-06	 ng 	Trov	five-year-old
+2197	2017-Apr-06	 ng 	Yumi	two-year-old
+2198	2017-Apr-07	 ng 	AeroMobil	6.5-year-old
+2199	2017-Apr-07	 ng 	Blendle	three-year-old
+2200	2017-Apr-07	 ng 	Bus.com	three-year-old
+2201	2017-Apr-07	 ng 	Konux	2.5-year-old
+2202	2017-Apr-07	 ng 	Kymeta	five-year-old
+2203	2017-Apr-07	 ng 	MAMA+	2.5-year-old
+2204	2017-Apr-07	 ng 	Mic	five-year-old
+2205	2017-Apr-07	 ng 	Otonomo	1.5-year-old
+2206	2017-Apr-07	 ng 	Remesh	3.5-year-old
+2207	2017-Apr-07	 ng 	Uptake	three-year-old
+2208	2017-Apr-07	 ng 	Vera Whole Health	nine-year-old
+2209	2017-Apr-07	 ng 	Toutiao	five-year-old
+2210	2017-Apr-07	 ng 	The Wing	1.5.-year-old
+2211	2017-Apr-07	 nf 	Felix Capital	unk
+2212	2017-Apr-10	 ng 	Branch	three-year-old
+2213	2017-Apr-10	 ng 	Five Jack	3.5-year-old
+2214	2017-Apr-10	 ng 	Flipkart	unk
+2215	2017-Apr-10	 ng 	Fresh Relevance	3.5-year-old
+2216	2017-Apr-10	 ng 	Future Energy Solutions Lighting Group	unk
+2217	2017-Apr-10	 ng 	Jetty	year-old
+2218	2017-Apr-10	 ng 	Mylio	five-year-old
+2219	2017-Apr-10	 ng 	Neural Analytics	four-year-old
+2220	2017-Apr-10	 ng 	Ortho Kinematics	unk
+2221	2017-Apr-10	 ng 	Proveca	seven-year-old
+2222	2017-Apr-10	 ng 	Trov	nearly five-year-old
+2223	2017-Apr-10	 nf 	The Engine	unk
+2224	2017-Apr-10	 nf 	Freestyle Capital	unk
+2225	2017-Apr-11	 ng 	Agrisoma Biosciences	10-year-old
+2226	2017-Apr-11	 ng 	ALung Technologies	20-year-old
+2227	2017-Apr-11	 ng 	Beamery	three-year-old
+2228	2017-Apr-11	 ng 	FretLink	1.5-year-old
+2229	2017-Apr-11	 ng 	Metamaterial Technologies	six-year-old
+2230	2017-Apr-11	 ng 	MetroResidences	nearly three-year-old
+2231	2017-Apr-11	 ng 	Popular Pays	3.5-year-old
+2232	2017-Apr-11	 ng 	Tegile Systems	6.5-year-old
+2233	2017-Apr-11	 ng 	Saleswhale	1.5-year-old
+2234	2017-Apr-11	 ng 	Simple Contacts	1.5-year-old
+2235	2017-Apr-11	 ng 	Spring Care	year-old
+2236	2017-Apr-11	 ng 	Synack	3.5-year-old
+2237	2017-Apr-11	 ng 	Virtualitics	year-old
+2238	2017-Apr-11	 nf 	Boeing HorizonX	unk
+2239	2017-Apr-11	 nf 	SV Life Sciences	24-year-old
+2240	2017-Apr-12	 ng 	Banihal	five-year-old
+2241	2017-Apr-12	 ng 	Blink Health	2.5-year-old
+2242	2017-Apr-12	 ng 	Cleanly	unk
+2243	2017-Apr-12	 ng 	Darkstore	year-old
+2244	2017-Apr-12	 ng 	First Circle	1.5-year-old
+2245	2017-Apr-12	 ng 	Full Harvest	three-year-old
+2246	2017-Apr-12	 ng 	HackerEarth	four-year-old
+2247	2017-Apr-12	 ng 	Little Spoon	2.5-year-old
+2248	2017-Apr-12	 ng 	Lybrate	three-year-old
+2249	2017-Apr-12	 ng 	NetEase Cloud Music	four-year-old
+2250	2017-Apr-12	 ng 	Orbital Systems	five-year-old
+2251	2017-Apr-12	 ng 	Peloton Technology	six-year-old
+2252	2017-Apr-12	 ng 	Plume	nearly three-year-old
+2253	2017-Apr-12	 ng 	Qwilr	three-year-old
+2254	2017-Apr-12	 ng 	Teamable	3.5-year-old
+2255	2017-Apr-12	 ng 	Zen Rooms	two-year-old
+2256	2017-Apr-13	 ng 	Elmodis	two-year-old
+2257	2017-Apr-13	 ng 	Envisagenics	nearly three-year-old
+2258	2017-Apr-13	 ng 	Fishbrain	seven-year-old
+2259	2017-Apr-13	 ng 	Gel4Med	1.5-year-old
+2260	2017-Apr-13	 ng 	goTenna	five-year-old
+2261	2017-Apr-13	 ng 	Ink Labs	unk
+2262	2017-Apr-13	 ng 	Katerra	two-year-old
+2263	2017-Apr-13	 ng 	LogicInk	1.5-year-old
+2264	2017-Apr-13	 ng 	Luminar	five-year-old
+2265	2017-Apr-13	 ng 	Lyndra	1.5-year-old
+2266	2017-Apr-13	 ng 	Neyber	three-year-old
+2267	2017-Apr-13	 ng 	PagerDuty	unk
+2268	2017-Apr-13	 ng 	Sansoro Health	three-year-old
+2269	2017-Apr-13	 ng 	SciBac	1.5-year-old
+2270	2017-Apr-13	 ng 	Tasktop	unk
+2271	2017-Apr-13	 nf 	Eniac Ventures	unk
+2272	2017-Apr-13	 nf 	Riot Ventures	new
+2273	2017-Apr-14	 ng 	Akoonu	three-year-old
+2274	2017-Apr-14	 ng 	BestMile	three-year-old
+2275	2017-Apr-14	 ng 	Intapp	nearly 17-year-old
+2276	2017-Apr-14	 ng 	Lynn Electronics	53-year-old
+2277	2017-Apr-14	 ng 	Wecash	four-year-old
+2278	2017-Apr-14	 nf 	Haiyin Capital	unk
+2279	2017-Apr-17	 ng 	Actility	seven-year-old
+2280	2017-Apr-17	 ng 	Aspect Imaging	three-year-old
+2281	2017-Apr-17	 ng 	Flowhub	two-year-old
+2282	2017-Apr-17	 ng 	Frequency Therapeutics	two-year-old
+2283	2017-Apr-17	 ng 	LeanDNA	six-year-old
+2284	2017-Apr-17	 ng 	More Health	1.5-year-old
+2285	2017-Apr-17	 ng 	Zhejiang POCTech Medical	unk
+2286	2017-Apr-17	 ng 	Zinc	year-old
+2287	2017-Apr-17	 nf 	Oak HC/FT	unk
+2288	2017-Apr-18	 ng 	Avegant	4.5-year-old
+2289	2017-Apr-18	 ng 	CLEAR	unk
+2290	2017-Apr-18	 ng 	Credihealth	3.5-year-old
+2291	2017-Apr-18	 ng 	Factom	two-year-old
+2292	2017-Apr-18	 ng 	Innefu Labs	six-year-old
+2293	2017-Apr-18	 ng 	Murj	1.5-year-old
+2294	2017-Apr-18	 ng 	Mux	1.5-year-old
+2295	2017-Apr-18	 ng 	PowerPost	1.5-year-old
+2296	2017-Apr-18	 ng 	Reltio	six-year-old
+2297	2017-Apr-18	 ng 	Shine	year-old
+2298	2017-Apr-18	 ng 	Vicis	nearly four-year-old
+2299	2017-Apr-18	 ng 	Xero Limited	nearly 11-year-old
+2300	2017-Apr-18	 nf 	Obvious Ventures	unk
+2301	2017-Apr-18	 nf 	Silver Lake	unk
+2302	2017-Apr-18	 nf 	Zetta Venture Partners	unk
+2303	2017-Apr-19	 ng 	Barnebys	six-year-old
+2304	2017-Apr-19	 ng 	BIMA	nearly seven-year-old
+2305	2017-Apr-19	 ng 	CyberGRX	year-old
+2306	2017-Apr-19	 ng 	DadeSystems	six-year-old
+2307	2017-Apr-19	 ng 	Dome9 Security	six-year-old
+2308	2017-Apr-19	 ng 	Onkos Surgical	two-year-old
+2309	2017-Apr-19	 ng 	Sapho	three-year-old
+2310	2017-Apr-19	 nf 	Nasdaq Ventures	unk
+2311	2017-Apr-19	 nf 	Nauta Capital	17-year-old
+2312	2017-Apr-20	 ng 	August Home	4.5-year-old
+2313	2017-Apr-20	 ng 	Bedly	1.5-year-old
+2314	2017-Apr-20	 ng 	Freebird	two-year-old
+2315	2017-Apr-20	 ng 	Getaround	unk
+2316	2017-Apr-20	 ng 	Invertex	three-year-old
+2317	2017-Apr-20	 ng 	MakeSpace	four-year-old
+2318	2017-Apr-20	 ng 	Microvast Power Systems	unk
+2319	2017-Apr-20	 ng 	MortgageHippo	four-year-old
+2320	2017-Apr-20	 ng 	Narrative Science	nearly seven-year-old
+2321	2017-Apr-20	 ng 	Paytm	seven-year-old
+2322	2017-Apr-20	 ng 	SafeGraph	unk
+2323	2017-Apr-20	 ng 	Solv	year-old
+2324	2017-Apr-20	 ng 	TurboTenant	1.5-year-old
+2325	2017-Apr-20	 ng 	Yeecall	2.5-year-old
+2326	2017-Apr-20	 ng 	ZappRx	five-year-old
+2327	2017-Apr-20	 nf 	Combine	new
+2328	2017-Apr-20	 nf 	DFJ Growth	unk
+2329	2017-Apr-21	 ng 	Consortia Health	three-year-old
+2330	2017-Apr-21	 ng 	DreamCheaper	two-year-old
+2331	2017-Apr-21	 ng 	Groq	new
+2332	2017-Apr-21	 ng 	Pitchy	3.5-year-old
+2333	2017-Apr-21	 ng 	SenseTime	three-year-old
+2334	2017-Apr-21	 ng 	Swingvy	year-old
+2335	2017-Apr-21	 ng 	RotoQL	1.5-year-old
+2336	2017-Apr-21	 nf 	Innventure	unk
+2337	2017-Apr-24	 ng 	Farmdrop	five-year-old
+2338	2017-Apr-24	 ng 	IceKredit	two-year-old
+2339	2017-Apr-24	 ng 	Improbable Worlds	five-year-old
+2340	2017-Apr-24	 ng 	MJ Freeway	nearly seven-year-old
+2341	2017-Apr-24	 ng 	Quora	unk
+2342	2017-Apr-24	 ng 	Sensoro	four-year-old
+2343	2017-Apr-24	 ng 	Shadow Creator	three-year-old
+2344	2017-Apr-24	 ng 	Sienna Biopharmaceuticals	year-old
+2345	2017-Apr-24	 nf 	YI Capital	three-year-old
+2346	2017-Apr-25	 ng 	AltheaDx	unk
+2347	2017-Apr-25	 ng 	Babylon Health	three-year-old
+2348	2017-Apr-25	 ng 	Dave	year-old
+2349	2017-Apr-25	 ng 	Doc Halo	seven-year-old
+2350	2017-Apr-25	 ng 	Faasos Food Services	13-year-old
+2351	2017-Apr-25	 ng 	Forge Therapeutics	2.5-year-old
+2352	2017-Apr-25	 ng 	Hibob	year-old
+2353	2017-Apr-25	 ng 	Kidfresh	10-year-old
+2354	2017-Apr-25	 ng 	Kuiu	six-year-old
+2355	2017-Apr-25	 ng 	LoveCrafts	four-year-old
+2356	2017-Apr-25	 ng 	Nutriati	four-year-old
+2357	2017-Apr-25	 ng 	POPxo	three-year-old
+2358	2017-Apr-25	 ng 	Prescient	4.5-year-old
+2359	2017-Apr-25	 ng 	RapidSOS	five-year-old
+2360	2017-Apr-25	 ng 	Rubrik	three-year-old
+2361	2017-Apr-25	 ng 	Science37	2.5-year-old
+2362	2017-Apr-25	 ng 	Two Pore Guys	6.5-year-old
+2363	2017-Apr-25	 nf 	SeedPlus	unk
+2364	2017-Apr-25	 nf 	Fintech71	unk
+2365	2017-Apr-26	 ng 	AIdoc Medical	year-old
+2366	2017-Apr-26	 ng 	EverFi	nine-year-old
+2367	2017-Apr-26	 ng 	Huddly	three-year-old
+2368	2017-Apr-26	 ng 	Ivalua	17-year-old
+2369	2017-Apr-26	 ng 	MarcoPolo Learning	4.5-year-old
+2370	2017-Apr-26	 ng 	OverOps	six-year-old
+2371	2017-Apr-26	 ng 	Oyo Rooms	four-year-old
+2372	2017-Apr-26	 ng 	Quovo	seven-year-old
+2373	2017-Apr-26	 ng 	Robinhood	unk
+2374	2017-Apr-26	 ng 	Tmon	seven-year-old
+2375	2017-Apr-26	 ng 	Token	two-year-old
+2376	2017-Apr-26	 ng 	Token	separate Token), a year-old
+2377	2017-Apr-26	 ng 	Twistlock	two-year-old
+2378	2017-Apr-26	 ng 	WiBotic	two-year-old
+2379	2017-Apr-27	 ng 	HealthVerity	three-year-old
+2380	2017-Apr-27	 ng 	Lynk	four-year-old
+2381	2017-Apr-27	 ng 	Propel	three-year-old
+2382	2017-Apr-27	 ng 	Riskmethods	2.5-year-old
+2383	2017-Apr-27	 ng 	UiPath	five-year-old
+2384	2017-Apr-27	 ng 	WorkMarket	nearly seven-year-old
+2385	2017-Apr-27	 ng 	Zeta Global	10-year-old
+2386	2017-Apr-27	 nf 	Origin Ventures	unk
+2387	2017-Apr-27	 nf 	Warburg Pincus	unk
+2388	2017-Apr-28	 ng 	3D Robotics	unk
+2389	2017-Apr-28	 ng 	Avedro	10-year-old
+2390	2017-Apr-28	 ng 	Cubigo	six-year-old
+2391	2017-Apr-28	 ng 	Deep Sentinel	16-month-old
+2392	2017-Apr-28	 ng 	Domo	six-year-old
+2393	2017-Apr-28	 ng 	Epic Sciences	nine-year-old
+2394	2017-Apr-28	 ng 	Mech Mocha	3.5-year-old
+2395	2017-Apr-28	 ng 	Me.me	unk
+2396	2017-Apr-28	 ng 	Oddup	1.5-year-old
+2397	2017-Apr-28	 ng 	Renovo Auto	6.5-year-old
+2398	2017-Apr-28	 ng 	Ripio	three-and-a-half-year-old
+2399	2017-Apr-28	 ng 	Singapore Life	three-year-old
+2400	2017-Apr-28	 ng 	Xee	six-year-old
+2401	2017-May-01	 ng 	Airwallex	1.5-year-old
+2402	2017-May-01	 ng 	Calysta	six-year-old
+2403	2017-May-01	 ng 	Cars45	year-old
+2404	2017-May-01	 ng 	Catalia Health	three-year-old
+2405	2017-May-01	 ng 	Convene	unk
+2406	2017-May-01	 ng 	Head InfoTech	12-year-old
+2407	2017-May-01	 ng 	Live.me	unk
+2408	2017-May-01	 ng 	Rubrik	three-year-old
+2409	2017-May-01	 ng 	Truck Alliance	nine-year-old
+2410	2017-May-02	 ng 	Axonics Modulation Technologies	four-year-old
+2411	2017-May-02	 ng 	Bitfusion	2.5-year-old
+2412	2017-May-02	 ng 	Dinova	unk
+2413	2017-May-02	 ng 	ExoCoBio	three-month-old
+2414	2017-May-02	 ng 	Iconixx	six-year-old
+2415	2017-May-02	 ng 	Morty	1.5-year-old
+2416	2017-May-02	 ng 	One	unk
+2417	2017-May-02	 ng 	Orbital Insight	four-year-old
+2418	2017-May-02	 ng 	Wavedash Games	1.5-year-old
+2419	2017-May-02	 nf 	Moderne Ventures	1.5-year-old
+2420	2017-May-02	 nf 	Salesforce	unk
+2421	2017-May-03	 ng 	Abundant Robotics	year-old
+2422	2017-May-03	 ng 	Agolo	4.5-year-old
+2423	2017-May-03	 ng 	AltSchool	unk
+2424	2017-May-03	 ng 	Bonsai	two-year-old
+2425	2017-May-03	 ng 	Cerevance	1.5-year-old
+2426	2017-May-03	 ng 	Decibel Insight	three-year-old
+2427	2017-May-03	 ng 	Fornova	nine-year-old
+2428	2017-May-03	 ng 	Lantern Pharma	four-year-old
+2429	2017-May-03	 ng 	Next Insurance	year-old
+2430	2017-May-03	 ng 	PreparedHealth	two-year-old
+2431	2017-May-03	 ng 	Spindrift	seven-year-old
+2432	2017-May-03	 ng 	WuXi NextCODE	four-year-old
+2433	2017-May-03	 ng 	Yieldify	five-year-old
+2434	2017-May-03	 nf 	G2VP	unk
+2435	2017-May-03	 nf 	Converge	unk
+2436	2017-May-04	 ng 	Crew	2.5-year-old
+2437	2017-May-04	 ng 	Fastdata.io	year-old
+2438	2017-May-04	 ng 	Fuze	unk
+2439	2017-May-04	 ng 	Go-Jek	seven-year-old
+2440	2017-May-04	 ng 	Heap	four-year-old
+2441	2017-May-04	 ng 	RTX	10-year-old
+2442	2017-May-04	 ng 	Taranis	three-year-old
+2443	2017-May-04	 ng 	Ultrahaptics	four-year-old
+2444	2017-May-04	 ng 	Vivet Therapeutics	year-old
+2445	2017-May-04	 nf 	YL Ventures	10-year-old
+2446	2017-May-05	 ng 	Devicare	four-year-old
+2447	2017-May-05	 ng 	Outset Medical	14-year-old
+2448	2017-May-08	 ng 	Cornershop	two-year-old
+2449	2017-May-08	 ng 	Flex Logix	2.5-year-old
+2450	2017-May-08	 ng 	Fortem Technologies	year-old
+2451	2017-May-08	 ng 	Garena	unk
+2452	2017-May-08	 ng 	Hadean	2.5-year-old
+2453	2017-May-08	 ng 	Kobalt	17-year-old
+2454	2017-May-08	 ng 	MariaDB Corporation	unk
+2455	2017-May-08	 ng 	Plume	unk
+2456	2017-May-08	 ng 	Smule	nine-year-old
+2457	2017-May-08	 nf 	Blue Run Ventures	nearly 19-year-old
+2458	2017-May-09	 ng 	Cabify	5.5-year-old
+2459	2017-May-09	 ng 	Cover	year-old
+2460	2017-May-09	 ng 	Donut Media	two-year-old
+2461	2017-May-09	 ng 	Empower	year-old
+2462	2017-May-09	 ng 	Finxact	year-old
+2463	2017-May-09	 ng 	Freska	two-year-old
+2464	2017-May-09	 ng 	Grammarly	unk
+2465	2017-May-09	 ng 	Podium	3.5-year-old
+2466	2017-May-09	 ng 	Redlock	two-year-old
+2467	2017-May-09	 ng 	Signal Sciences	three-year-old
+2468	2017-May-09	 ng 	StarLeaf	nine-year-old
+2469	2017-May-09	 ng 	Tubi TV	three-year-old
+2470	2017-May-09	 ng 	Updox	nine-year-old
+2471	2017-May-09	 nf 	Dell (Delland + EMC)	unk
+2472	2017-May-09	 nf 	Peak Ventures	2.5-year-old
+2473	2017-May-10	 ng 	Ceres Imaging	three-year-old
+2474	2017-May-10	 ng 	Cockroach Labs	two-year-old
+2475	2017-May-10	 ng 	Dropoff	three-year-old
+2476	2017-May-10	 ng 	eRelevance	nearly four-year-old
+2477	2017-May-10	 ng 	G-Banker	four-year-old
+2478	2017-May-10	 ng 	Gainsight	5.5-year-old
+2479	2017-May-10	 ng 	Hesai	four-year-old
+2480	2017-May-10	 ng 	Kreditech	five-year-old
+2481	2017-May-10	 ng 	Latch	three-year-old
+2482	2017-May-10	 ng 	Microf	seven-year-old
+2483	2017-May-10	 ng 	Mya Systems	five-year-old
+2484	2017-May-10	 ng 	Nutrafol	three-year-old
+2485	2017-May-10	 ng 	Remix	three-year-old
+2486	2017-May-10	 ng 	Revolution Prep	15-year-old
+2487	2017-May-10	 ng 	Selery Fulfillment	three-year-old
+2488	2017-May-10	 ng 	SiFive	two-year-old
+2489	2017-May-10	 ng 	Territory	five-year-old
+2490	2017-May-10	 ng 	Vera	three-year-old
+2491	2017-May-10	 nf 	500 Startups	unk
+2492	2017-May-10	 nf 	Obvious Ventures	unk
+2493	2017-May-10	 nf 	OMERS Ventures	unk
+2494	2017-May-10	 nf 	Gurgaon	unk
+2495	2017-May-10	 nf 	Vision Fund	unk
+2496	2017-May-11	 ng 	Clover Health	three-year-old
+2497	2017-May-11	 ng 	Ontruck	year-old
+2498	2017-May-11	 ng 	Sun Basket	three-year-old
+2499	2017-May-11	 ng 	Twiggle	three-year-old
+2500	2017-May-11	 ng 	Vivid Vision	three-year-old
+2501	2017-May-11	 nf 	SignalFire	four-year-old
+2502	2017-May-12	 ng 	CBien	four-year-old
+2503	2017-May-12	 ng 	Claranet	21-year-old
+2504	2017-May-12	 ng 	Guardant Health	four-year-old
+2505	2017-May-12	 ng 	Improbable	five-year-old
+2506	2017-May-12	 ng 	Jinn	four-year-old
+2507	2017-May-12	 ng 	Pocket Gems	unk
+2508	2017-May-12	 ng 	Spring	three-year-old
+2509	2017-May-12	 ng 	Truepic	year-old
+2510	2017-May-12	 ng 	Wealthsimple	three-year-old
+2511	2017-May-16	 ng 	Airy3D	two-year-old
+2512	2017-May-16	 ng 	Atavium	unk
+2513	2017-May-16	 ng 	Genoa Pharmaceuticals	six-year-old
+2514	2017-May-16	 ng 	GrandCanals	three-year-old
+2515	2017-May-16	 ng 	Karamba Security	two-year-old
+2516	2017-May-16	 ng 	LevelUp	nine-year-old
+2517	2017-May-16	 ng 	Nexla	year-old
+2518	2017-May-16	 ng 	Nymi	six-year-old
+2519	2017-May-16	 ng 	Oddup	two-year-old
+2520	2017-May-16	 ng 	OpenGov	five-year-old
+2521	2017-May-16	 ng 	OpenInvest	two-year-old
+2522	2017-May-16	 ng 	Razer	12-year-old
+2523	2017-May-16	 ng 	Symphony	2.5-year-old
+2524	2017-May-16	 ng 	Talent.io	two-year-old
+2525	2017-May-16	 ng 	Tile	unk
+2526	2017-May-16	 ng 	Vivid Seats	16-year-old
+2527	2017-May-16	 nf 	8VC	unk
+2528	2017-May-16	 nf 	Steve Cohen	unk
+2529	2017-May-16	 nf 	Bill Maris	unk
+2530	2017-May-16	 nf 	Notion Capital	unk
+2531	2017-May-17	 ng 	Appear Here	four-year-old
+2532	2017-May-17	 ng 	Converus	3.6-year-old
+2533	2017-May-17	 ng 	CrowdStrike	six-year-old
+2534	2017-May-17	 ng 	Cue	seven-year-old
+2535	2017-May-17	 ng 	Fetchr	five-year-old
+2536	2017-May-17	 ng 	JobTeaser	nine-year-old
+2537	2017-May-17	 ng 	MoBerries	1.5-year-old
+2538	2017-May-17	 ng 	Mode Analytics	four-year-old
+2539	2017-May-17	 ng 	Neighborly	unk
+2540	2017-May-17	 ng 	Social Native	2.5-year-old
+2541	2017-May-17	 ng 	Telr	four-year-old
+2542	2017-May-17	 ng 	Tiqets	three-year-old
+2543	2017-May-17	 nf 	unk	unk
+2544	2017-May-18	 ng 	Brit + Co	5.5-year-old
+2545	2017-May-18	 ng 	Cheddar	1.5-year-old
+2546	2017-May-18	 ng 	The Farmer’s Dog	two-year-old
+2547	2017-May-18	 ng 	Qupital	one-year-old
+2548	2017-May-18	 ng 	Slice	seven-year-old
+2549	2017-May-18	 ng 	Verse	two-year-old
+2550	2017-May-19	 ng 	Away	1.5-year-old
+2551	2017-May-19	 ng 	CreativeLive	seven-year-old
+2552	2017-May-19	 ng 	CSquared	four-year-old
+2553	2017-May-19	 ng 	Dor	two-year-old
+2554	2017-May-19	 ng 	Iterum Therapeutics	two-year-old
+2555	2017-May-19	 ng 	N2W Software	five-year-old
+2556	2017-May-19	 ng 	Numerated Growth Technologies	new
+2557	2017-May-19	 ng 	OppSource	nine-year-old
+2558	2017-May-19	 ng 	Paytm	seven-year-old
+2559	2017-May-19	 ng 	Upfront Healthcare	two-year-old
+2560	2017-May-19	 ng 	Wandera	five-year-old
+2561	2017-May-19	 nf 	Menlo Ventures	unk
+2562	2017-May-19	 nf 	RM Global	unk
+2563	2017-May-19	 nf 	Vision Fund	unk
+2564	2017-May-22	 ng 	Casper Sleep	unk
+2565	2017-May-22	 ng 	Cloudwise	unk
+2566	2017-May-22	 ng 	CornerJob	2.5-year-old
+2567	2017-May-22	 ng 	Echodyne	three-year-old
+2568	2017-May-22	 ng 	EcoIntense	10-year-old
+2569	2017-May-22	 ng 	HubHaus	1.5-year-old
+2570	2017-May-22	 ng 	Ledger Holdings	unk
+2571	2017-May-22	 ng 	Lemonaid Health	four-year-old
+2572	2017-May-22	 ng 	MortgageGym	year-old
+2573	2017-May-22	 ng 	NooBaa	3.5-year-old
+2574	2017-May-22	 ng 	Sayspring	year-old
+2575	2017-May-22	 ng 	Shipamax	year-old
+2576	2017-May-22	 ng 	SkyX	two-year-old
+2577	2017-May-22	 ng 	Valorem Energy	months-old
+2578	2017-May-22	 nf 	Breakout Ventures	unk
+2579	2017-May-22	 nf 	unk	unk
+2580	2017-May-22	 nf 	Work-Bench	four-year-old

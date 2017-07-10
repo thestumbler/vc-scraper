@@ -1,0 +1,78 @@
+5867	mPrest	http://www.businesswire.com/news/home/20160124005021/en
+5868	Seebo	http://techcrunch.com/2016/01/26/seebo
+5884	IMJ	http://techcrunch.com/2016/02/11/imj-japan-fund
+5884	IMJ	http://techcrunch.com/2016/02/11/imj-japan-fund
+5895	Nokia Growth Partners	http://techcrunch.com/2016/02/21/nokia-growth-partners-announces-350m-fund-focused-on-iot/
+5904	MarianaIQ	https://www.marianaiq.com/
+5927	DimensionalMechanics	http://www.dimensionalmechanics.com/
+5940	Electric Imp	https://electricimp.com/
+5990	Grove Ventures	http://www.haaretz.com/israel-news/business/1.721164
+5990	Grove Ventures	http://www.haaretz.com/israel-news/business/1.721164
+5996	LinkBee	https://www.linkbee.com/
+6004	ProGlove	http://www.geektime.com/2016/05/31/smart-glove-startup-out-of-munich-nabs-2-2-million-investment-from-intel/
+6009	B2X	https://www.b2x.com/
+6016	Kwik	https://techcrunch.com/2016/06/21/kwik-raises-3-million-to-take-on-amazon-dash-buttons/
+6088	C3 IoT	http://www.zdnet.com/article/c3-iot-raises-70-million-led-by-tpg/
+6099	Razer	https://techcrunch.com/2016/09/12/razer-launches-zventures-a-new-30m-fund-for-iot-robotics-vr-and-gaming-startups/
+6101	Sinovation Ventures	http://www.wsj.com/articles/sinovation-ventures-raises-675-million-in-fresh-capital-1473648511
+6122	CognitiveScale	http://www.siliconhillsnews.com/2016/10/04/cognitivescale-closes-on-25-million-in-funding-with-investment-from-microsoft-ventures/
+6123	Nauto	https://techcrunch.com/2016/10/07/bmw-toyota-and-allianz-back-nauto-and-its-camera-based-approach-to-making-autonomous-vehicles/
+6127	Amino Capital	https://medium.com/@aminocapital/amino-capital-completes-final-close-of-its-50m-fund-ii-for-early-stage-startups-a90bb83e0e4b#.6a4h07oyv
+6129	ComplyAdvantage	https://techcrunch.com/2016/10/13/complyadvantage/
+6143	PointGrab	http://venturebeat.com/2016/10/25/philips-lighting-joins-7-million-round-for-smart-building-sensor-maker-pointgrab/
+6143	Rokid	https://www.chinamoneynetwork.com/2016/10/26/idg-walden-join-65m-series-b-round-in-chinese-robot-start-up-rokid
+6149	Relayr	http://www.wsj.com/articles/relayr-powers-up-23m-series-b-for-industrial-iot-sensors-1477999801
+6149	Voyager Labs	http://www.haaretz.com/israel-news/2.2692/.premium-1.750382
+6150	German Autolabs	http://tech.eu/brief/german-autolabs-seed-round/
+6150	ObEN	http://www.oben.com/
+6164	Particle	https://www.particle.io/
+6164	Petuum	http://www.businesswire.com/news/home/20161116006061/en/Petuum-Revolutionary-AIML-Development-Platform-Closes-15
+6182	Lemonade	http://uk.businessinsider.com/sequoia-backed-lemonade-raises-another-33-million-2016-12?r=US&amp;IR=T
+6189	Element AI	http://www.elementai.com/
+6189	Microsoft Ventures	https://techcrunch.com/2016/12/12/microsoft-ventures-launches-new-fund-for-ai-startups-and-backs-element-ai-incubator/
+6190	Signal Media	https://techcrunch.com/2016/12/13/signal-media/
+6191	Knowmail	https://techcrunch.com/2016/12/14/knowmail/
+6192	HyperScience	http://www.hyperscience.com/
+6218	Knight Foundation	https://techcrunch.com/2017/01/10/omidyar-hoffman-create-27m-research-fund-for-ai-in-the-public-interest/
+6218	Mighty AI	http://www.seattletimes.com/business/technology/seattle-startup-spare5-changes-name-to-mighty-ai-raises-funds-from-intel-google/
+6221	Kuang-Chi Group	http://www.dealstreetasia.com/stories/62582-62582/
+6221	Kuang-Chi Group	http://www.dealstreetasia.com/stories/62582-62582/
+6225	Maluuba	https://techcrunch.com/2017/01/13/microsoft-acquires-maluuba-a-startup-focused-on-general-artificial-intelligence/
+6225	Serena Capital	https://www.serenacapital.com/2017/01/17/the-market-has-dreamt-of-it-serena-capital-did-it-for-the-first-time-in-europe/
+6226	The Kohli Impact Investment Initiative	http://kohliventures.com/team/tej-kohli/
+6235	WorkFusion	http://www.businessinsider.com/workfusion-automates-corporate-jobs-2016-4
+6239	SoundHound	https://www.bloomberg.com/news/articles/2017-01-31/soundhound-raises-75-million-to-take-on-amazon-google-in-ai
+6240	AIM	https://techcrunch.com/2017/01/31/koreas-aim-raises-1-6m-for-its-mobile-trading-service/
+6241	Opti	https://optirtc.com/
+6241	Xnor.ai	https://techcrunch.com/2017/02/02/ai-acceleration-startup-xnor-ai-collects-2-6m-in-funding
+6245	Virtualitics	http://www.socaltech.com/virtualitics_raises_3m_for_ar_vr_ai_startup/s-0068936.html
+6247	Green Bay Ventures	https://techcrunch.com/2017/02/07/nea-co-founder-dick-kramlich-launches-new-130m-green-bay-ventures-fund/
+6247	Trident Capital Cybersecurity	https://techcrunch.com/2017/02/08/trident-capital-cybersecuritys-300-million-fund-shows-the-depth-of-security-woes/
+6270	C3 IoT	http://c3iot.com/
+6275	LoopMe	http://venturebeat.com/2017/03/07/loopme-raises-10-million-to-optimize-mobile-video-ads-through-artificial-intelligence/
+6276	Astro	https://www.helloastro.com/
+6277	Verizon Media Tech Venture Studio	https://techcrunch.com/2017/03/10/verizon-media-tech-venture-studio/
+6281	ObEN	http://www.oben.com/
+6281	Evrything	https://techcrunch.com/2017/03/14/evrythng-series-b/
+6289	Mythic	https://techcrunch.com/2017/03/22/mythic-launches-a-chip-to-enable-computer-vision-and-voice-control-on-any-device/
+6290	Octopus Ventures	https://www.ft.com/content/3559a768-0e47-11e7-b030-768954394623
+6297	Pepper	http://www.kansascity.com/news/business/technology/article141670739.html
+6304	Mobvoi	https://techcrunch.com/2017/04/06/volkswagen-mobvoi-china/
+6305	Konux	http://tech.eu/brief/konux-16-million/
+6305	Remesh	https://remesh.ai/
+6309	Saleswhale	http://tcrn.ch/2nYVnal
+6311	Ink Labs	https://inkcloud.me/products
+6311	Riot Ventures	https://www.sec.gov/Archives/edgar/data/1701374/000170137417000001/xslFormDX01/primary_doc.xml
+6315	Actility	https://www.bloomberg.com/news/articles/2017-04-12/bosch-inmarsat-back-startup-that-links-canals-to-the-internet
+6316	Innefu Labs	https://inc42.com/buzz/innefu-indianivesh-funding/
+6319	Groq	http://www.cnbc.com/2017/04/20/ex-googlers-left-secretive-ai-unit-to-form-groq-with-palihapitiya.html
+6322	Sensoro	http://www.prnewswire.com/news-releases/leading-iot-tech-firm-sensoro-raises-18m-in-series-b-300441467.html
+6324	AIdoc Medical	https://techcrunch.com/2017/04/26/aidoc-medical/
+6330	Bitfusion	https://techcrunch.com/2017/05/02/bitfusion-raises-5m-for-its-ai-lifecycle-management-platform/
+6331	Bonsai	https://venturebeat.com/2017/05/02/bonsai-raises-7-6-million-to-let-companies-build-their-own-ai/
+6338	Mya Systems	https://venturebeat.com/2017/05/10/mya-systems-raises-11-4-million-for-its-ai-recruiter-chatbot/
+6353	Inflowz	http://www.prnewswire.com/news-releases/clarizens-founder-raises-35m-from-glilot-capital-partners-624033984.html
+6365	Armis	http://www.prnewswire.com/news-releases/armis-launches-from-stealth-to-eliminate-iot-security-blind-spot-for-enterprises-300469178.html
+6365	Workey	https://techcrunch.com/2017/06/06/career-site-workey-raises-8m-to-replace-headhunters-with-artificial-intelligence/
+6367	Citrine Informatics	https://citrine.io/
+6367	Cognata	https://techcrunch.com/2017/06/08/cognata-receives-5-to-speed-up-autonomous-testing/

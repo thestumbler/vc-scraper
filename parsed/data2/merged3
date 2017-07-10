@@ -1,0 +1,2580 @@
+0001	2016-Jan-06	 ng 	Aver	5.5-year-old	Columbus, Oh.
+0002	2016-Jan-06	 ng 	Entac Medical	4.5-year-old	Memphis, Tn.
+0003	2016-Jan-06	 ng 	Flatiron Health	three-year-old	New York
+0004	2016-Jan-06	 ng 	Kolibree	two-year-old	Paris, France
+0005	2016-Jan-06	 ng 	Mycity4kids	five-year-old	Gurgaon, India
+0006	2016-Jan-06	 ng 	NextCure	new	unk
+0007	2016-Jan-06	 ng 	Petra Pharma	new	unk
+0008	2016-Jan-06	 ng 	Toast	four-year-old	Boston
+0009	2016-Jan-06	 ng 	Tracxn	2.5-year-old	Palo Alto, Ca.
+0010	2016-Jan-06	 ng 	UIEvolution	15-year-old	Seattle, Wa.
+0011	2016-Jan-06	 ng 	Xfers	nearly two-year-old	Singapore
+0012	2016-Jan-08	 ng 	Agilence	nine-year-old	Mt. Laurel, N.J.
+0013	2016-Jan-08	 ng 	Alector	two-year-old	San Francisco
+0014	2016-Jan-08	 ng 	ASLAN Pharmaceuticals	five-year-old	Singapore
+0015	2016-Jan-08	 ng 	Cortexyme	three-year-old	South San Francisco
+0016	2016-Jan-08	 ng 	Cloud Elements	3.5-year-old	Denver
+0017	2016-Jan-08	 ng 	Deposit Solutions	four-year-old	Germany
+0018	2016-Jan-08	 ng 	Dibs Technology	year-old	New York
+0019	2016-Jan-08	 ng 	MakeMyTrip	15-year-old	Gurgaon, India
+0020	2016-Jan-08	 ng 	KidPass	year-old	New York
+0021	2016-Jan-08	 ng 	MyMusicTaste	four-year-old	Seoul
+0022	2016-Jan-08	 ng 	PierianDx	year-old	St. Louis
+0023	2016-Jan-08	 ng 	Platzi	two-year-old	Mountain View, Ca.
+0024	2016-Jan-08	 ng 	Scalr	seven-year-old	San Francisco
+0025	2016-Jan-08	 ng 	StartEngine	four-year-old	Santa Monica, Ca.
+0026	2016-Jan-08	 ng 	Xeris Pharmaceuticals	10-year-old	unk
+0027	2016-Jan-08	 ng 	Zai Lab	1.5-year-old	Shanghai, China
+0028	2016-Jan-08	 ng 	Zymeworks	unk	Vancouver
+0029	2016-Jan-08	 nf 	Hamilton Lane	unk	unk
+0030	2016-Jan-08	 nf 	K2 Global	seven-month-old	San Francisco
+0031	2016-Jan-13	 ng 	CarTrade	six-year-old	Mumbai, India
+0032	2016-Jan-13	 ng 	Envelop VR	1.5-year-old	Bellevue, Wa.
+0033	2016-Jan-13	 ng 	Moltin	2.5-year-old	Mountain View, Ca.
+0034	2016-Jan-13	 ng 	Moneybox	seven-month-old	U.K.
+0035	2016-Jan-13	 ng 	mParticle	two-year-old	New York
+0036	2016-Jan-13	 ng 	Shape Security	four-year-old	Mountain View, Ca.
+0037	2016-Jan-13	 ng 	SmashFly	unk	Concord, Ma.
+0038	2016-Jan-13	 ng 	Zerto	6.5-year-old	Boston
+0039	2016-Jan-13	 nf 	Leaders Fund	new	unk
+0040	2016-Jan-13	 nf 	Netflix	unk	unk
+0041	2016-Jan-13	 nf 	TrueBridge Capital Partners	unk	unk
+0042	2016-Jan-22	 ng 	BaubleBar	four-year-old	New York
+0043	2016-Jan-22	 ng 	Canvs	five-year-old	New York
+0044	2016-Jan-22	 ng 	FiveStars	five-year-old	San Francisco
+0045	2016-Jan-22	 ng 	Ice.com	1.5-year-old	Austin, Tex.
+0046	2016-Jan-22	 ng 	Iterable	2.5-year-old	San Francisco
+0047	2016-Jan-22	 ng 	Jugnoo	1.5-year-old	unk
+0048	2016-Jan-22	 ng 	LendUp	three-year-old	San Francisco
+0049	2016-Jan-22	 ng 	LoanHero	1.5-year-old	San Diego, Ca.
+0050	2016-Jan-22	 ng 	Mucosis	nine-year-old	unk
+0051	2016-Jan-22	 ng 	Nubo	4.5-year-old	Israel
+0052	2016-Jan-22	 ng 	OpenDoor	unk	San Francisco
+0053	2016-Jan-22	 ng 	Roger	year-old	New York
+0054	2016-Jan-22	 ng 	Waldo Photos	new	unk
+0055	2016-Jan-22	 nf 	Abingworth	unk	unk
+0056	2016-Jan-22	 nf 	SGVC II	unk	unk
+0057	2016-Jan-25	 ng 	Aircall	1.5-year-old	unk
+0058	2016-Jan-25	 ng 	DataXu	6.5-year-old	Boston
+0059	2016-Jan-25	 ng 	HomePolish	three-year-old	New York
+0060	2016-Jan-25	 ng 	iROKO	four-year-old	Nigeria
+0061	2016-Jan-25	 ng 	mPrest	13-year-old	Israel
+0062	2016-Jan-25	 ng 	Omni-ID	nearly nine-year-old	unk
+0063	2016-Jan-25	 ng 	Oscar	unk	New York
+0064	2016-Jan-25	 ng 	Prevalent Networks	unk	Warren, N.J.
+0065	2016-Jan-25	 ng 	RetraceHealth	two-year-old	Minneapolis, Mn.
+0066	2016-Jan-25	 ng 	Wingz	two-year-old	San Francisco
+0067	2016-Jan-25	 ng 	WOO Sports	2.5-year-old	Boston, Ma.
+0068	2016-Jan-25	 ng 	Assemble.VC	new	unk
+0069	2016-Jan-25	 ng 	CAVU Ventures	year-old	New York
+0070	2016-Jan-25	 ng 	Origin Ventures	16-year-old	Chicago
+0071	2016-Jan-26	 ng 	5miles	1.5-year-old	Dallas and Beijing
+0072	2016-Jan-26	 ng 	Authorea	2.5-year-old	New York
+0073	2016-Jan-26	 ng 	Cedexis	six-year-old	Portland, Ore.
+0074	2016-Jan-26	 ng 	Codiak Biosciences	year-old	San Francisco
+0075	2016-Jan-26	 ng 	CosmosID	nine-year-old	Washington, D.C.
+0076	2016-Jan-26	 ng 	Eyeota	three-year-old	Singapore
+0077	2016-Jan-26	 ng 	FaceIt	three-year-old	London
+0078	2016-Jan-26	 ng 	Fireglass	1.5-year-old	New York
+0079	2016-Jan-26	 ng 	Grovo	5.5-year-old	New York
+0080	2016-Jan-26	 ng 	HopSkipDrive	year-old	L.A.
+0081	2016-Jan-26	 ng 	Jan Medical	13-year-old	Mountain View, Ca.
+0082	2016-Jan-26	 ng 	Jitterbit	10-year-old	Alameda, Ca.
+0083	2016-Jan-26	 ng 	ParkWhiz	nine-year-old	Chicago
+0084	2016-Jan-26	 ng 	Powerhive	four-year-old	Berkeley, Ca.
+0085	2016-Jan-26	 ng 	Seebo	3.5-year-old	Tel Aviv, Israel
+0086	2016-Jan-26	 ng 	SnapMD	2.5-year-old	Glendale, Ca.
+0087	2016-Jan-26	 ng 	Vidyard	4.5-year-old	Kitchener, Ontario
+0088	2016-Jan-26	 nf 	Qiming Venture Partners	10-year-old	Shanghai, China
+0089	2016-Jan-27	 ng 	Adicet Bio	1.5-year-old	New York
+0090	2016-Jan-27	 ng 	Branch Metrics	nearly two-year-old	Palo Alto, Ca.
+0091	2016-Jan-27	 ng 	Cadre	nearly two-year-old	New York
+0092	2016-Jan-27	 ng 	Civic	new	unk
+0093	2016-Jan-27	 ng 	HighQ	15-year-old	London
+0094	2016-Jan-27	 ng 	Lever	3.5-year-old	San Francisco
+0095	2016-Jan-27	 ng 	Moz	unk	Seattle
+0096	2016-Jan-27	 ng 	PanOpen	nearly three-year-old	New York
+0097	2016-Jan-27	 ng 	PitchBook Data	nearly nine-year-old	Seattle
+0098	2016-Jan-27	 ng 	Savari	unk	Santa Clara, Ca.
+0099	2016-Jan-27	 ng 	StatMuse	two-year-old	San Francisco
+0100	2016-Jan-27	 ng 	Tarveda Therapeutics	three-year-old	Watertown, Ma.
+0101	2016-Jan-27	 ng 	Vestorly	four-year-old	New York
+0102	2016-Jan-27	 ng 	Wevorce	three-year-old	Bothell, Wa.
+0103	2016-Jan-27	 ng 	The Zebra	three-year-old	Austin, Tex.
+0104	2016-Jan-27	 nf 	Rakuten Ventures	unk	unk
+0105	2016-Jan-29	 ng 	BloomReach	six-year-old	Mountain View, Ca.
+0106	2016-Jan-29	 ng 	College Avenue Student Loans	two-year-old	Wilmington, De.
+0107	2016-Jan-29	 ng 	Cronofy	2.5-year-old	unk
+0108	2016-Jan-29	 ng 	FreshMenu	two-year-old	Bangalore, India
+0109	2016-Jan-29	 ng 	nuTonomy	two-year-old	Cambridge, Ma.
+0110	2016-Jan-29	 ng 	RedMart	four-year-old	Singapore
+0111	2016-Jan-29	 ng 	Truebil	year-old	Bangalore
+0112	2016-Jan-29	 ng 	True Potential	nine-year-old	London
+0113	2016-Jan-29	 ng 	TurboAppeal	year-old	Chicago
+0114	2016-Jan-29	 nf 	Susa Ventures	2.5-year-old	unk
+0115	2016-Feb-10	 ng 	ARMO BioSciences	four-year-old	Redwood City, Ca.
+0116	2016-Feb-10	 ng 	CrunchBase	unk	San Francisco
+0117	2016-Feb-10	 ng 	Edyn	2.5-year-old	Oakland, Ca.
+0118	2016-Feb-10	 ng 	Gjirafa	2.5-year-old	unk
+0119	2016-Feb-10	 ng 	Lantern	3.5-year-old	San Francisco
+0120	2016-Feb-10	 ng 	Latch	1.5-year-old	New York
+0121	2016-Feb-10	 ng 	Paytm	5.5-year-old	Noida, India
+0122	2016-Feb-10	 ng 	Riskified	3.5-year-old	Tel Aviv, Israel
+0123	2016-Feb-10	 ng 	TiZR	1.5-year-old	London
+0124	2016-Feb-10	 ng 	WorldRemit	5.5-year-old	London
+0125	2016-Feb-10	 ng 	Yumanity Therapeutics	14-month-old	Cambridge, Ma.
+0126	2016-Feb-11	 ng 	First Stop Health	four-year-old	Chicago
+0127	2016-Feb-11	 ng 	Halo Neuroscience	2.5-year-old	San Francisco
+0128	2016-Feb-11	 ng 	Hexadite	unk	unk
+0129	2016-Feb-11	 ng 	NuuED	year-old	unk
+0130	2016-Feb-11	 ng 	Payleven	three-year-old	Berlin
+0131	2016-Feb-11	 ng 	SchoolMint	three-year-old	San Francisco
+0132	2016-Feb-11	 ng 	Renew Financial	unk	Oakland, Ca.
+0133	2016-Feb-11	 ng 	Sky-Futures	6.5-year-old	London
+0134	2016-Feb-11	 ng 	Statflo	three-year-old	Toronto
+0135	2016-Feb-11	 ng 	Student.com	four-year-old	London
+0136	2016-Feb-11	 ng 	Toss Lab	1.5-year-old	Seoul, Korea
+0137	2016-Feb-11	 ng 	Veniam	four-year-old	Mountain View, Ca.
+0138	2016-Feb-11	 ng 	ZyBooks	three-year-old	San Francisco
+0139	2016-Feb-11	 nf 	BBVA	unk	unk
+0140	2016-Feb-11	 nf 	Goodwater Capital	two-year-old	unk
+0141	2016-Feb-11	 nf 	IMJ	unk	unk
+0142	2016-Feb-11	 nf 	Jet Blue Technology Ventures	unk	unk
+0143	2016-Feb-11	 nf 	Karma Ventures	new	unk
+0144	2016-Feb-17	 ng 	AQ Metrics	3.5-year-old	Dublin, Ireland
+0145	2016-Feb-17	 ng 	Bux	1.5-year-old	Amsterdam
+0146	2016-Feb-17	 ng 	Cala Health	two-year-old	Burlingame, Ca.
+0147	2016-Feb-17	 ng 	Grana	1.5-year-old	Hong Kong
+0148	2016-Feb-17	 ng 	Hometeam	three-year-old	New York
+0149	2016-Feb-17	 ng 	Makeable	unk	unk
+0150	2016-Feb-17	 ng 	MindMaze	3.5-year-old	Lausanne, Switzerland
+0151	2016-Feb-17	 ng 	PokitDok	4.5-year-old	San Mateo, Ca.
+0152	2016-Feb-17	 ng 	Qualia	five-year-old	New York
+0153	2016-Feb-17	 ng 	Rainforest QA	unk	unk
+0154	2016-Feb-17	 ng 	Sprout Social	five-year-old	Chicago
+0155	2016-Feb-17	 ng 	Synlogic	2.5-year-old	Cambridge, Ma.
+0156	2016-Feb-17	 ng 	Wavecell	five-year-old	unk
+0157	2016-Feb-17	 ng 	Yello Mobile	unk	Seoul
+0158	2016-Feb-17	 ng 	YouAppi	five-year-old	unk
+0159	2016-Feb-17	 ng 	ZeaKal	five-year-old	San Diego
+0160	2016-Feb-17	 nf 	NewSchools Venture Fund	unk	Oakland, Ca.
+0161	2016-Feb-17	 nf 	Natural Launchpad	unk	unk
+0162	2016-Feb-18	 ng 	Triptease	three-year-old	London
+0163	2016-Feb-18	 ng 	Vera	two-year-old	Palo Alto, Ca.
+0164	2016-Feb-18	 nf 	Aaand now Campbell Soup	unk	unk
+0165	2016-Feb-19	 ng 	Anyline	three-year-old	Vienna, Austria
+0166	2016-Feb-19	 ng 	Aria Systems	13-year-old	unk
+0167	2016-Feb-19	 ng 	Athentek	year-old	Taipei, Taiwan
+0168	2016-Feb-19	 ng 	Centric Digital	nearly seven-year-old	New York
+0169	2016-Feb-19	 ng 	Effector Therapeutics	3.5-year-old	San Diego, Ca.
+0170	2016-Feb-19	 ng 	ModoPayments	five-year-old	Richardson, Tex.
+0171	2016-Feb-19	 ng 	Nomva	year-old	Santa Monica, Ca.
+0172	2016-Feb-19	 ng 	Opternative	three-year-old	Chicago
+0173	2016-Feb-19	 ng 	Riskified	nearly four-year-old	Tel Aviv, Israel
+0174	2016-Feb-19	 ng 	Triip	three-year-old	Ho Chi Minh, Vietnam
+0175	2016-Feb-22	 ng 	Chainalysis	1.5-year-old	New York
+0176	2016-Feb-22	 ng 	Impact Therapeutics	seven-year-old	Nanjing, China
+0177	2016-Feb-22	 ng 	JetSmarter	3.5-year-old	unk
+0178	2016-Feb-22	 ng 	Magicpin	year-old	Gurgaon, India
+0179	2016-Feb-22	 ng 	NuoDB	five-year-old	Cambridge, Ma.
+0180	2016-Feb-22	 ng 	Qubit	five-year-old	London
+0181	2016-Feb-22	 ng 	Trusona	year-old	Scottsdale, Az.
+0182	2016-Feb-22	 nf 	Lifeline Ventures	seven-year-old	Helsinki
+0183	2016-Feb-22	 nf 	Nokia Growth Partners	unk	unk
+0184	2016-Feb-22	 nf 	Perceptive Bioscience Investments	unk	unk
+0185	2016-Feb-23	 ng 	Betterview	two-year-old	San Francisco
+0186	2016-Feb-23	 ng 	Namely	four-year-old	New York
+0187	2016-Feb-23	 ng 	MasterClass	three-year-old	San Francisco
+0188	2016-Feb-23	 ng 	Mintos	1.5-year-old	unk
+0189	2016-Feb-23	 ng 	Raw Pressery	three-year-old	Mumbai, India
+0190	2016-Feb-23	 ng 	Razer	unk	Irvine, Ca.
+0191	2016-Feb-23	 ng 	Reflektion	four-year-old	San Mateo, Ca.
+0192	2016-Feb-23	 ng 	TaskBob	year-old	Mumbai, India
+0193	2016-Feb-23	 ng 	Team8	two-year-old	Tel Aviv, Israel
+0194	2016-Feb-23	 nf 	500 Startups	unk	unk
+0195	2016-Feb-23	 nf 	Battery Ventures	33-year-old	unk
+0196	2016-Feb-24	 ng 	AppilyEverAfter	months-old	Hyderabad, India
+0197	2016-Feb-24	 ng 	Captain401	year-old	San Francisco
+0198	2016-Feb-24	 ng 	ClearMetal	two-year-old	San Francisco
+0199	2016-Feb-24	 ng 	Deliv	three-year-old	Menlo Park, Ca
+0200	2016-Feb-24	 ng 	Forty Seven	unk	unk
+0201	2016-Feb-24	 ng 	Loanzen	six-month-old	Bangalore, India
+0202	2016-Feb-24	 ng 	MakeSpace	three-year-old	New York
+0203	2016-Feb-24	 ng 	NICO	nine-year-old	Indianapolis, In.
+0204	2016-Feb-24	 ng 	NoBroker	1.5-year-old	Bangalore, India
+0205	2016-Feb-24	 ng 	Pocketin	year-old	Noida, India
+0206	2016-Feb-24	 ng 	PolyPid	unk	Israel
+0207	2016-Feb-24	 ng 	Quantifind	seven-year-old	Menlo Park, Ca.
+0208	2016-Feb-24	 ng 	RealityShares	 nearly three-year-old	San Francisco
+0209	2016-Feb-24	 ng 	Spruce Finance	unk	unk
+0210	2016-Feb-24	 ng 	TodayTix	three-year-old	New York
+0211	2016-Feb-24	 ng 	Real	three-year-old	Houston
+0212	2016-Feb-24	 ng 	ReSec Technologies	nearly four-year-old	Yokneam, Israel and New York
+0213	2016-Feb-24	 ng 	YouAppi	4.5-year-old	San Francisco
+0214	2016-Feb-24	 nf 	Andrew Chung	unk	unk
+0215	2016-Feb-24	 nf 	TLV Partners	unk	unk
+0216	2016-Feb-29	 ng 	Borrowell	year-old	Toronto, Canada
+0217	2016-Feb-29	 ng 	Enlighted	seven-year-old	Sunnyvale, Ca.
+0218	2016-Feb-29	 ng 	Health Catalyst	unk	Salt Lake City, Ut.
+0219	2016-Feb-29	 ng 	Hopscotch	four-year-old	Mumbai, India
+0220	2016-Feb-29	 ng 	iCharts	unk	Mountain View, Ca.
+0221	2016-Feb-29	 ng 	Kika Tech	 1.5-year-old	Sunnyvale, Ca.
+0222	2016-Feb-29	 ng 	MedCPU	unk	New York
+0223	2016-Feb-29	 ng 	Souq	10.5-year-old	Dubai
+0224	2016-Feb-29	 nf 	Advancit Capital	four-year-old	Norwood, Ma.
+0225	2016-Feb-29	 nf 	Eight Partners	unk	unk
+0226	2016-Mar-02	 ng 	Augment	four-year-old	Paris
+0227	2016-Mar-02	 ng 	Blippar	4.5-year-old	New York
+0228	2016-Mar-02	 ng 	Carsome	year-old	Kuala Lumpur, Malaysia
+0229	2016-Mar-02	 ng 	Eight Sleep	1.5-year-old	New York
+0230	2016-Mar-02	 ng 	Jobbatical	1.5-year-old	Estonia
+0231	2016-Mar-02	 ng 	Landit	year-old	New York
+0232	2016-Mar-02	 ng 	Lola	two-year-old	New York
+0233	2016-Mar-02	 ng 	MarianaIQ	two-year-old	Palo Alto, Ca.
+0234	2016-Mar-02	 ng 	MedyMatch Technology	two-year-old	Tel Aviv, Israel
+0235	2016-Mar-02	 ng 	Mercari	three-year-old	Tokyo
+0236	2016-Mar-02	 ng 	Motiv	three-year-old	San Francisco
+0237	2016-Mar-02	 ng 	Replay Technologies	four-year-old	Newark, Ca.
+0238	2016-Mar-02	 ng 	Unchained Labs	1.5-year-old	Pleasanton, Ca.
+0239	2016-Mar-02	 ng 	Xirrus	12-year-old	Thousand Oaks, Ca.
+0240	2016-Mar-02	 nf 	Resolute Ventures	unk	San Francisco
+0241	2016-Mar-04	 ng 	Autolus	1.5-year-old	London
+0242	2016-Mar-04	 ng 	Exo	nearly three-year-old	New York
+0243	2016-Mar-04	 ng 	Phenom People	5.5-year-old	Philadelphia, Pa.
+0244	2016-Mar-04	 ng 	SourceKnowledge	6.5-year-old	Montreal, Quebec
+0245	2016-Mar-04	 ng 	Terbium Labs	nearly three-year-old	Baltimore, Md.
+0246	2016-Mar-04	 nf 	Aberdeen Venture Partners	unk	unk
+0247	2016-Mar-04	 nf 	Eight Partners	unk	unk
+0248	2016-Mar-04	 nf 	Hummer Winblad Venture Partners	unk	unk
+0249	2016-Mar-07	 ng 	Culture Amp	four-year-old	San Francisco and Melbourne, Australia
+0250	2016-Mar-07	 ng 	GetLinks	year-old	Bangkok, Thailand
+0251	2016-Mar-07	 ng 	LightSail	nearly four-year-old	New York
+0252	2016-Mar-07	 ng 	Property Partner	two-year-old	London
+0253	2016-Mar-07	 ng 	Staff Finder	four-year-old	Zurich, Switzerland
+0254	2016-Mar-07	 ng 	United Wind	three-year-old	Brooklyn, N.Y.
+0255	2016-Mar-07	 ng 	Zaloni	nine-year-old	Durham, N.C.
+0256	2016-Mar-09	 ng 	iFlix	year-old	Kuala Lumpur, Malaysia
+0257	2016-Mar-09	 ng 	Indochino	nine-year-old	Vancouver, B.C.
+0258	2016-Mar-09	 ng 	Intersec	unk	Paris
+0259	2016-Mar-09	 nf 	Cisco Systems	unk	unk
+0260	2016-Mar-09	 nf 	Lightspeed Venture Partners	unk	Menlo Park, Ca.
+0261	2016-Mar-10	 ng 	4Tech	five-year-old	Galway, Ireland
+0262	2016-Mar-10	 ng 	Avametric	five-month-old	San Francisco
+0263	2016-Mar-10	 ng 	Constant Therapy	three-year-old	Boston
+0264	2016-Mar-10	 ng 	HealthTell	four-year-old	Arizona
+0265	2016-Mar-10	 ng 	Icertis	seven-year-old	Bellevue, Wa.
+0266	2016-Mar-10	 ng 	IndiaMART	20-year-old	India
+0267	2016-Mar-10	 ng 	Julie Desk	two-year-old	Paris
+0268	2016-Mar-10	 ng 	Justworks	3.5-year-old	New York
+0269	2016-Mar-10	 ng 	Nom.com	months-old	San Francisco
+0270	2016-Mar-10	 ng 	Penrose Studios	year-old	San Francisco
+0271	2016-Mar-10	 ng 	Resolver	16-year-old	Toronto
+0272	2016-Mar-10	 ng 	WeWork	unk	New York
+0273	2016-Mar-10	 nf 	Mucker Capital	new	unk
+0274	2016-Mar-11	 ng 	8Dol.com	three-year-old	China
+0275	2016-Mar-11	 ng 	Aspyrian Therapeutics	six-year-old	unk
+0276	2016-Mar-11	 ng 	Bustle	three-year-old	Brooklyn, N.Y.
+0277	2016-Mar-11	 ng 	Flipkart	unk	Bangalore, India
+0278	2016-Mar-11	 ng 	Inmoji	two-year-old	Boston
+0279	2016-Mar-11	 ng 	Propel	year-old	San Jose, Ca.
+0280	2016-Mar-11	 ng 	Soothe	three-year-old	L.A.
+0281	2016-Mar-11	 ng 	Whistle Sports	seven-year-old	New York
+0282	2016-Mar-14	 ng 	Alooma	2.5-year-old	Tel Aviv, Israel
+0283	2016-Mar-14	 ng 	Future Finance	nearly two-year-old	Dublin, Ireland
+0284	2016-Mar-14	 ng 	LendInvest	2.5-year-old	U.K.
+0285	2016-Mar-14	 ng 	Noodle.ai	new	unk
+0286	2016-Mar-14	 nf 	Cherubic Ventures	5.5-year-old	unk
+0287	2016-Mar-15	 ng 	Arterys	4.5-year-old	San Francisco
+0288	2016-Mar-15	 ng 	ChartIQ	four-year-old	Charlottesville, Va.
+0289	2016-Mar-15	 ng 	Couchbase	seven-year-old	Mountain View, Ca.
+0290	2016-Mar-15	 ng 	Crate Technology	three-year-old	unk
+0291	2016-Mar-15	 ng 	Forge	three-year-old	San Francisco
+0292	2016-Mar-15	 ng 	Kurio	two-year-old	Jakarta, Indonesia
+0293	2016-Mar-15	 ng 	Librestream	13-year-old	Winnipeg
+0294	2016-Mar-15	 ng 	Marley Spoon	two-year-old	Berlin
+0295	2016-Mar-15	 ng 	Next Insurance	three-month-old	Palo Alto, Ca.
+0296	2016-Mar-15	 ng 	NimbeLink	three-year-old	Plymouth, Mn.
+0297	2016-Mar-15	 ng 	Outpost Medicine	unk	unk
+0298	2016-Mar-15	 ng 	PowerCore	year-old	East Palo Alto, Ca
+0299	2016-Mar-15	 ng 	Sight Sciences	six-year-old	Menlo Park, Ca.
+0300	2016-Mar-15	 ng 	Skyport Systems	three-year-old	Mountain View, Ca..
+0301	2016-Mar-15	 ng 	Spirox	four-year-old	Menlo Park, Calif.
+0302	2016-Mar-15	 ng 	Voke	four-year-old	Pullman, Wa.
+0303	2016-Mar-15	 nf 	Accel Partners	14-year-old	unk
+0304	2016-Mar-15	 nf 	HealthQuest Partners	three-year-old	Menlo Park, Ca.
+0305	2016-Mar-18	 ng 	Cumulus Funding	five-year-old	Chicago
+0306	2016-Mar-18	 ng 	HighGround	four-year-old	Chicago
+0307	2016-Mar-18	 ng 	Kenandy	six-year-old	Redwood City, Ca.
+0308	2016-Mar-18	 nf 	Atomico	10-year-old	London
+0309	2016-Mar-18	 nf 	SV Angel	unk	San Francisco
+0310	2016-Mar-18	 nf 	Union Square Ventures	13-year-old	unk
+0311	2016-Mar-21	 ng 	ApniCure	nine-year-old	Redwood City, Ca.
+0312	2016-Mar-21	 ng 	Atlantic Healthcare	nine-year-old	U.K.
+0313	2016-Mar-21	 ng 	Distribusion Technologies	3.5-year-old	Berlin, Germany
+0314	2016-Mar-21	 ng 	eGym	five-year-old	Munich, Germany
+0315	2016-Mar-21	 ng 	Elliptic	three-year-old	U.K.
+0316	2016-Mar-21	 ng 	FuboTV	nearly two-year-old	New York
+0317	2016-Mar-21	 ng 	Girnar Software	nine-year-old	Rajasthan, India
+0318	2016-Mar-21	 ng 	GreatHorn	year-old	Belmont, Ma.
+0319	2016-Mar-21	 ng 	Mattermark	three-year-old	San Francisco
+0320	2016-Mar-21	 ng 	Mirriad	unk	London
+0321	2016-Mar-21	 ng 	Moat	5.5-year-old	New York
+0322	2016-Mar-21	 ng 	Partender	3.5-year-old	San Francisco
+0323	2016-Mar-21	 ng 	ServisHero	nine-month-old	Malaysia
+0324	2016-Mar-21	 ng 	StreetShares	1.5-year-old	Reston, Va.
+0325	2016-Mar-21	 ng 	Tinkergarten	1.5-year-old	Brooklyn, N.Y.
+0326	2016-Mar-21	 nf 	Bronze Investments	new	unk
+0327	2016-Mar-21	 nf 	Empire Angels	3.5-year-old	unk
+0328	2016-Mar-21	 nf 	Movac	unk	Wellingon, New Zealand
+0329	2016-Mar-21	 nf 	Zodius Capital	five-year-old	Mumbai, India
+0330	2016-Mar-22	 ng 	Big Basket	4.5-year-old	Bangalore, India
+0331	2016-Mar-22	 ng 	BYJU	unk	Bangalore, India
+0332	2016-Mar-22	 ng 	Edgewater Markets	seven-year-old	New York
+0333	2016-Mar-22	 ng 	Edj Analytics	three-year-old	Louisville, Ky.
+0334	2016-Mar-22	 ng 	Maxwell Health	3.5-year-old	Boston
+0335	2016-Mar-22	 ng 	Terminus	1.5-year-old	Atlanta, Ga.
+0336	2016-Mar-22	 ng 	Zodiac	year-old	Philadelphia, Pa.
+0337	2016-Mar-22	 nf 	Polytech Ecosystem Ventures	unk	unk
+0338	2016-Mar-22	 nf 	Refactor Capital	unk	unk
+0339	2016-Mar-25	 ng 	6Fusion	unk	Raleigh, N.C.
+0340	2016-Mar-25	 ng 	Bromium	5.5-year-old	Cupertino, Ca.
+0341	2016-Mar-25	 ng 	CiValue	two-year-old	Israel
+0342	2016-Mar-25	 ng 	DimensionalMechanics	year-old	Bellevue, Wa.
+0343	2016-Mar-25	 ng 	EndoStim	seven-year-old	St. Louis, Mo.
+0344	2016-Mar-25	 ng 	FLYR	2.5-year-old	San Francisco
+0345	2016-Mar-25	 ng 	Hive	10-month-old	New York
+0346	2016-Mar-25	 ng 	Iterum Therapeutics	year-old	Dublin, Ireland
+0347	2016-Mar-25	 ng 	June	2.5-year-old	San Francisco
+0348	2016-Mar-25	 ng 	Lagou	nearly three-year-old	Beijing, China
+0349	2016-Mar-25	 ng 	Soasta	10-year-old	Mountain View, Ca.
+0350	2016-Mar-25	 nf 	Forté Ventures	four-year-old	Atlanta
+0351	2016-Mar-28	 ng 	Cyberpost	unk	unk
+0352	2016-Mar-28	 ng 	Emulate	two-year-old	Boston
+0353	2016-Mar-28	 ng 	FixNix	3.5-year-old	Bangalore, India
+0354	2016-Mar-28	 ng 	Katerra	six-month-old	Menlo Park, Ca.
+0355	2016-Mar-28	 ng 	Permission Click	three-year-old	unk
+0356	2016-Mar-28	 ng 	Venus Medtech	seven-year-old	Hangzhou, China
+0357	2016-Mar-28	 nf 	Founders Fund	unk	San Francisco
+0358	2016-Mar-28	 nf 	UniCredit evo	unk	unk
+0359	2016-Mar-28	 nf 	Zhuang Chenchao	unk	unk
+0360	2016-Mar-30	 ng 	Asana	unk	New York
+0361	2016-Mar-30	 ng 	Branch	year-old	San Francisco, and Nairobi, Kenya
+0362	2016-Mar-30	 ng 	CockroachDB	1.5-year-old	New York
+0363	2016-Mar-30	 ng 	Frichti	nearly year-old	Paris, France
+0364	2016-Mar-30	 ng 	Invoca	nearly eight-year-old	Santa Barbara, Ca.
+0365	2016-Mar-30	 ng 	MapD	2.5-year-old	San Francisco
+0366	2016-Mar-30	 ng 	Planday	2.5-year-old	Copenhagen
+0367	2016-Mar-30	 ng 	Spotify	unk	Stockholm, Sweden
+0368	2016-Mar-30	 ng 	Wanliyun Medical Information Technology	seven-year-old	Beijing, China
+0369	2016-Mar-30	 nf 	Bitcoin Development Fund	unk	unk
+0370	2016-Apr-04	 ng 	Comma.ai	seven-month-old	San Francisco
+0371	2016-Apr-04	 ng 	Entasis Therapeutics	nearly year-old	Waltham, Ma.
+0372	2016-Apr-04	 ng 	Garena Interactive Holding	seven-year-old	Singapore
+0373	2016-Apr-04	 ng 	Hungama	16-year-old	Mumbai, India
+0374	2016-Apr-04	 ng 	Influenster	six-year-old	New York
+0375	2016-Apr-04	 ng 	Reserve	nearly two-year-old	New York
+0376	2016-Apr-04	 ng 	Schoold	year-old	a year-old, San Francisco
+0377	2016-Apr-04	 ng 	Slack	unk	San Francisco
+0378	2016-Apr-04	 ng 	Strainz	three-year-old	Las Vegas
+0379	2016-Apr-04	 nf 	Entrepreneurship and Venture Capital (or EVC)	unk	unk
+0380	2016-Apr-06	 ng 	Anchore	three-month-old	Santa Barbara, Ca.
+0381	2016-Apr-06	 ng 	Bright Health	new	unk
+0382	2016-Apr-06	 ng 	CrossChx	four-year-old	Columbus, Oh.
+0383	2016-Apr-06	 ng 	Dispatch	unk	San Francisco
+0384	2016-Apr-06	 ng 	Finanzcheck	3.5-year-old	Hamburg, Germany
+0385	2016-Apr-06	 ng 	Haptik	four-year-old	Mumbai, India and San Francisco
+0386	2016-Apr-06	 ng 	Joyowo.com	unk	unk
+0387	2016-Apr-06	 ng 	Lola Travel	10-month-old	Boston
+0388	2016-Apr-06	 ng 	Meadow	1.5-year-old	San Francisco
+0389	2016-Apr-06	 ng 	Projector	year-old	San Francisco
+0390	2016-Apr-06	 ng 	Vinomofo	five-year-old	Australia
+0391	2016-Apr-06	 nf 	unk	unk	unk
+0392	2016-Apr-07	 ng 	Airmap	15-month-old	Santa Monica, Ca.
+0393	2016-Apr-07	 ng 	CloudOne	5.5-year-old	Fishers, Ind.
+0394	2016-Apr-07	 ng 	Clutter	three-year-old	L.A.
+0395	2016-Apr-07	 ng 	CrownPeak	15-year-old	L.A.
+0396	2016-Apr-07	 ng 	Electric Imp	five-year-old	Los Altos, Ca.
+0397	2016-Apr-07	 ng 	Intercom	five-year-old	San Francisco
+0398	2016-Apr-07	 ng 	Karamba Security	nearly year-old	Tel Aviv, Israel
+0399	2016-Apr-07	 ng 	Kyulux	year-old	Fukuoka, Japan
+0400	2016-Apr-07	 ng 	LinkDoc Technology	unk	unk
+0401	2016-Apr-07	 ng 	LiveSafe	four-year-old	unk
+0402	2016-Apr-07	 ng 	Lumos Pharma	five-year-old	Austin, Tex.
+0403	2016-Apr-07	 ng 	Luxe	nearly three-year-old	San Francisco
+0404	2016-Apr-07	 ng 	Mizzen + Main	four-year-old	Dallas, Tex.
+0405	2016-Apr-07	 ng 	RiskRecon	year-old	Boston
+0406	2016-Apr-07	 ng 	Sweetch Health	three-year-old	Jerusalemn
+0407	2016-Apr-07	 ng 	Twiggle	three-year-old	Tel Aviv, Israel
+0408	2016-Apr-07	 ng 	Veriflow	three-year-old	Oakland, Ca.
+0409	2016-Apr-07	 nf 	David Prager	unk	unk
+0410	2016-Apr-07	 nf 	Elevation Partners	unk	unk
+0411	2016-Apr-22	 ng 	Anomali	three-year-old	Redwood City, Ca.
+0412	2016-Apr-22	 ng 	Baidu Video	new	unk
+0413	2016-Apr-22	 ng 	BioBeats	three-year-old	Berkeley, Ca.
+0414	2016-Apr-22	 ng 	Bridgit	four-year-old	Kitchener, Ontario
+0415	2016-Apr-22	 ng 	Chameleon	year-old	San Francisco
+0416	2016-Apr-22	 ng 	CareerFoundry	nearly three-year-old	Berlin
+0417	2016-Apr-22	 ng 	Forter	three-year-old	Tel Aviv
+0418	2016-Apr-22	 ng 	Hua Medicine	unk	unk
+0419	2016-Apr-22	 ng 	Kueski	four-year-old	Guadalajara, Mexico
+0420	2016-Apr-22	 ng 	Medium	unk	San Francisco
+0421	2016-Apr-22	 nf 	Jamie Goldstein	unk	unk
+0422	2016-Apr-26	 ng 	Auro Robotics	year-old	San Francisco
+0423	2016-Apr-26	 ng 	Kasisto	three-year-old	Burlingame, Ca.
+0424	2016-Apr-26	 ng 	LaunchPad Recruits	4.5-year-old	London
+0425	2016-Apr-26	 ng 	Lendix	1.5-year-old	Paris
+0426	2016-Apr-26	 ng 	Remitly	five-year-old	Seattle
+0427	2016-Apr-26	 ng 	SparkCognition	three-year-old	Austin, Tex.
+0428	2016-Apr-26	 ng 	StoryStream	five-year-old	London
+0429	2016-Apr-26	 ng 	Tado	five-year-old	Munich, Germany
+0430	2016-Apr-26	 ng 	TranServ	5.5-year-old	Mumbai, India
+0431	2016-Apr-26	 ng 	Trov	four-year-old	Danville, Ca.
+0432	2016-Apr-26	 ng 	UrbanStems	two-year-old	Washington, D.C.
+0433	2016-Apr-26	 nf 	unk	unk	unk
+0434	2016-Apr-28	 ng 	Ionic	four-year-old	Madison, Wi.
+0435	2016-Apr-28	 ng 	Levyx	three-year-old	Irvine, Ca.
+0436	2016-Apr-28	 ng 	Poncho	three-year-old	New York
+0437	2016-Apr-28	 ng 	SpaceVR	year-old	San Jose, Ca.
+0438	2016-Apr-28	 ng 	Xola	five-year-old	San Francisco
+0439	2016-Apr-28	 nf 	Menlo Ventures	unk	unk
+0440	2016-Apr-29	 ng 	Cardiac Insight	unk	Kirkland, Wa.
+0441	2016-Apr-29	 ng 	Slantrange	nearly three-year-old	San Diego, Ca.
+0442	2016-Apr-29	 ng 	Stance	6.5-year-old	San Clemente, Ca..
+0443	2016-Apr-29	 ng 	VividCortex	four-year-old	Charlottesville, Va.
+0444	2016-Apr-29	 ng 	World View Enterprises	three-year-old	unk
+0445	2016-Apr-29	 nf 	Mayfield	unk	unk
+0446	2016-May-13	 ng 	Accion Systems	three-year-old	Cambridge, Ma.
+0447	2016-May-13	 ng 	Astrobotic Technology	nine-year-old	Pittsburgh, Pa.
+0448	2016-May-13	 ng 	Bigcommerce	seven-year-old	Austin- and Australia
+0449	2016-May-13	 ng 	Capital Float	three-year-old	Bangalore, India
+0450	2016-May-13	 ng 	EnBiotix	four-year-old	Cambridge, Ma.
+0451	2016-May-13	 ng 	EndoStim	seven-year-old	St. Louis, Mo.
+0452	2016-May-13	 ng 	Evaneos	seven-year-old	Paris
+0453	2016-May-13	 ng 	Medal	year-old	San Francisco
+0454	2016-May-13	 ng 	Viridity Energy	seven-year-old	Philadelphia, Pa.
+0455	2016-May-13	 nf 	K-Startup Grand Challenge	unk	unk
+0456	2016-May-13	 nf 	VSL Partners	two-year-old	San Fransisco
+0457	2016-May-23	 ng 	CloudMinds	unk	unk
+0458	2016-May-23	 ng 	Metadata	year-old	San Francisco
+0459	2016-May-23	 ng 	Rock Pamper Scissors	year-old	London
+0460	2016-May-23	 ng 	Saguna Networks	7.5-year-old	Yokneam, Israel
+0461	2016-May-23	 ng 	SeamlessDocs	five-year-old	unk
+0462	2016-May-23	 ng 	Sun Basket	two-year-old	San Francisco
+0463	2016-May-23	 ng 	Take the Interview	unk	New York
+0464	2016-May-23	 ng 	Weidai	five-year-old	Hangzhou, China
+0465	2016-May-23	 nf 	Harmony Partners	five-year-old	New York and San Francisco
+0466	2016-May-23	 nf 	Kleiner Perkins Caufield & Byers	unk	unk
+0467	2016-May-23	 nf 	OrbiMed	unk	unk
+0468	2016-May-23	 nf 	Runa Capital	nearly six-year-old	Moscow and San Francisco
+0469	2016-May-24	 ng 	Agari	seven-year-old	San Mateo, Ca.
+0470	2016-May-24	 ng 	Apixio	seven-year-old	San Mateo, Ca.
+0471	2016-May-24	 ng 	AutoGrid Systems	five-year-old	Redwood City, Ca.
+0472	2016-May-24	 ng 	BigID	seven-month-old	New York
+0473	2016-May-24	 ng 	Bloomz	two-year-old	Redmond, Wa.
+0474	2016-May-24	 ng 	Gett	six-year-old	New York
+0475	2016-May-24	 ng 	Menu Next Door	year-old	Brussels
+0476	2016-May-24	 ng 	Nucleix	nine-year-old	Tel Aviv, Israel
+0477	2016-May-24	 ng 	nuTonomy	three-year-old	Cambridge, Ma.
+0478	2016-May-24	 ng 	Pattern	year-old	Redwood City, Ca.
+0479	2016-May-24	 ng 	Sensifree	four-year-old	Cupertino, Ca.
+0480	2016-May-24	 ng 	SigFig	five-year-old	San Francisco
+0481	2016-May-24	 ng 	Snapchat	unk	Venice, Ca.
+0482	2016-May-24	 ng 	TourRadar	six-year-old	Vienna, Austria
+0483	2016-May-24	 ng 	vArmour	five-year-old	Mountain View, Ca.
+0484	2016-May-24	 nf 	According to Fortune	unk	unk
+0485	2016-May-25	 ng 	Affectiva	seven-year-old	Waltham, Ma.
+0486	2016-May-25	 ng 	Arrivo BioVentures	new	unk
+0487	2016-May-25	 ng 	Dashlane	seven-year-old	New York and Paris
+0488	2016-May-25	 ng 	Demisto	year-old	Cupertino, Ca.
+0489	2016-May-25	 ng 	eero	two-year-old	San Francisco
+0490	2016-May-25	 ng 	Entelo	five-year-old	San Francisco, Ca.
+0491	2016-May-25	 ng 	Stem	seven-year-old	Millbrae, Ca.
+0492	2016-May-25	 ng 	TransferWise	unk	unk
+0493	2016-May-25	 ng 	Viptela	four-year-old	San Jose, Ca.
+0494	2016-May-25	 ng 	Votiro	five-year-old	Tel Aviv, Israel
+0495	2016-May-26	 ng 	7shifts	three-year-old	Saskatoon, Saskatchewan
+0496	2016-May-26	 ng 	AmpMe	year-old	Montreal
+0497	2016-May-26	 ng 	Buddybuild	unk	Vancouver
+0498	2016-May-26	 ng 	Contentful	five-year-old	Berlin and San Francisco
+0499	2016-May-26	 ng 	Front App	2.5-year-old	Paris
+0500	2016-May-26	 ng 	Lightbend	five-year-old	San Francisco
+0501	2016-May-26	 ng 	Seismic	five-year-old	Solana Beach, Ca.
+0502	2016-May-26	 ng 	Snapchat	unk	Venice, Ca.
+0503	2016-May-26	 ng 	Skillshare	5.5-year-old	New York
+0504	2016-May-26	 nf 	EQT Ventures	unk	unk
+0505	2016-May-27	 ng 	Aleva Neurotherapeutics	nine-year-old	unk
+0506	2016-May-27	 ng 	Althea	year-old	Korea
+0507	2016-May-27	 ng 	Centauri Health Solutions	two-year-old	Scottsdale, Az.
+0508	2016-May-27	 ng 	Creema	5.5-year-old	Tokyo, Japan
+0509	2016-May-27	 ng 	EyeQ	five-year-old	Austin, Tex.
+0510	2016-May-27	 ng 	Lumiata	three-year-old	San Mateo, Ca.
+0511	2016-May-27	 ng 	Meural	two-year-old	New York
+0512	2016-May-27	 ng 	Photomyne	two-year-old	Tel Aviv, Israel
+0513	2016-May-27	 nf 	Grove Ventures	new	unk
+0514	2016-May-27	 nf 	Pantera Capital	16-year-old	unk
+0515	2016-May-31	 ng 	AutoFi	year-old	San Francisco
+0516	2016-May-31	 ng 	Codoon	5.5-year-old	China
+0517	2016-May-31	 ng 	Lalamove	three-year-old	Hong Kong
+0518	2016-May-31	 ng 	Mosaicoon	six-year-old	Palermo, Italy
+0519	2016-May-31	 ng 	Robin	two-year-old	Boston
+0520	2016-May-31	 ng 	Twiggle	two-year-old	Tel Aviv, Israel
+0521	2016-May-31	 ng 	Tynker	four-year-old	Mountain View, Ca.
+0522	2016-May-31	 ng 	WalkMe	four-year-old	San Francisco
+0523	2016-May-31	 ng 	Whill	four-year-old	Tokyo, Japan
+0524	2016-May-31	 ng 	WinView	unk	Redwood City, Ca.
+0525	2016-May-31	 ng 	Zoox	two-year-old	Menlo Park, Ca.
+0526	2016-May-31	 nf 	5AM Ventures	14-year-old	unk
+0527	2016-May-31	 nf 	Chrysalix Venture Capital	unk	unk
+0528	2016-May-31	 nf 	Indie.VC	unk	unk
+0529	2016-May-31	 nf 	Yesterday	new	unk
+0530	2016-Jun-02	 ng 	AccuraGen	three-year-old	Menlo Park, Ca.
+0531	2016-Jun-02	 ng 	Blued	four-year-old	China
+0532	2016-Jun-02	 ng 	Digit	year-old	San Francisco
+0533	2016-Jun-02	 ng 	Droom	two-year-old	Gurgaon, India
+0534	2016-Jun-02	 ng 	EarlySense	12-year-old	Ramat Gan, Israel
+0535	2016-Jun-02	 ng 	LinkBee	year-old	New York
+0536	2016-Jun-02	 ng 	Luxury Garage Sale	5.5-year-old	Chicago
+0537	2016-Jun-02	 ng 	Notion	three-year-old	Denver
+0538	2016-Jun-02	 ng 	RubiconMD	three-year-old	New York
+0539	2016-Jun-02	 ng 	Tile	3.5-year-old	San Mateo, Ca.
+0540	2016-Jun-02	 ng 	Tenjin	two-year-old	San Francisco
+0541	2016-Jun-02	 ng 	Uber	unk	San Francisco
+0542	2016-Jun-02	 ng 	uSens	three-year-old	San Jose, Ca.
+0543	2016-Jun-02	 ng 	Verto Analytics	three-year-old	New York and Helsinki
+0544	2016-Jun-03	 ng 	DemandJump	year-old	Indianapolis, In.
+0545	2016-Jun-03	 ng 	Glassdoor	nine-year-old	Mill Valley, Ca.
+0546	2016-Jun-03	 ng 	InFlectis BioScience	three-year-old	Nantes, France
+0547	2016-Jun-03	 ng 	Nomadd	two-year-old	Thuwal, Saudi Arabia
+0548	2016-Jun-03	 ng 	Qumulo	four-year-old	Seattle, Wa.
+0549	2016-Jun-03	 ng 	Udemy	six-year-old	unk
+0550	2016-Jun-03	 ng 	Vyze	unk	Austin, Tex.
+0551	2016-Jun-03	 nf 	Greenspring Associates	16-year-old	Owings Mills, Md.
+0552	2016-Jun-03	 nf 	Moneta Ventures	two-year-old	Folsom, Ca.
+0553	2016-Jun-06	 nf 	New York-based ff Venture Capital	unk	unk
+0554	2016-Jun-06	 nf 	State of Mind Ventures	new	unk
+0555	2016-Jun-06	 nf 	_Underscore	new	unk
+0556	2016-Jun-10	 ng 	ABA English (American & British Academy)	nine-year-old	Barcelona, Spain
+0557	2016-Jun-10	 ng 	Liberty SBF	five-year-old	New York
+0558	2016-Jun-10	 ng 	Lux	year-old	San Francisco
+0559	2016-Jun-10	 ng 	ProGlove	1.5-year-old	Munich, Germany
+0560	2016-Jun-10	 ng 	Tonsser	three-year-old	Copenhagen, Denmark
+0561	2016-Jun-10	 nf 	Garrett Van Wagoner	unk	unk
+0562	2016-Jun-15	 ng 	B2X	nine-year-old	Munich, Germany
+0563	2016-Jun-15	 ng 	Fenqile	three-year-old	unk
+0564	2016-Jun-15	 ng 	Huizuche	two-year-old	Shanghai, China
+0565	2016-Jun-15	 ng 	Loggly	seven-year-old	San Francisco
+0566	2016-Jun-15	 ng 	Lumus	16-year-old	Rehovot, Israel
+0567	2016-Jun-15	 ng 	Procured Health	four-year-old	Chicago
+0568	2016-Jun-15	 ng 	Qloo	four-year-old	New York
+0569	2016-Jun-15	 ng 	Rgenix	six-year-old	New York
+0570	2016-Jun-15	 ng 	Saavn	nine-year-old	New York
+0571	2016-Jun-15	 ng 	Sapho	two-year-old	San Bruno, Ca.
+0572	2016-Jun-15	 ng 	Smarter Micro	four-year-old	unk
+0573	2016-Jun-15	 ng 	SoundCloud	unk	Berlin
+0574	2016-Jun-15	 ng 	Uber	unk	San Francisco
+0575	2016-Jun-15	 nf 	Philadelphia-based 1315 Capital	two-year-old	unk
+0576	2016-Jun-15	 nf 	FirstMark Capital	unk	New York
+0577	2016-Jun-15	 nf 	Golden Gate Ventures	unk	unk
+0578	2016-Jun-16	 ng 	Airbnb	unk	San Francisco
+0579	2016-Jun-16	 ng 	Andela	two-year-old	New York
+0580	2016-Jun-16	 ng 	Collokia	two-year-old	San Francisco
+0581	2016-Jun-16	 ng 	CureJoy	2.5-year-old	San Francisco- and Bangalore
+0582	2016-Jun-16	 ng 	Eyeview	unk	New York
+0583	2016-Jun-16	 ng 	Elementum	four-year-old	Mountain View, Ca.
+0584	2016-Jun-16	 ng 	Mersana Therapeutics	1.5-year-old	Cambridge, Ma.
+0585	2016-Jun-16	 ng 	Overbond	year-old	Toronto
+0586	2016-Jun-16	 ng 	Performance Horizon	six-year-old	U.K.
+0587	2016-Jun-16	 ng 	Samba Tech	12-year-old	Belo Horizonte, Brazil
+0588	2016-Jun-16	 ng 	Vow To Be Chic	three-year-old	Santa Monica, Ca.
+0589	2016-Jun-17	 ng 	Beamery	two-year-old	London
+0590	2016-Jun-17	 ng 	ClearTax	five-year-old	New Delhi, India
+0591	2016-Jun-17	 ng 	Common	year-old	Brooklyn
+0592	2016-Jun-17	 ng 	Mark One	2.5-year-old	unk
+0593	2016-Jun-17	 ng 	Tigera	months-old	unk
+0594	2016-Jun-17	 ng 	Vrse	unk	L.A.
+0595	2016-Jun-20	 nf 	Kellogg eighteen94 Capital	unk	unk
+0596	2016-Jun-20	 nf 	Industry Ventures	unk	unk
+0597	2016-Jun-21	 nf 	Trae Vassallo	unk	unk
+0598	2016-Jun-22	 ng 	128 Technology	two-year-old	Burlington, Ma.
+0599	2016-Jun-22	 ng 	AppZen	3.5-year-old	Sunnyvale, Ca.
+0600	2016-Jun-22	 ng 	GamEffective	nearly four-year-old	Charlotte, N.C.
+0601	2016-Jun-22	 ng 	Gong.io	unk	unk
+0602	2016-Jun-22	 ng 	Iggbo	year-old	Richmond, Va.
+0603	2016-Jun-22	 ng 	Kaola FM	unk	unk
+0604	2016-Jun-22	 ng 	Kespry	three-year-old	Menlo Park, Ca.
+0605	2016-Jun-22	 ng 	Kwik	three-year-old	Tel Aviv
+0606	2016-Jun-22	 ng 	LightCyber	four-year-old	unk
+0607	2016-Jun-22	 ng 	Lystable	1.5-year-old	unk
+0608	2016-Jun-22	 ng 	Pearl	months-old	Scotts Valley, Ca.
+0609	2016-Jun-22	 ng 	PediaQ	year-old	Dallas, Tex.
+0610	2016-Jun-22	 ng 	UrWork	year-old	China
+0611	2016-Jun-22	 nf 	DFJ Growth	unk	unk
+0612	2016-Jun-22	 nf 	Female Founders Fund	three-year-old	New York
+0613	2016-Jul-06	 ng 	Darktrace	three-year-old	London
+0614	2016-Jul-06	 ng 	Homee	nearly year-old	 L.A.
+0615	2016-Jul-06	 ng 	KisanHub	four-year-old	Cambridge, U.K.
+0616	2016-Jul-06	 ng 	Service Partner One	year-old	Berlin
+0617	2016-Jul-06	 ng 	StockTwits	unk	San Diego
+0618	2016-Jul-06	 ng 	Twistlock	1.5-year-old	San Francisco
+0619	2016-Jul-06	 ng 	Veriflow	three-year-old	San Jose, Ca.
+0620	2016-Jul-06	 nf 	Akkadian Ventures	unk	unk
+0621	2016-Jul-06	 nf 	Forerunner Ventures	unk	unk
+0622	2016-Jul-15	 ng 	Alphabet Energy	unk	unk
+0623	2016-Jul-15	 ng 	Amplero	months-old	Seattle
+0624	2016-Jul-15	 ng 	CyberGRX	months-old	Denver, Co.
+0625	2016-Jul-15	 ng 	Discors	nearly two-year-old	Bay Area
+0626	2016-Jul-15	 ng 	Endotronix	nine-year-old	unk
+0627	2016-Jul-15	 ng 	Findo	two-year-old	Menlo Park, Ca.
+0628	2016-Jul-15	 ng 	GameOn	2.5-year-old	San Francisco
+0629	2016-Jul-15	 ng 	ISI Technology	10-year-old	Charleston, S.C.
+0630	2016-Jul-15	 ng 	PureLifi	four-year-old	Edinburgh, Scotland
+0631	2016-Jul-15	 ng 	Scope AR	five-year-old	San Francisco
+0632	2016-Jul-18	 ng 	Azalea Health	unk	Atlanta, Ga.
+0633	2016-Jul-18	 ng 	Civil Maps	two-year-old	 Albany, Ca.
+0634	2016-Jul-18	 ng 	Lifesum	unk	Stockholm, Sweden
+0635	2016-Jul-18	 ng 	Magnetic Insight	two-year-old	Alameda, Calif.
+0636	2016-Jul-18	 ng 	Modo Labs	six-year-old	Cambridge, Ma.
+0637	2016-Jul-18	 ng 	ZestFinance	six-year-old	L.A.
+0638	2016-Jul-18	 nf 	Thrive Capital	unk	unk
+0639	2016-Jul-19	 ng 	Blue Cedar Networks	months-old	San Francisco
+0640	2016-Jul-19	 ng 	Cadenza Innovation	3.5-year-old	Oxford, Ct.
+0641	2016-Jul-19	 ng 	Cambridge Medical Robotics	two-year-old	Cambridge, U.K.
+0642	2016-Jul-19	 ng 	CommonBond	five-year-old	New York
+0643	2016-Jul-19	 ng 	Guideline	year-old	San Francisco
+0644	2016-Jul-19	 ng 	Jolt	year-old	San Francisco
+0645	2016-Jul-19	 ng 	Kiip	five-year-old	San Francisco
+0646	2016-Jul-19	 ng 	Zenreach	three-year-old	San Francisco
+0647	2016-Jul-19	 nf 	Bloomberg Beta	unk	San Francisco
+0648	2016-Jul-20	 ng 	CargoX	10-month-old	Sao Paulo, Brazil
+0649	2016-Jul-20	 ng 	Fast Japan	unk	unk
+0650	2016-Jul-20	 ng 	Fuller	five-year-old	Chiba, Japan
+0651	2016-Jul-20	 ng 	Pantheon	nearly six-year-old	San Francisco
+0652	2016-Jul-20	 ng 	Sift Science	five-year-old	San Francisco
+0653	2016-Jul-20	 ng 	Sprinklr	seven-year-old	New York
+0654	2016-Jul-20	 ng 	Trim	nearly year-old	San Francisco
+0655	2016-Jul-20	 ng 	ZipBooks	year-old	Lehi, Ut.
+0656	2016-Jul-21	 ng 	Brandcast	four-year-old	San Francisco
+0657	2016-Jul-21	 ng 	Deposit Solutions	five-year-old	Hamburg, Germany
+0658	2016-Jul-21	 ng 	Doppler Labs	three-year-old	San Francisco
+0659	2016-Jul-21	 ng 	Indigo	two-year-old	Cambridge, Ma.
+0660	2016-Jul-21	 ng 	Inkbox	year-old	Toronto
+0661	2016-Jul-21	 ng 	MyWish Marketplaces	seven-year-old	New Delhi, India
+0662	2016-Jul-21	 ng 	N-of-One	unk	Lexington, Ma.
+0663	2016-Jul-21	 ng 	Omise	unk	Bangkok, Thailand
+0664	2016-Jul-21	 ng 	Redis Labs	five-year-old	Mountain View, Ca.
+0665	2016-Jul-21	 ng 	ReviewTrackers	four-year-old	unk
+0666	2016-Jul-21	 ng 	Stardog	unk	Washington, D.C.
+0667	2016-Jul-22	 ng 	AristaMD	two-year-old	La Jolla, Ca.
+0668	2016-Jul-22	 ng 	BYD Company	21-year-old	Shenzhen, China
+0669	2016-Jul-22	 ng 	Eve Sleep	year-old	U.K.
+0670	2016-Jul-22	 ng 	Global Fashion Group	unk	Luxembourg
+0671	2016-Jul-22	 ng 	Kazan Networks	two-year-old	Auburn, Ca.
+0672	2016-Jul-22	 ng 	Treebo Hotels	1.5-year-old	Bangalore, India
+0673	2016-Jul-22	 nf 	KK Fund	two-year-old	Singapore
+0674	2016-Jul-25	 ng 	Bluebridge	five-year-old	unk
+0675	2016-Jul-25	 ng 	Kandou Bus	five-year-old	Lausanne, Switzerland
+0676	2016-Jul-25	 ng 	SNÉ	three-year-old	Ra’anana, Israel
+0677	2016-Jul-25	 ng 	StackPath	unk	unk
+0678	2016-Jul-25	 ng 	Tide	1.5-year-old	London
+0679	2016-Jul-25	 ng 	Tricida	three-year-old	South San Francisco
+0680	2016-Jul-25	 ng 	Zoomcar	four-year-old	Bangalore, India
+0681	2016-Jul-26	 ng 	Acalvio Technologies	year-old	Santa Clara, Ca.
+0682	2016-Jul-26	 ng 	Reflect	year-old	Portland, Or.
+0683	2016-Jul-26	 ng 	Scopely	five-year-old	Culver City, Ca.
+0684	2016-Jul-26	 ng 	Takt	year-old	San Francisco
+0685	2016-Jul-26	 ng 	Transfix	three-year-old	New York
+0686	2016-Jul-26	 nf 	Volition Capital	six-year-old	Boston
+0687	2016-Jul-27	 ng 	Automile	three-year-old	Palo Alto, Ca.
+0688	2016-Jul-27	 ng 	B12	year-old	New York
+0689	2016-Jul-27	 ng 	Big Health	year-old	London
+0690	2016-Jul-27	 ng 	Black Bear Energy	year-old	Boulder, Co.
+0691	2016-Jul-27	 ng 	CellMax Life	three-year-old	Mountain View, Ca.
+0692	2016-Jul-27	 ng 	Density	two-year-old	San Francisco
+0693	2016-Jul-27	 ng 	Nomad Health	1.5-year-old	New York
+0694	2016-Jul-27	 ng 	Prospera	2.5-year-old	Tel Aviv, Israel
+0695	2016-Jul-27	 ng 	SafeBreach	two-year-old	Sunnyvale, Ca.
+0696	2016-Jul-27	 ng 	Shipt	2.5-year-old	Birmingham, Ala.
+0697	2016-Jul-27	 ng 	Sun Basket	two-year-old	San Francisco
+0698	2016-Jul-27	 ng 	Vtesse	1.5-year-old	Gaithersburg, Md.
+0699	2016-Jul-27	 ng 	Upthere	five-year-old	Palo Alto, Ca.
+0700	2016-Jul-27	 ng 	Zeek	2.5-year-old	Tel Aviv, Israel
+0701	2016-Jul-29	 ng 	BP3 Global	nine-year-old	Austin, Tex.
+0702	2016-Jul-29	 ng 	Cloudvirga	months-old	Irvine, Ca.
+0703	2016-Jul-29	 ng 	Jumia	four-year-old	Lagos, Nigeria
+0704	2016-Jul-29	 ng 	LeadGenius	five-year-old	Berkeley, Ca.
+0705	2016-Jul-29	 ng 	Mozio	five-year-old	San Francisco
+0706	2016-Jul-29	 ng 	nVision Medical Corp.	4.5-year-old	Mountain View, Ca.
+0707	2016-Jul-29	 ng 	Reltio	five-year-old	Redwood Shores, Ca.
+0708	2016-Jul-29	 ng 	Retty	five-year-old	Tokyo, Japan
+0709	2016-Jul-29	 ng 	Roomi	year-old	New York
+0710	2016-Jul-29	 ng 	VytronUS	10-year-old	Sunnyvale, Ca.
+0711	2016-Jul-29	 ng 	Wonder Workshop	3.5-year-old	San Mateo, Ca.
+0712	2016-Aug-08	 ng 	Airbnb	unk	San Francisco
+0713	2016-Aug-08	 ng 	Aligned TeleHealth	four-year-old	L.A.
+0714	2016-Aug-08	 ng 	Alodokter	two-year-old	Jakarta, Indonesia
+0715	2016-Aug-08	 ng 	ByBox	16-year-old	Oxfordshire, U.K.
+0716	2016-Aug-08	 ng 	CharityStars	three-year-old	Milan, Italy
+0717	2016-Aug-08	 ng 	Cleave Biosciences	six-year-old	Burlingame, Ca.
+0718	2016-Aug-08	 ng 	Columbia Asia	22-year-old	Bangalore, India
+0719	2016-Aug-08	 ng 	Funding Societies	year-old	Singapore
+0720	2016-Aug-08	 ng 	Honor	two-year-old	San Francisco
+0721	2016-Aug-08	 ng 	Igenomix	five-year-old	unk
+0722	2016-Aug-08	 ng 	Kaltura	nine-year-old	New York
+0723	2016-Aug-08	 ng 	Lophius Biosciences	unk	Regensburg, Germany
+0724	2016-Aug-08	 ng 	Numares	12-year-old	Regensburg, Germany
+0725	2016-Aug-08	 ng 	TheWaveVR	months-old	Austin, Tex.
+0726	2016-Aug-08	 ng 	TruRating	three-year-old	London
+0727	2016-Aug-08	 ng 	Vestaron Corporation	15-year-old	Kalamazoo, Mi.
+0728	2016-Aug-09	 nf 	Cybrary	1.5-year-old	Greenbelt, Md.
+0729	2016-Aug-09	 nf 	Emotech	two-year-old	London
+0730	2016-Aug-09	 nf 	Engagio	1.5-year-old	unk
+0731	2016-Aug-09	 nf 	Kepler Communications	year-old	Toronto
+0732	2016-Aug-09	 nf 	Koko	two-year-old	New York
+0733	2016-Aug-09	 nf 	Kwippit	two-year-old	Denver
+0734	2016-Aug-09	 nf 	Farmers Business Network	two-year-old	San Carlos, Ca.
+0735	2016-Aug-09	 nf 	Finexio	year-old	San Mateo, Ca.
+0736	2016-Aug-09	 nf 	FinTecSystems	two-year-old	Munich
+0737	2016-Aug-09	 nf 	Iconic Therapeutics	14-year-old	South San Francisco, Ca.
+0738	2016-Aug-09	 nf 	Innoviz Technologies	months-old	Israel
+0739	2016-Aug-09	 nf 	MapR Technologies	seven-year-old	San Jose, Ca.
+0740	2016-Aug-09	 nf 	NextVR	six-year-old	Laguna Beach, Ca.
+0741	2016-Aug-09	 nf 	OfferUp	five-year-old	Bellevue, Wa.
+0742	2016-Aug-09	 nf 	Socius	three-year-old	Berlin
+0743	2016-Aug-09	 nf 	Woundtech	17-year-old	Fort Lauderdale, Fla.
+0744	2016-Aug-10	 nf 	AceBot.ai	year-old	San Jose, Ca.
+0745	2016-Aug-10	 nf 	Alafair Biosciences	five-year-old	Austin, Tex.
+0746	2016-Aug-10	 nf 	Baker	two-year-old	Denver
+0747	2016-Aug-10	 nf 	Carvana	5.5-year-old	Phoenix, Az.
+0748	2016-Aug-10	 nf 	FullContact	six-year-old	Denver
+0749	2016-Aug-10	 nf 	Interactions	12-year-old	Franklin, Ma.
+0750	2016-Aug-10	 nf 	Memebox	4.5-year-old	San Francisco
+0751	2016-Aug-10	 nf 	TVSquared	four-year-old	Edinburgh, Scotland
+0752	2016-Aug-10	 nf 	Viridis Learning	seven-year-old	New York
+0753	2016-Aug-12	 ng 	Atomo Diagnostics	six-year-old	Sydney, Australia
+0754	2016-Aug-12	 ng 	MiningLamp	two-year-old	Beijing, China
+0755	2016-Aug-12	 ng 	Smooch	10-month-old	San Francisco
+0756	2016-Aug-12	 ng 	UpGuard	four-year-old	Mountain View, Ca.
+0757	2016-Aug-12	 ng 	Zenoti	six-year-old	Seattle
+0758	2016-Aug-15	 ng 	Firefly Games	two-year-old	 L.A.
+0759	2016-Aug-15	 ng 	Galvanize	four-year-old	Denver
+0760	2016-Aug-15	 ng 	HeavenHR	1.5-year-old	Berlin
+0761	2016-Aug-15	 ng 	Onfido	four-year-old	London- and San Francisco
+0762	2016-Aug-15	 ng 	Outfittery	four-year-old	Berlin
+0763	2016-Aug-15	 nf 	Expa Capital	unk	unk
+0764	2016-Aug-15	 nf 	BootUp Capital Partners	months-old	Menlo Park, Ca.
+0765	2016-Aug-16	 ng 	Appknox	two-year-old	Singapore
+0766	2016-Aug-16	 ng 	Byte Academy	two-year-old	New York
+0767	2016-Aug-16	 ng 	Degreed	4.5-year-old	San Francisco
+0768	2016-Aug-16	 ng 	FloSports	10-year-old	Austin, Tex.
+0769	2016-Aug-16	 ng 	Hike	3.5-year-old	New Delhi, India
+0770	2016-Aug-16	 ng 	ReviMedia	six-year-old	New York
+0771	2016-Aug-16	 ng 	Tioma Therapeutics	10-year-old	St. Louis, Mo.
+0772	2016-Aug-16	 ng 	Tsinova	two-year-old	Beijing, China
+0773	2016-Aug-16	 ng 	Velodyne	nine-year-old	Morgan Hill, Ca.
+0774	2016-Aug-16	 ng 	Vettery	three-year-old	New York
+0775	2016-Aug-18	 ng 	DriveTribe	unk	unk
+0776	2016-Aug-18	 ng 	Heap	three-year-old	San Francisco, Ca.
+0777	2016-Aug-18	 ng 	ID Experts	13-year-old	Portland, Ore.
+0778	2016-Aug-18	 ng 	Instavest	two-year-old	Mountain View, Ca.
+0779	2016-Aug-18	 ng 	NextHealth	three-year-old	Denver, Co.
+0780	2016-Aug-18	 ng 	VUV Analytics	seven-year-old	Austin, Tex.
+0781	2016-Aug-19	 ng 	CellSavers	year-old	Bay Area
+0782	2016-Aug-19	 ng 	DevMynd Software	five-year-old	Chicago
+0783	2016-Aug-19	 ng 	Dexter	year-old	New York
+0784	2016-Aug-19	 ng 	Ecobee	nine-year-old	Toronto, Ontario
+0785	2016-Aug-19	 ng 	Histogen	nine-year-old	San Diego
+0786	2016-Aug-19	 ng 	KRY	two-year-old	Stockholm, Sweden
+0787	2016-Aug-19	 ng 	NVBots	three-year-old	Boston
+0788	2016-Aug-19	 ng 	SmartFile	seven-year-old	Indianapolis, In.
+0789	2016-Aug-19	 nf 	Darwin Ventures	12-year-old	San Francisco
+0790	2016-Aug-19	 nf 	unk	unk	unk
+0791	2016-Aug-22	 ng 	Amylyx Pharmaceuticals	3.5-year-old	Canton, Ma.
+0792	2016-Aug-22	 ng 	Mobike	unk	unk
+0793	2016-Aug-22	 ng 	Quanergy Systems	nearly four-year-old	Sunnyvale, Ca.
+0794	2016-Aug-22	 ng 	Singlera Genomics	two-year-old	Shanghai, China- and La Jolla, Ca.
+0795	2016-Aug-22	 ng 	Teambition	three-year-old	Shanghai, China
+0796	2016-Aug-22	 ng 	Virtru	four-year-old	Washington, D.C.
+0797	2016-Aug-22	 ng 	Zoona	seven-year-old	Cape Town, South Africa
+0798	2016-Aug-22	 nf 	Bryant Stibel	unk	unk
+0799	2016-Aug-23	 ng 	Bitfinder	three-year-old	Palo Alto, Ca.
+0800	2016-Aug-23	 ng 	Centricient	year-old	Bozeman, Mt.
+0801	2016-Aug-23	 ng 	Coda Payments	five-year-old	Singapore
+0802	2016-Aug-23	 ng 	Lemonade	year-old	New York
+0803	2016-Aug-23	 ng 	LendUp	five-year-old	San Francisco
+0804	2016-Aug-23	 ng 	Logikcull	12-year-old	San Francisco
+0805	2016-Aug-23	 ng 	MediaBrix	five-year-old	New York
+0806	2016-Aug-23	 ng 	RedShelf	4.5-year-old	Chicago
+0807	2016-Aug-23	 ng 	ThreatQuotient	three-year-old	Reston, Va.
+0808	2016-Aug-23	 ng 	Vyome Biosciences	six-year-old	New Delhi, India
+0809	2016-Aug-25	 ng 	Arcadia Power	two-year-old	Washington, D.C.
+0810	2016-Aug-25	 ng 	Curology	two-year-old	San Diego
+0811	2016-Aug-25	 ng 	Gobiquity	five-year-old	Scottsdale, Az.
+0812	2016-Aug-25	 ng 	Grabr	year-old	San Francisco
+0813	2016-Aug-25	 ng 	Mint Solutions	six-year-old	Amsterdam
+0814	2016-Aug-25	 ng 	Navisens	three-year-old	San Francisco
+0815	2016-Aug-25	 ng 	Panopto	nine-year-old	Seattle, Wa.
+0816	2016-Aug-25	 ng 	Symphony Commerce	5.5-year-old	San Francisco
+0817	2016-Aug-25	 ng 	Zoomcar	unk	Bangalore, India
+0818	2016-Aug-25	 nf 	True Ventures	unk	unk
+0819	2016-Aug-26	 ng 	Denali Therapeutics	year-old	South San Francisco
+0820	2016-Aug-26	 ng 	Dice	two-year-old	unk
+0821	2016-Aug-26	 ng 	MobiKwik	seven-year-old	Gurgaon, India
+0822	2016-Aug-26	 nf 	Afore Capital	new	unk
+0823	2016-Aug-31	 nf 	Hyde Park Venture Partners	unk	Chicago
+0824	2016-Sep-01	 ng 	DefinedCrowd	year-old	Kirkland, Wa.
+0825	2016-Sep-01	 ng 	DraftKings	unk	Boston
+0826	2016-Sep-01	 ng 	Tank Utility	two-year-old	unk
+0827	2016-Sep-01	 ng 	Zeta Interactive	nine-year-old	New York
+0828	2016-Sep-01	 nf 	Drive Capital	three-year-old	Columbus, Oh.
+0829	2016-Sep-02	 ng 	Boku	unk	San Francisco
+0830	2016-Sep-02	 ng 	Beyond Verbal	four-year-old	Tel Aviv
+0831	2016-Sep-02	 ng 	Bitmovin	three-year-old	Palo Alto, Ca.
+0832	2016-Sep-02	 ng 	C3 IoT	seven-year-old	Redwood City, Ca.
+0833	2016-Sep-02	 ng 	Criquet Shirts	unk	Austin, Tex.
+0834	2016-Sep-02	 ng 	Molotov	year-old	Paris
+0835	2016-Sep-02	 ng 	Yum China	spinout of 19-year-old	Kentucky
+0836	2016-Sep-06	 ng 	Cheyipai	seven-year-old	Beijing
+0837	2016-Sep-06	 ng 	Divido	2.5-year-old	London
+0838	2016-Sep-06	 ng 	Garena	seven-year-old	Singapore
+0839	2016-Sep-06	 ng 	Saildrone	four-year-old	Alameda, Ca.
+0840	2016-Sep-06	 ng 	VizEat	two-year-old	Paris
+0841	2016-Sep-06	 ng 	Zilingo	year-old	Singapore
+0842	2016-Sep-06	 nf 	Entrepreneur First	five-year-old	London
+0843	2016-Sep-06	 nf 	Northzone	unk	unk
+0844	2016-Sep-12	 ng 	AcuFocus	15-year-old	Irvine, Ca.
+0845	2016-Sep-12	 ng 	Business Talent Group	unk	New York
+0846	2016-Sep-12	 ng 	Datorama	four-year-old	New York
+0847	2016-Sep-12	 ng 	Fusebill	unk	unk
+0848	2016-Sep-12	 ng 	GenieBelt	four-year-old	Copenhagen, Denmark
+0849	2016-Sep-12	 ng 	Inflazome	months-old	Dublin, Ireland
+0850	2016-Sep-12	 ng 	Nuxeo	15-year-old	Brooklyn, N.Y.
+0851	2016-Sep-12	 ng 	Phononic	unk	Durham, N.C.
+0852	2016-Sep-12	 ng 	Portfolium	two-year-old	San Diego, Ca.
+0853	2016-Sep-12	 ng 	Project44	two-year-old	Chicago
+0854	2016-Sep-12	 nf 	AirTree Ventures	two-year-old	Sydney, Australia
+0855	2016-Sep-13	 ng 	Claroty	months-old	New York
+0856	2016-Sep-13	 ng 	Digg	unk	unk
+0857	2016-Sep-13	 ng 	Industrious	three-year-old	Brooklyn, N.Y.
+0858	2016-Sep-13	 ng 	Point	year-old	Palo Alto
+0859	2016-Sep-13	 ng 	Sourcery Technologies	four-year-old	San Francisco
+0860	2016-Sep-13	 nf 	Razer	new	San Diego
+0861	2016-Sep-13	 nf 	unk	unk	unk
+0862	2016-Sep-15	 ng 	BitSight	five-year-old	Cambridge, Ma.
+0863	2016-Sep-15	 ng 	Canva	four-year-old	Sydney, Australia
+0864	2016-Sep-15	 ng 	Carbon 3D	three-year-old	Redwood City, Ca.
+0865	2016-Sep-15	 ng 	Ellevest	year-old	New York
+0866	2016-Sep-15	 ng 	FastPay	seven-year-old	L.A.
+0867	2016-Sep-15	 ng 	Klara	three-year-old	New York
+0868	2016-Sep-15	 ng 	Lucid Software	seven-year-old	Draper, Ut.
+0869	2016-Sep-15	 ng 	Optimove	seven-year-old	Tel Aviv, Israel
+0870	2016-Sep-15	 ng 	Ripple	four-year-old	San Francisco
+0871	2016-Sep-15	 ng 	Tipalti	six-year-old	Palo Alto, Ca.
+0872	2016-Sep-15	 ng 	ViSenze	four-year-old	Singapore
+0873	2016-Sep-15	 nf 	Sapphire Ventures	unk	unk
+0874	2016-Sep-15	 nf 	China-based Sinovation Ventures	unk	unk
+0875	2016-Sep-19	 nf 	CV Auctions	two-year-old	Buffalo, N.Y.
+0876	2016-Sep-19	 nf 	AdStage	four-year-old	San Francisco
+0877	2016-Sep-19	 nf 	Curve	17-month-old	London
+0878	2016-Sep-19	 nf 	Doxly	months-old	Indianapolis, Ia.
+0879	2016-Sep-19	 nf 	DueCourse	two-year-old	Manchester, England
+0880	2016-Sep-19	 nf 	LumaTax	months-old	Seattle
+0881	2016-Sep-19	 nf 	OMSignal	five-year-old	Montreal, Canada
+0882	2016-Sep-19	 nf 	Swiggy	two-year-old	Bangalore, India
+0883	2016-Sep-19	 nf 	Thalmic Labs	four-year-old	Waterloo, Ontario
+0884	2016-Sep-19	 nf 	White Ops	four-year-old	New York
+0885	2016-Sep-20	 ng 	Fauna	five-year-old	San Francisco
+0886	2016-Sep-20	 ng 	FoodChéri	year-old	Paris
+0887	2016-Sep-20	 ng 	Grab	five-year-old	Singapore
+0888	2016-Sep-20	 ng 	Hostmaker	year-old	unk
+0889	2016-Sep-20	 ng 	Insider	four-year-old	Turkey
+0890	2016-Sep-20	 ng 	LeEco	12-year-old	Beijing, China
+0891	2016-Sep-20	 ng 	Progressly	two-year-old	Redwood City, Ca.
+0892	2016-Sep-20	 ng 	StarOfService	four-year-old	Paris
+0893	2016-Sep-20	 ng 	TenNor Therapeutics	three-year-old	Suzhou, China
+0894	2016-Sep-20	 ng 	Vlocity	two-year-old	San Francisco
+0895	2016-Sep-20	 ng 	Vroom	three-year-old	New York
+0896	2016-Sep-20	 nf 	Dundee Venture Capital	unk	unk
+0897	2016-Sep-20	 nf 	Spectrum 28	15-month-old	Hong Kong and Silicon Valley
+0898	2016-Sep-21	 ng 	Allset	17-month-old	San Francisco
+0899	2016-Sep-21	 ng 	Catalyze	three-year-old	unk
+0900	2016-Sep-21	 ng 	d.light	nine-year-old	Bay Area
+0901	2016-Sep-21	 ng 	FinanceFox	two-year-old	Berlin
+0902	2016-Sep-21	 ng 	Gametime	3.5-year-old	San Francisco
+0903	2016-Sep-21	 ng 	InfluxData	four-year-old	San Francisco
+0904	2016-Sep-21	 ng 	Metromile	five-year-old	San Francisco
+0905	2016-Sep-21	 ng 	Mobilize	two-year-old	San Francisco
+0906	2016-Sep-21	 ng 	Nucleus	two-year-old	Philadelphia, Pa.
+0907	2016-Sep-21	 ng 	OurCrowd	unk	Jerusalem
+0908	2016-Sep-21	 ng 	Pepperfry	five-year-old	Mumbai, India
+0909	2016-Sep-21	 ng 	Troops	17-month-old	New York
+0910	2016-Sep-21	 nf 	Elephant Partners	year-old	Boston
+0911	2016-Sep-23	 ng 	Aceable	four-year-old	Austin, Tex.
+0912	2016-Sep-23	 ng 	Airbnb	unk	San Francisco
+0913	2016-Sep-23	 ng 	Gfycat (as in “Jiffy Cat”)	year-old	Mountain View, Ca.
+0914	2016-Sep-23	 ng 	Kahoot!	nearly five-year-old	Oslo, Norway
+0915	2016-Sep-23	 ng 	Linio	four-year-old	Mexico City, Mexico
+0916	2016-Sep-23	 ng 	Tealium	unk	San Diego, Ca.
+0917	2016-Sep-23	 ng 	Zero	months-old	San Francisco
+0918	2016-Sep-23	 nf 	unk	unk	unk
+0919	2016-Sep-23	 nf 	SignalFire	unk	unk
+0920	2016-Sep-28	 ng 	A.I. Nemo	two-year-old	Beijing
+0921	2016-Sep-28	 ng 	AppNexus	unk	New York
+0922	2016-Sep-28	 ng 	AquaSecurity	year-old	Tel Aviv, Israel
+0923	2016-Sep-28	 ng 	b8ta	year-old	Palo Alto
+0924	2016-Sep-28	 ng 	BigchainDB	two-year-old	Berlin
+0925	2016-Sep-28	 ng 	Contrast Security	three-year-old	Palo Alto, Ca.
+0926	2016-Sep-28	 ng 	Druva	unk	Sunnyvale, Ca.
+0927	2016-Sep-28	 ng 	Kustomer	year-old	New York
+0928	2016-Sep-28	 ng 	MicuRx Pharmaceuticals	nine-year-old	Hayward, Ca. and Shanghai, China
+0929	2016-Sep-28	 ng 	OpenSesame	14-year-old	Portland, Or.
+0930	2016-Sep-28	 ng 	Paddle	four-year-old	London
+0931	2016-Sep-28	 ng 	Think Labs	four-year-old	Hong Kong
+0932	2016-Sep-28	 nf 	Razor’s Edge Ventures	5.5-year-old	Reston, Va.
+0933	2016-Sep-28	 nf 	SAP	unk	unk
+0934	2016-Sep-29	 ng 	Apptus	16-year-old	Lund, Sweden
+0935	2016-Sep-29	 ng 	codeSpark	2.5-year-old	Pasadena, Ca.
+0936	2016-Sep-29	 ng 	Folloze	three-year-old	Palo Alto, Ca.
+0937	2016-Sep-29	 ng 	Karamba Security	1.5-year-old	Hod Hasharon, Israel
+0938	2016-Sep-29	 ng 	Lingumi	year-old	London
+0939	2016-Sep-29	 ng 	Lydia	three-year-old	Paris
+0940	2016-Sep-29	 ng 	Lystable	two-year-old	London
+0941	2016-Sep-29	 ng 	Remedy	year-old	San Francisco
+0942	2016-Sep-29	 ng 	Skymind	two-year-old	San Francisco
+0943	2016-Sep-30	 ng 	Dozr	year-old	Ontario, Canada
+0944	2016-Sep-30	 ng 	Home Chef	3.5-year-old	Chicago, Il.
+0945	2016-Sep-30	 ng 	Prowler.io	months-old	Cambridge, U.K.
+0946	2016-Sep-30	 ng 	Remitly	five-year-old	unk
+0947	2016-Oct-03	 ng 	Aire	2.5-year-old	London
+0948	2016-Oct-03	 ng 	Benchling	four-year-old	San Francisco
+0949	2016-Oct-03	 ng 	Carrick Therapeutics	year-old	Oxford, U.K., and Dublin, Ireland
+0950	2016-Oct-03	 ng 	Payzer	two-year-old	Charlotte, N.C.
+0951	2016-Oct-03	 ng 	Roomex	10-year-old	Dublin, Ireland
+0952	2016-Oct-03	 ng 	Rover.com	five-year-old	Seattle
+0953	2016-Oct-03	 ng 	Simplus	two-year-old	Sandy, Ut.
+0954	2016-Oct-03	 ng 	Smava	unk	Berlin, Germany
+0955	2016-Oct-03	 ng 	Tout	six-year-old	San Francisco
+0956	2016-Oct-03	 ng 	Uniphore	unk	Taramani, India
+0957	2016-Oct-03	 ng 	Unocoin	nearly three-year-old	Bangalore, India
+0958	2016-Oct-03	 nf 	Arab Angel Fund	unk	Washington, D.C.
+0959	2016-Oct-04	 ng 	AppsDaily	unk	Mumbai, India
+0960	2016-Oct-04	 ng 	Aspire Health	3.5-year-old	Nashville, Tn.
+0961	2016-Oct-04	 ng 	Eatigo	three-year-old	Bangkok, Thailand
+0962	2016-Oct-04	 ng 	Grana	two-year-old	Hong Kong
+0963	2016-Oct-04	 ng 	GoEuro	four-year-old	Berlin
+0964	2016-Oct-04	 ng 	Paperspace	two-year-old	Brooklyn, N.Y.
+0965	2016-Oct-04	 ng 	Restless Bandit	two-year-old	San Francisco
+0966	2016-Oct-04	 ng 	Saldum Ventures	three-year-old	Spain
+0967	2016-Oct-04	 ng 	Source{d}	two-year-old	Madrid, Spain
+0968	2016-Oct-04	 ng 	Stripe	unk	San Francisco
+0969	2016-Oct-04	 ng 	Tannico	four-year-old	Milan, Italy
+0970	2016-Oct-04	 ng 	Tock	two-year-old	Chicago
+0971	2016-Oct-04	 nf 	Xiaodong Jiang	unk	unk
+0972	2016-Oct-05	 ng 	BEFORE Brands	five-month-old	Menlo Park, Ca.
+0973	2016-Oct-05	 ng 	Clearpath Robotics	unk	Ontario
+0974	2016-Oct-05	 ng 	iwoca	five-year-old	London
+0975	2016-Oct-05	 ng 	Money Forward	four-year-old	Tokyo
+0976	2016-Oct-05	 ng 	Ollie	year-old	New York
+0977	2016-Oct-05	 ng 	Payoneer	unk	New York
+0978	2016-Oct-05	 ng 	Wine n Dine	year-old	New York
+0979	2016-Oct-06	 ng 	Botfactory	3.5-year-old	Brooklyn, N.Y.
+0980	2016-Oct-06	 ng 	Code Climate	5.5-year-year-old	New York
+0981	2016-Oct-06	 ng 	CognitiveScale	unk	Austin, Tx.
+0982	2016-Oct-06	 ng 	Cybric	1.5-year-old	Boston
+0983	2016-Oct-06	 ng 	DiCentral Corporatiion	16-year-old	Houston, Tex.
+0984	2016-Oct-06	 ng 	Enable Injections	6.5-year-old	Cincinnati, Oh.
+0985	2016-Oct-06	 ng 	Goby	year-old	New York
+0986	2016-Oct-06	 ng 	Happycar	three-year-old	Hamburg, Germany
+0987	2016-Oct-06	 ng 	Madefire	five-year-old	New York
+0988	2016-Oct-06	 ng 	OpenGamma	seven-year-old	London
+0989	2016-Oct-06	 ng 	Welltok	seven-year-old	Denver, Co.
+0990	2016-Oct-06	 nf 	Corazon Capital	2.5-year-old	Chicago
+0991	2016-Oct-07	 ng 	Financeit	nine-year-old	Toronto
+0992	2016-Oct-07	 ng 	Lulalend	two-year-old	Cape Town, South Africa
+0993	2016-Oct-07	 ng 	Nauto	1.5-year-old	Palo Alto, Ca.
+0994	2016-Oct-07	 ng 	Nugit	three-year-old	Singapore
+0995	2016-Oct-10	 ng 	Beyond Meat	six-year-old	El Segundo, Ca.
+0996	2016-Oct-10	 ng 	Eve Sleep	1.5-year-old	London
+0997	2016-Oct-10	 ng 	OncoResponse	year-old	Houston, Tex.
+0998	2016-Oct-10	 ng 	Soundtrap	four-year-old	Stockholm, Sweden
+0999	2016-Oct-10	 ng 	StreetTeam	five-year-old	London
+1000	2016-Oct-10	 ng 	Vectary	two-year-old	Bratislava, Slovakia
+1001	2016-Oct-10	 nf 	BioVentures Investors	unk	unk
+1002	2016-Oct-10	 nf 	EQT Partners	unk	unk
+1003	2016-Oct-11	 ng 	Cassia Networks	two-year-old	New York
+1004	2016-Oct-11	 ng 	Cityworks	30-year-old	Sandy, Ut.
+1005	2016-Oct-11	 ng 	CloudCoreo	two-year-old	Seattle
+1006	2016-Oct-11	 ng 	Everwise	three-year-old	San Francisco and New York
+1007	2016-Oct-11	 ng 	Evidation Health	four-year-old	San Mateo, Ca.
+1008	2016-Oct-11	 ng 	Kindly Care	two-year-old	San Francisco
+1009	2016-Oct-11	 ng 	HomeMe	1.5-year-old	Culver City, Ca.
+1010	2016-Oct-11	 ng 	Infutor Data Solutions	13-year-old	Plainfield, Il.
+1011	2016-Oct-11	 ng 	The Iran Internet Group	two-year-old	Iran
+1012	2016-Oct-11	 ng 	Navya	two-year-old	Paris
+1013	2016-Oct-11	 ng 	Payfit	seven-month-old	Paris
+1014	2016-Oct-11	 ng 	Remote Year	1.5-year-old	Chicago, Il.
+1015	2016-Oct-11	 ng 	VenueNext	three-year-old	Santa Clara, Ca.
+1016	2016-Oct-11	 ng 	YuppTV	unk	Alpharetta, Ga., and Mumbai, India
+1017	2016-Oct-11	 ng 	Zymergen	three-year-old	Emeryville, Ca.
+1018	2016-Oct-11	 nf 	Amino Capital	four-year-old	Palo Alto, Ca.
+1019	2016-Oct-11	 nf 	Greylock Partners	unk	unk
+1020	2016-Oct-11	 nf 	V5 Partners	unk	unk
+1021	2016-Oct-12	 ng 	Akriveia Therapeutics	year-old	Thousand Oaks, Ca.
+1022	2016-Oct-12	 ng 	Blue Medora	nine-year-old	Grand Rapids, Mi.
+1023	2016-Oct-12	 ng 	C1X	two-year-old	California City, Ca.
+1024	2016-Oct-12	 ng 	DTI Management	four-year-old	Alexandria, Va.
+1025	2016-Oct-12	 ng 	MEL Science	2.5-year-old	London- and St. Petersburg
+1026	2016-Oct-12	 ng 	Mist	2.5-year-old	Cupertino, Ca.
+1027	2016-Oct-12	 ng 	Nexus Systems	17-year-old	Falls Church, Va.
+1028	2016-Oct-12	 ng 	Noodle	6.5-year-old	New York
+1029	2016-Oct-12	 ng 	Optimus Ride	1.5-year-old	Cambridge, Ma.
+1030	2016-Oct-12	 ng 	Serverless	year-old	Oakland, Ca.
+1031	2016-Oct-12	 ng 	Yi Wei Xing	unk	unk
+1032	2016-Oct-12	 nf 	Baidu Capital	unk	unk
+1033	2016-Oct-12	 nf 	Immersive Capital	unk	unk
+1034	2016-Oct-13	 ng 	Astronomer	year-old	Cincinnati, Oh.
+1035	2016-Oct-13	 ng 	ComplyAdvantage	two-year-old	London
+1036	2016-Oct-13	 ng 	Coorpacademy	three-year-old	Paris
+1037	2016-Oct-13	 ng 	Group Nine	new	unk
+1038	2016-Oct-13	 ng 	PlaceIQ	five-year-old	New York
+1039	2016-Oct-13	 ng 	Pluto TV	three-year-old	L.A.
+1040	2016-Oct-13	 ng 	TouchBistro	six-year-old	New York
+1041	2016-Oct-13	 nf 	Impact Venture Capital	unk	unk
+1042	2016-Oct-14	 ng 	Baroo	two-year-old	Boston
+1043	2016-Oct-14	 ng 	Hyperloop One	unk	L.A.
+1044	2016-Oct-14	 ng 	InnoGames	nine-year-old	unk
+1045	2016-Oct-14	 ng 	Iora Health	five-year-old	Cambridge, Ma.
+1046	2016-Oct-14	 ng 	mParticle	3.5-year-old	New York
+1047	2016-Oct-14	 ng 	Veeba Food Services	three-year-old	New Delhi, India
+1048	2016-Oct-14	 ng 	Virgil Security	two-year-old	unk
+1049	2016-Oct-14	 ng 	Webscale Networks	three-year-old	Mountain View, Ca.
+1050	2016-Oct-14	 nf 	PIF / Softbank	unk	unk
+1051	2016-Oct-14	 nf 	Founders Factory	unk	unk
+1052	2016-Oct-17	 ng 	Aramisauto	15-year-old	Arcueil, France
+1053	2016-Oct-17	 ng 	CloudLex	20-month-old	New York
+1054	2016-Oct-17	 ng 	Hyper Anna	nine-month-old	Sydney, Australia
+1055	2016-Oct-17	 ng 	KodaCloud	2.5-year-old	Campbell, Ca.
+1056	2016-Oct-17	 ng 	Prelude	1.5-year-old	Atlanta, Ga.
+1057	2016-Oct-17	 ng 	Snapsheet	six-year-old	Chicago, Il.
+1058	2016-Oct-17	 ng 	Zipwhip	nine-year-old	Seattle
+1059	2016-Oct-17	 nf 	Daphni	unk	unk
+1060	2016-Oct-17	 nf 	K Fund	unk	unk
+1061	2016-Oct-26	 ng 	Brickwork	three-year-old	New York City
+1062	2016-Oct-26	 ng 	Culture Trip	four-year-old	London
+1063	2016-Oct-26	 ng 	Daqri	six-year-old	L.A.
+1064	2016-Oct-26	 ng 	Genomics Medicine Ireland	year-old	Dublin, Ireland
+1065	2016-Oct-26	 ng 	Habit	new	unk
+1066	2016-Oct-26	 ng 	Hyperloop One	two-year-old	L.A.
+1067	2016-Oct-26	 ng 	Imzy	year-old	Salt Lake City, Ut.
+1068	2016-Oct-26	 ng 	Lendio	10.5-year-old	South Jordan, Utah
+1069	2016-Oct-26	 ng 	Perkbox	two-year-old	London
+1070	2016-Oct-26	 ng 	Selency	two-year-old	Paris
+1071	2016-Oct-26	 ng 	TVision Insights	nearly two-year-old	Boston
+1072	2016-Oct-26	 ng 	Wavefront	three-year-old	Palo Alto, Ca.
+1073	2016-Oct-26	 ng 	Winnie	year-old	San Francisco
+1074	2016-Oct-26	 nf 	Javelin Venture Partners	unk	unk
+1075	2016-Oct-26	 nf 	SJF Ventures	unk	unk
+1076	2016-Oct-26	 nf 	Underscore.VC	unk	unk
+1077	2016-Oct-27	 ng 	Bonesupport	16-year-old	Lund, Sweden
+1078	2016-Oct-27	 ng 	BrainCheck	two-year-old	Houston, Tex.
+1079	2016-Oct-27	 ng 	Busfor	four-year-old	Moscow
+1080	2016-Oct-27	 ng 	Cloudian	three-year-old	San Mateo, Ca.
+1081	2016-Oct-27	 ng 	DemystData	six-year-old	New York, Hong Kong, and Singapore
+1082	2016-Oct-27	 ng 	eMindful	13-year-old	Vero Beach, Fla.
+1083	2016-Oct-27	 ng 	ForeverCar	five-year-old	Chicago
+1084	2016-Oct-27	 ng 	NanoPay	three-year-old	Toronto
+1085	2016-Oct-27	 ng 	PointGrab	unk	Hod Hasharon, Israel
+1086	2016-Oct-27	 ng 	Super League Gaming	two-year-old	Santa Monica, Ca.
+1087	2016-Oct-27	 ng 	Wochit	4.5-year-old	New York City
+1088	2016-Oct-27	 ng 	Rokid	two-year-old	China
+1089	2016-Oct-28	 ng 	Ather Energy	three-year-old	Bangalore
+1090	2016-Oct-28	 ng 	Conekta	five-year-old	Mexico City
+1091	2016-Oct-28	 ng 	CubeWorks	three-year-old	Ann Harbor, Mi.
+1092	2016-Oct-28	 ng 	KNL Networks	five-year-old	Oulu, Finland
+1093	2016-Oct-28	 ng 	Libryo	year-old	London
+1094	2016-Oct-28	 ng 	MPower Financing	1.5-year-old	Washington, D.C.
+1095	2016-Oct-28	 ng 	Orvibo	four-year-old	Shenzhen, China
+1096	2016-Oct-28	 ng 	Retention Science	five-year-old	Santa Monica, Ca.
+1097	2016-Oct-28	 ng 	Unity Biotechnology	year-old	San Francisco
+1098	2016-Oct-28	 nf 	MIT, The Engine 	new	unk
+1099	2016-Oct-28	 nf 	System.One	new	unk
+1100	2016-Oct-31	 ng 	Everything But The House	unk	Cincinnati, Oh.
+1101	2016-Oct-31	 ng 	Giphy	3.5-year-old	New York
+1102	2016-Oct-31	 ng 	Riskalyze	five-year-old	Sacramento, Ca.
+1103	2016-Oct-31	 nf 	Chicago Ventures	3.5-year-old	unk
+1104	2016-Oct-31	 nf 	Third Rock Ventures	unk	Boston
+1105	2016-Nov-01	 ng 	AirPR	five-year-old	San Francisco
+1106	2016-Nov-01	 ng 	Cirina	two-year-old	San Francisco
+1107	2016-Nov-01	 ng 	Classy	10.5-year-old	San Diego, Ca.
+1108	2016-Nov-01	 ng 	Cross River Bank	unk	Fort Lee, N.J.
+1109	2016-Nov-01	 ng 	CounterTack	nine-year-old	Waltham, Ma.
+1110	2016-Nov-01	 ng 	Emissary	three-year-old	New York
+1111	2016-Nov-01	 ng 	Freshdesk	five-year-old	San Bruno, Ca.
+1112	2016-Nov-01	 ng 	Gauzy	seven-year-old	Tel Aviv
+1113	2016-Nov-01	 ng 	GoMeta	three-month-old	San Diego
+1114	2016-Nov-01	 ng 	Graphcore	nearly year-old	Bristol, England
+1115	2016-Nov-01	 ng 	Headset	1.5-year-old	Seattle
+1116	2016-Nov-01	 ng 	Hubble Contacts	six-month-old	New York
+1117	2016-Nov-01	 ng 	Hungry Marketplace	months-old	Arlington, Va.
+1118	2016-Nov-01	 ng 	Ministry Brands	four-year-old	Lenoir, Tn.
+1119	2016-Nov-01	 ng 	Nurx	two-year-old	San Francisco
+1120	2016-Nov-01	 ng 	Lilt	1.5-year-old	Palo Alto, Ca.
+1121	2016-Nov-01	 ng 	Ola	unk	India
+1122	2016-Nov-01	 ng 	Paktor	three-year-old	Singapore
+1123	2016-Nov-01	 ng 	Postmates	five-year-old	unk
+1124	2016-Nov-01	 ng 	Promethera Biosciences	seven-year-old	Belgium
+1125	2016-Nov-01	 ng 	Terra’s Kitchen	two-year-old	Baltimore
+1126	2016-Nov-01	 ng 	Tiff’s Treats	16-year-old	Austin, Tex.
+1127	2016-Nov-01	 ng 	uBiome	four-year-old	San Francisco
+1128	2016-Nov-01	 ng 	Unbabel	three-year-old	San Francisco
+1129	2016-Nov-01	 nf 	OurCrowd	unk	unk
+1130	2016-Nov-02	 ng 	Ando	year-old	New York
+1131	2016-Nov-02	 ng 	Atlas Recall	1.5-year-old	Seattle
+1132	2016-Nov-02	 ng 	Axonify	five-year-old	Waterloo, Ontario
+1133	2016-Nov-02	 ng 	Biohaven Pharmaceutical	two-year-old	New Haven, Cn.
+1134	2016-Nov-02	 ng 	Catapult Health	six-year-old	Dallas, Tex.
+1135	2016-Nov-02	 ng 	Fleetsmith	10-month-old	San Francisco
+1136	2016-Nov-02	 ng 	Genos	two-year-old	San Francisco
+1137	2016-Nov-02	 ng 	Interana	three-year-old	Redwood City, Ca.
+1138	2016-Nov-02	 ng 	MiRagen Therapeutics	nine-year-old	Boulder
+1139	2016-Nov-02	 ng 	Octane	new	unk
+1140	2016-Nov-02	 ng 	Otonomo	1.5-year-old	Tel Aviv
+1141	2016-Nov-02	 ng 	Relayr	three-year-old	Berlin
+1142	2016-Nov-02	 ng 	Spongecell	10-year-old	New York City
+1143	2016-Nov-02	 ng 	Teforia	two-year-old	Mountain View, Ca.
+1144	2016-Nov-02	 ng 	Turnstone Biologics	1.5-year-old	Ottawa, Ontario
+1145	2016-Nov-02	 ng 	ValiMail	1.5-year-old	San Francisco
+1146	2016-Nov-02	 ng 	Voyager Labs	four-year-old	Israel
+1147	2016-Nov-02	 ng 	Xiaozhu.com	four-year-old	Beijing
+1148	2016-Nov-03	 ng 	Atomized	three-year-old	unk
+1149	2016-Nov-03	 ng 	Catchpoint	unk	New York
+1150	2016-Nov-03	 ng 	Convertr Media	five-year-old	London
+1151	2016-Nov-03	 ng 	DJiT	unk	Paris
+1152	2016-Nov-03	 ng 	The Future Group	three-year-old	Oslo, Norway
+1153	2016-Nov-03	 ng 	German Autolabs	seven-month-old	Berlin
+1154	2016-Nov-03	 ng 	Gousto	four-year-old	London
+1155	2016-Nov-03	 ng 	Hollar	year-old	Santa Monica Ca.
+1156	2016-Nov-03	 ng 	Indio	five-month-old	San Francisco
+1157	2016-Nov-03	 ng 	ObEN	2.5-year-old	Pasadena, Ca.
+1158	2016-Nov-03	 ng 	Owlet Baby Care	3.5-year-old	Lehi, Ut.
+1159	2016-Nov-03	 ng 	pi-top	two-year-old	London
+1160	2016-Nov-03	 ng 	PlushCare	two-year-old	San Francisco
+1161	2016-Nov-03	 ng 	Recondo	10-year-old	Greenwood Village, Co.
+1162	2016-Nov-03	 ng 	SatixFy	four-year-old	Israel
+1163	2016-Nov-03	 ng 	Silvair	three-year-old	San Francisco
+1164	2016-Nov-03	 ng 	Zarget	1.5-year-old	Walnut, Ca.
+1165	2016-Nov-03	 ng 	Zipongo	six-year-old	San Francisco
+1166	2016-Nov-03	 ng 	Jubilee Capital Management	year-old	Singapore
+1167	2016-Nov-03	 ng 	Relay Ventures	10-year-old	Toronto- and Menlo Park, Ca.
+1168	2016-Nov-04	 ng 	Apartment List	five-year-old	San Francisco
+1169	2016-Nov-04	 ng 	Arex	two-year-old	Dublin, Ireland
+1170	2016-Nov-04	 ng 	Borrowed & Blue	five-year-old	Charlottesville, Va.
+1171	2016-Nov-04	 ng 	Droit Financial Technologies	four-year-old	New York
+1172	2016-Nov-04	 ng 	Gfresh	two-year-old	Shanghai
+1173	2016-Nov-04	 ng 	iOmx Therapeutics	unk	Martinsried, Germany
+1174	2016-Nov-04	 ng 	Planetary Resources	six-year-old	Seattle
+1175	2016-Nov-04	 ng 	StyleTribute	three-year-old	Singapore
+1176	2016-Nov-04	 ng 	Sunflower Labs	seven-month-old	Palo Alto, Ca.
+1177	2016-Nov-04	 ng 	Wish	unk	San Francisco
+1178	2016-Nov-04	 nf 	KEEN Venture Partners	new	unk
+1179	2016-Nov-07	 ng 	Anuvia Plant Nutrients	1.5-year-old	Zellwood, Fl.
+1180	2016-Nov-07	 ng 	Bizongo	two-year-old	Mumbai
+1181	2016-Nov-07	 ng 	Bonobos	unk	New York
+1182	2016-Nov-07	 ng 	Cohero Health	four-year-old	unk
+1183	2016-Nov-07	 ng 	PetCoach	two-year-old	Plymouth, Pa.
+1184	2016-Nov-07	 ng 	Rivigo Services	two-year-old	New Delhi, India
+1185	2016-Nov-07	 ng 	Tailor Brands	two-year-old	Brooklyn, N.Y.
+1186	2016-Nov-07	 ng 	Urban Volt	two-year-old	Dublin, Ireland
+1187	2016-Nov-08	 ng 	Baidu	unk	Beijing
+1188	2016-Nov-08	 ng 	Beijing Byte Dance Telecommunications	unk	unk
+1189	2016-Nov-08	 ng 	Electric Jukebox	two-year-old	London
+1190	2016-Nov-08	 ng 	Feelter	three-year-old	Tel Aviv, Israel
+1191	2016-Nov-08	 ng 	Fillr	1.5-year-old	Melbourne, Australia
+1192	2016-Nov-08	 ng 	GuavaPass	1.5-year-old	Singapore
+1193	2016-Nov-08	 ng 	Indeni	six-year-old	Tel Aviv- and Bay Area
+1194	2016-Nov-08	 ng 	Joy	three-year-old	Seattle
+1195	2016-Nov-08	 ng 	Periscope Data	four-year-old	San Francisco
+1196	2016-Nov-08	 ng 	Quantified Care	three-year-old	Baltimore, Md.
+1197	2016-Nov-08	 ng 	Simple Contacts	year-old	unk
+1198	2016-Nov-08	 ng 	SmartStudy.com	two-year-old	Beijing, China
+1199	2016-Nov-08	 ng 	Tend.ai	months-old	Bend, Or.
+1200	2016-Nov-08	 ng 	Zafin	14-year-old	Vancouver
+1201	2016-Nov-08	 nf 	European Commission	unk	unk
+1202	2016-Nov-08	 nf 	Dolan Family Ventures	unk	unk
+1203	2016-Nov-09	 ng 	Buster	four-year-old	Brooklyn, N.Y.
+1204	2016-Nov-09	 ng 	Castle	two-year-old	unk
+1205	2016-Nov-09	 ng 	Hired	four-year-old	unk
+1206	2016-Nov-09	 ng 	Motionsoft	unk	unk
+1207	2016-Nov-09	 ng 	Square Yards	three-year-old	Gurgaon, India
+1208	2016-Nov-09	 ng 	RetireUp	four-year-old	Chicago
+1209	2016-Nov-09	 ng 	The Wing	year-old	New York
+1210	2016-Nov-09	 ng 	Wurk	year-old	Denver
+1211	2016-Nov-10	 ng 	Blackmoon Financial Group	1.5-year-old	New York
+1212	2016-Nov-10	 ng 	Cape Analytics	two-year-old	Palo Alto, Ca.
+1213	2016-Nov-10	 ng 	Crayon	two-year-old	Boston
+1214	2016-Nov-10	 ng 	Job Today	1.5-year-old	Luxembourg
+1215	2016-Nov-10	 ng 	Neo Technology	nine-year-old	San Mateo, Ca.
+1216	2016-Nov-10	 ng 	Rappi	year-old	Columbia
+1217	2016-Nov-10	 ng 	RiskIQ	seven-year-old	San Francisco
+1218	2016-Nov-10	 ng 	SentiOne	five-year-old	Warsaw, Poland
+1219	2016-Nov-10	 ng 	Teamleader	four-year-old	Belgium
+1220	2016-Nov-10	 ng 	Toast	year-old	Singapore
+1221	2016-Nov-10	 ng 	Zipline International	five-year-old	Half Moon Bay, Ca.
+1222	2016-Nov-10	 nf 	Material Impact	1.5-year-old	unk
+1223	2016-Nov-11	 ng 	CureVac	16-year-old	Germany
+1224	2016-Nov-11	 ng 	CurrencyFair	seven-year-old	Dublin, Ireland
+1225	2016-Nov-11	 ng 	Heureka Software	two-year-old	Cleveland, Oh.
+1226	2016-Nov-11	 ng 	Intuity Medical	14-year-old	Sunnyvale, Ca.
+1227	2016-Nov-11	 ng 	PillDrill	three-year-old	Las Vegas
+1228	2016-Nov-11	 ng 	ReVision Optics	20-year-old	Lake Forest, Ca.
+1229	2016-Nov-11	 ng 	Singular	two-year-old	San Francisco
+1230	2016-Nov-14	 ng 	Active AI	year-old	Singapore
+1231	2016-Nov-14	 ng 	ElasticRun	1.5-year-old	Pune, India
+1232	2016-Nov-14	 ng 	Intent Solutions	two-year-old	Atlanta, Ga.
+1233	2016-Nov-14	 ng 	Nutmeg	six-year-old	London
+1234	2016-Nov-14	 ng 	PERQ	15-year-old	Indianapolis, Ia.
+1235	2016-Nov-14	 ng 	Quantopian	five-year-old	Boston
+1236	2016-Nov-14	 ng 	Roofstock	year-old	Oakland, Ca.
+1237	2016-Nov-14	 ng 	Talent Garden	five-year-old	Milan, Italy
+1238	2016-Nov-14	 ng 	Vacasa	seven-year-old	unk
+1239	2016-Nov-14	 ng 	Zugata	two-year-old	Palo Alto, Ca.
+1240	2016-Nov-14	 nf 	Homestead Capital	unk	unk
+1241	2016-Nov-14	 nf 	Long Hill Capital Management	unk	unk
+1242	2016-Nov-15	 ng 	Ava	two-year-old	Zurich
+1243	2016-Nov-15	 ng 	CareCloud	nearly eight-year-old	Miami, Fl.
+1244	2016-Nov-15	 ng 	eOriginal	20-year-old	Baltimore
+1245	2016-Nov-15	 ng 	Genetesis	three-year-old	Cincinnati, Oh.
+1246	2016-Nov-15	 ng 	Gluru	three-year-old	London
+1247	2016-Nov-15	 ng 	Kit	year-old	New York
+1248	2016-Nov-15	 ng 	Logz.io	two-year-old	unk
+1249	2016-Nov-15	 ng 	MacroPoint	seven-year-old	Cleveland, Oh.
+1250	2016-Nov-15	 ng 	Midaxo	five-year-old	Helsinki, Finland
+1251	2016-Nov-15	 ng 	Musement	four-year-old	Milan, Italy
+1252	2016-Nov-15	 ng 	Orbital Shift	seven-year-old	Missoula, Mt.
+1253	2016-Nov-15	 ng 	PlaySimple Games	two-year-old	Bangalore, India
+1254	2016-Nov-15	 ng 	Procurify	four-year-old	unk
+1255	2016-Nov-15	 ng 	Prynt	2.5.-year-old	San Francisco
+1256	2016-Nov-15	 ng 	Sauce Labs	unk	San Francisco
+1257	2016-Nov-15	 ng 	Siemplify	year-old	New York
+1258	2016-Nov-15	 ng 	xAd	seven-year-old	New York City
+1259	2016-Nov-15	 ng 	Zefo	year-old	Bangalore, India
+1260	2016-Nov-15	 nf 	Boldstart Ventures	unk	unk
+1261	2016-Nov-16	 nf 	Intel Capital	unk	unk
+1262	2016-Nov-17	 ng 	CodeFights	two-year-old	San Francisco
+1263	2016-Nov-17	 ng 	CoverWallet	unk	New York
+1264	2016-Nov-17	 ng 	Domino Data Lab	three-year-old	San Francisco
+1265	2016-Nov-17	 ng 	Glycomine	unk	unk
+1266	2016-Nov-17	 ng 	GuestReady	year-old	Trogen, Switzerland
+1267	2016-Nov-17	 ng 	Heal	two-year-old	Santa Monica, Ca.
+1268	2016-Nov-17	 ng 	Helpster	10-month-old	Bangkok, Thailand
+1269	2016-Nov-17	 ng 	Heptio	months-old	Seattle
+1270	2016-Nov-17	 ng 	Hotbody	two-year-old	Beijing, China
+1271	2016-Nov-17	 ng 	Jongla	seven-year-old	Finland
+1272	2016-Nov-17	 ng 	M87	four-year-old	Seattle
+1273	2016-Nov-17	 ng 	Particle	five-year-old	San Francisco
+1274	2016-Nov-17	 ng 	Petuum	months-old	Pittsburgh, Pa.
+1275	2016-Nov-17	 ng 	Tray.io	four-year-old	London
+1276	2016-Nov-17	 ng 	Uplevel Systems	unk	Tigard, Ore.
+1277	2016-Nov-17	 nf 	Slow Ventures	unk	unk
+1278	2016-Nov-18	 ng 	BuzzFeed	unk	New York
+1279	2016-Nov-18	 ng 	Cogito	nine-year-old	Boston
+1280	2016-Nov-18	 ng 	Handshake	4.5-year-old	San Francisco
+1281	2016-Nov-18	 ng 	Inspire Medical Systems	nine-year-old	Maple Grove, Mn.
+1282	2016-Nov-18	 ng 	PeerStreet	three-year-old	Manhattan Beach, Ca.
+1283	2016-Nov-18	 ng 	Prevalent	12-year-old	Warren, N.J.
+1284	2016-Nov-18	 ng 	Renew	months-old	Venice, Ca.
+1285	2016-Nov-18	 ng 	Sigfox	seven-year-old	Labège, France
+1286	2016-Nov-18	 ng 	Sparkcentral	five-year-old	San Francisco
+1287	2016-Nov-18	 ng 	Wearhaus	three-year-old	Berkeley, Ca.
+1288	2016-Nov-18	 ng 	Yup	two-year-old	San Francisco
+1289	2016-Nov-18	 nf 	Sheila Gulati	unk	unk
+1290	2016-Nov-21	 ng 	AdvisorEngine	two-year-old	New York
+1291	2016-Nov-21	 ng 	Cera	five-month-old	London
+1292	2016-Nov-21	 ng 	Electric	months-old	New York
+1293	2016-Nov-21	 ng 	Garmentory	2.5-year-old	Seattle, Wa.
+1294	2016-Nov-21	 ng 	Genalyte	nine-year-old	San Diego, Ca.
+1295	2016-Nov-21	 ng 	Joya Communications	four-year-old	San Francisco
+1296	2016-Nov-21	 ng 	PatSnap	nine-year-old	Singapore
+1297	2016-Nov-21	 ng 	Rapid Healthcare	two-year-old	Irvine, Ca.
+1298	2016-Nov-21	 nf 	ARCH Venture Partners	unk	unk
+1299	2016-Nov-21	 nf 	Hyperplane	nearly two-year-old	unk
+1300	2016-Nov-21	 nf 	IDinvest Partners	19-year-old	Paris
+1301	2016-Nov-22	 ng 	Apptopia	five-year-old	Boston
+1302	2016-Nov-22	 ng 	Aye Finance	two-year-old	New Delhi, India
+1303	2016-Nov-22	 ng 	Barefoot Networks	3.5-year-old	Palo Alto, Ca.
+1304	2016-Nov-22	 ng 	Findo	months-old	Menlo Park, Ca.
+1305	2016-Nov-22	 ng 	Getui	six-year-old	Beijing, China
+1306	2016-Nov-22	 ng 	Helpshift	five-year-old	San Francisco
+1307	2016-Nov-22	 ng 	LifeRobotics	nine-year-old	Tokyo, Japan
+1308	2016-Nov-22	 ng 	PayKey	two-year-old	Tel Aviv, Israel
+1309	2016-Nov-22	 ng 	Recursion Pharmaceuticals	three-year-old	Salt Lake City, Ut.
+1310	2016-Nov-22	 ng 	SafeDK	two-year-old	Herzliya, Israel
+1311	2016-Nov-22	 ng 	True Link Financial	3.5-year-old	San Francisco
+1312	2016-Nov-22	 ng 	Vymo	three-year-old	Bangalore, India
+1313	2016-Nov-22	 nf 	Biomatics Capital Partners	two-year-old	Seattle
+1314	2016-Nov-22	 nf 	Caffeinated Capital	seven-year-old	San Francisco
+1315	2016-Nov-22	 nf 	Information Venture Partners	unk	unk
+1316	2016-Nov-22	 nf 	Telescope Partners	1.5-year-old	San Francisco
+1317	2016-Nov-28	 ng 	8i	2.5-year-old	Wellington, New Zealand
+1318	2016-Nov-28	 ng 	Agricool	year-old	Paris, France
+1319	2016-Nov-28	 ng 	Cashboard	two-year-old	Berlin, Germany
+1320	2016-Nov-28	 ng 	Galera Therapeutics	seven-year-old	Malvern, Pa.
+1321	2016-Nov-28	 ng 	Hornet	five-year-old	San Francisco
+1322	2016-Nov-28	 ng 	ItemMaster	seven-year-old	Chicago
+1323	2016-Nov-28	 ng 	Knowlarity Communications	seven-year-old	Gurgaon, India
+1324	2016-Nov-28	 ng 	Kymab	seven-year-old	Cambridge, U.K.
+1325	2016-Nov-28	 ng 	Proficio	six-year-old	Carlsbad, Ca.
+1326	2016-Nov-28	 ng 	SafeDK	two-year-old	Herzelia, Israel
+1327	2016-Nov-28	 ng 	Shockwave Medical	seven-year-old	Freemont, Ca.
+1328	2016-Nov-28	 ng 	Sightbox	two-year-old	Portland, Or.
+1329	2016-Nov-28	 ng 	Silexica	two-year-old	Palo Alto, Ca.
+1330	2016-Nov-28	 ng 	Soul Machines	months-old	 Auckland, N.Z.
+1331	2016-Nov-28	 ng 	Stripe	six-year-old	San Francisco
+1332	2016-Nov-28	 ng 	Wynd	unk	Nova Scotia, Canada
+1333	2016-Nov-28	 ng 	Zola	three-year-old	New York
+1334	2016-Nov-28	 nf 	BMW i Ventures	unk	unk
+1335	2016-Nov-28	 nf 	Draper Nexus	five-year-old	unk
+1336	2016-Nov-28	 nf 	Playground Ventures	unk	unk
+1337	2016-Nov-28	 nf 	Seraphim Capital	10-year-old	U.K.
+1338	2016-Nov-28	 nf 	SV Angel	seven-year-old	unk
+1339	2016-Nov-29	 ng 	AudioCure Pharma	six-year-old	Berlin, Germany
+1340	2016-Nov-29	 ng 	BioMensio	unk	unk
+1341	2016-Nov-29	 ng 	Devialet	nine-year-old	Paris, France
+1342	2016-Nov-29	 ng 	Fluidic Energy	unk	unk
+1343	2016-Nov-29	 ng 	HawkEye 360	year-old	unk
+1344	2016-Nov-29	 ng 	Innovent Biologics	five-year-old	Shanghai, China
+1345	2016-Nov-29	 ng 	OxThera	unk	Stockholm, Sweden
+1346	2016-Nov-29	 ng 	QuantGroup	two-year-old	China
+1347	2016-Nov-29	 ng 	Tetra Discovery Partners	six-year-old	Grand Rapids, Mi.
+1348	2016-Nov-29	 ng 	Vaadin	16-year-old	Turku, Finland
+1349	2016-Nov-29	 ng 	TransPod	1.5-year-old	unk
+1350	2016-Nov-29	 nf 	WI Harper Group	unk	unk
+1351	2016-Nov-29	 nf 	Another day	unk	unk
+1352	2016-Nov-30	 ng 	Civis Analytics	three-year-old	Chicago
+1353	2016-Nov-30	 ng 	Clue	three-year-old	Berlin
+1354	2016-Nov-30	 ng 	Dubsmash	two-year-old	Berlin
+1355	2016-Nov-30	 ng 	Gett	six-year-old	 New York
+1356	2016-Nov-30	 ng 	Grokker	four-year-old	San Francisco
+1357	2016-Nov-30	 ng 	Hyphenate	1.5-year-old	San Francisco
+1358	2016-Nov-30	 ng 	Inagora	two-year-old	Tokyo
+1359	2016-Nov-30	 ng 	LovePop	2.5-year-old	Boston
+1360	2016-Nov-30	 ng 	Nohla Therapeutics	1.5-year-old	Seattle
+1361	2016-Nov-30	 ng 	Novogene Technology	five-year-old	Beijing
+1362	2016-Nov-30	 ng 	Ōura Ring	three-year-old	unk
+1363	2016-Nov-30	 ng 	Phil	1.5-year-old	San Francisco
+1364	2016-Nov-30	 ng 	ServiceAide	six-month-old	San Jose, Ca.
+1365	2016-Nov-30	 ng 	SonarSource	unk	Geneva, Switzerland
+1366	2016-Nov-30	 ng 	Sudden Coffee	year-old	San Francisco
+1367	2016-Nov-30	 ng 	TicketSauce	three-year-old	San Diego, Ca.
+1368	2016-Nov-30	 ng 	TraceLink	seven-year-old	North Reading, Ma.
+1369	2016-Nov-30	 nf 	Accel India	unk	unk
+1370	2016-Nov-30	 nf 	Jungle Ventures	unk	unk
+1371	2016-Dec-01	 ng 	Dashbot	months-old	San Francisco
+1372	2016-Dec-01	 ng 	Geenee	two-year-old	Berlin
+1373	2016-Dec-01	 ng 	Glossier	two-year-old	unk
+1374	2016-Dec-01	 ng 	Opendoor	three-year-old	San Francisco
+1375	2016-Dec-01	 ng 	Osterhout Design Group	17-year-old	San Francisco
+1376	2016-Dec-01	 ng 	Qstream	unk	Burlington, Ma.
+1377	2016-Dec-01	 ng 	SQZ Biotech	three-year-old	Watertown, Ma.
+1378	2016-Dec-01	 ng 	WorkRamp	two-year-old	Palo Alto, Ca.
+1379	2016-Dec-01	 nf 	Founder Collective	seven-year-old	Cambridge, Ma.
+1380	2016-Dec-01	 nf 	F2 Capital	unk	unk
+1381	2016-Dec-02	 ng 	AttackIQ	three-year-old	San Diego, Ca.
+1382	2016-Dec-02	 ng 	ConnectedYard	2.5-year-old	Palo Alto, Ca.
+1383	2016-Dec-02	 ng 	Core Diagnostics	four-year-old	Gurgaon, India
+1384	2016-Dec-02	 ng 	Exotec Solutions	year-old	Paris, France
+1385	2016-Dec-02	 ng 	Fidzup	five-year-old	Paris, France
+1386	2016-Dec-02	 ng 	Get Smart Content	five-year-old	Austin, Tex.
+1387	2016-Dec-02	 ng 	Nova Lumos	4.5-year-old	Amsterdam
+1388	2016-Dec-02	 ng 	SendGrid	seven-year-old	Boulder, Co.
+1389	2016-Dec-02	 ng 	VictorOps	four-year-old	Boulder, Co.
+1390	2016-Dec-02	 nf 	Bullpen Capital	six-year-old	Menlo Park, Ca.
+1391	2016-Dec-05	 ng 	Datrium	four-year-old	Sunnyvale, Ca.
+1392	2016-Dec-05	 ng 	Lemonade	1.5-year-old	New York
+1393	2016-Dec-05	 ng 	Lilium Aviation	nearly two-year-old	Munich, Germany
+1394	2016-Dec-05	 ng 	Mariana	three-year-old	San Mateo, Ca.- and Bengaluru, India
+1395	2016-Dec-05	 ng 	MedNet Solutions	15-year-old	Minnetonka, Mn.
+1396	2016-Dec-05	 ng 	Zero Latency	three-year-old	Melbourne, Australia
+1397	2016-Dec-05	 nf 	ff Venture Capital	unk	unk
+1398	2016-Dec-05	 nf 	The University of Chicago	unk	unk
+1399	2016-Dec-06	 ng 	Abyrx	three-year-old	Irvington, N.Y.
+1400	2016-Dec-06	 ng 	Accompany	three-year-old	Los Altos, Ca.
+1401	2016-Dec-06	 ng 	Hubba	four-year-old	Toronto
+1402	2016-Dec-06	 ng 	Metabolon	16-year-old	Research Triangle Park, N.C.
+1403	2016-Dec-06	 ng 	MoneyLion	three-year-old	New York
+1404	2016-Dec-06	 ng 	R3	four-year-old	New York
+1405	2016-Dec-06	 ng 	StrongDM	four-year-old	San Mateo, Ca.
+1406	2016-Dec-06	 ng 	Visbit	1.5-year-old	Sunnyvale, Ca.
+1407	2016-Dec-06	 nf 	Huiyin Blockchain Venture	unk	unk
+1408	2016-Dec-06	 nf 	Section 32	unk	unk
+1409	2016-Dec-06	 nf 	Partech Ventures	unk	unk
+1410	2016-Dec-06	 nf 	Tyson Foods	unk	unk
+1411	2016-Dec-08	 ng 	Augmedix	four-year-old	San Francisco
+1412	2016-Dec-08	 ng 	Brandless	year-old	San Francisco
+1413	2016-Dec-08	 ng 	Breather	four-year-old	Montreal
+1414	2016-Dec-08	 ng 	eFounders	five-year-old	Brussels
+1415	2016-Dec-08	 ng 	Marvel	three-year-old	London
+1416	2016-Dec-08	 ng 	Molotov	year-old	Paris
+1417	2016-Dec-08	 ng 	Movinga	1.5-year-old	Berlin
+1418	2016-Dec-08	 ng 	Nectar	2.5-year-old	Palo Alto, Ca.
+1419	2016-Dec-08	 ng 	Osmo	three-year-old	Palo Alto, Ca.
+1420	2016-Dec-08	 ng 	Thanx	four-year-old	San Francisco
+1421	2016-Dec-08	 ng 	Vida Health	two-year-old	Palo Alto, Ca.
+1422	2016-Dec-08	 ng 	Waggle	year-old	New York
+1423	2016-Dec-09	 ng 	AutoGraph	five-year-old	Seattle
+1424	2016-Dec-09	 ng 	Crossover Health	six-year-old	Aliso Viejo, Ca.
+1425	2016-Dec-09	 ng 	Elysium Health	two-year-old	San Francisco
+1426	2016-Dec-09	 ng 	Eutilex	unk	unk
+1427	2016-Dec-09	 ng 	Eversound	two-year-old	Boston
+1428	2016-Dec-09	 ng 	Nantero	16-year-old	Woburn, Ma.
+1429	2016-Dec-09	 ng 	Nubank	three-year-old	Sao Paulo, Brazil
+1430	2016-Dec-09	 ng 	Podotree	six-year-old	Seoul
+1431	2016-Dec-09	 ng 	Sixa	year-old	San Francisco
+1432	2016-Dec-09	 ng 	Vapogenix	unk	Houston, Tex.
+1433	2016-Dec-09	 ng 	Vesper	seven-year-old	Boston
+1434	2016-Dec-12	 ng 	ApplePie Capital	three-year-old	San Francisco
+1435	2016-Dec-12	 ng 	Blackmore Sensors and Analytics	year-old	Bozeman, Mt.
+1436	2016-Dec-12	 ng 	Dynamic Signal	six-year-old	San Bruno, Ca.
+1437	2016-Dec-12	 ng 	Element AI	months-old	Montreal
+1438	2016-Dec-12	 ng 	Houseparty	five-year-old	San Francisco and Tel Aviv
+1439	2016-Dec-12	 ng 	Investoo	new	unk
+1440	2016-Dec-12	 ng 	JetSmarter	four-year-old	Ft. Lauderdale, Fla.
+1441	2016-Dec-12	 ng 	Mojio	four-year-old	Palo Alto, Ca.
+1442	2016-Dec-12	 ng 	Pendo	three-year-old	Raleigh, N.C.
+1443	2016-Dec-12	 ng 	Tact	four-year-old	Redwood City, Ca.
+1444	2016-Dec-12	 ng 	Wallarm	three-year-old	Menlo Park, Ca.
+1445	2016-Dec-12	 ng 	Zepl	five-year-old	Seoul
+1446	2016-Dec-12	 nf 	Breakthrough Energy Ventures	unk	unk
+1447	2016-Dec-12	 nf 	LAUNCHub Ventures	four-year-old	unk
+1448	2016-Dec-12	 nf 	unk	unk	unk
+1449	2016-Dec-12	 nf 	Wing Venture Capital	unk	unk
+1450	2016-Dec-13	 ng 	Boatsetter	three-year-old	Miami, Fla.
+1451	2016-Dec-13	 ng 	BreezoMeter	2.5-year-old	San Francisco
+1452	2016-Dec-13	 ng 	Clear Labs	three-year-old	Menlo Park, Ca.
+1453	2016-Dec-13	 ng 	Codementor	three-year-old	Palo Alto, Ca.
+1454	2016-Dec-13	 ng 	CommLoan	two-year-old	Scottsdale, Az.
+1455	2016-Dec-13	 ng 	Inkling	seven-year-old	San Francisco
+1456	2016-Dec-13	 ng 	Indifi Technologies	1.5-year-old	Gurgaon, India
+1457	2016-Dec-13	 ng 	Iterable	three-year-old	San Francisco
+1458	2016-Dec-13	 ng 	Kenna Security	five-year-old	Chicago
+1459	2016-Dec-13	 ng 	Lola	two-year-old	New York
+1460	2016-Dec-13	 ng 	Lygos	six-year-old	Emeryville, Ca.
+1461	2016-Dec-13	 ng 	Nasuni	7.5-year-old	Natick, Ma.
+1462	2016-Dec-13	 ng 	Numerai	14-month-old	San Francisco
+1463	2016-Dec-13	 ng 	ObservePoint	nine-year-old	Salt Lake City, Ut.
+1464	2016-Dec-13	 ng 	OfBusiness	year-old	Gurgaon, India
+1465	2016-Dec-13	 ng 	Privacy	2.5-year-old	New York
+1466	2016-Dec-13	 ng 	Signal Media	three-year-old	London
+1467	2016-Dec-13	 ng 	Socure	four-year-old	New York
+1468	2016-Dec-13	 ng 	SupportPay	5.5-year-old	Sacramento, Ca.
+1469	2016-Dec-13	 ng 	Survios	three-year-old	Culver City, Ca.
+1470	2016-Dec-13	 ng 	Swap.com	four-year-old	Bolinbrook, Il.
+1471	2016-Dec-13	 ng 	Traxo	unk	Dallas, Tex.
+1472	2016-Dec-13	 ng 	XSEED Education	unk	unk
+1473	2016-Dec-13	 nf 	Jeff Carter	unk	unk
+1474	2016-Dec-13	 nf 	Pitango Venture Capital	unk	unk
+1475	2016-Dec-14	 ng 	Alinto	16-year-old	Paris
+1476	2016-Dec-14	 ng 	Amcure	five-year-old	Leopoldshafen, Germany
+1477	2016-Dec-14	 ng 	BlueVine	three-year-old	Redwood City, Ca.
+1478	2016-Dec-14	 ng 	strong>Boom	year-old	Redwood City, Ca.
+1479	2016-Dec-14	 ng 	Chappy	new	unk
+1480	2016-Dec-14	 ng 	Conversica	nine-year-old	Foster City, Ca.
+1481	2016-Dec-14	 ng 	EcoVadis	nine-year-old	Paris
+1482	2016-Dec-14	 ng 	strong>EyeCam	two-year-old	San Francisco
+1483	2016-Dec-14	 ng 	Knowmail	two-year-old	Boston
+1484	2016-Dec-14	 ng 	LogicWorks	23-year-old	New York
+1485	2016-Dec-14	 ng 	strong>Managed by Q	three-year-old	New York City
+1486	2016-Dec-14	 ng 	strong>ncgCARE	23-year-old	Richmond, Va.
+1487	2016-Dec-14	 ng 	Splash	five-year-old	unk
+1488	2016-Dec-14	 ng 	strong>STRIVR Labs	two-year-old	Menlo Park, Ca.
+1489	2016-Dec-14	 ng 	strong>Suiteness	two-year-old	Oakland, Ca.
+1490	2016-Dec-14	 ng 	Symphony	two-year-old	Palo Alto, Ca.
+1491	2016-Dec-14	 ng 	Tripping.com	six-year-old	San Francisco
+1492	2016-Dec-14	 ng 	Truecaller	seven-year-old	Stockholm
+1493	2016-Dec-15	 ng 	Amino Apps	five-year-old	New York
+1494	2016-Dec-15	 ng 	Databricks	three-year-old	San Francisco
+1495	2016-Dec-15	 ng 	ExplainEverything	six-year-old	Wroclaw, Poland
+1496	2016-Dec-15	 ng 	Goldfinch Bio	unk	Boston
+1497	2016-Dec-15	 ng 	Hopper	nine-year-old	Montreal
+1498	2016-Dec-15	 ng 	HyperScience	three-year-old	New York
+1499	2016-Dec-15	 ng 	Kreditech	4.5-year-old	Hamburg, Germany
+1500	2016-Dec-15	 ng 	OWHealth	months-old	Wilmington, De.
+1501	2016-Dec-15	 ng 	Qineqt	three-year-old	New York
+1502	2016-Dec-15	 ng 	Zola	three-year-old	New York
+1503	2016-Dec-15	 nf 	Alven Capital	16-year-old	Paris
+1504	2016-Dec-15	 nf 	GoAhead Ventures	1.5-year-old	Menlo Park, Ca.
+1505	2016-Dec-16	 ng 	Cota	two-year-old	New York
+1506	2016-Dec-16	 ng 	Femasys	12-year-old	Atlanta, Ga
+1507	2016-Dec-16	 ng 	Memebox	4.5-year-old	San Francisco
+1508	2016-Dec-16	 ng 	OB1	year-old	bitcoin
+1509	2016-Dec-16	 ng 	One	10.5-year-old	Folsom, Ca.
+1510	2016-Dec-16	 ng 	Pocket Aces	2.5-year-old	Mumbai, india
+1511	2016-Dec-16	 ng 	Springbot	four-year-old	Atlanta, Ga.
+1512	2016-Dec-16	 ng 	VictorOps	four-year-old	unk
+1513	2016-Dec-16	 ng 	Wyre	three-year-old	San Francisco
+1514	2016-Dec-19	 ng 	Airbnb	unk	unk
+1515	2016-Dec-19	 ng 	Careem	4.5-year-old	Dubai
+1516	2016-Dec-19	 ng 	Dragonera	months-old	Tel Aviv, Israel
+1517	2016-Dec-19	 ng 	Lumus	16-year-old	Rehovot, Israel
+1518	2016-Dec-19	 ng 	NoBroker	two-year-old	Bangalore
+1519	2016-Dec-19	 ng 	Marketing Evolution	16-year-old	El Dorado Hills, Ca.
+1520	2016-Dec-19	 ng 	OneWeb	four-year-old	Arlington, Va.
+1521	2016-Dec-19	 ng 	Starry Internet	two-year-old	Boston and New York
+1522	2016-Dec-19	 nf 	Gomif Partners	unk	unk
+1523	2016-Dec-20	 ng 	Appetize	five-year-old	Play Vista, Ca.
+1524	2016-Dec-20	 ng 	Dynamic Yield	five-year-old	New York
+1525	2016-Dec-20	 ng 	eSUB Construction Software	unk	San Diego
+1526	2016-Dec-20	 ng 	iPrice	unk	Malayia
+1527	2016-Dec-20	 ng 	LaunchDarkly	2.5-year-old	San Francisco
+1528	2016-Dec-20	 ng 	LeanData	4.5-year-old	Sunnyvale, Ca.
+1529	2016-Dec-20	 ng 	Preservica	four-year-old	Oxfordshire, England
+1530	2016-Dec-20	 ng 	SuperFlex	year-old	Bay Area
+1531	2016-Dec-20	 ng 	Yeahmobi	five-year-old	Hunan, China
+1532	2016-Dec-20	 ng 	Zoomcar	nearly four-year-old	Bangalore, India
+1533	2016-Dec-21	 ng 	Azur Drones	four-year-old	Paris
+1534	2016-Dec-21	 ng 	Ditto Labs	four-year-old	Cambridge, Ma.
+1535	2016-Dec-21	 ng 	FlatFrog	nine-year-old	Lund, Sweden
+1536	2016-Dec-21	 ng 	HelloFresh	four-year-old	Berlin
+1537	2016-Dec-21	 ng 	IguanaFix	three-year-old	Buenos Aires
+1538	2016-Dec-21	 ng 	Lefit	year-old	Hangzhou, China
+1539	2016-Dec-21	 ng 	Optoro	unk	unk
+1540	2016-Dec-21	 ng 	Price f(x)	five-year-old	Munich, Germany
+1541	2016-Dec-21	 ng 	Revolution Medicines	year-old	Redwood City, Ca.
+1542	2016-Dec-21	 ng 	Ygrene Energy Fund	seven-year-old	Santa Rosa, Ca.
+1543	2016-Dec-21	 ng 	Zipari	unk	unk
+1544	2016-Dec-21	 nf 	Greenspring Associates	14-year-old	Owings Mills, Md.
+1545	2016-Dec-22	 ng 	Aihuishou	five-year-old	Shanghai, China
+1546	2016-Dec-22	 ng 	ApoGen Biotechnologies	new	unk
+1547	2016-Dec-22	 ng 	aXiomatic	months-old	Washington, D.C.
+1548	2016-Dec-22	 ng 	Backtrace I/O	2.5-year-old	New York
+1549	2016-Dec-22	 ng 	Huochebang	two-year-old	Guiyang, China
+1550	2016-Dec-22	 ng 	Neurable	year-old	Cambridge, Ma.
+1551	2016-Dec-22	 ng 	Xplenty	four-year-old	Tel Aviv, Israel
+1552	2016-Dec-22	 nf 	Exfinity Venture Partners	2.5-year-old	Bangalore, India
+1553	2016-Dec-23	 ng 	CrowdCow	1.5-year-old	Seattle
+1554	2016-Dec-23	 ng 	Koubei	unk	Hangzhou, China
+1555	2016-Dec-23	 ng 	Nutmeg	six-year-old	London
+1556	2016-Dec-23	 ng 	Plutora	four-year-old	Mountain View, Ca.
+1557	2016-Dec-23	 ng 	Polychain Capital	six-month-old	San Francisco
+1558	2016-Dec-23	 ng 	Shaper	1.5-year-old	San Francisco
+1559	2016-Dec-23	 nf 	Algebra Ventures	unk	Cairo, Egypt
+1560	2016-Dec-23	 nf 	Felicitous Investors	four-year-old	L.A.
+1561	2016-Dec-23	 nf 	Lightbox India Advisors	unk	unk
+1562	2016-Dec-23	 nf 	SignalFire	unk	unk
+1563	2017-Jan-03	 ng 	Byte Foods	year-old	San Rafael, Ca.
+1564	2017-Jan-03	 ng 	Flytrex	three-year-old	Tel Aviv, Israel
+1565	2017-Jan-03	 ng 	Intarcia Therapeutics	20-year-old	Boston
+1566	2017-Jan-03	 ng 	Integrated Diagnostics	seven-year-old	Seattle
+1567	2017-Jan-03	 ng 	NA-KD	1.-5-year-old	Gothenburg, Sweden
+1568	2017-Jan-03	 ng 	Minerva Surgical	unk	Redwood City, Ca.
+1569	2017-Jan-03	 ng 	Monese	three-year-old	unk
+1570	2017-Jan-03	 ng 	Proterra	12-year-old	Burlingame, Ca.
+1571	2017-Jan-03	 ng 	Rent the Runway	seven-year-old	New York
+1572	2017-Jan-03	 ng 	Tattoodo	three-year-old	unk
+1573	2017-Jan-03	 nf 	Data Collective	unk	unk
+1574	2017-Jan-03	 nf 	Loup Ventures	unk	unk
+1575	2017-Jan-03	 nf 	Trifecta Capital	2.5-year-old	Gurgaon, India
+1576	2017-Jan-04	 ng 	Ascletis	five-year-old	Chapel Hill, N.C.
+1577	2017-Jan-04	 ng 	Audio Analytic	unk	Cambridge, U.K.
+1578	2017-Jan-04	 ng 	Mobibike	1.5-year-old	Shanghai, China
+1579	2017-Jan-04	 ng 	Ripio	three-year-old	San Francisco
+1580	2017-Jan-04	 ng 	Sarcos Robotics	two-year-old	unk
+1581	2017-Jan-04	 ng 	Satchel	unk	unk
+1582	2017-Jan-04	 ng 	scPharmaceuticals	two-year-old	Lexington, Ma.
+1583	2017-Jan-04	 ng 	Synthego	four-year-old	Redwood City, Ca.
+1584	2017-Jan-04	 nf 	Digitalis	year-old	New York
+1585	2017-Jan-04	 nf 	SoftBank Group technology fund	unk	unk
+1586	2017-Jan-04	 nf 	SOSV Investments	unk	unk
+1587	2017-Jan-04	 nf 	Versant Ventures	unk	unk
+1588	2017-Jan-05	 ng 	Avizia	3.5-year-old	Reston, Va.
+1589	2017-Jan-05	 ng 	Blockstack	three-year-old	New York
+1590	2017-Jan-05	 ng 	Cerêve	unk	Pittsburgh Pa.
+1591	2017-Jan-05	 ng 	Chushou TV	six-year-old	China
+1592	2017-Jan-05	 ng 	ClearScholar	year-old	Indianapolis, In.
+1593	2017-Jan-05	 ng 	Exact Imaging	13-year-old	Markham, Canada
+1594	2017-Jan-05	 ng 	Fugue	four-year-old	Frederick, Md.
+1595	2017-Jan-05	 ng 	Klipfolio	15-year-old	Ottawa, Canada
+1596	2017-Jan-05	 ng 	Molecular Stethoscope	year-old	San Diego, Ca.
+1597	2017-Jan-05	 ng 	Namely	four-year-old	New York
+1598	2017-Jan-05	 ng 	Neon Therapeutics	year-old	Cambridge, Ma.
+1599	2017-Jan-05	 ng 	OmniActive Health Technologies	unk	Mumbai, India
+1600	2017-Jan-05	 ng 	Reputation.com	10-year-old	Redwood City, Ca.
+1601	2017-Jan-05	 ng 	Rethink Robotics	unk	Boston
+1602	2017-Jan-05	 nf 	Better Ventures	unk	unk
+1603	2017-Jan-06	 ng 	AOBiome	3.5-year-old	Cambridge, Ma.
+1604	2017-Jan-06	 ng 	Bardy Diagnostics	three-year-old	Charlotte, N.C.
+1605	2017-Jan-06	 ng 	BlackThorn Therapeutics	3.5-year-old	San Francisco
+1606	2017-Jan-06	 ng 	Bitglass	3.5-year-old	Campbell, Ca.
+1607	2017-Jan-06	 ng 	CloudCraze	seven-year-old	Chicago, Il.
+1608	2017-Jan-06	 ng 	Grail	year-old	San Francisco
+1609	2017-Jan-06	 ng 	Mediafly	10-year-old	Chicago
+1610	2017-Jan-06	 ng 	Payfone	unk	New York
+1611	2017-Jan-06	 ng 	Weedingtech	five-year-old	London
+1612	2017-Jan-06	 nf 	Mubadala Development Co.	unk	unk
+1613	2017-Jan-09	 ng 	Blue Pillar	unk	Indianapolis, In..
+1614	2017-Jan-09	 ng 	Cavion	13-year-old	Charlottesville, Va.
+1615	2017-Jan-09	 ng 	CiVi Biopharma	year-old	San Francisco
+1616	2017-Jan-09	 ng 	Eleven James	three-year-old	New York
+1617	2017-Jan-09	 ng 	MatriSys Bioscience	two-year-old	La Jolla, Ca.
+1618	2017-Jan-09	 ng 	Microbion	35-year-old	Bozeman, Mo.
+1619	2017-Jan-09	 ng 	MyTomorrows	four-year-old	Amsterdam
+1620	2017-Jan-09	 ng 	Satsuma Pharmaceuticals	new	unk
+1621	2017-Jan-09	 ng 	SiteOne	six-year-old	Bozeman, Mo.
+1622	2017-Jan-09	 ng 	Team8	2.5-year-old	Israel
+1623	2017-Jan-09	 nf 	Cendana Capital	unk	unk
+1624	2017-Jan-09	 nf 	PivotNorth Capital	unk	unk
+1625	2017-Jan-10	 ng 	Aledade	two-year-old	Bethesda, Md.
+1626	2017-Jan-10	 ng 	The Athletic	year-old	Chicago
+1627	2017-Jan-10	 ng 	Choozle	4.5-year-old	Denver
+1628	2017-Jan-10	 ng 	Cloud Elements	4.5-year-old	Denver
+1629	2017-Jan-10	 ng 	Ivantis	10-year-old	unk
+1630	2017-Jan-10	 ng 	Kaminario	six-year-old	Needham, Ma.
+1631	2017-Jan-10	 ng 	Kwipped	five-year-old	Wilmington, N.C.
+1632	2017-Jan-10	 ng 	Lalamove	three-year-old	unk
+1633	2017-Jan-10	 ng 	Logtrust	5.5-year-old	Sunnyvale, Ca.
+1634	2017-Jan-10	 ng 	Mighty AI	two-year-old	Seattle
+1635	2017-Jan-10	 ng 	MobileCause	12-year-old	Calabasas, Ca.
+1636	2017-Jan-10	 ng 	PeraHealth	nine-year-old	Charlotte, N.C.
+1637	2017-Jan-10	 ng 	Phantom	2.5-year-old	Palo Alto, Ca.
+1638	2017-Jan-10	 ng 	Resy	two-year-old	New York
+1639	2017-Jan-10	 ng 	Scandit	unk	Zurich, Switzerland
+1640	2017-Jan-10	 ng 	SnapMD	three-year-old	L.A.
+1641	2017-Jan-10	 nf 	Highway1	unk	San Francisco
+1642	2017-Jan-10	 nf 	The Knight Foundation	unk	unk
+1643	2017-Jan-11	 ng 	CompareEuropeGroup	1.5-year-old	London
+1644	2017-Jan-11	 ng 	EasyStack	two-year-old	Beijing, China
+1645	2017-Jan-11	 ng 	ezCater	10-year-old	Boston, Ma.
+1646	2017-Jan-11	 ng 	FarmLogs	four-year-old	Ann Arbor, Mi.
+1647	2017-Jan-11	 ng 	HOOQ	two-year-old	Singapore
+1648	2017-Jan-11	 ng 	iZettle	6.5-year-old	Stockholm, Swedish
+1649	2017-Jan-11	 ng 	Kuli Kuli	five-year-old	Oakland, Ca.
+1650	2017-Jan-11	 ng 	Revl	two-year-old	London
+1651	2017-Jan-11	 ng 	SmarterHQ	six-year-old	Indianapolis, In.
+1652	2017-Jan-11	 ng 	Velocidi	six-year-old	New York
+1653	2017-Jan-11	 nf 	Correlation Ventures	unk	San Diego, Ca.
+1654	2017-Jan-11	 nf 	Thayer Ventures	unk	San Francisco
+1655	2017-Jan-12	 ng 	Campanda	3.5-year-old	Berlin, Germany
+1656	2017-Jan-12	 ng 	Clearwater Clinical	12-year-old	Ottawa, Canada
+1657	2017-Jan-12	 ng 	Funding Circle	unk	London
+1658	2017-Jan-12	 ng 	Iguama	2.5-year-old	Miami, Fl.
+1659	2017-Jan-12	 ng 	Kasisto	3.5-year-old	unk
+1660	2017-Jan-12	 ng 	Kayrros	year-old	Paris
+1661	2017-Jan-12	 ng 	OncoImmune	unk	unk
+1662	2017-Jan-12	 ng 	Roambee	two-year-old	Santa Clara, Ca.
+1663	2017-Jan-12	 ng 	Stadium Goods	nearly two-year-old	New York
+1664	2017-Jan-12	 ng 	Staffjoy	two-year-old	San Francisco
+1665	2017-Jan-12	 nf 	East Ventures	unk	unk
+1666	2017-Jan-12	 nf 	Engage	unk	unk
+1667	2017-Jan-12	 nf 	Eclipse Ventures	unk	unk
+1668	2017-Jan-13	 ng 	Gridtential	six-year-old	Santa Clara, Ca.
+1669	2017-Jan-13	 ng 	HouseCanary	2.5-year-old	San Francisco
+1670	2017-Jan-13	 ng 	LingoLive	four-year-old	New York
+1671	2017-Jan-13	 ng 	Linkem	16-year-old	Rome, Italy
+1672	2017-Jan-13	 ng 	MobileMD System	three-year-old	Zhenjiang, China
+1673	2017-Jan-13	 ng 	Starship Technologies	2.5-year-old	London
+1674	2017-Jan-13	 ng 	Yoshi	nearly year-old	Palo Alto, Ca.
+1675	2017-Jan-13	 nf 	Balderton Capital	unk	unk
+1676	2017-Jan-13	 nf 	Cleveland Avenue	unk	unk
+1677	2017-Jan-13	 nf 	Brent Hoberman	unk	unk
+1678	2017-Jan-13	 nf 	Kuang-Chi Group	unk	unk
+1679	2017-Jan-13	 nf 	Northwestern Mutual Life Insurance	unk	unk
+1680	2017-Jan-17	 ng 	Ascent360	three-year-old	Golden, Co.
+1681	2017-Jan-17	 ng 	AppsFlyer	5.5-year-old	Herzliya, Israel
+1682	2017-Jan-17	 ng 	Fraugster	two-year-old	Leeds, U.K.
+1683	2017-Jan-17	 ng 	Letgo	year-old	New York
+1684	2017-Jan-17	 ng 	Measure	2.5-year-old	Washington, D.C.
+1685	2017-Jan-17	 ng 	Neufund	six-month-old	Berlin
+1686	2017-Jan-17	 ng 	OPĀQ Networks	unk	unk
+1687	2017-Jan-17	 ng 	OrderGroove	six-year-old	New York
+1688	2017-Jan-17	 ng 	Practo	nine-year-old	Bangalore, Indian
+1689	2017-Jan-17	 ng 	SecureSet Academy	two-year-old	Denver, Co.
+1690	2017-Jan-17	 ng 	Spaces	year-old	L.A.
+1691	2017-Jan-17	 ng 	Starburst Labs	4.5-year-old	New York
+1692	2017-Jan-17	 ng 	Upside.com	year-old	Washington, D.C.
+1693	2017-Jan-17	 ng 	Zoom	five-year-old	San Jose, Ca.
+1694	2017-Jan-17	 nf 	Serena Capital	nine-year-old	Paris
+1695	2017-Jan-17	 nf 	Bunkr	five-year-old	San Francisco
+1696	2017-Jan-17	 nf 	Microsoft has acquired Maluuba	five-year-old	Montreal
+1697	2017-Jan-18	 ng 	Collibra	nine-year-old	New York
+1698	2017-Jan-18	 ng 	Deputy	nine-year-old	Sydney, Australia
+1699	2017-Jan-18	 ng 	InsideSales	12.5-year-old	Provo, Ut.
+1700	2017-Jan-18	 ng 	Iris Automation	year-old	Vancouver, British Columbia
+1701	2017-Jan-18	 ng 	Laugh.ly	months-old	San Francisco
+1702	2017-Jan-18	 ng 	Neurala	nine-year-old	Boston
+1703	2017-Jan-18	 ng 	Pipedrive	six-year-old	New York
+1704	2017-Jan-18	 ng 	Process Street	two-year-old	New York
+1705	2017-Jan-18	 ng 	ProtectWise	3.5-year-old	Denver
+1706	2017-Jan-18	 ng 	Zeotap	two-year-old	Berlin
+1707	2017-Jan-18	 nf 	Alchemist Accelerator	three-year-old	San Francisco
+1708	2017-Jan-18	 nf 	The Tej Kohli Impact Investment Initiative	unk	unk
+1709	2017-Jan-18	 nf 	Motive Partners	unk	unk
+1710	2017-Jan-18	 nf 	New Enterprise Associates	unk	unk
+1711	2017-Jan-18	 nf 	Google, Twitter, Fabric	unk	unk
+1712	2017-Jan-18	 nf 	Simplivity	unk	Westborough, Ma.
+1713	2017-Jan-18	 nf 	Jason Child	unk	unk
+1714	2017-Jan-18	 nf 	Compass	unk	unk
+1715	2017-Jan-18	 nf 	unk	unk	unk
+1716	2017-Jan-19	 ng 	Amra	6.5-year-old	Sweden
+1717	2017-Jan-19	 ng 	Bankin’	six-year-old	Paris, France
+1718	2017-Jan-19	 ng 	Boughtbymany	three-year-old	Lond
+1719	2017-Jan-19	 ng 	Credible	four-year-old	San Francisco
+1720	2017-Jan-19	 ng 	DigiLens	13-year-old	Sunnyvale, Ca
+1721	2017-Jan-19	 ng 	Fabric	unk	unk
+1722	2017-Jan-19	 ng 	Fig	1.5-year-year-old	San Francisco
+1723	2017-Jan-19	 ng 	Flirtey	three-year-old	Reno, Nv.
+1724	2017-Jan-19	 ng 	FLYR	three-year-old	unk
+1725	2017-Jan-19	 ng 	Headset	year-old	Bellevue, Wa.
+1726	2017-Jan-19	 ng 	Huangbaoche	two-year-old	Beijing
+1727	2017-Jan-19	 ng 	Iyzico	four-year-old	Istanbul, Turkey
+1728	2017-Jan-19	 ng 	The Players’ Tribune	two-year-old	New York
+1729	2017-Jan-19	 ng 	Shenma Finance	1.5-year-old	Shanghai
+1730	2017-Jan-19	 ng 	SilverCloud Health	five-year-old	Dublin, Ireland
+1731	2017-Jan-19	 ng 	Salsify	four-year-old	Boston
+1732	2017-Jan-19	 ng 	Split	year-old	Redwood City, Ca.
+1733	2017-Jan-19	 ng 	TellusLabs	seven-month-old	Somerville, Ma.
+1734	2017-Jan-19	 ng 	URWork	five-year-old	China
+1735	2017-Jan-20	 ng 	Adarza BioSystems	nine-year-old	St. Louis, Mo.
+1736	2017-Jan-20	 ng 	Cristal Therapeutics	unk	Limberg, The Netherlands
+1737	2017-Jan-20	 ng 	Dwolla	nine-year-old	Des Moines, Ia.
+1738	2017-Jan-20	 ng 	Faradion	six-year-old	Sheffield, U.K.
+1739	2017-Jan-20	 ng 	Lmrkts	four-year-old	unk
+1740	2017-Jan-20	 nf 	CAVU Venture Partners	unk	unk
+1741	2017-Jan-20	 nf 	HTC Vive	unk	unk
+1742	2017-Jan-20	 nf 	Raine Ventures	3.5-year-old	New York City
+1743	2017-Jan-23	 ng 	Adaptemy	three-year-old	Dublin, Ireland
+1744	2017-Jan-23	 ng 	Atlas Genetics	12-year-old	Bath, England
+1745	2017-Jan-23	 ng 	Cuemath	five-year-old	Bangalore, India
+1746	2017-Jan-23	 ng 	EasyMile	2.5-year-old	Toulouse, France
+1747	2017-Jan-23	 ng 	Habito	unk	unk
+1748	2017-Jan-23	 ng 	Lobster	three-year-old	London
+1749	2017-Jan-23	 ng 	Lumus	16-year-old	Israel
+1750	2017-Jan-23	 ng 	The Noodle Companies	6.5-year-old	New York
+1751	2017-Jan-23	 ng 	Pitchero	10-year-old	Leeds, England
+1752	2017-Jan-23	 ng 	Raze	unk	unk
+1753	2017-Jan-23	 ng 	Talentoday	3.5-year-old	San Francisco, Ca.
+1754	2017-Jan-23	 ng 	Tricentis	10-year-old	Vienna, Austria
+1755	2017-Jan-23	 ng 	TrustPilot	10-year-old	Copenhagen, Denmark
+1756	2017-Jan-23	 ng 	Whistle Sports	three-year-old	London
+1757	2017-Jan-23	 nf 	Atomic Management	three-year-old	San Francisco
+1758	2017-Jan-23	 nf 	China, Internet Sector Fund	unk	unk
+1759	2017-Jan-24	 ng 	EquipmentShare	2.5-year-old	Columbia, Ms.
+1760	2017-Jan-24	 ng 	LiquiGlide	four-year-old	Cambridge, Ma.
+1761	2017-Jan-24	 ng 	Prattle	unk	Atlanta, Ga.
+1762	2017-Jan-24	 ng 	Redox	three-year-old	Madison, Wi.
+1763	2017-Jan-24	 ng 	Secret Double Octopus	1.5-year-old	Israel
+1764	2017-Jan-24	 ng 	Voodoo Manufacturing	1.5-year-old	Brooklyn, N.Y.
+1765	2017-Jan-24	 nf 	Merus Capital	nine-year-old	Palo Alto, Ca.
+1766	2017-Jan-24	 nf 	Origin Ventures	17-year-old	unk
+1767	2017-Jan-25	 ng 	Button	2.5-year-old	New York
+1768	2017-Jan-25	 ng 	Cleo	15-month-old	London
+1769	2017-Jan-25	 ng 	Doctolib	3.5-year-old	unk
+1770	2017-Jan-25	 ng 	KenSci	1.5-year-old	Seattle, Wa.
+1771	2017-Jan-25	 ng 	Ring	four-year-old	Santa Monica, Ca.
+1772	2017-Jan-25	 ng 	SentinelOne	four-year-old	Palo Alto, Ca.
+1773	2017-Jan-25	 ng 	Vestiaire Collective	unk	Paris
+1774	2017-Jan-26	 ng 	Jiobit	1.5-year-old	Chicago
+1775	2017-Jan-26	 ng 	Lighthouse	three-year-old	unk
+1776	2017-Jan-26	 ng 	Raisin	unk	Berlin, Germany
+1777	2017-Jan-26	 ng 	Reflektive	three-year-old	San Francisco
+1778	2017-Jan-26	 ng 	Verily Life Sciences	unk	unk
+1779	2017-Jan-26	 nf 	Venrock	unk	unk
+1780	2017-Jan-27	 ng 	Biscayne Neurotherapeutics	unk	unk
+1781	2017-Jan-27	 ng 	Koru Kids	year-old	London
+1782	2017-Jan-27	 ng 	UberCloud	2.5-year-old	Los Altos, Ca.
+1783	2017-Jan-27	 ng 	WorkFusion	6.5-year-old	New York
+1784	2017-Jan-27	 nf 	Nyca Partners	unk	unk
+1785	2017-Jan-30	 ng 	BitFury Group	four-year-old	San Francisco
+1786	2017-Jan-30	 ng 	The Bouqs	four-year-old	L.A.
+1787	2017-Jan-30	 ng 	Budbee	three-year-old	Stockholm, Sweden
+1788	2017-Jan-30	 ng 	CafeX Communications	three-year-old	New York
+1789	2017-Jan-30	 ng 	Entrypoint	year-old	New York
+1790	2017-Jan-30	 ng 	Land Life Company	three-year-old	Amsterdam
+1791	2017-Jan-30	 ng 	Mindspace	two-year-old	Tel Aviv, Israel
+1792	2017-Jan-30	 ng 	Reviver	unk	San Francisco
+1793	2017-Jan-30	 ng 	Skinjay	4.5-year-old	Paris, France
+1794	2017-Jan-30	 ng 	Spoke	3.5-year-old	London
+1795	2017-Jan-31	 nf 	Comparably	1.5-year-old	Santa Monica, Ca.
+1796	2017-Jan-31	 nf 	Earnix	16-year-old	Ramat Gan, Israel
+1797	2017-Jan-31	 nf 	Feedvisor	nearly six-year-old	New York
+1798	2017-Jan-31	 nf 	GoKid	1.5-year-old	Detroit
+1799	2017-Jan-31	 nf 	Qvivr	2.5-year-old	Fremont, Ca.
+1800	2017-Jan-31	 nf 	Radish	year-old	San Francisco
+1801	2017-Jan-31	 nf 	SoundHound	unk	Santa Clara, Ca.
+1802	2017-Jan-31	 nf 	TeamSnap	six-year-old	Boulder, Co.
+1803	2017-Jan-31	 nf 	YouEarnedIt	four-year-old	Austin, Tex.
+1804	2017-Jan-31	 nf 	Third Kind Venture Capital	unk	unk
+1805	2017-Jan-31	 nf 	Centerfield	five-year-old	El Segundo, Ca.
+1806	2017-Feb-01	 ng 	AIM	1.5-year-old	New York and Seoul
+1807	2017-Feb-01	 ng 	ClearMotion	unk	Boston
+1808	2017-Feb-01	 ng 	Glide Technologies	unk	unk
+1809	2017-Feb-01	 ng 	Inmoji	2.5-year-old	Boston
+1810	2017-Feb-01	 ng 	InovyTec	six-year-old	Hod-Hasharon, Israel
+1811	2017-Feb-01	 ng 	Kinestral Technologies	6.5-year-old	South San Francisco
+1812	2017-Feb-01	 ng 	LatiPay	year-old	unk
+1813	2017-Feb-01	 ng 	Netgain	16-year-old	St. Cloud, Mn.
+1814	2017-Feb-01	 ng 	Reserve	2.5-year-old	New York
+1815	2017-Feb-01	 ng 	Trussle	1.5-year-old	London
+1816	2017-Feb-01	 ng 	Uptake	2.5-year-old	unk
+1817	2017-Feb-01	 ng 	Wealthsimple	2.5-year-old	Toronto, Canada
+1818	2017-Feb-01	 ng 	Xometry	3.5-year-old	Gaithersburg, Md.
+1819	2017-Feb-02	 ng 	Against Gravity	year-old	Seattle
+1820	2017-Feb-02	 ng 	Airware	5.5-year-old	San Francisco
+1821	2017-Feb-02	 ng 	ApcinteX	unk	unk
+1822	2017-Feb-02	 ng 	Aquilon Energy Services	six-year-old	Lisle, Il.
+1823	2017-Feb-02	 ng 	Disruptor Beam	six-year-old	Framingham, Ma.
+1824	2017-Feb-02	 ng 	GAN Integrity	2.5-year-old	Brooklyn, New York
+1825	2017-Feb-02	 ng 	GoldenKey	three-year-old	Raleigh, N.C.
+1826	2017-Feb-02	 ng 	MapAnything	unk	Charlotte, N.C.
+1827	2017-Feb-02	 ng 	Opti	2.5-year-old	Boston
+1828	2017-Feb-02	 ng 	PointClickCare	22-year-old	Mississauga, Canada
+1829	2017-Feb-02	 ng 	Scytl	16-year-old	Barcelona, Spain
+1830	2017-Feb-02	 ng 	SIM Partners	unk	Chicago
+1831	2017-Feb-02	 ng 	Suplari	year-old	Seattle
+1832	2017-Feb-02	 ng 	Tarveda Therapeutics	4.5-year-old	Watertown, Ma.
+1833	2017-Feb-02	 ng 	Text IQ	2.5-year-old	San Francisco
+1834	2017-Feb-02	 ng 	Vividion Therapeutics	2.5-year-old	San Diego, Ca.
+1835	2017-Feb-02	 ng 	Wity	year-old	Paris, France
+1836	2017-Feb-02	 ng 	Xnor.ai	unk	unk
+1837	2017-Feb-02	 nf 	Grab	unk	unk
+1838	2017-Feb-02	 nf 	Seroba	unk	unk
+1839	2017-Feb-03	 ng 	Ceres Nanosciences	nine-year-old	Manassas, Va.
+1840	2017-Feb-03	 ng 	Hutch	5.5-year-old	London
+1841	2017-Feb-03	 ng 	Jobaline	four-year-old	Kirkland, Wa.
+1842	2017-Feb-03	 ng 	LendingFront	2.5-year-old	New York
+1843	2017-Feb-03	 ng 	Litify	months-old	Brooklyn, N.Y.
+1844	2017-Feb-03	 ng 	SparkFund	3.5-year-old	Washington, D.C.
+1845	2017-Feb-03	 ng 	Taxfyle	1.5-year-old	Miami, Fl.
+1846	2017-Feb-03	 ng 	VisCardia	1.5-year-old	Beaverton, Or.
+1847	2017-Feb-03	 nf 	Legend Capital	unk	unk
+1848	2017-Feb-06	 ng 	Comprehend Systems	six-year-old	Redwood City, Ca.
+1849	2017-Feb-06	 ng 	Desktop Metal	1.5-year-old	Burlington, Ma.
+1850	2017-Feb-06	 ng 	LogicHub	year-old	Mountain View, Ca.
+1851	2017-Feb-06	 ng 	SubVRsive	1.5-year-old	Austin, Tex.
+1852	2017-Feb-06	 ng 	TerrAvion	three-year-old	San Leandro, Ca.
+1853	2017-Feb-06	 ng 	Virtualitics	new	unk
+1854	2017-Feb-06	 nf 	Promus Ventures	4.5-year-old	Chicago
+1855	2017-Feb-07	 ng 	Airsorted	year-old	London
+1856	2017-Feb-07	 ng 	Chorus.ai	year-old	San Francisco
+1857	2017-Feb-07	 ng 	Comprehend Systems	six-year-old	Redwood City, Ca.
+1858	2017-Feb-07	 ng 	Exabeam	3.5-year-old	San Mateo, Ca.
+1859	2017-Feb-07	 ng 	Fungible	1.5-year-old	Santa Clara, Ca.
+1860	2017-Feb-07	 ng 	Goat	six-year-old	Culver City, Ca.
+1861	2017-Feb-07	 ng 	Lola	1.5-year-old	Boston
+1862	2017-Feb-07	 ng 	Shansong Express	2.5-year-old	Beijing
+1863	2017-Feb-07	 ng 	SnapRoute	1.5-year-old	San Francisco
+1864	2017-Feb-07	 ng 	Tenka Labs	1.5-year-old	San Francisco
+1865	2017-Feb-07	 ng 	TravelTriangle	three-year-old	Singapore
+1866	2017-Feb-07	 ng 	Trax	6.5-year-old	unk
+1867	2017-Feb-07	 ng 	Tucows	23-year-old	Toronto
+1868	2017-Feb-07	 nf 	Frontline Ventures	four-year-old	London
+1869	2017-Feb-08	 ng 	hatbooks	2.5-year-old	Provo, Ut.
+1870	2017-Feb-08	 nf 	Green Bay Ventures	unk	unk
+1871	2017-Feb-08	 nf 	TrueBridge Capital Partners	unk	unk
+1872	2017-Feb-08	 nf 	Stellaris Venture Partners	unk	unk
+1873	2017-Feb-08	 nf 	Trident Capital Cybersecurity	unk	unk
+1874	2017-Feb-09	 ng 	Better Mortgage	three-year-old	New York
+1875	2017-Feb-09	 ng 	Exactuals	nearly six-year-old	L.A.
+1876	2017-Feb-09	 ng 	Float	2.5-year-old	L.A.
+1877	2017-Feb-09	 nf 	Greycroft Partners	unk	unk
+1878	2017-Feb-09	 nf 	Airbnb	unk	unk
+1879	2017-Feb-10	 ng 	Botworx.ai	year-old	Los Altos, Ca.
+1880	2017-Feb-10	 ng 	Capsule8	months-old	New York City
+1881	2017-Feb-10	 ng 	Demisto	1.5-year-old	Cupertino, Ca.
+1882	2017-Feb-10	 ng 	Empow	2.5-year-old	Tel Aviv, Israel
+1883	2017-Feb-10	 ng 	Evident.io	3.5-year-old	unk
+1884	2017-Feb-10	 ng 	HealthReveal	two-year-old	New York
+1885	2017-Feb-10	 ng 	Oncoinvent	six-year-old	Oslo, Norway
+1886	2017-Feb-10	 nf 	Nasdaq	unk	unk
+1887	2017-Mar-03	 ng 	Bobo's Oat Bars	12-year-old	Boulder, Co.
+1888	2017-Mar-03	 ng 	Boragen	months-old	Durham, N.C.
+1889	2017-Mar-03	 ng 	C3 IoT	unk	Redwood City, Ca.
+1890	2017-Mar-03	 ng 	Examity	3.5-year-old	Needham, Ma.
+1891	2017-Mar-03	 ng 	Grail	year-old	Menlo Park, Ca.
+1892	2017-Mar-03	 ng 	Hedvig	4.5-year-old	Santa Clara, Ca.
+1893	2017-Mar-03	 ng 	Lucy	year-old	San Francisco
+1894	2017-Mar-03	 ng 	Nearpod	4.5-year-old	Hallandale, Fla.
+1895	2017-Mar-03	 ng 	OpenRent	unk	unk
+1896	2017-Mar-03	 ng 	Surefire Medical	unk	Westminster, Co.
+1897	2017-Mar-03	 nf 	Next Coast Ventures	1.5-year-old	Austin, Tex.
+1898	2017-Mar-03	 nf 	Ribbit Capital	nearly five-year-old	Palo Alto, Ca.
+1899	2017-Mar-03	 nf 	Sofinnova Partners	unk	unk
+1900	2017-Mar-03	 nf 	Symantec	unk	unk
+1901	2017-Mar-06	 ng 	AgroStar	3.5-year-old	Pune, India
+1902	2017-Mar-06	 ng 	Atom Bank	three-year-old	U.K.
+1903	2017-Mar-06	 ng 	Brayola	four-year-old	New York
+1904	2017-Mar-06	 ng 	Busybusy	six-year-old	St. George, Ut.
+1905	2017-Mar-06	 ng 	Factory	five-year-old	Lisbon
+1906	2017-Mar-06	 ng 	InGeneron	unk	Houston, Tx.
+1907	2017-Mar-06	 ng 	NextEv	unk	Shanghai, China
+1908	2017-Mar-06	 ng 	Raken	2.5-year-old	San Diego, Ca.
+1909	2017-Mar-06	 nf 	unk	unk	unk
+1910	2017-Mar-07	 ng 	Bigo Live	year-old	Singapore
+1911	2017-Mar-07	 ng 	Confluent	unk	Palo Alto, Ca.
+1912	2017-Mar-07	 ng 	Current	new	unk
+1913	2017-Mar-07	 ng 	Epicrop	3.5-year-old	Lincoln, Neb.
+1914	2017-Mar-07	 ng 	Function of Beauty	1.5-year-old	Stamford, Ct.
+1915	2017-Mar-07	 ng 	iflix	three-year-old	Kuala Lumpur
+1916	2017-Mar-07	 ng 	Peerspace	3.5-year-old	San Francisco
+1917	2017-Mar-07	 nf 	Zero F	unk	unk
+1918	2017-Mar-07	 nf 	Oak HC/FT Partners	unk	unk
+1919	2017-Mar-07	 nf 	Notation Capital	two-year-old	Brooklyn
+1920	2017-Mar-08	 ng 	Anchor FM	1.5-year-old	New York
+1921	2017-Mar-08	 ng 	Caicloud	1.5-year-old	Shanghai, China
+1922	2017-Mar-08	 ng 	Dialogue	year-old	Montreal
+1923	2017-Mar-08	 ng 	Farmer’s Business Network	2.5-year-old	San Carlos, Ca.
+1924	2017-Mar-08	 ng 	Garrison Technology	2.5-year-old	London
+1925	2017-Mar-08	 ng 	Gobi	1.5-year-old	San Francisco
+1926	2017-Mar-08	 ng 	Hubble	nearly-year-old	New York
+1927	2017-Mar-08	 ng 	ID.me	6.5-year-old	McLean, Va.
+1928	2017-Mar-08	 ng 	Instacart	unk	San Francisco
+1929	2017-Mar-08	 ng 	Isotropic Systems	three-year-old	London
+1930	2017-Mar-08	 ng 	Liven	3.5-year-old	Melbourne, Australia
+1931	2017-Mar-08	 ng 	LoopMe	five-year-old	London
+1932	2017-Mar-08	 ng 	Qapital	4.5-year-old	New York
+1933	2017-Mar-08	 ng 	Quidd	nearly two-year-old	Brooklyn, N.Y.
+1934	2017-Mar-08	 ng 	Veem	three-year-old	San Francisco
+1935	2017-Mar-08	 ng 	Velano Vascular	four-year-old	unk
+1936	2017-Mar-08	 ng 	Virta Health	2.5-year-old	San Francisco
+1937	2017-Mar-08	 ng 	Wrapify	two-year-old	San Francisco
+1938	2017-Mar-08	 nf 	Last year	new	unk
+1939	2017-Mar-09	 ng 	Astro	two-year-old	Palo Alto, Ca.
+1940	2017-Mar-09	 ng 	Chairish	unk	San Francisco, Ca.
+1941	2017-Mar-09	 ng 	Chowbotics	2.5-year-old	San Jose, Ca.
+1942	2017-Mar-09	 ng 	Cradlepoint	unk	unk
+1943	2017-Mar-09	 ng 	Currencycloud	five-year-old	London
+1944	2017-Mar-09	 ng 	Fluxx	five-year-old	San Francisco
+1945	2017-Mar-09	 ng 	Kidizen	six-year-old	Minneapolis, Mn.
+1946	2017-Mar-09	 ng 	Kinsa	five-year-old	San Francisco
+1947	2017-Mar-09	 ng 	OncoResponse	two-year-old	unk
+1948	2017-Mar-09	 ng 	Prevedere	five-year-old	Columbus, Oh.
+1949	2017-Mar-09	 ng 	RealConnex	four-year-old	Miami and New York
+1950	2017-Mar-09	 ng 	RiskSense	year-old	unk
+1951	2017-Mar-09	 ng 	ScyllaDB	nearly two-year-old	Palo Alto, Ca.
+1952	2017-Mar-09	 ng 	TurnKey	4.5-year-old	Austin, Tex.
+1953	2017-Mar-09	 ng 	Tushy	new	unk
+1954	2017-Mar-09	 ng 	VATBox	nearly four-year-old	Herzliya, Israel
+1955	2017-Mar-09	 ng 	Vertiflex	12-year-old	Carlsbad, Ca.
+1956	2017-Mar-09	 nf 	Blumberg Capital	26-year-old	San Francisco
+1957	2017-Mar-09	 nf 	Rethink Impact	six-year-old	San Francisco
+1958	2017-Mar-10	 ng 	Datebox	1.5-year-old	Oklahoma City, Ok.
+1959	2017-Mar-10	 ng 	DraftKings	unk	Boston
+1960	2017-Mar-10	 ng 	Job Today	1.5-year-old	Luxembourg
+1961	2017-Mar-10	 ng 	Marketing Evolution	16-year-old	New York
+1962	2017-Mar-10	 ng 	Odilo	five-year-old	Madrid, Spain
+1963	2017-Mar-10	 ng 	Viva Republica	unk	Seoul
+1964	2017-Mar-10	 ng 	Waitr	three-year-old	Lafayette, La.
+1965	2017-Mar-10	 ng 	Wazoku	four-year-old	London
+1966	2017-Mar-10	 nf 	Verizon Media Tech Venture Studio	unk	unk
+1967	2017-Mar-10	 nf 	Google Kaggle	unk	unk
+1968	2017-Mar-13	 ng 	Autobooks	two-year-old	Detroit, Mi.
+1969	2017-Mar-13	 ng 	Borqs	10-year-old	Bengaluru, India
+1970	2017-Mar-13	 ng 	Canopy	three-year-old	Lehi, Utah
+1971	2017-Mar-13	 ng 	Foodsby	five-year-old	Minneapolis, Mn.
+1972	2017-Mar-13	 ng 	GuestToGuest	six-year-old	Paris
+1973	2017-Mar-13	 ng 	The Hustle	2.5-year-old	unk
+1974	2017-Mar-13	 ng 	iD Fresh	10-year-old	Bengaluru, India
+1975	2017-Mar-13	 ng 	InterCloud	six-year-old	Paris, France
+1976	2017-Mar-13	 ng 	PokitDok	5.5-year-old	San Mateo, Ca.
+1977	2017-Mar-13	 ng 	Skuid	four-year-old	Chattanooga, Tn.
+1978	2017-Mar-13	 ng 	StatX	1.5-year-old	Santa Clara, Ca.
+1979	2017-Mar-13	 nf 	Exfinity Venture Partners	2.5-year-old	Bengaluru, India
+1980	2017-Mar-14	 ng 	Baker Technologies	three-year-old	Denver
+1981	2017-Mar-14	 ng 	Bringg	3.5-year-old	Chicago
+1982	2017-Mar-14	 ng 	CellAegis Devices	four-year-old	Toronto
+1983	2017-Mar-14	 ng 	Dyadic Security	four-year-old	New York
+1984	2017-Mar-14	 ng 	Evrything	six-year-old	New York
+1985	2017-Mar-14	 ng 	Hound Labs	three-year-old	Oakland, Ca.
+1986	2017-Mar-14	 ng 	Innovium	two-year-old	San Jose, Ca.
+1987	2017-Mar-14	 ng 	ObEN	three-year-old	Pasadena, Ca.
+1988	2017-Mar-14	 ng 	Peloton Interactive	five-year-old	New York
+1989	2017-Mar-14	 ng 	ProducePay	three-year-old	L.A.
+1990	2017-Mar-14	 ng 	Roblox	12-year-old	unk
+1991	2017-Mar-14	 ng 	Sift	six-year-old	San Francisco
+1992	2017-Mar-14	 ng 	Silverfin	3.5-year-old	Ghent, Belgium
+1993	2017-Mar-14	 ng 	Streetbees	1.5-year-old	London
+1994	2017-Mar-14	 ng 	Unifi Software	three-year-old	San Mateo, Ca.
+1995	2017-Mar-14	 ng 	VentureApp	1.5-year-old	Boston
+1996	2017-Mar-15	 ng 	908 Devices	nearly five-year-old	Boston, Ma.
+1997	2017-Mar-15	 ng 	CareDox	six-year-old	New York City
+1998	2017-Mar-15	 ng 	Crealytics	nine-year-old	Bavaria- and New York
+1999	2017-Mar-15	 ng 	Fazua	six-year-old	Munich, Germany
+2000	2017-Mar-15	 ng 	Flow	nearly two-year-old	Hoboken, N.J.
+2001	2017-Mar-15	 ng 	Goodlord	nearly three-year-old	London
+2002	2017-Mar-15	 ng 	Infoworks.io	2.5-year-old	San Jose, Ca.
+2003	2017-Mar-15	 ng 	Launcher Solutions	year-old	Jacksonville, Fla.
+2004	2017-Mar-15	 ng 	RedShift BioAnalytics	12-year-old	Burlington, Ma.
+2005	2017-Mar-15	 ng 	ServiceTitan	4.5-year-old	Glendale, Ca.
+2006	2017-Mar-15	 ng 	ShopChat	nine-month-old	Bay Area
+2007	2017-Mar-15	 ng 	TimeTrade	16-year-old	Boston, Ma
+2008	2017-Mar-15	 nf 	Biomatics Capital Partners	new	unk
+2009	2017-Mar-15	 nf 	Ross Fubini	unk	unk
+2010	2017-Mar-16	 ng 	AliveCor	six-year-old	San Francisco
+2011	2017-Mar-16	 ng 	Brooklinen	2.5-year-old	New York
+2012	2017-Mar-16	 ng 	Collective Retreats	two-year-old	Wolcott, Co.
+2013	2017-Mar-16	 ng 	Countable	nearly four-year-old	Oakland Ca.
+2014	2017-Mar-16	 ng 	eGenesis	nearly three-year-old	Cambridge, Mass.
+2015	2017-Mar-16	 ng 	EndoMaster	six-year-old	Singapore
+2016	2017-Mar-16	 ng 	Helpling	three-year-old	Berlin
+2017	2017-Mar-16	 ng 	Insurify	nearly four-year-old	Cambridge, Ma.
+2018	2017-Mar-16	 ng 	LimeBike	months-old	San Mateo, Ca.
+2019	2017-Mar-16	 ng 	Livongo Health	2.5-year-old	Mountain View, Ca.
+2020	2017-Mar-16	 ng 	Makeblock	5.5-year-old	Shenzhen, China
+2021	2017-Mar-16	 ng 	POPxo	three-year-old	New Delhi, India
+2022	2017-Mar-16	 ng 	WayRay	4.5-year-old	Lausanne, Switzerland
+2023	2017-Mar-16	 ng 	Weather Analytics	nearly five-year-old	Washington, D.C.
+2024	2017-Mar-16	 nf 	SproutX	unk	Australia
+2025	2017-Mar-16	 nf 	TTV Capital	16-year-old	Atlanta
+2026	2017-Mar-17	 ng 	Cell Medica	12-year-old	London
+2027	2017-Mar-17	 ng 	CNEX Labs	3.5-year-old	San Jose, Ca.
+2028	2017-Mar-17	 ng 	Cohero Health	3.5-year-old	New York
+2029	2017-Mar-17	 ng 	Homage	unk	unk
+2030	2017-Mar-17	 ng 	Moximed	three-year-old	Hayward, Ca.
+2031	2017-Mar-17	 ng 	MultiX	6.5-year-old	Grenoble, France
+2032	2017-Mar-17	 ng 	RenalGuard	unk	unk
+2033	2017-Mar-17	 ng 	Solarisbank	year-old	Berlin
+2034	2017-Mar-17	 ng 	Visier	six-year-old	Vancouver and San Jose, Ca.
+2035	2017-Mar-17	 nf 	Pivotal bioVenture Partners	new	unk
+2036	2017-Mar-20	 ng 	Aetion	4.5-year-old	New York
+2037	2017-Mar-20	 ng 	Akeneo	3.5-year-old	Nantes, France
+2038	2017-Mar-20	 ng 	BEFORE Brands	year-old	Menlo Park, Ca.
+2039	2017-Mar-20	 ng 	CloudCheckr	six-year-old	unk
+2040	2017-Mar-20	 ng 	FarmLead	unk	Ottawa, Canada
+2041	2017-Mar-20	 ng 	Gro Solutions	1.5-year-old	Johns Creek, Ga.
+2042	2017-Mar-20	 ng 	Hypereal	1.5-year-old	Shanghai
+2043	2017-Mar-20	 ng 	MedLumics	unk	Madrid, Spain
+2044	2017-Mar-20	 ng 	Mychebao	4.5-year-old	Nanjing, China
+2045	2017-Mar-20	 ng 	Nested	year-old	London
+2046	2017-Mar-20	 ng 	Pulmocide	3.5-year-old	London
+2047	2017-Mar-20	 ng 	Reduxio Systems	4.5-year-old	San Francisco and Tel Aviv
+2048	2017-Mar-20	 ng 	ShadeCraft	nearly four-year-old	unk
+2049	2017-Mar-20	 ng 	Tech In Asia	unk	Singapore
+2050	2017-Mar-20	 nf 	Square Peg Capital	four-year-old	Melbourne, Australia
+2051	2017-Mar-21	 ng 	Beekeeper	4.5-year-old	Zurich, Switzerland
+2052	2017-Mar-21	 ng 	Databerries	2.5-year-old	Paris
+2053	2017-Mar-21	 ng 	Fam	months-old	Boston
+2054	2017-Mar-21	 ng 	Flipkart	unk	Bangalore, India
+2055	2017-Mar-21	 ng 	Geek+	1.5-year-old	Beijing, China
+2056	2017-Mar-21	 ng 	Jellyvision	15-year-old	Chicago
+2057	2017-Mar-21	 ng 	PlateIQ	2.5-year-old	San Francisco
+2058	2017-Mar-21	 ng 	Purple Squirrel	two-year-old	San Francisco
+2059	2017-Mar-21	 ng 	RavenPack	unk	New York
+2060	2017-Mar-21	 ng 	Rocket Lab	unk	L.A.
+2061	2017-Mar-21	 ng 	TextRecruit	three-year-old	San Jose, Ca.
+2062	2017-Mar-21	 ng 	WeWork	unk	New York
+2063	2017-Mar-22	 ng 	Boom Technology	2.5-year-old	Centennial, Co.
+2064	2017-Mar-22	 ng 	BioClin Therapeutics	6.5-year-old	San Ramon, Ca.
+2065	2017-Mar-22	 ng 	Casetext	four-year-old	Palo Alto, Ca.
+2066	2017-Mar-22	 ng 	DeepScale	two-year-old	Mountain View, Ca.
+2067	2017-Mar-22	 ng 	Elvie	3.5-year-old	London
+2068	2017-Mar-22	 ng 	HotelTonight	unk	San Francisco
+2069	2017-Mar-22	 ng 	Lynkos	nearly six-year-old	Nyack, New York
+2070	2017-Mar-22	 ng 	Mythic	five-year-old	Austin, Tex.
+2071	2017-Mar-22	 ng 	Pear Deck	2.5-year-old	Iowa City, Ia.
+2072	2017-Mar-22	 ng 	Pocketwatch	year-old	Culver City, Ca.
+2073	2017-Mar-23	 ng 	Carro	nearly two-year-old	Singapore
+2074	2017-Mar-23	 ng 	Clarity Money	year-old	New York
+2075	2017-Mar-23	 ng 	Drivemode	2.5-year-old	San Jose, Ca.
+2076	2017-Mar-23	 ng 	Ixigo	nearly nine-year-old	Gurgaon, India
+2077	2017-Mar-23	 ng 	Kuaishou	six-year-old	Beijing
+2078	2017-Mar-23	 ng 	Lystable	two-year-old	London
+2079	2017-Mar-23	 ng 	MotorK	6.5-year-old	Milan, Italy
+2080	2017-Mar-23	 ng 	The News Lens	three-year-old	Tapei, Taiwan
+2081	2017-Mar-23	 ng 	Ripcord	two-year-old	Hayward, Ca.
+2082	2017-Mar-23	 ng 	SoundCloud	unk	Berlin
+2083	2017-Mar-23	 ng 	Ycloset	1.5-year-old	Beijing
+2084	2017-Mar-23	 ng 	Zenreach	4.5-year-old	San Francisco
+2085	2017-Mar-23	 nf 	Octopus Ventures	unk	unk
+2086	2017-Mar-24	 ng 	Big Squid	eight-year-old	Salt Lake City, Ut.
+2087	2017-Mar-24	 ng 	Delhivery	five-year-old	Gurgaon, India
+2088	2017-Mar-24	 ng 	Grab	unk	Singapore
+2089	2017-Mar-24	 ng 	Paradata	unk	San Jose, Ca.
+2090	2017-Mar-24	 ng 	SB Drive	year-old	Tokyo
+2091	2017-Mar-24	 ng 	Maisonette.com	four-year-old	New York
+2092	2017-Mar-24	 ng 	MarketsandMarkets	6.5-year-old	Pune, India
+2093	2017-Mar-24	 ng 	Quantexa	year-old	London
+2094	2017-Mar-24	 ng 	UrbanSitter	unk	San Franciso
+2095	2017-Mar-27	 ng 	Arable	three-year-old	Princeton, N.J.
+2096	2017-Mar-27	 ng 	Cool Planet	nine-year-old	unk
+2097	2017-Mar-27	 ng 	Lightform	two-year-old	San Francisco
+2098	2017-Mar-27	 ng 	Peakon	two-year-old	London- and Copenhagen
+2099	2017-Mar-27	 ng 	Placester	nine-year-old	Boston
+2100	2017-Mar-27	 ng 	Snapcart	two-year-old	Jakarta, Indonesia
+2101	2017-Mar-27	 ng 	Twist Bioscience	three-year-old	San Francisco, Ca.
+2102	2017-Mar-27	 nf 	Science	5.5-year-old	L.A.
+2103	2017-Mar-28	 ng 	Antiva Biosciences	4.5-year-old	South San Francisco, Ca.
+2104	2017-Mar-28	 ng 	Bustle	3.5-year-old	Brooklyn
+2105	2017-Mar-28	 ng 	Coras	1.5-year-old	Dublin, Ireland
+2106	2017-Mar-28	 ng 	Creamfinance	five-year-old	Warsaw, Poland
+2107	2017-Mar-28	 ng 	Flourish	year-old	London
+2108	2017-Mar-28	 ng 	MasterClass	two-year-old	San Francisco
+2109	2017-Mar-28	 ng 	Slacker	unk	San Diego
+2110	2017-Mar-28	 ng 	Smyte	2.5-year-old	unk
+2111	2017-Mar-28	 ng 	Tenfold	three-year-old	a three-year-old, Austin, Tex.
+2112	2017-Mar-28	 ng 	Tiger Brokers	three-year-old	Beijing, China
+2113	2017-Mar-28	 ng 	Wrench	two-year-old	Seattle
+2114	2017-Mar-28	 nf 	Phoenix Venture Partners	unk	unk
+2115	2017-Mar-29	 ng 	Aiden	nine-month-old	London
+2116	2017-Mar-29	 ng 	Carbon Health	1.5-year-old	unk
+2117	2017-Mar-29	 ng 	Cognoa	2.5-year-old	Palo Alto, Ca.
+2118	2017-Mar-29	 ng 	ControlUp	five-year-old	Saratoga, Ca.
+2119	2017-Mar-29	 ng 	Emergent Payments	10-year-old	Palo Alto, Ca.
+2120	2017-Mar-29	 ng 	Emoticast	three-year-old	London
+2121	2017-Mar-29	 ng 	Freightos	four-year-old	Jerusalem, Israel
+2122	2017-Mar-29	 ng 	Industrious	four-year-old	Brooklyn, N.Y.
+2123	2017-Mar-29	 ng 	Inocucor Technologies	unk	Montreal, Canada
+2124	2017-Mar-29	 ng 	MapD	3.5-year-old	San Francisco
+2125	2017-Mar-29	 ng 	Raise.me	4.5-year-old	San Francisco
+2126	2017-Mar-29	 ng 	Reputation.com	unk	Redwood City, Ca.
+2127	2017-Mar-29	 ng 	Rigetti Computing	3.5-year-old	Berkeley, Ca.
+2128	2017-Mar-29	 ng 	RightHand Robotics	2.5-year-old	Somerville, Ma.
+2129	2017-Mar-29	 ng 	Ripjar	4.5-year-old	London
+2130	2017-Mar-29	 ng 	Storyhunter	nearly five-year-old	New York
+2131	2017-Mar-29	 nf 	Arrowroot Capital	three-year-old	Santa Monica, Ca.
+2132	2017-Mar-30	 ng 	Berkeley Research Group	17-year-old	Emeryville, Ca.
+2133	2017-Mar-30	 ng 	Cava Grill	six-year-old	Rockville, Md.
+2134	2017-Mar-30	 ng 	Filament	five-year-old	Reno, Nv.
+2135	2017-Mar-30	 ng 	Kuaicang	three-year-old	Shanghai, China
+2136	2017-Mar-30	 ng 	Icertis	unk	Bellevue, Wa.
+2137	2017-Mar-30	 ng 	JoyRun	2.5-year-old	Santa Clara, Ca.
+2138	2017-Mar-30	 ng 	Ledger	two-year-old	Paris, France
+2139	2017-Mar-30	 ng 	Looker	six-year-old	Santa Cruz, Ca.
+2140	2017-Mar-30	 ng 	Oodrive	17-year-old	Paris
+2141	2017-Mar-30	 ng 	Pepper	unk	Kansas City Mo.
+2142	2017-Mar-30	 ng 	Promentis Pharmaceuticals	unk	Milwaukee, Wi.
+2143	2017-Mar-30	 nf 	Legend Capital	unk	unk
+2144	2017-Mar-30	 nf 	Toyota’s dedicated research organization	unk	unk
+2145	2017-Mar-31	 ng 	ADVR	year-old	San Francisco, Ca.
+2146	2017-Mar-31	 ng 	Breathe Technologies	12-year-old	Irvine, Ca.
+2147	2017-Mar-31	 ng 	Decisely	1.5-year-old	unk
+2148	2017-Mar-31	 ng 	Echo	four-year-old	San Diego, Ca.
+2149	2017-Mar-31	 ng 	Optolexia	nearly two-year-old	Stockholm, Sweden
+2150	2017-Mar-31	 ng 	SpyBiotech	months-old	Oxford, England
+2151	2017-Mar-31	 ng 	Stripe	unk	San Francisco
+2152	2017-Mar-31	 ng 	ZenJob	year-old	Berlin, Germany
+2153	2017-Mar-31	 nf 	Banyan Capital	3.5-year-old	Beijing
+2154	2017-Mar-31	 nf 	Haystack Ventures	unk	unk
+2155	2017-Mar-31	 nf 	WestSummit Capital	unk	unk
+2156	2017-Apr-03	 ng 	Farmstand	year-old	London
+2157	2017-Apr-03	 ng 	I Believe	nearly five-year-old	Zhengzhou, China
+2158	2017-Apr-03	 ng 	LeafLink	year-old	New York
+2159	2017-Apr-03	 ng 	Nitro	12-year-old	San Francisco
+2160	2017-Apr-03	 ng 	Purely Elizabeth	unk	Boulder, Co.
+2161	2017-Apr-03	 ng 	Robinhood	unk	Palo Alto, Ca.
+2162	2017-Apr-03	 ng 	Wag	2.5-year-old	San Francisco
+2163	2017-Apr-03	 nf 	Cloud Apps Capital Partners	3.5-year-old	San Francisco
+2164	2017-Apr-03	 nf 	Israel Secondary Fund	unk	unk
+2165	2017-Apr-04	 ng 	Amino	3.5-year-old	San Francisco
+2166	2017-Apr-04	 ng 	Bizzabo	six-year-old	Tel Aviv and New York
+2167	2017-Apr-04	 ng 	Cohesity	nearly four-year-old	Santa Clara, Ca.
+2168	2017-Apr-04	 ng 	Grokstyle	two-year-old	San Francisco
+2169	2017-Apr-04	 ng 	PhenixP2P	3.5-year-old	Chicago
+2170	2017-Apr-04	 ng 	Pluto AI	year-old	Palo Alto, Ca.
+2171	2017-Apr-04	 ng 	Vimcar	four-year-old	Berlin
+2172	2017-Apr-04	 ng 	Wellthie	unk	unk
+2173	2017-Apr-04	 nf 	Data Collective	unk	San Francisco
+2174	2017-Apr-04	 nf 	Resolute Ventures	unk	unk
+2175	2017-Apr-04	 nf 	Tusk Ventures	unk	unk
+2176	2017-Apr-05	 ng 	AdAsia	one-year-old	Singapore
+2177	2017-Apr-05	 ng 	Armor	unk	Richardson, Tex.
+2178	2017-Apr-05	 ng 	Aurora Innovation	months-old	Bay Area
+2179	2017-Apr-05	 ng 	Azitra	three-year-old	Farmington, Ct.
+2180	2017-Apr-05	 ng 	CheckRecipient	nearly four-year-old	unk
+2181	2017-Apr-05	 ng 	Coras	1.5-year-old	Dublin, Ireland
+2182	2017-Apr-05	 ng 	Dojo Madness	2.5-year-old	Berlin
+2183	2017-Apr-05	 ng 	Platterz	two-year-old	Toronto
+2184	2017-Apr-05	 ng 	Qumulo	four-year-old	Seattle
+2185	2017-Apr-05	 ng 	SlashNext	three-year-old	Pleasanton, Ca.
+2186	2017-Apr-05	 ng 	Snowflake Computing	nearly five-year-old	San Mateo, Ca.
+2187	2017-Apr-05	 ng 	Street Contxt	five-year-old	Toronto
+2188	2017-Apr-05	 ng 	Wecash	nearly four-year-old	Beijing
+2189	2017-Apr-05	 nf 	83North (formerly Greylock IL)	unk	unk
+2190	2017-Apr-05	 nf 	Forward Partners	4.5-year-old	London
+2191	2017-Apr-06	 ng 	Crunchbase	10-year-old	San Francisco
+2192	2017-Apr-06	 ng 	DrChrono	unk	Mountain View, Ca.
+2193	2017-Apr-06	 ng 	Flow	1.5-year-old	Hoboken, N.J.
+2194	2017-Apr-06	 ng 	Mobvoi	five-year-old	Beijing
+2195	2017-Apr-06	 ng 	Souche.com	five-year-old	Hangzhou, China
+2196	2017-Apr-06	 ng 	Trov	five-year-old	Danville, Ca.
+2197	2017-Apr-06	 ng 	Yumi	two-year-old	L.A.
+2198	2017-Apr-07	 ng 	AeroMobil	6.5-year-old	Bratislava, Slovakia
+2199	2017-Apr-07	 ng 	Blendle	three-year-old	Utrecht, The Netherlands
+2200	2017-Apr-07	 ng 	Bus.com	three-year-old	Montreal
+2201	2017-Apr-07	 ng 	Konux	2.5-year-old	Munich
+2202	2017-Apr-07	 ng 	Kymeta	five-year-old	Redmond, Wa.
+2203	2017-Apr-07	 ng 	MAMA+	2.5-year-old	Beijing
+2204	2017-Apr-07	 ng 	Mic	five-year-old	New York
+2205	2017-Apr-07	 ng 	Otonomo	1.5-year-old	Herzliya, Israel
+2206	2017-Apr-07	 ng 	Remesh	3.5-year-old	Cleveland, Oh.
+2207	2017-Apr-07	 ng 	Uptake	three-year-old	Chicago
+2208	2017-Apr-07	 ng 	Vera Whole Health	nine-year-old	unk
+2209	2017-Apr-07	 ng 	Toutiao	five-year-old	Beijing
+2210	2017-Apr-07	 ng 	The Wing	1.5.-year-old	New York
+2211	2017-Apr-07	 nf 	Felix Capital	unk	London
+2212	2017-Apr-10	 ng 	Branch	three-year-old	Palo Alto, Ca.
+2213	2017-Apr-10	 ng 	Five Jack	3.5-year-old	South Korea and Indonesia
+2214	2017-Apr-10	 ng 	Flipkart	unk	Bangalore, India
+2215	2017-Apr-10	 ng 	Fresh Relevance	3.5-year-old	Southampton, U.K.
+2216	2017-Apr-10	 ng 	Future Energy Solutions Lighting Group	unk	Fort Lauderdale, Fl.
+2217	2017-Apr-10	 ng 	Jetty	year-old	New York
+2218	2017-Apr-10	 ng 	Mylio	five-year-old	Bellevue, Wa.
+2219	2017-Apr-10	 ng 	Neural Analytics	four-year-old	L.A.
+2220	2017-Apr-10	 ng 	Ortho Kinematics	unk	unk
+2221	2017-Apr-10	 ng 	Proveca	seven-year-old	Manchester, U.K.
+2222	2017-Apr-10	 ng 	Trov	nearly five-year-old	Danville, Ca.
+2223	2017-Apr-10	 nf 	The Engine	unk	unk
+2224	2017-Apr-10	 nf 	Freestyle Capital	unk	unk
+2225	2017-Apr-11	 ng 	Agrisoma Biosciences	10-year-old	Gatineau, Quebec
+2226	2017-Apr-11	 ng 	ALung Technologies	20-year-old	Pittsburgh, Pa.
+2227	2017-Apr-11	 ng 	Beamery	three-year-old	London
+2228	2017-Apr-11	 ng 	FretLink	1.5-year-old	Paris
+2229	2017-Apr-11	 ng 	Metamaterial Technologies	six-year-old	Halifax, Nova Scotia
+2230	2017-Apr-11	 ng 	MetroResidences	nearly three-year-old	Singapore
+2231	2017-Apr-11	 ng 	Popular Pays	3.5-year-old	Chicago
+2232	2017-Apr-11	 ng 	Tegile Systems	6.5-year-old	Newark, Ca.
+2233	2017-Apr-11	 ng 	Saleswhale	1.5-year-old	Singapore
+2234	2017-Apr-11	 ng 	Simple Contacts	1.5-year-old	New York
+2235	2017-Apr-11	 ng 	Spring Care	year-old	New York
+2236	2017-Apr-11	 ng 	Synack	3.5-year-old	Redwood City, Ca.
+2237	2017-Apr-11	 ng 	Virtualitics	year-old	Pasadena, Ca.
+2238	2017-Apr-11	 nf 	Boeing HorizonX	unk	unk
+2239	2017-Apr-11	 nf 	SV Life Sciences	24-year-old	Boston
+2240	2017-Apr-12	 ng 	Banihal	five-year-old	Redwood City, Ca.
+2241	2017-Apr-12	 ng 	Blink Health	2.5-year-old	New York
+2242	2017-Apr-12	 ng 	Cleanly	unk	unk
+2243	2017-Apr-12	 ng 	Darkstore	year-old	San Francisco
+2244	2017-Apr-12	 ng 	First Circle	1.5-year-old	Singapore and Philippines
+2245	2017-Apr-12	 ng 	Full Harvest	three-year-old	San Francisco, Ca.
+2246	2017-Apr-12	 ng 	HackerEarth	four-year-old	Bangalore, India
+2247	2017-Apr-12	 ng 	Little Spoon	2.5-year-old	New York
+2248	2017-Apr-12	 ng 	Lybrate	three-year-old	New Delhi, India
+2249	2017-Apr-12	 ng 	NetEase Cloud Music	four-year-old	Hangzhou, China
+2250	2017-Apr-12	 ng 	Orbital Systems	five-year-old	Malmo, Sweden
+2251	2017-Apr-12	 ng 	Peloton Technology	six-year-old	Mountain View, Ca.
+2252	2017-Apr-12	 ng 	Plume	nearly three-year-old	Palo Alto, Ca.
+2253	2017-Apr-12	 ng 	Qwilr	three-year-old	Sydney, Australia
+2254	2017-Apr-12	 ng 	Teamable	3.5-year-old	San Francisco
+2255	2017-Apr-12	 ng 	Zen Rooms	two-year-old	Singapore
+2256	2017-Apr-13	 ng 	Elmodis	two-year-old	Poland
+2257	2017-Apr-13	 ng 	Envisagenics	nearly three-year-old	New York
+2258	2017-Apr-13	 ng 	Fishbrain	seven-year-old	Stockholm, Sweden
+2259	2017-Apr-13	 ng 	Gel4Med	1.5-year-old	Boston, Ma.
+2260	2017-Apr-13	 ng 	goTenna	five-year-old	Brooklyn, N.Y.
+2261	2017-Apr-13	 ng 	Ink Labs	unk	Lincoln, Ne.
+2262	2017-Apr-13	 ng 	Katerra	two-year-old	Menlo Park, Ca.
+2263	2017-Apr-13	 ng 	LogicInk	1.5-year-old	San Francisco, Ca.
+2264	2017-Apr-13	 ng 	Luminar	five-year-old	Denver
+2265	2017-Apr-13	 ng 	Lyndra	1.5-year-old	Watertown, Ma.
+2266	2017-Apr-13	 ng 	Neyber	three-year-old	London
+2267	2017-Apr-13	 ng 	PagerDuty	unk	San Francisco
+2268	2017-Apr-13	 ng 	Sansoro Health	three-year-old	Minneapolis, Mn.
+2269	2017-Apr-13	 ng 	SciBac	1.5-year-old	Milpitas, Ca.
+2270	2017-Apr-13	 ng 	Tasktop	unk	Vancouver
+2271	2017-Apr-13	 nf 	Eniac Ventures	unk	New York
+2272	2017-Apr-13	 nf 	Riot Ventures	new	unk
+2273	2017-Apr-14	 ng 	Akoonu	three-year-old	San Francisco
+2274	2017-Apr-14	 ng 	BestMile	three-year-old	Lausanne, Switzerland
+2275	2017-Apr-14	 ng 	Intapp	nearly 17-year-old	Palo Alto, Ca.
+2276	2017-Apr-14	 ng 	Lynn Electronics	53-year-old	unk
+2277	2017-Apr-14	 ng 	Wecash	four-year-old	Beijing, China
+2278	2017-Apr-14	 nf 	Haiyin Capital	unk	unk
+2279	2017-Apr-17	 ng 	Actility	seven-year-old	unk
+2280	2017-Apr-17	 ng 	Aspect Imaging	three-year-old	Tel Aviv, Israel
+2281	2017-Apr-17	 ng 	Flowhub	two-year-old	Denver, Co.
+2282	2017-Apr-17	 ng 	Frequency Therapeutics	two-year-old	Woburn, Ma.
+2283	2017-Apr-17	 ng 	LeanDNA	six-year-old	Austin, Tex.
+2284	2017-Apr-17	 ng 	More Health	1.5-year-old	Beijing, China
+2285	2017-Apr-17	 ng 	Zhejiang POCTech Medical	unk	unk
+2286	2017-Apr-17	 ng 	Zinc	year-old	San Francisco, Ca.
+2287	2017-Apr-17	 nf 	Oak HC/FT	unk	unk
+2288	2017-Apr-18	 ng 	Avegant	4.5-year-old	Belmont, Ca.
+2289	2017-Apr-18	 ng 	CLEAR	unk	New York
+2290	2017-Apr-18	 ng 	Credihealth	3.5-year-old	New Delhi, India
+2291	2017-Apr-18	 ng 	Factom	two-year-old	unk
+2292	2017-Apr-18	 ng 	Innefu Labs	six-year-old	New Delhi, India
+2293	2017-Apr-18	 ng 	Murj	1.5-year-old	Santa Cruz, Ca.
+2294	2017-Apr-18	 ng 	Mux	1.5-year-old	San Francisco
+2295	2017-Apr-18	 ng 	PowerPost	1.5-year-old	St. Louis
+2296	2017-Apr-18	 ng 	Reltio	six-year-old	Redwood Shores, Ca.
+2297	2017-Apr-18	 ng 	Shine	year-old	Brooklyn
+2298	2017-Apr-18	 ng 	Vicis	nearly four-year-old	Seattle
+2299	2017-Apr-18	 ng 	Xero Limited	nearly 11-year-old	Wellington, New Zealand
+2300	2017-Apr-18	 nf 	Obvious Ventures	unk	unk
+2301	2017-Apr-18	 nf 	Silver Lake	unk	unk
+2302	2017-Apr-18	 nf 	Zetta Venture Partners	unk	unk
+2303	2017-Apr-19	 ng 	Barnebys	six-year-old	Stockholm, Sweden
+2304	2017-Apr-19	 ng 	BIMA	nearly seven-year-old	Stockholm, Sweden
+2305	2017-Apr-19	 ng 	CyberGRX	year-old	Denver, Co.
+2306	2017-Apr-19	 ng 	DadeSystems	six-year-old	Miami, Fla.
+2307	2017-Apr-19	 ng 	Dome9 Security	six-year-old	Mountain View, Ca.
+2308	2017-Apr-19	 ng 	Onkos Surgical	two-year-old	Parsippany, N.J.
+2309	2017-Apr-19	 ng 	Sapho	three-year-old	San Bruno, Ca.
+2310	2017-Apr-19	 nf 	Nasdaq Ventures	unk	unk
+2311	2017-Apr-19	 nf 	Nauta Capital	17-year-old	unk
+2312	2017-Apr-20	 ng 	August Home	4.5-year-old	San Francisco
+2313	2017-Apr-20	 ng 	Bedly	1.5-year-old	New York
+2314	2017-Apr-20	 ng 	Freebird	two-year-old	Cambridge, Ma.
+2315	2017-Apr-20	 ng 	Getaround	unk	San Francisco
+2316	2017-Apr-20	 ng 	Invertex	three-year-old	Israel
+2317	2017-Apr-20	 ng 	MakeSpace	four-year-old	New York
+2318	2017-Apr-20	 ng 	Microvast Power Systems	unk	Stafford, Tex.
+2319	2017-Apr-20	 ng 	MortgageHippo	four-year-old	Chicago
+2320	2017-Apr-20	 ng 	Narrative Science	nearly seven-year-old	Chicago
+2321	2017-Apr-20	 ng 	Paytm	seven-year-old	Noida, India
+2322	2017-Apr-20	 ng 	SafeGraph	unk	unk
+2323	2017-Apr-20	 ng 	Solv	year-old	San Francisco
+2324	2017-Apr-20	 ng 	TurboTenant	1.5-year-old	Fort Collins, Co.
+2325	2017-Apr-20	 ng 	Yeecall	2.5-year-old	China
+2326	2017-Apr-20	 ng 	ZappRx	five-year-old	Boston
+2327	2017-Apr-20	 nf 	Combine	new	unk
+2328	2017-Apr-20	 nf 	DFJ Growth	unk	unk
+2329	2017-Apr-21	 ng 	Consortia Health	three-year-old	Austin, Tex.
+2330	2017-Apr-21	 ng 	DreamCheaper	two-year-old	Berlin
+2331	2017-Apr-21	 ng 	Groq	new	unk
+2332	2017-Apr-21	 ng 	Pitchy	3.5-year-old	Paris
+2333	2017-Apr-21	 ng 	SenseTime	three-year-old	Beijing, China
+2334	2017-Apr-21	 ng 	Swingvy	year-old	Singapore
+2335	2017-Apr-21	 ng 	RotoQL	1.5-year-old	New York
+2336	2017-Apr-21	 nf 	Innventure	unk	unk
+2337	2017-Apr-24	 ng 	Farmdrop	five-year-old	London
+2338	2017-Apr-24	 ng 	IceKredit	two-year-old	Shanghai, China
+2339	2017-Apr-24	 ng 	Improbable Worlds	five-year-old	London
+2340	2017-Apr-24	 ng 	MJ Freeway	nearly seven-year-old	Denver, Co.
+2341	2017-Apr-24	 ng 	Quora	unk	Mountain View, Ca.
+2342	2017-Apr-24	 ng 	Sensoro	four-year-old	Seattle
+2343	2017-Apr-24	 ng 	Shadow Creator	three-year-old	Shanghai, China
+2344	2017-Apr-24	 ng 	Sienna Biopharmaceuticals	year-old	Westlake Village, Ca.
+2345	2017-Apr-24	 nf 	YI Capital	three-year-old	Beijing, China
+2346	2017-Apr-25	 ng 	AltheaDx	unk	San Diego
+2347	2017-Apr-25	 ng 	Babylon Health	three-year-old	U.K.
+2348	2017-Apr-25	 ng 	Dave	year-old	L.A.
+2349	2017-Apr-25	 ng 	Doc Halo	seven-year-old	Cincinnati, Oh.
+2350	2017-Apr-25	 ng 	Faasos Food Services	13-year-old	Pune, India
+2351	2017-Apr-25	 ng 	Forge Therapeutics	2.5-year-old	San Diego
+2352	2017-Apr-25	 ng 	Hibob	year-old	U.K.
+2353	2017-Apr-25	 ng 	Kidfresh	10-year-old	New York
+2354	2017-Apr-25	 ng 	Kuiu	six-year-old	Dixon, Ca.
+2355	2017-Apr-25	 ng 	LoveCrafts	four-year-old	London
+2356	2017-Apr-25	 ng 	Nutriati	four-year-old	Richmond, Va.
+2357	2017-Apr-25	 ng 	POPxo	three-year-old	New Delhi, India
+2358	2017-Apr-25	 ng 	Prescient	4.5-year-old	Arvada, Co.
+2359	2017-Apr-25	 ng 	RapidSOS	five-year-old	New York
+2360	2017-Apr-25	 ng 	Rubrik	three-year-old	Palo Alto, Ca.
+2361	2017-Apr-25	 ng 	Science37	2.5-year-old	L.A.
+2362	2017-Apr-25	 ng 	Two Pore Guys	6.5-year-old	unk
+2363	2017-Apr-25	 nf 	SeedPlus	unk	unk
+2364	2017-Apr-25	 nf 	Fintech71	unk	unk
+2365	2017-Apr-26	 ng 	AIdoc Medical	year-old	Israel
+2366	2017-Apr-26	 ng 	EverFi	nine-year-old	Washington, D.C.
+2367	2017-Apr-26	 ng 	Huddly	three-year-old	Oslo, Norway
+2368	2017-Apr-26	 ng 	Ivalua	17-year-old	Redwood City, Ca.
+2369	2017-Apr-26	 ng 	MarcoPolo Learning	4.5-year-old	New York
+2370	2017-Apr-26	 ng 	OverOps	six-year-old	San Francisco
+2371	2017-Apr-26	 ng 	Oyo Rooms	four-year-old	Gurgaon, India
+2372	2017-Apr-26	 ng 	Quovo	seven-year-old	New York
+2373	2017-Apr-26	 ng 	Robinhood	unk	Palo Alto, Ca.
+2374	2017-Apr-26	 ng 	Tmon	seven-year-old	Seoul
+2375	2017-Apr-26	 ng 	Token	two-year-old	San Francisco
+2376	2017-Apr-26	 ng 	Token	separate Token), a year-old	New York
+2377	2017-Apr-26	 ng 	Twistlock	two-year-old	San Francisco
+2378	2017-Apr-26	 ng 	WiBotic	two-year-old	Seattle
+2379	2017-Apr-27	 ng 	HealthVerity	three-year-old	Philadelphia, Pa.
+2380	2017-Apr-27	 ng 	Lynk	four-year-old	Hong Kong
+2381	2017-Apr-27	 ng 	Propel	three-year-old	Brooklyn, N.Y.
+2382	2017-Apr-27	 ng 	Riskmethods	2.5-year-old	Munich, Germany
+2383	2017-Apr-27	 ng 	UiPath	five-year-old	London
+2384	2017-Apr-27	 ng 	WorkMarket	nearly seven-year-old	New York
+2385	2017-Apr-27	 ng 	Zeta Global	10-year-old	New York
+2386	2017-Apr-27	 nf 	Origin Ventures	unk	unk
+2387	2017-Apr-27	 nf 	Warburg Pincus	unk	unk
+2388	2017-Apr-28	 ng 	3D Robotics	unk	Berkeley, Ca.
+2389	2017-Apr-28	 ng 	Avedro	10-year-old	Waltham, Ma.
+2390	2017-Apr-28	 ng 	Cubigo	six-year-old	Hasselt, Belgium
+2391	2017-Apr-28	 ng 	Deep Sentinel	16-month-old	Pleasanton, Ca.
+2392	2017-Apr-28	 ng 	Domo	six-year-old	American Fork, Ut.
+2393	2017-Apr-28	 ng 	Epic Sciences	nine-year-old	San Diego, Ca.
+2394	2017-Apr-28	 ng 	Mech Mocha	3.5-year-old	Bangalore
+2395	2017-Apr-28	 ng 	Me.me	unk	unk
+2396	2017-Apr-28	 ng 	Oddup	1.5-year-old	Hong Kong
+2397	2017-Apr-28	 ng 	Renovo Auto	6.5-year-old	Campbell, Ca.
+2398	2017-Apr-28	 ng 	Ripio	three-and-a-half-year-old	San Francisco
+2399	2017-Apr-28	 ng 	Singapore Life	three-year-old	Singapore
+2400	2017-Apr-28	 ng 	Xee	six-year-old	Marquette-Lez-Lille, France
+2401	2017-May-01	 ng 	Airwallex	1.5-year-old	Melbourne, Australia
+2402	2017-May-01	 ng 	Calysta	six-year-old	Menlo Park, Ca.
+2403	2017-May-01	 ng 	Cars45	year-old	Lagos, Nigeria
+2404	2017-May-01	 ng 	Catalia Health	three-year-old	San Francisco
+2405	2017-May-01	 ng 	Convene	unk	New York City
+2406	2017-May-01	 ng 	Head InfoTech	12-year-old	Hyderabad, India
+2407	2017-May-01	 ng 	Live.me	unk	unk
+2408	2017-May-01	 ng 	Rubrik	three-year-old	Palo Alto, Ca.
+2409	2017-May-01	 ng 	Truck Alliance	nine-year-old	Liaoning, China
+2410	2017-May-02	 ng 	Axonics Modulation Technologies	four-year-old	Irvine, Ca.
+2411	2017-May-02	 ng 	Bitfusion	2.5-year-old	Austin, Tex.- and Sunnyvale, Ca.
+2412	2017-May-02	 ng 	Dinova	unk	John Creeks, Ga.
+2413	2017-May-02	 ng 	ExoCoBio	three-month-old	unk
+2414	2017-May-02	 ng 	Iconixx	six-year-old	Austin, Tex.
+2415	2017-May-02	 ng 	Morty	1.5-year-old	New York
+2416	2017-May-02	 ng 	One	unk	Folson, Ca.
+2417	2017-May-02	 ng 	Orbital Insight	four-year-old	Mountain View, Ca.
+2418	2017-May-02	 ng 	Wavedash Games	1.5-year-old	Oakland, Ca.
+2419	2017-May-02	 nf 	Moderne Ventures	1.5-year-old	Chicago
+2420	2017-May-02	 nf 	Salesforce	unk	unk
+2421	2017-May-03	 ng 	Abundant Robotics	year-old	Hayward, Ca.
+2422	2017-May-03	 ng 	Agolo	4.5-year-old	New York
+2423	2017-May-03	 ng 	AltSchool	unk	San Francisco
+2424	2017-May-03	 ng 	Bonsai	two-year-old	Berkeley, Ca.
+2425	2017-May-03	 ng 	Cerevance	1.5-year-old	Cambridge, Ma.
+2426	2017-May-03	 ng 	Decibel Insight	three-year-old	U.K.
+2427	2017-May-03	 ng 	Fornova	nine-year-old	Israel
+2428	2017-May-03	 ng 	Lantern Pharma	four-year-old	Dallas, Tex.
+2429	2017-May-03	 ng 	Next Insurance	year-old	Palo Alto, Ca.
+2430	2017-May-03	 ng 	PreparedHealth	two-year-old	Chicago
+2431	2017-May-03	 ng 	Spindrift	seven-year-old	Waltham, Ma.
+2432	2017-May-03	 ng 	WuXi NextCODE	four-year-old	Shanghai, China and Cambridge, Ma.
+2433	2017-May-03	 ng 	Yieldify	five-year-old	London
+2434	2017-May-03	 nf 	G2VP	unk	unk
+2435	2017-May-03	 nf 	Converge	unk	unk
+2436	2017-May-04	 ng 	Crew	2.5-year-old	San Francisco
+2437	2017-May-04	 ng 	Fastdata.io	year-old	Santa Monica, Ca.
+2438	2017-May-04	 ng 	Fuze	unk	unk
+2439	2017-May-04	 ng 	Go-Jek	seven-year-old	Jakarta, Indonesia
+2440	2017-May-04	 ng 	Heap	four-year-old	San Francisco
+2441	2017-May-04	 ng 	RTX	10-year-old	London
+2442	2017-May-04	 ng 	Taranis	three-year-old	Tel Aviv, Israel
+2443	2017-May-04	 ng 	Ultrahaptics	four-year-old	Bristol, England
+2444	2017-May-04	 ng 	Vivet Therapeutics	year-old	Paris, France
+2445	2017-May-04	 nf 	YL Ventures	10-year-old	San Francisco and Tel Aviv
+2446	2017-May-05	 ng 	Devicare	four-year-old	Barcelona, Spain
+2447	2017-May-05	 ng 	Outset Medical	14-year-old	San Jose, Ca.
+2448	2017-May-08	 ng 	Cornershop	two-year-old	San Francisco
+2449	2017-May-08	 ng 	Flex Logix	2.5-year-old	Mountain View, Ca.
+2450	2017-May-08	 ng 	Fortem Technologies	year-old	Provo, Utah
+2451	2017-May-08	 ng 	Garena	unk	Singapore
+2452	2017-May-08	 ng 	Hadean	2.5-year-old	London
+2453	2017-May-08	 ng 	Kobalt	17-year-old	New York
+2454	2017-May-08	 ng 	MariaDB Corporation	unk	Menlo Park, Ca.
+2455	2017-May-08	 ng 	Plume	unk	unk
+2456	2017-May-08	 ng 	Smule	nine-year-old	San Francisco
+2457	2017-May-08	 nf 	Blue Run Ventures	nearly 19-year-old	Menlo Park, Ca.
+2458	2017-May-09	 ng 	Cabify	5.5-year-old	Madrid, Spain
+2459	2017-May-09	 ng 	Cover	year-old	L.A.
+2460	2017-May-09	 ng 	Donut Media	two-year-old	L.A.
+2461	2017-May-09	 ng 	Empower	year-old	San Francisco
+2462	2017-May-09	 ng 	Finxact	year-old	Jacksonville, Fla.
+2463	2017-May-09	 ng 	Freska	two-year-old	Helsinki, Finland
+2464	2017-May-09	 ng 	Grammarly	unk	San Francisco
+2465	2017-May-09	 ng 	Podium	3.5-year-old	Utah
+2466	2017-May-09	 ng 	Redlock	two-year-old	Menlo Park, Ca.
+2467	2017-May-09	 ng 	Signal Sciences	three-year-old	Venice Beach, Ca.
+2468	2017-May-09	 ng 	StarLeaf	nine-year-old	U.K.
+2469	2017-May-09	 ng 	Tubi TV	three-year-old	San Francisco
+2470	2017-May-09	 ng 	Updox	nine-year-old	Dublin, Oh.
+2471	2017-May-09	 nf 	Dell (Delland + EMC)	unk	unk
+2472	2017-May-09	 nf 	Peak Ventures	2.5-year-old	Utah
+2473	2017-May-10	 ng 	Ceres Imaging	three-year-old	Oakland, Ca.
+2474	2017-May-10	 ng 	Cockroach Labs	two-year-old	New York
+2475	2017-May-10	 ng 	Dropoff	three-year-old	Austin, Tex.
+2476	2017-May-10	 ng 	eRelevance	nearly four-year-old	Austin, Tex.
+2477	2017-May-10	 ng 	G-Banker	four-year-old	Beijing
+2478	2017-May-10	 ng 	Gainsight	5.5-year-old	Redwood City, Ca.
+2479	2017-May-10	 ng 	Hesai	four-year-old	Shanghai
+2480	2017-May-10	 ng 	Kreditech	five-year-old	Hamburg, Germany
+2481	2017-May-10	 ng 	Latch	three-year-old	New York
+2482	2017-May-10	 ng 	Microf	seven-year-old	Albany, Ga.
+2483	2017-May-10	 ng 	Mya Systems	five-year-old	San Francisco
+2484	2017-May-10	 ng 	Nutrafol	three-year-old	New York
+2485	2017-May-10	 ng 	Remix	three-year-old	San Francisco
+2486	2017-May-10	 ng 	Revolution Prep	15-year-old	Santa Monica, Ca.
+2487	2017-May-10	 ng 	Selery Fulfillment	three-year-old	Dallas
+2488	2017-May-10	 ng 	SiFive	two-year-old	San Francisco
+2489	2017-May-10	 ng 	Territory	five-year-old	Alexandria, Va.
+2490	2017-May-10	 ng 	Vera	three-year-old	Palo Alto, Ca.
+2491	2017-May-10	 nf 	500 Startups	unk	unk
+2492	2017-May-10	 nf 	Obvious Ventures	unk	San Francisco
+2493	2017-May-10	 nf 	OMERS Ventures	unk	unk
+2494	2017-May-10	 nf 	Gurgaon	unk	unk
+2495	2017-May-10	 nf 	Vision Fund	unk	unk
+2496	2017-May-11	 ng 	Clover Health	three-year-old	San Francisco
+2497	2017-May-11	 ng 	Ontruck	year-old	Madrid
+2498	2017-May-11	 ng 	Sun Basket	three-year-old	San Francisco
+2499	2017-May-11	 ng 	Twiggle	three-year-old	unk
+2500	2017-May-11	 ng 	Vivid Vision	three-year-old	San Francisco
+2501	2017-May-11	 nf 	SignalFire	four-year-old	San Francisco
+2502	2017-May-12	 ng 	CBien	four-year-old	unk
+2503	2017-May-12	 ng 	Claranet	21-year-old	London
+2504	2017-May-12	 ng 	Guardant Health	four-year-old	Redwood City, Ca.
+2505	2017-May-12	 ng 	Improbable	five-year-old	London
+2506	2017-May-12	 ng 	Jinn	four-year-old	London
+2507	2017-May-12	 ng 	Pocket Gems	unk	San Francisco
+2508	2017-May-12	 ng 	Spring	three-year-old	New York
+2509	2017-May-12	 ng 	Truepic	year-old	San Diego, Ca.
+2510	2017-May-12	 ng 	Wealthsimple	three-year-old	Toronto
+2511	2017-May-16	 ng 	Airy3D	two-year-old	Montreal, Quebec
+2512	2017-May-16	 ng 	Atavium	unk	Minnetonka, Mn.
+2513	2017-May-16	 ng 	Genoa Pharmaceuticals	six-year-old	San Diego, Ca.
+2514	2017-May-16	 ng 	GrandCanals	three-year-old	Los Gatos, Ca.
+2515	2017-May-16	 ng 	Karamba Security	two-year-old	Ann Arbor, Mi.
+2516	2017-May-16	 ng 	LevelUp	nine-year-old	unk
+2517	2017-May-16	 ng 	Nexla	year-old	Millbrae, Ca.
+2518	2017-May-16	 ng 	Nymi	six-year-old	Toronto, Ontario
+2519	2017-May-16	 ng 	Oddup	two-year-old	Hong Kong
+2520	2017-May-16	 ng 	OpenGov	five-year-old	Redwood City, Ca.
+2521	2017-May-16	 ng 	OpenInvest	two-year-old	San Francisco
+2522	2017-May-16	 ng 	Razer	12-year-old	San Francisco
+2523	2017-May-16	 ng 	Symphony	2.5-year-old	Palo Alto, Ca.
+2524	2017-May-16	 ng 	Talent.io	two-year-old	Paris
+2525	2017-May-16	 ng 	Tile	unk	San Mateo, Ca.
+2526	2017-May-16	 ng 	Vivid Seats	16-year-old	Chicago
+2527	2017-May-16	 nf 	8VC	unk	unk
+2528	2017-May-16	 nf 	Steve Cohen	unk	unk
+2529	2017-May-16	 nf 	Bill Maris	unk	unk
+2530	2017-May-16	 nf 	Notion Capital	unk	unk
+2531	2017-May-17	 ng 	Appear Here	four-year-old	London
+2532	2017-May-17	 ng 	Converus	3.6-year-old	unk
+2533	2017-May-17	 ng 	CrowdStrike	six-year-old	Irvine, Ca.
+2534	2017-May-17	 ng 	Cue	seven-year-old	San Diego
+2535	2017-May-17	 ng 	Fetchr	five-year-old	Dubai
+2536	2017-May-17	 ng 	JobTeaser	nine-year-old	Paris, France
+2537	2017-May-17	 ng 	MoBerries	1.5-year-old	Berlin, Germany
+2538	2017-May-17	 ng 	Mode Analytics	four-year-old	San Francisco
+2539	2017-May-17	 ng 	Neighborly	unk	unk
+2540	2017-May-17	 ng 	Social Native	2.5-year-old	Beverly Hills, Ca.
+2541	2017-May-17	 ng 	Telr	four-year-old	Singapore
+2542	2017-May-17	 ng 	Tiqets	three-year-old	Amsterdam
+2543	2017-May-17	 nf 	unk	unk	unk
+2544	2017-May-18	 ng 	Brit + Co	5.5-year-old	San Francisco
+2545	2017-May-18	 ng 	Cheddar	1.5-year-old	New York
+2546	2017-May-18	 ng 	The Farmer’s Dog	two-year-old	Brooklyn, NY
+2547	2017-May-18	 ng 	Qupital	one-year-old	unk
+2548	2017-May-18	 ng 	Slice	seven-year-old	New York
+2549	2017-May-18	 ng 	Verse	two-year-old	San Mateo, Ca.
+2550	2017-May-19	 ng 	Away	1.5-year-old	New York
+2551	2017-May-19	 ng 	CreativeLive	seven-year-old	Seattle, Wa.
+2552	2017-May-19	 ng 	CSquared	four-year-old	Nairobi, Kenya
+2553	2017-May-19	 ng 	Dor	two-year-old	San Francisco
+2554	2017-May-19	 ng 	Iterum Therapeutics	two-year-old	Dublin, Ireland
+2555	2017-May-19	 ng 	N2W Software	five-year-old	West Palm Beach, Fla.
+2556	2017-May-19	 ng 	Numerated Growth Technologies	new	unk
+2557	2017-May-19	 ng 	OppSource	nine-year-old	St. Paul, Mn.
+2558	2017-May-19	 ng 	Paytm	seven-year-old	Noida, India
+2559	2017-May-19	 ng 	Upfront Healthcare	two-year-old	Chicago
+2560	2017-May-19	 ng 	Wandera	five-year-old	San Francisco
+2561	2017-May-19	 nf 	Menlo Ventures	unk	unk
+2562	2017-May-19	 nf 	RM Global	unk	unk
+2563	2017-May-19	 nf 	Vision Fund	unk	unk
+2564	2017-May-22	 ng 	Casper Sleep	unk	New York
+2565	2017-May-22	 ng 	Cloudwise	unk	Beijing
+2566	2017-May-22	 ng 	CornerJob	2.5-year-old	Barcelona
+2567	2017-May-22	 ng 	Echodyne	three-year-old	Bellevue, Wa.
+2568	2017-May-22	 ng 	EcoIntense	10-year-old	Berlin
+2569	2017-May-22	 ng 	HubHaus	1.5-year-old	Redwood City, Ca.
+2570	2017-May-22	 ng 	Ledger Holdings	unk	New York
+2571	2017-May-22	 ng 	Lemonaid Health	four-year-old	San Francisco
+2572	2017-May-22	 ng 	MortgageGym	year-old	London
+2573	2017-May-22	 ng 	NooBaa	3.5-year-old	Boston
+2574	2017-May-22	 ng 	Sayspring	year-old	New York
+2575	2017-May-22	 ng 	Shipamax	year-old	London
+2576	2017-May-22	 ng 	SkyX	two-year-old	Ontario, Canada
+2577	2017-May-22	 ng 	Valorem Energy	months-old	unk
+2578	2017-May-22	 nf 	Breakout Ventures	unk	unk
+2579	2017-May-22	 nf 	unk	unk	unk
+2580	2017-May-22	 nf 	Work-Bench	four-year-old	New York

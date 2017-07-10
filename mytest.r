@@ -37,7 +37,7 @@ library(httr)
 library(purrr)
 
 
-file <- "/files/proj/rodney/vc/index.html"
+file <- "/files/proj/erudite/vc/index.html"
 scraping_wiki <- read_html(file)
 file_text <- readLines(file)
 tidy_text <- tidy_html(file_text, list(TidyDocType="html5", TidyWrapLen=200))

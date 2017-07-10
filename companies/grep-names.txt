@@ -1,0 +1,77 @@
+588416	IMJ
+590408	MarianaIQ
+592704	DimensionalMechanics
+599009	Grove Ventures
+610113	Sinovation Ventures
+612203	CognitiveScale
+612303	Nauto
+612716	Amino Capital
+612902	ComplyAdvantage
+614312	Rokid
+614917	Voyager Labs
+615006	German Autolabs
+615010	ObEN
+616413	Petuum
+618202	Lemonade
+618904	Element AI
+618915	Microsoft Ventures
+619017	Signal Media
+619109	Knowmail
+619206	HyperScience
+621810	Mighty AI
+621818	Knight Foundation
+622111	Kuang-Chi Group
+622515	Serena Capital
+622517	Maluuba
+622612	The Kohli Impact Investment Initiative
+623504	WorkFusion
+623907	SoundHound
+624001	AIM
+624118	Xnor.ai
+624506	Virtualitics
+624702	Green Bay Ventures
+627512	LoopMe
+627601	Astro
+627709	Verizon Media Tech Venture Studio
+628108	ObEN
+628908	Mythic
+629013	Octopus Ventures
+630404	Mobvoi
+630509	Remesh
+630909	Saleswhale
+631605	Innefu Labs
+631903	Groq
+632401	AIdoc Medical
+633002	Bitfusion
+633104	Bonsai
+633811	Mya Systems
+635305	Inflowz
+636522	Workey
+636705	Citrine Informatics
+636706	Cognata
+586705	mPrest
+586815	Seebo
+589509	Nokia Growth Partners
+594005	Electric Imp
+599009	Grove Ventures
+599606	LinkBee
+600404	ProGlove
+600901	B2X
+601608	Kwik
+608804	C3 IoT
+609906	Razer
+614309	PointGrab
+614912	Relayr
+616412	Particle
+622111	Kuang-Chi Group
+624109	Opti
+624705	Trident Capital Cybersecurity
+627003	C3 IoT
+628105	Evrything
+629710	Pepper
+630504	Konux
+631106	Ink Labs
+631117	Riot Ventures
+631501	Actility
+632206	Sensoro
+636501	Armis

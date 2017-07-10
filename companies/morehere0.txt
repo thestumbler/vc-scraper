@@ -1,0 +1,159 @@
+../data/2016-02-11-index.html	IMJ	http://techcrunch.com/2016/02/11/imj-japan-fund
+../data/2017-02-13-thru-2017-02-24.html	IMJ	https://techcrunch.com/2017/02/15/mclinica/
+../data/2016-03-02-index.html	MarianaIQ	https://www.marianaiq.com/
+../data/2016-03-25-index.html	DimensionalMechanics	http://www.dimensionalmechanics.com/
+../data/2016-05-27-index.html	Grove Ventures	http://www.haaretz.com/israel-news/business/1.721164
+../data/2016-09-15-index.html	Sinovation Ventures	http://www.wsj.com/articles/sinovation-ventures-raises-675-million-in-fresh-capital-1473648511
+../data/2016-09-28-index.html	Sinovation Ventures	http://www.chinamoneynetwork.com/2016/09/28/lightspeed-sinovation-join-series-b-round-in-robotics-start-up-a-i-nemo
+../data/2016-09-28-index.html	Sinovation Ventures	https://techcrunch.com/2016/09/28/tink-labs-handy-125-millon/
+../data/2017-04-20-index.html	Sinovation Ventures	http://www.avcj.com/avcj/news/3004574/addor-capital-leads-usd12m-round-for-china-s-yeecall
+../data/2017-05-23-index.html	Sinovation Ventures	https://www.bloomberg.com/news/articles/2017-05-22/urwork-takes-on-wework-in-fight-for-china-s-shared-office-spaces
+../data/2016-10-06-index.html	CognitiveScale	http://www.siliconhillsnews.com/2016/10/04/cognitivescale-closes-on-25-million-in-funding-with-investment-from-microsoft-ventures/
+../data/2016-10-07-index.html	Nauto	https://techcrunch.com/2016/10/07/bmw-toyota-and-allianz-back-nauto-and-its-camera-based-approach-to-making-autonomous-vehicles/
+../data/2016-04-28-index.html	Amino Capital	http://www.levyx.com/
+../data/2016-10-11-index.html	Amino Capital	https://medium.com/@aminocapital/amino-capital-completes-final-close-of-its-50m-fund-ii-for-early-stage-startups-a90bb83e0e4b#.6a4h07oyv
+../data/2016-12-06-index.html	Amino Capital	https://www.visbit.co/
+../data/2017-04-04-index.html	Amino Capital	https://techcrunch.com/2017/04/04/grokstyle-is-putting-computer-vision-to-work-on-home-decor-with-2m-in-funding/
+../data/2016-10-13-index.html	ComplyAdvantage	https://techcrunch.com/2016/10/13/complyadvantage/
+../data/2016-10-27-index.html	Rokid	https://www.chinamoneynetwork.com/2016/10/26/idg-walden-join-65m-series-b-round-in-chinese-robot-start-up-rokid
+../data/2016-11-02-index.html	Voyager Labs	http://www.haaretz.com/israel-news/2.2692/.premium-1.750382
+../data/2016-11-03-index.html	German Autolabs	http://tech.eu/brief/german-autolabs-seed-round/
+../data/2016-11-03-index.html	ObEN	http://www.oben.com/
+../data/2016-11-17-index.html	Petuum	http://www.businesswire.com/news/home/20161116006061/en/Petuum-Revolutionary-AIML-Development-Platform-Closes-15
+../data/2016-08-23-index.html	Lemonade	http://www.prnewswire.com/news-releases/lemonade-announces-additional-funding-by-xl-innovate-591015041.html
+../data/2016-12-05-index.html	Lemonade	http://uk.businessinsider.com/sequoia-backed-lemonade-raises-another-33-million-2016-12?r=US&amp;IR=T
+../data/2016-12-12-index.html	Element AI	http://www.elementai.com/
+../data/2016-09-23-index.html	Microsoft Ventures	https://medium.com/inside-kahoot/kahoot-closes-10m-financing-round-to-help-improve-learning-for-all-9a6a8121309f#.ldswstt4c
+../data/2016-09-28-index.html	Microsoft Ventures	http://www.globes.co.il/en/article-israeli-virtual-container-co-aqua-security-raises-9m-1001154733
+../data/2016-10-06-index.html	Microsoft Ventures	http://www.siliconhillsnews.com/2016/10/04/cognitivescale-closes-on-25-million-in-funding-with-investment-from-microsoft-ventures/
+../data/2016-10-17-index.html	Microsoft Ventures	https://techcrunch.com/2016/10/17/zipwhip-nabs-9m-from-microsoft-more-to-let-any-number-send-and-receive-sms-texts/
+../data/2016-11-22-index.html	Microsoft Ventures	https://www.helpshift.com/
+../data/2016-12-12-index.html	Microsoft Ventures	https://techcrunch.com/2016/12/12/dynamic-signal-gets-25m-led-by-microsofts-vc-to-replace-the-company-bulletin-board/
+../data/2016-12-12-index.html	Microsoft Ventures	http://www.elementai.com/
+../data/2016-12-12-index.html	Microsoft Ventures	https://techcrunch.com/2016/12/12/tact-grabs-15-million-series-b-to-make-crm-tools-easier-to-use/
+../data/2016-12-12-index.html	Microsoft Ventures	https://techcrunch.com/2016/12/12/microsoft-ventures-launches-new-fund-for-ai-startups-and-backs-element-ai-incubator/
+../data/2017-02-07-index.html	Microsoft Ventures	https://techcrunch.com/2017/02/07/snaproute-secures-25-million-series-a-investment-for-open-source-network-os/
+../data/2017-02-13-thru-2017-02-24.html	Microsoft Ventures	https://techcrunch.com/2017/02/23/airmap-raises-26-million-to-manage-air-traffic-as-drone-use-surges/
+../data/2017-02-13-thru-2017-02-24.html	Microsoft Ventures	https://techcrunch.com/2017/02/24/layer-acquires-cola/
+../data/2017-02-27-thru-2017-03-10.html	Microsoft Ventures	https://www.prevedere.com/
+../data/2017-03-17-index.html	Microsoft Ventures	http://www.cnexlabs.com/
+../data/2017-04-11-index.html	Microsoft Ventures	https://techcrunch.com/2017/04/11/security-startup-synack-scores-21-m-investment-from-microsoft-hpe-and-singtel/
+../data/2017-05-03-index.html	Microsoft Ventures	https://venturebeat.com/2017/05/03/microsoft-invests-in-agolo-a-startup-thats-fighting-information-overload-with-automated-summarizations/
+../data/2017-05-03-index.html	Microsoft Ventures	https://venturebeat.com/2017/05/02/bonsai-raises-7-6-million-to-let-companies-build-their-own-ai/
+../data/2017-05-23-index.html	Microsoft Ventures	https://techcrunch.com/2017/05/23/outreach-raises-30-million-pitching-a-tool-sales-teams-can-use-to-sell-more-and-work-less/
+../data/2017-05-23-index.html	Microsoft Ventures	https://techcrunch.com/2017/05/23/pandadoc-scores-15-million-investment-to-drive-rapid-expansion
+../data/2016-12-13-index.html	Signal Media	https://techcrunch.com/2016/12/13/signal-media/
+../data/2016-12-14-index.html	Knowmail	https://techcrunch.com/2016/12/14/knowmail/
+../data/2016-12-15-index.html	HyperScience	http://www.hyperscience.com/
+../data/2017-01-10-index.html	Mighty AI	http://www.seattletimes.com/business/technology/seattle-startup-spare5-changes-name-to-mighty-ai-raises-funds-from-intel-google/
+../data/2016-06-03-index.html	Knight Foundation	http://techcrunch.com/2016/06/03/snapchat-secretly-acquires-seene-a-computer-vision-startup-that-lets-mobile-users-make-3d-selfies/
+../data/2016-11-11-index.html	Knight Foundation	http://www.prweb.com/releases/2016/11/prweb13835438.htm
+../data/2017-01-10-index.html	Knight Foundation	https://techcrunch.com/2017/01/10/omidyar-hoffman-create-27m-research-fund-for-ai-in-the-public-interest/
+../data/2017-01-13-index.html	Kuang-Chi Group	http://www.dealstreetasia.com/stories/62582-62582/
+../data/2017-05-22-index.html	Kuang-Chi Group	http://www.timesofisrael.com/skyx-to-get-5-million-boost-from-chinas-kuang-chi/
+../data/2016-05-13-index.html	Serena Capital	http://techcrunch.com/2016/05/12/european-online-travel-marketplace-evaneos-picks-up-21m-funding/
+../data/2016-10-13-index.html	Serena Capital	http://venturebeat.com/2016/10/11/coorpacademy-founded-by-former-google-execs-raises-11-million-to-expand-its-corporate-edtech-platform/
+../data/2017-01-17-index.html	Serena Capital	https://www.serenacapital.com/2017/01/17/the-market-has-dreamt-of-it-serena-capital-did-it-for-the-first-time-in-europe/
+../data/2017-04-14-index.html	Serena Capital	https://bestmile.com/
+../data/2017-01-17-index.html	Maluuba	https://techcrunch.com/2017/01/13/microsoft-acquires-maluuba-a-startup-focused-on-general-artificial-intelligence/
+../data/2017-01-18-index.html	The Kohli Impact Investment Initiative	http://kohliventures.com/team/tej-kohli/
+../data/2017-01-27-index.html	WorkFusion	http://www.businessinsider.com/workfusion-automates-corporate-jobs-2016-4
+../data/2017-01-31-index.html	SoundHound	https://www.bloomberg.com/news/articles/2017-01-31/soundhound-raises-75-million-to-take-on-amazon-google-in-ai
+../data/2016-08-08-index.html	AIM	http://tech.eu/brief/loopup-ipo/
+../data/2017-02-01-index.html	AIM	https://techcrunch.com/2017/01/31/koreas-aim-raises-1-6m-for-its-mobile-trading-service/
+../data/2017-02-02-index.html	Xnor.ai	https://techcrunch.com/2017/02/02/ai-acceleration-startup-xnor-ai-collects-2-6m-in-funding
+../data/2017-02-06-index.html	Virtualitics	http://www.socaltech.com/virtualitics_raises_3m_for_ar_vr_ai_startup/s-0068936.html
+../data/2017-04-11-index.html	Virtualitics	https://venturebeat.com/2017/04/10/vr-analytics-startup-virtualitics-raises-4-4-million/
+../data/2017-02-08-index.html	Green Bay Ventures	https://techcrunch.com/2017/02/07/nea-co-founder-dick-kramlich-launches-new-130m-green-bay-ventures-fund/
+../data/2017-02-27-thru-2017-03-10.html	LoopMe	http://venturebeat.com/2017/03/07/loopme-raises-10-million-to-optimize-mobile-video-ads-through-artificial-intelligence/
+../data/2016-05-13-index.html	Astro	http://techcrunch.com/2016/05/11/the-race-to-the-moon-is-underway-as-astrobotic-raises-2-5-million/
+../data/2016-10-13-index.html	Astro	http://www.bizjournals.com/cincinnati/news/2016/10/11/exclusive-cincinnati-big-data-startup-secures.html
+../data/2017-02-27-thru-2017-03-10.html	Astro	https://www.helloastro.com/
+../data/2017-02-27-thru-2017-03-10.html	Verizon Media Tech Venture Studio	https://techcrunch.com/2017/03/10/verizon-media-tech-venture-studio/
+../data/2016-11-03-index.html	ObEN	http://www.oben.com/
+../data/2017-03-22-index.html	Mythic	https://techcrunch.com/2017/03/22/mythic-launches-a-chip-to-enable-computer-vision-and-voice-control-on-any-device/
+../data/2016-03-07-index.html	Octopus Ventures	http://techcrunch.com/2016/03/07/property-crowdfunding-land-grab/
+../data/2016-03-21-index.html	Octopus Ventures	http://techcrunch.com/2016/03/21/elliptic-takes-in-5m-for-its-blockchain-forensics-tool/
+../data/2016-07-22-index.html	Octopus Ventures	http://www.finsmes.com/2016/07/mattress-retailer-eve-sleep-secures-6-9m-in-series-b-funding.html
+../data/2016-07-27-index.html	Octopus Ventures	https://techcrunch.com/2016/07/27/big-healthy-round/
+../data/2016-08-15-index.html	Octopus Ventures	https://techcrunch.com/2016/08/15/in-post-brexit-move-german-shopping-service-outfittery-raises-22m-round-led-by-uks-octopus/
+../data/2016-11-11-index.html	Octopus Ventures	http://venturebeat.com/2016/11/09/p2p-currency-exchange-marketplace-currencyfair-raises-8-8-million/
+../data/2017-01-09-index.html	Octopus Ventures	https://techcrunch.com/2017/01/09/mytomorrows-raises-10m/
+../data/2017-01-19-index.html	Octopus Ventures	http://www.geektime.com/2017/01/16/british-insurtech-startup-bought-by-many-scores-9-million/
+../data/2017-02-27-thru-2017-03-10.html	Octopus Ventures	https://medisafe.com/
+../data/2017-03-14-index.html	Octopus Ventures	http://techcitynews.com/2017/03/12/global-research-platform-streetbess-5-1m-seed-bgf-ventures/
+../data/2017-03-22-index.html	Octopus Ventures	https://techcrunch.com/2017/03/22/elvie-pulls-in-6m-series-a-to-build-a-global-female-health-tech-brand/
+../data/2017-03-23-index.html	Octopus Ventures	https://www.ft.com/content/3559a768-0e47-11e7-b030-768954394623
+../data/2017-04-26-index.html	Octopus Ventures	http://tech.eu/brief/token-15-7-million/
+../data/2017-05-17-index.html	Octopus Ventures	https://techcrunch.com/2017/05/17/appear-here-a-marketplace-for-short-term-retail-space-raises-12m-series-b
+../data/2017-05-26-index.html	Octopus Ventures	http://www.ultrasoc.com/
+../data/2017-04-06-index.html	Mobvoi	https://techcrunch.com/2017/04/06/volkswagen-mobvoi-china/
+../data/2017-04-07-index.html	Remesh	https://remesh.ai/
+../data/2017-04-11-index.html	Saleswhale	http://tcrn.ch/2nYVnal
+../data/2017-04-18-index.html	Innefu Labs	https://inc42.com/buzz/innefu-indianivesh-funding/
+../data/2017-04-21-index.html	Groq	http://www.cnbc.com/2017/04/20/ex-googlers-left-secretive-ai-unit-to-form-groq-with-palihapitiya.html
+../data/2017-04-26-index.html	AIdoc Medical	https://techcrunch.com/2017/04/26/aidoc-medical/
+../data/2017-05-02-index.html	Bitfusion	https://techcrunch.com/2017/05/02/bitfusion-raises-5m-for-its-ai-lifecycle-management-platform/
+../data/2017-05-03-index.html	Bonsai	https://venturebeat.com/2017/05/02/bonsai-raises-7-6-million-to-let-companies-build-their-own-ai/
+../data/2017-05-10-index.html	Mya Systems	https://venturebeat.com/2017/05/10/mya-systems-raises-11-4-million-for-its-ai-recruiter-chatbot/
+../data/2017-05-25-index.html	Inflowz	http://www.prnewswire.com/news-releases/clarizens-founder-raises-35m-from-glilot-capital-partners-624033984.html
+../data/2017-06-06-index.html	Workey	https://techcrunch.com/2017/06/06/career-site-workey-raises-8m-to-replace-headhunters-with-artificial-intelligence/
+../data/2017-06-08-index.html	Citrine Informatics	https://citrine.io/
+../data/2017-06-08-index.html	Cognata	https://techcrunch.com/2017/06/08/cognata-receives-5-to-speed-up-autonomous-testing/
+../data/2016-01-25-index.html	mPrest	http://www.businesswire.com/news/home/20160124005021/en
+../data/2016-01-26-index.html	Seebo	http://techcrunch.com/2016/01/26/seebo
+../data/2016-02-11-index.html	IMJ	http://techcrunch.com/2016/02/11/imj-japan-fund
+../data/2017-02-13-thru-2017-02-24.html	IMJ	https://techcrunch.com/2017/02/15/mclinica/
+../data/2016-01-26-index.html	Nokia Growth Partners	http://techcrunch.com/2016/01/25/cedexis-raises-22m-series-b-round-for-its-internet-traffic-monitoring-and-routing-platform
+../data/2016-02-22-index.html	Nokia Growth Partners	http://techcrunch.com/2016/02/21/nokia-growth-partners-announces-350m-fund-focused-on-iot/
+../data/2016-07-18-index.html	Nokia Growth Partners	https://techcrunch.com/2016/07/18/health-startup-lifesum-raises-10m-led-by-nokia-growth-partners/
+../data/2016-08-25-index.html	Nokia Growth Partners	https://techcrunch.com/2016/08/24/ford-leads-24m-investment-in-india-based-vehicle-rental-company-zoomcar/
+../data/2016-11-30-index.html	Nokia Growth Partners	https://techcrunch.com/2016/11/30/period-tracking-app-clue-pulls-in-20-million-series-b-from-nokia-growth-partners/
+../data/2017-01-27-index.html	Nokia Growth Partners	http://www.businessinsider.com/workfusion-automates-corporate-jobs-2016-4
+../data/2017-04-12-index.html	Nokia Growth Partners	http://www.businesswire.com/news/home/20170412005437/en/Peloton-Technology-Secures-60M-Fuel-Commercial-Truck
+../data/2017-05-17-index.html	Nokia Growth Partners	https://fetchr.us/
+../data/2016-04-07-index.html	Electric Imp	https://electricimp.com/
+../data/2016-05-27-index.html	Grove Ventures	http://www.haaretz.com/israel-news/business/1.721164
+../data/2016-06-02-index.html	LinkBee	https://www.linkbee.com/
+../data/2016-06-10-index.html	ProGlove	http://www.geektime.com/2016/05/31/smart-glove-startup-out-of-munich-nabs-2-2-million-investment-from-intel/
+../data/2016-06-15-index.html	B2X	https://www.b2x.com/
+../data/2016-06-22-index.html	Kwik	https://techcrunch.com/2016/06/21/kwik-raises-3-million-to-take-on-amazon-dash-buttons/
+../data/2016-08-26-index.html	Kwik	https://techcrunch.com/2016/08/26/indias-mobikwik-lands-40m-from-nasdaq-listed-payment-firm-net1
+../data/2016-09-02-index.html	C3 IoT	http://www.zdnet.com/article/c3-iot-raises-70-million-led-by-tpg/
+../data/2017-02-06-index.html	C3 IoT	http://www.americanlawyer.com/home/id=1202778439845/Small-Sums-Big-Guns-This-Billionaire-Would-Rather-Skirmish-Than-Settle?mcode=1202617075486&amp;curindex=1&amp;slreturn=20170106103206
+../data/2017-02-27-thru-2017-03-10.html	C3 IoT	http://c3iot.com/
+../data/2016-02-23-index.html	Razer	http://techcrunch.com/2016/02/22/razer-raises-at-a-1-5b-valuation-with-75m-from-chinas-digital-grid-for-immersive-gaming/
+../data/2016-09-13-index.html	Razer	https://techcrunch.com/2016/09/12/razer-launches-zventures-a-new-30m-fund-for-iot-robotics-vr-and-gaming-startups/
+../data/2017-05-16-index.html	Razer	http://ne-jv-wit
+../data/2016-10-27-index.html	PointGrab	http://venturebeat.com/2016/10/25/philips-lighting-joins-7-million-round-for-smart-building-sensor-maker-pointgrab/
+../data/2016-11-02-index.html	Relayr	http://www.wsj.com/articles/relayr-powers-up-23m-series-b-for-industrial-iot-sensors-1477999801
+../data/2016-01-13-index.html	Particle	http://techcrunch.com/2016/01/13/mparticle-series-a/
+../data/2016-10-14-index.html	Particle	https://techcrunch.com/2016/10/13/mparticle-series-b/
+../data/2016-11-17-index.html	Particle	https://www.particle.io/
+../data/2017-01-13-index.html	Kuang-Chi Group	http://www.dealstreetasia.com/stories/62582-62582/
+../data/2017-05-22-index.html	Kuang-Chi Group	http://www.timesofisrael.com/skyx-to-get-5-million-boost-from-chinas-kuang-chi/
+../data/2016-07-29-index.html	Opti	http://www.recode.net/2016/7/29/12320222/sheryl-sandberg-leans-into-next-book-option-b-about-grieving-and-healing
+../data/2016-08-16-index.html	Opti	https://techcrunch.com/2016/08/16/online-glasses-retailer-myoptique-sells-to-lens-maker-essilor-for-close-to-160m/
+../data/2016-09-15-index.html	Opti	http://www.optimove.com/
+../data/2016-10-12-index.html	Opti	https://techcrunch.com/2016/10/11/self-driving-tech-startup-optimus-ride-raises-5-25m-seed-round/
+../data/2016-11-11-index.html	Opti	http://www.businesswire.com/news/home/20161110005078/en/ReVision-Optics-Raises-32-Million-Fund-Expansion
+../data/2016-12-12-index.html	Opti	http://www.investoo.com/
+../data/2017-02-02-index.html	Opti	https://optirtc.com/
+../data/2017-03-15-index.html	Opti	https://crealytics.com/
+../data/2017-04-20-index.html	Opti	https://techcrunch.com/2017/04/19/optimizely-acquires-experiment-engine-to-offer-more-collaboration-tools-for-big-companies/
+../data/2016-08-18-index.html	Trident Capital Cybersecurity	https://www2.idexpertscorp.com/
+../data/2017-02-08-index.html	Trident Capital Cybersecurity	https://techcrunch.com/2017/02/08/trident-capital-cybersecuritys-300-million-fund-shows-the-depth-of-security-woes/
+../data/2016-09-02-index.html	C3 IoT	http://www.zdnet.com/article/c3-iot-raises-70-million-led-by-tpg/
+../data/2017-02-06-index.html	C3 IoT	http://www.americanlawyer.com/home/id=1202778439845/Small-Sums-Big-Guns-This-Billionaire-Would-Rather-Skirmish-Than-Settle?mcode=1202617075486&amp;curindex=1&amp;slreturn=20170106103206
+../data/2017-02-27-thru-2017-03-10.html	C3 IoT	http://c3iot.com/
+../data/2017-03-14-index.html	Evrything	https://techcrunch.com/2017/03/14/evrythng-series-b/
+../data/2016-09-21-index.html	Pepper	https://techcrunch.com/2016/09/21/pepperfry/
+../data/2016-11-10-index.html	Pepper	https://techcrunch.com/2016/11/10/toast-funding-cross-border-remittance-payments/
+../data/2017-01-20-index.html	Pepper	http://www.forbes.com/sites/alexkonrad/2017/01/19/after-bais-big-exit-cavu-raises-new-209m-fund-to-back-more-beverage-winners/#ee3b06d34e98
+../data/2017-03-30-index.html	Pepper	http://www.kansascity.com/news/business/technology/article141670739.html
+../data/2017-04-07-index.html	Konux	http://tech.eu/brief/konux-16-million/
+../data/2017-04-13-index.html	Ink Labs	https://inkcloud.me/products
+../data/2017-04-13-index.html	Riot Ventures	https://www.sec.gov/Archives/edgar/data/1701374/000170137417000001/xslFormDX01/primary_doc.xml
+../data/2017-04-17-index.html	Actility	https://www.bloomberg.com/news/articles/2017-04-12/bosch-inmarsat-back-startup-that-links-canals-to-the-internet
+../data/2017-04-24-index.html	Sensoro	http://www.prnewswire.com/news-releases/leading-iot-tech-firm-sensoro-raises-18m-in-series-b-300441467.html
+../data/2017-06-06-index.html	Armis	http://www.prnewswire.com/news-releases/armis-launches-from-stealth-to-eliminate-iot-security-blind-spot-for-enterprises-300469178.html
