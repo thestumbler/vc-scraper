@@ -37,6 +37,7 @@ main "$@"
 #################
 
 # in vim, put this command-mode partial command in the "a register:
+# (excluding the newline, e.g., "ay$, not "ayy)
 #       r!mygrep.sh 
 # then mapped this macro: 
 #       map v /^Remarks:^[:^Ra^R"^M    

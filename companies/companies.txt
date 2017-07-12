@@ -1,16 +1,16 @@
 = MarianaIQ =
-ID: 590408
+SEQ: 590408
 Date: 2016-Mar-02
-Type:  ng 
+Type: ng 
 Company: MarianaIQ
 Age: two-year-old
 Location: Palo Alto, Ca.
 Funding: unk
 Amount: $2
 Remarks: MarianaIQ, a two-year-old, Palo Alto, Ca.-based  platform that uses artificial intelligence for business-to-business marketing, has raised $2 million in convertible notes in a round led by Blumberg Capital. More here.
-More here: https://www.marianaiq.com/
+Linkhere: https://www.marianaiq.com/
 Info about: MarianaIQ.com
-Company:: MARIANA
+CompanyName: MARIANA
 Address: 480 California Avenue Palo Alto CA 94301 United States
 Est. Revenue: $0 - $1M
 Funding Raised: 4M
@@ -31,18 +31,18 @@ Tags: Information Technology & Services,Technology,SAAS,B2B,Internet
 5. Jason Sharma - VP Customer Success
 
 = DimensionalMechanics =
-ID: 592704
+SEQ: 592704
 Date: 2016-Mar-25
-Type:  ng 
+Type: ng 
 Company: DimensionalMechanics
 Age: year-old
 Location: Bellevue, Wa.
 Funding: unk
 Amount: $4.7
 Remarks: DimensionalMechanics, a year-old, Bellevue, Wa.-based startup that says it’s making artificial intelligence scalable, has raised $4.7 million in funding, shows an SEC filing. More here.
-More here: http://www.dimensionalmechanics.com/
+Linkhere: http://www.dimensionalmechanics.com/
 Info about: dimensionalmechanics.com
-Company:: dimensionalmechanics.com
+CompanyName: dimensionalmechanics.com
 Company email: info@dimensionalmechanics.com
 Company phone: +1 425-614-9100
 Website: https://app.growthbot.org//l/?code=7598203955196767551
@@ -55,17 +55,18 @@ Tags: Information Technology & Services,Technology,SAAS,Enterprise,B2B,Software
 3. Shae Hurst
 
 = Sinovation Ventures =
-ID: 610113
+SEQ: 610113
 Date: 2016-Sep-15
-Type:  nf 
+Type: nf 
 Company: Sinovation Ventures
 Age: unk
 Location: unk
 Funding: unk
 Amount: unk
 Remarks: China-based Sinovation Ventures, co-founded by former Google and Microsoft exec Kai-Fu Lee, has raised 4.5 billion yuan ($674 million) in commitments across two funds: a dollar-denominated fund of $300 million—in which Apple supplier Foxconn Technology Group is the anchor investor—and a yuan-denominated fund totaling the equivalent of $374 million. Sinovation plans to invest the funds raised in startup companies involved in artificial intelligence, building enterprise software, and creating entertainment content. The WSJ has more here.
+Linkhere: http://www.wsj.com/articles/sinovation-ventures-raises-675-million-in-fresh-capital-1473648511
 Info about: sinovationventures.com
-Company:: Sinovation North America Inc.
+CompanyName: Sinovation North America Inc.
 Company email: info@sinovationventures.com
 Website: https://app.growthbot.org//l/?code=5318367150845751444
 Description: Sinovation Ventures is the early stage venture capital firm established by Dr. Kai-Fu Lee. We invest in start-ups in China and in the U.S., at seed, Series A and Series B stages, in specific technology focus areas.
@@ -78,17 +79,18 @@ Tags: B2B,Venture Capital
 5. Chris Evdemon - Partner
 
 = CognitiveScale =
-ID: 612203
+SEQ: 612203
 Date: 2016-Oct-06
-Type:  ng 
+Type: ng 
 Company: CognitiveScale
 Age: unk
 Location: Austin, Tx.
 Funding: unk
 Amount: $25
 Remarks: CognitiveScale, three-year-old, Austin, Tx.-based startup specializing in artificial intelligence and machine learning, has raised $25 million in funding including a strategic investment from Microsoft Ventures. Silicon Hills News has more here.
+Linkhere: http://www.siliconhillsnews.com/2016/10/04/cognitivescale-closes-on-25-million-in-funding-with-investment-from-microsoft-ventures/
 Info about: cognitivescale.com
-Company:: COGNITIVESCALE
+CompanyName: COGNITIVESCALE
 Est. Revenue: $1M - $10M
 Funding Raised: 46.8M
 Company email: info@cognitivescale.com
@@ -108,17 +110,18 @@ Tags: Information Technology & Services,Technology,SAAS,Enterprise,B2B
 5. Nij Chawla - Chief Product Officer
 
 = Nauto =
-ID: 612303
+SEQ: 612303
 Date: 2016-Oct-07
-Type:  ng 
+Type: ng 
 Company: Nauto
 Age: 1.5-year-old
 Location: Palo Alto, Ca.
 Funding: Series A
 Amount: $12
 Remarks: Nauto, a 1.5-year-old, Palo Alto, Ca.-based startup that uses cameras, motion sensors, GPS systems, and its own artificial intelligence software to detect what’s happening on the road and inside a car, has raised an undisclosed amount of venture funding and entered into data-sharing partnerships with big name auto and insurance companies BMW, Toyota and Allianz Group. The company had previously raised $12 million in Series A funding. TechCrunch has more here.
+Linkhere: https://techcrunch.com/2016/10/07/bmw-toyota-and-allianz-back-nauto-and-its-camera-based-approach-to-making-autonomous-vehicles/
 Info about: nauto.com
-Company:: Nauto Inc.
+CompanyName: Nauto Inc.
 Address: 161 Homer Avenue Palo Alto CA 94301 United States
 Est. Revenue: $1M - $10M
 Funding Raised: 14.9M
@@ -138,17 +141,18 @@ Tags: Information Technology & Services,Technology,Mobile,Enterprise,B2B,B2C,Int
 5. Shobana Sankaran - General Manager of Insurance
 
 = Amino Capital =
-ID: 612716
+SEQ: 612716
 Date: 2016-Oct-11
-Type:  nf 
+Type: nf 
 Company: Amino Capital
 Age: four-year-old
 Location: Palo Alto, Ca.
 Funding: unk
 Amount: unk
 Remarks: Amino Capital, a four-year-old, Palo Alto, Ca.-based early-stage venture firm that focused largely on artificial intelligence and data-driven startups, has closed its second fund with $50 million. The outfit was formerly called zPark Venture. More here.
+Linkhere: https://medium.com/@aminocapital/amino-capital-completes-final-close-of-its-50m-fund-ii-for-early-stage-startups-a90bb83e0e4b#.6a4h07oyv
 Info about: aminocapital.com
-Company:: Amino Capital
+CompanyName: Amino Capital
 Address: 119 University Ave, Palo Alto, CA 94301, USA
 Facebook: https://facebook.com/amino-capital-309229532509598
 LinkedIn: https://www.linkedin.com/company/confihealth
@@ -162,17 +166,18 @@ Tags: B2B,Financial Services
 2. Larry Li - Partner
 
 = ComplyAdvantage =
-ID: 612902
+SEQ: 612902
 Date: 2016-Oct-13
-Type:  ng 
+Type: ng 
 Company: ComplyAdvantage
 Age: two-year-old
 Location: London
 Funding: Series A
 Amount: $8.2
 Remarks: ComplyAdvantage, a two-year-old, London-based startup that claims to use artificial intelligence and machine learning to help firms manage compliance obligations at reduced cost, has raised $8.2 million in Series A funding led by Balderton Capital. TechCrunch has more here.
+Linkhere: https://techcrunch.com/2016/10/13/complyadvantage/
 Info about: ComplyAdvantage.com
-Company:: ComplyAdvantage
+CompanyName: ComplyAdvantage
 Address: London London England United Kingdom
 Est. Revenue: $1M - $10M
 Funding Raised: 8.2M
@@ -192,28 +197,30 @@ Tags: Information Technology & Services,Technology,Consulting & Professional Ser
 5. Freya Longhurst - Marketing Manager
 
 = Rokid =
-ID: 614312
+SEQ: 614312
 Date: 2016-Oct-27
-Type:  ng 
+Type: ng 
 Company: Rokid
 Age: two-year-old
 Location: China
 Funding: Series B
-[[Amount:]] $65
+Amount: $65
 Remarks: Rokid, a two-year-old, China-based AI and robotics company that makes what it calls a family service robot (it connects to smart home devices to control lighting, window curtains, and other home electronics, but it also has face recognition technologies), has raised $65 million in Series B funding led by IDG Capital Partners, with participation from Walden International. China Money Network has more here.
+Linkhere: https://www.chinamoneynetwork.com/2016/10/26/idg-walden-join-65m-series-b-round-in-chinese-robot-start-up-rokid
 
 = Voyager Labs =
-ID: 614917
+SEQ: 614917
 Date: 2016-Nov-02
-Type:  ng 
+Type: ng 
 Company: Voyager Labs
 Age: four-year-old
 Location: Israel
 Funding: unk
 Amount: unk
 Remarks: Voyager Labs, a four-year-old, Israel-based artificial intelligence company, has emerged from stealth mode with $100 million in funding from investors that include OCAPAC Holding Company, Horizons Ventures, and angels, including British investor Sir Ronald Cohen and Lloyd Dorfman, who founded the Travelex foreign currency retailer. Haaretz has more here.
+Linkhere: http://www.haaretz.com/israel-news/2.2692/.premium-1.750382
 Info about: voyagerlabs.co
-Company:: Voyager Labs
+CompanyName: Voyager Labs
 Funding Raised: 100M
 Company email: info@voyagerlabs.co
 Company phone: 972 9 881 0180
@@ -231,17 +238,18 @@ Tags: Information Technology & Services,Technology,SAAS,Enterprise,B2B,Software
 5. Tomer Fuss - VP, Analytics, Product
 
 = German Autolabs =
-ID: 615006
+SEQ: 615006
 Date: 2016-Nov-03
-Type:  ng 
+Type: ng 
 Company: German Autolabs
 Age: seven-month-old
 Location: Berlin
 Funding: seed fund
 Amount: unk
 Remarks: German Autolabs, a seven-month-old, Berlin-based startup that’s using AI to develop speech and gesture recognition software to keep drivers safe on the road, has raised €2 million ($2.2 million) in seed funding from Target Partnersand business angels. Tech.eu has more here.
+Linkhere: http://tech.eu/brief/german-autolabs-seed-round/
 Info about: germanautolabs.com
-Company:: German Autolabs
+CompanyName: German Autolabs
 Address: KAPpenicker Str. 154A, 10997 Berlin, Germany
 Funding Raised: 2.2M
 Company phone: 49 1776505456
@@ -258,26 +266,18 @@ Tags: Information Technology & Services,Technology,SAAS,Mobile,B2C
 5. Holger Weiss - Managing Directors
 
 = ObEN =
-ID: 615010
+SEQ: 615010
 Date: 2016-Nov-03
-Type:  ng 
+Type: ng 
 Company: ObEN
 Age: 2.5-year-old
 Location: Pasadena, Ca.
 Funding: Series A
 Amount: $7.7
 Remarks: ObEN, a 2.5-year-old, Pasadena, Ca.-based developer of artificial intelligence technology to combine a person’s image and voice to create virtual reality and augmented reality experiences, has raised $7.7 million in Series A funding led by CrestValue Capital, with participation from Cybernaut Westlake Partners, Leaguer Venture Investment, Third Wave Digital, Dream Maker Entertainment, CEO Gordon Cheng, Cameron Pace Group China and Idealab. More here.
-ID: 628108
-Date: 2017-Mar-14
-Type:  ng 
-Company: ObEN
-Age: three-year-old
-Location: Pasadena, Ca.
-Funding: unk
-Amount: unk
-Remarks: ObEN, a three-year-old, Pasadena, Ca.-based company whose artificial intelligence technology aims to build users' personalized and realistic virtual identities, has raised an undisclosed amount of funding from SoftBank Ventures Korea. TechCrunch wrote about the company back in November.
+Linkhere: http://www.oben.com/
 Info about: oben.me
-Company:: ObEN, Inc.
+CompanyName: ObEN, Inc.
 Address: 130 West Union Street Pasadena CA 91103 United States
 Est. Revenue: $1M - $10M
 Funding Raised: 7,600.0K
@@ -296,28 +296,30 @@ Tags: Information Technology & Services,Technology,SAAS,B2C,Internet
 4. Yi Zheng - Venture Partner
 
 = Petuum =
-ID: 616413
+SEQ: 616413
 Date: 2016-Nov-17
-Type:  ng 
+Type: ng 
 Company: Petuum
 Age: months-old
 Location: Pittsburgh, Pa.
 Funding: Series A
 Amount: $15
 Remarks: Petuum, a months-old, Pittsburgh, Pa.-based startup that’s building an artificial intelligence and machine learning development platform, has raised $15 million in Series A funding led by Advantech Capital, with participation from Tencent Holdings, Northern Light Venture Capital, and Oriza Ventures. More here.
+Linkhere: http://www.businesswire.com/news/home/20161116006061/en/Petuum-Revolutionary-AIML-Development-Platform-Closes-15
 
 = Lemonade =
-ID: 618202
+SEQ: 618202
 Date: 2016-Dec-05
-Type:  ng 
+Type: ng 
 Company: Lemonade
 Age: 1.5-year-old
 Location: New York
 Funding: unk
 Amount: $33
 Remarks: Lemonade, a 1.5-year-old, New York-based insurance carrier that offers homeowners and renters insurance powered by AI and behavioral economics, has raised $33 million in funding, according to an SEC filing. Business Insider has more here.
+Linkhere: http://uk.businessinsider.com/sequoia-backed-lemonade-raises-another-33-million-2016-12?r=US&amp;IR=T
 Info about: lemonade.com
-Company:: Lemonade
+CompanyName: Lemonade
 Address: P.O. Box 445 Norwalk CT 06856 United States
 Est. Revenue: $0 - $1M
 Funding Raised: 93.1M
@@ -338,39 +340,42 @@ Tags: Internet,Technology,Marketplace,B2C,B2B,Insurance
 5. Tamir Jerby - VP Growth
 
 = Element AI =
-ID: 618904
+SEQ: 618904
 Date: 2016-Dec-12
-Type:  ng 
+Type: ng 
 Company: Element AI
 Age: months-old
 Location: Montreal
 Funding: unk
 Amount: unk
 Remarks: Element AI, a months-old, Montreal-based artificial intelligence incubator, announced today an investment by Microsoft Ventures. More here.
+Linkhere: http://www.elementai.com/
 
 = Microsoft Ventures =
-ID: 618915
+SEQ: 618915
 Date: 2016-Dec-12
-Type:  nf 
+Type: nf 
 Company: unk
 Age: unk
 Location: unk
 Funding: unk
 Amount: unk
 Remarks: Microsoft Ventures announced plans today to pursue investments in AI startups through a special fund dedicated to AI startups that focus on “inclusive growth and positive impact on society.” TechCrunch has more here.
+Linkhere: https://techcrunch.com/2016/12/12/microsoft-ventures-launches-new-fund-for-ai-startups-and-backs-element-ai-incubator/
 
 = Signal Media =
-ID: 619017
+SEQ: 619017
 Date: 2016-Dec-13
-Type:  ng 
+Type: ng 
 Company: Signal Media
 Age: three-year-old
 Location: London
 Funding: Series A
 Amount: £5.8
 Remarks: Signal Media, a three-year-old, London-based AI platform that helps companies sift, monitor, and gain insight from the news, has raised £5.8 million ($7.3 million) in Series A funding by Hearst Ventures, MMC Ventures, and Frontline Ventures. TechCrunch has more here.
+Linkhere: https://techcrunch.com/2016/12/13/signal-media/
 Info about: signalmedia.co
-Company:: signalmedia.co
+CompanyName: signalmedia.co
 Funding Raised: 10.5M
 Company email: info@signalmedia.co
 Company phone: +44 20 3828 8200
@@ -384,17 +389,18 @@ Tags: SAAS,B2B
 5. Reece Howe - Finance Director
 
 = Knowmail =
-ID: 619109
+SEQ: 619109
 Date: 2016-Dec-14
-Type:  ng 
+Type: ng 
 Company: Knowmail
 Age: two-year-old
 Location: Boston
 Funding: unk
 Amount: $3.5
 Remarks: Knowmail, a two-year-old, Boston-based startup that’s using AI to help employees manage email, has raised $3.5 million in funding led by CE Ventures, with participation from AfterDox, Plus Ventures, 2B Angels, INE Ventures, and unnamed private investors. TechCrunch has more here.
+Linkhere: https://techcrunch.com/2016/12/14/knowmail/
 Info about: knowmail.me
-Company:: Knowmail
+CompanyName: Knowmail
 Address: 400 Tradecenter Drive #5900, Woburn, MA 01801, USA
 Est. Revenue: $1M - $10M
 Funding Raised: 4.7M
@@ -414,17 +420,18 @@ Tags: Information Technology & Services,Technology,Mobile,SAAS,B2B
 5. Rahm Fehr
 
 = HyperScience =
-ID: 619206
+SEQ: 619206
 Date: 2016-Dec-15
-Type:  ng 
+Type: ng 
 Company: HyperScience
 Age: three-year-old
 Location: New York
 Funding: Series A
 Amount: $18
 Remarks: HyperScience, a three-year-old, New York-based startup that applies artificial intelligence to data processing to make its customers’ lives easier, has raised $18 million in Series A funding from FirstMark Capital and Felicis Ventures, with participation from earlier backers Third Kind Ventures, AME Cloud Ventures, Slow Ventures, Box Group, and Acequia Capital. More here.
+Linkhere: http://www.hyperscience.com/
 Info about: hyperscience.com
-Company:: HyperScience
+CompanyName: HyperScience
 Est. Revenue: $0 - $1M
 Funding Raised: 28.9M
 Company phone: +1 646-767-6210
@@ -442,50 +449,54 @@ Tags: B2B,Software
 5. Ina Georgieva - Operations Manager
 
 = Mighty AI =
-ID: 621810
+SEQ: 621810
 Date: 2017-Jan-10
-Type:  ng 
+Type: ng 
 Company: Mighty AI
 Age: two-year-old
 Location: Seattle
 Funding: Series A1
 Amount: $14
 Remarks: Mighty AI, a two-year-old, Seattle-based startup that uses humans to fine-tune artificial intelligence engines and was known until today as Spare5, has raised $14 million in Series A1 funding led by Intel Capital, with participation from GV, Accenture Ventures and earlier investors Foundry Group, Madrona Venture Group and New Enterprise Associates.The Seattle Times has more here.
+Linkhere: http://www.seattletimes.com/business/technology/seattle-startup-spare5-changes-name-to-mighty-ai-raises-funds-from-intel-google/
 
 = The Knight Foundation =
-ID: 621818
+SEQ: 621818
 Date: 2017-Jan-10
-Type:  nf 
+Type: nf 
 Company: The Knight Foundation
 Age: unk
 Location: unk
 Funding: unk
 Amount: unk
 Remarks: The Knight Foundation, eBay founder Pierre Omidyar, LinkedIn co-founder Reid Hoffman and other investors have formed a new, $27 million fund. The big idea behind it: to promote research into artificial intelligence in the public interest. TechCrunch has more here.
+Linkhere: https://techcrunch.com/2017/01/10/omidyar-hoffman-create-27m-research-fund-for-ai-in-the-public-interest/
 
 = Serena Data Ventures =
-ID: 622515
+SEQ: 622515
 Date: 2017-Jan-17
-Type:  nf 
+Type: nf 
 Company: Serena Data Ventures
 Age: nine-year-old
 Location: Paris
 Funding: unk
 Amount: €80
 Remarks: Serena Capital, a nine-year-old, Paris-based venture capital firm, has raised nearly €80 million ($85.7 million) for Serena Data Ventures, a fund dedicated to investing in big data and artificial intelligence companies in Europe. More here.
+Linkhere: https://www.serenacapital.com/2017/01/17/the-market-has-dreamt-of-it-serena-capital-did-it-for-the-first-time-in-europe/
 
 = Microsoft has acquired Maluuba =
-ID: 622517
+SEQ: 622517
 Date: 2017-Jan-17
-Type:  nf 
+Type: nf 
 Company: Microsoft has acquired Maluuba
 Age: five-year-old
 Location: Montreal
 Funding: unk
 Amount: $11
 Remarks: Microsoft has acquired Maluuba, a five-year-old, Montreal-based artificial intelligence startup, for undisclosed terms. The company had raised $11 million from Nautilus Venture Partners and Emerillon Capital. TechCrunch has more here.
+Linkhere: https://techcrunch.com/2017/01/13/microsoft-acquires-maluuba-a-startup-focused-on-general-artificial-intelligence/
 Info about: maluuba.com
-Company:: Maluuba Inc
+CompanyName: Maluuba Inc
 Address: Suite 324, 121 Charles Street West, The Tannery Kitchener NL2 5J1 Canada
 Est. Revenue: $1M - $10M
 Funding Raised: 12M
@@ -509,17 +520,18 @@ Tags: Information Technology & Services,Technology,SAAS,B2B,Enterprise,Software[
 5. Mac Adada - Engineering Manager, Senior Software Engineer
 
 = The Tej Kohli Impact Investment Initiative =
-ID: 622612
+SEQ: 622612
 Date: 2017-Jan-18
-Type:  nf 
+Type: nf 
 Company: The Tej Kohli Impact Investment Initiative
 Age: unk
 Location: unk
 Funding: unk
 Amount: unk
 Remarks: Tej Kohli, an Indian entrepreneur and philanthropist with an estimated net worth of $6 billion, say he has earmarked an initial $25 million for a program called the The Kohli Impact Investment Initiative that will be invested through his investment firm, Kohli Ventures. The idea is to funnel capital to ideas and technologies with societal and environmental benefits, including via sectors that include artificial intelligence, fintech, ag tech and renewables. More here.
+Linkhere: http://kohliventures.com/team/tej-kohli/
 Info about: kohliventures.com
-Company:: Kohli Ventures
+CompanyName: Kohli Ventures
 Address: Suite 4, 9th Floor Berkeley Square House London W1J 6DD United Kingdom
 Est. Revenue: $200M - $1B
 Company phone: +44 20 3709 7085
@@ -534,17 +546,18 @@ Tags: Consulting & Professional Services,B2B,Venture Capital,Financial Services
 2. Santiago Tenorio
 
 = WorkFusion =
-ID: 623504
+SEQ: 623504
 Date: 2017-Jan-27
-Type:  ng 
+Type: ng 
 Company: WorkFusion
 Age: 6.5-year-old
 Location: New York
 Funding: Series D
 Amount: $35
 Remarks: WorkFusion, a 6.5-year-old, New York-based startup that combines crowdsourcing with artificial intelligence to tackle business processes that corporations want to outsource, has raised $35 million in Series D funding led by Georgian Partners, with participation from existing investors Mohr Davidow Ventures, iNovia, Nokia Growth Partners, Greycroft Partners and RTP Ventures. The company has now raised $71 million altogether. Business Insider took a longer look at the company last spring.
+Linkhere: http://www.businessinsider.com/workfusion-automates-corporate-jobs-2016-4
 Info about: workfusion.com
-Company:: WorkFusion
+CompanyName: WorkFusion
 Address: 48 Wall St, New York, NY 10005, USA
 Est. Revenue: $1M - $10M
 Funding Raised: 71.3M
@@ -565,17 +578,18 @@ Tags: Information Technology & Services,Technology,SAAS,Enterprise,B2B,Software
 5. Maura LoPresti - Field Marketing Director
 
 = SoundHound =
-ID: 623907
+SEQ: 623907
 Date: 2017-Jan-31
-Type:  nf 
+Type: nf 
 Company: SoundHound
 Age: unk
 Location: Santa Clara, Ca.
 Funding: unk
 Amount: $75
 Remarks: SoundHound, an 11-year-old, Santa Clara, Ca.-based developer of voice-enabled AI and conversational intelligence technologies, has raised $75 million in funding from Kleiner Perkins Caufield & Byers, the SharesPost 100 Fund, MKaNNm, NVIDIA, GPU Ventures, Samsung Catalyst Fund, Nomura, Sompo Japan Nipponkoa Insurance and Recruit Holdings. Earlier investors also joined the round, including Global Catalyst Partners, Walden Venture Capital and TransLink Capital. Bloomberg has more here.
+Linkhere: https://www.bloomberg.com/news/articles/2017-01-31/soundhound-raises-75-million-to-take-on-amazon-google-in-ai
 Info about: soundhound.com
-Company:: soundhound
+CompanyName: soundhound
 Address: 3979 Freedom Circle Santa Clara CA 95054 United States
 Est. Revenue: $10M - $50M
 Funding Raised: 75M
@@ -596,28 +610,31 @@ Tags: Internet,Technology,Mobile,B2C,Software
 5. Andi Georgiana - Director, Marketing, Awareness, Content
 
 = AIM =
-ID: 624001
+SEQ: 624001
 Date: 2017-Feb-01
-Type:  ng 
+Type: ng 
 Company: AIM
 Age: 1.5-year-old
 Location: New York and Seoul
 Funding: seed fund
 Amount: $1.6
 Remarks: AIM, a 1.5-year-old, New York and Seoul-based startup behind an artificial intelligence-powered app for financial investments (largely for customers in Korea), has raised $1.6 million in seed funding from DT&I, Soorim, Seoul Business Agency, and Startup Bootcamp. TechCrunch has more here.
+Linkhere: http://www.businesswire.com/news/home/20161116006061/en/Petuum-Revolutionary-AIML-Development-Platform-Closes-15
+Linkhere: https://techcrunch.com/2017/01/31/koreas-aim-raises-1-6m-for-its-mobile-trading-service/
 
 = Xnor.ai =
-ID: 624118
+SEQ: 624118
 Date: 2017-Feb-02
-Type:  ng 
+Type: ng 
 Company: Xnor.ai
 Age: unk
 Location: unk
 Funding: unk
 Amount: $2.6
 Remarks: Xnor.ai, a young, Seattle-based company bringing AI computational frameworks to mobile devices, raised $2.6 million in funding led by Madrona Venture Group, with participation from the Allen Institute for Artificial Intelligence (from which the company spun off). TechCrunch has more here.
+Linkhere: https://techcrunch.com/2017/02/02/ai-acceleration-startup-xnor-ai-collects-2-6m-in-funding
 Info about: xnor.ai
-Company:: Xnor.AI
+CompanyName: Xnor.AI
 Twitter: https://twitter.com/xnor_ai
 Website: https://app.growthbot.org//l/?code=468280856635049910
 Description: XNOR.ai a fast AI on any device
@@ -630,17 +647,18 @@ Tags: Information Technology & Services,Technology,B2C,B2B
 5. Carlo Del Mundo
 
 = Virtualitics =
-ID: 624506
+SEQ: 624506
 Date: 2017-Feb-06
-Type:  ng 
+Type: ng 
 Company: Virtualitics
 Age: new
 Location: unk
 Funding: seed fund
 Amount: $3
 Remarks: Virtualitics, a new, Pasadena, Ca.-based platform that combines artificial intelligence, big data, and virtual reality to help users understand data, has raised $3 million in seed funding from unnamed angel investors. The company’s founders include George Djorgovski, the founding director of Caltech’s Center for Data-Driven Discovery. SoCal Tech has more here.
+Linkhere: http://www.socaltech.com/virtualitics_raises_3m_for_ar_vr_ai_startup/s-0068936.html
 Info about: virtualitics.com
-Company:: Virtualitics Inc
+CompanyName: Virtualitics Inc
 Address: 600 S Lake Ave #104, Pasadena, CA 91106, USA
 Twitter: https://twitter.com/virtualiticsVR
 Website: https://app.growthbot.org//l/?code=69923648445808662
@@ -654,39 +672,42 @@ Tags: Information Technology & Services,Technology,SAAS,Enterprise,B2B
 5. George Djorgovski
 
 = Green Bay Ventures =
-ID: 624702
+SEQ: 624702
 Date: 2017-Feb-08
-Type:  nf 
+Type: nf 
 Company: Green Bay Ventures
 Age: unk
 Location: unk
 Funding: unk
 Amount: unk
 Remarks: Dick Kramlich, the co-founder of New Enterprise Associates, is launching a new $130 million early-stage fund called Green Bay Ventures with partner Anthony Schiller. The fund is geared toward early stage companies that are focused on applying artificial intelligence to manufacturing, energy, transportation, logistics, and more. Shiller was formerly managing Kramlich’s family office platform. TechCrunch has more here.
+Linkhere: https://techcrunch.com/2017/02/07/nea-co-founder-dick-kramlich-launches-new-130m-green-bay-ventures-fund/
 
 = LoopMe =
-ID: 627512
+SEQ: 627512
 Date: 2017-Mar-08
-Type:  ng 
+Type: ng 
 Company: LoopMe
 Age: five-year-old
 Location: London
 Funding: unk
 Amount: $10
 Remarks: LoopMe, a five-year-old, London-based digital advertising firm that uses artificial intelligence to optimize mobile video advertising, has raised $10 million in funding led by Impulse VC and Harbert European Growth Capital, with participation from Holzbrinck Ventures and Open Ocean Capital. VentureBeat has more here.
+Linkhere: http://venturebeat.com/2017/03/07/loopme-raises-10-million-to-optimize-mobile-video-ads-through-artificial-intelligence/
 
 = Astro =
-ID: 627601
+SEQ: 627601
 Date: 2017-Mar-09
-Type:  ng 
+Type: ng 
 Company: Astro
 Age: two-year-old
 Location: Palo Alto, Ca.
 Funding: Series A
 Amount: $8.3
 Remarks: Astro, a two-year-old, Palo Alto, Ca.-based AI company focused on improving workplace communication, including via more intelligent email software, has raised $8.3 million in Series A funding from Redpoint Ventures, Harrison Metal, Aspect Ventures and Upside Partnership. More here.
+Linkhere: https://www.helloastro.com/
 Info about: helloastro.com
-Company:: Astro Technology, Inc.
+CompanyName: Astro Technology, Inc.
 Est. Revenue: $1M - $10M
 Funding Raised: 8.3M
 Website: https://app.growthbot.org//l/?code=4893609777578045593
@@ -698,19 +719,30 @@ Tags: Information Technology & Services,Technology,Mobile,B2B
 3. Andy Astro
 
 = Verizon Media Tech Venture Studio =
-ID: 627709
+SEQ: 627709
 Date: 2017-Mar-10
-Type:  nf 
+Type: nf 
 Company: Verizon Media Tech Venture Studio
 Age: unk
 Location: unk
 Funding: unk
 Amount: unk
 Remarks: Verizon Ventures and the digital agency R/GA just announced a new program called the Verizon Media Tech Venture Studio. It’s a 14-week program for up to 10 companies that will each receive $100,000 in funding and work out of Verizon’s new “open innovation” space in New York City. The companies says they’re looking for startups in areas like content creation and personalization, virtual reality and augmented reality, artificial intelligence, content distribution, interactive advertising and e-sports. More here.
+Linkhere: https://techcrunch.com/2017/03/10/verizon-media-tech-venture-studio/
 
 = ObEN =
+SEQ: 628108
+Date: 2017-Mar-14
+Type: ng 
+Company: ObEN
+Age: three-year-old
+Location: Pasadena, Ca.
+Funding: unk
+Amount: unk
+Remarks: ObEN, a three-year-old, Pasadena, Ca.-based company whose artificial intelligence technology aims to build users' personalized and realistic virtual identities, has raised an undisclosed amount of funding from SoftBank Ventures Korea. TechCrunch wrote about the company back in November.
+Linkhere: http://www.oben.com/
 Info about: oben.me
-Company:: ObEN, Inc.
+CompanyName: ObEN, Inc.
 Address: 130 West Union Street Pasadena CA 91103 United States
 Est. Revenue: $1M - $10M
 Funding Raised: 7,600.0K
@@ -719,6 +751,7 @@ Facebook: https://facebook.com/obenai
 LinkedIn: https://www.linkedin.com/company/obenai
 Twitter: https://twitter.com/ObenSalesinc
 Website: https://app.growthbot.org//l/?code=2083519201949382738
+Website: http://www.oben.com/
 Employees: 27 (approx.)
 Description: ObEN's artificial intelligence technology builds your personal AI for VR, AR and IoT.
 Industry: Internet Software & Services
@@ -729,28 +762,30 @@ Tags: Information Technology & Services,Technology,SAAS,B2C,Internet
 4. Yi Zheng - Venture Partner
 
 = Mythic =
-ID: 628908
+SEQ: 628908
 Date: 2017-Mar-22
-Type:  ng 
+Type: ng 
 Company: Mythic
 Age: five-year-old
 Location: Austin, Tex.
 Funding: Series A
 Amount: $9
 Remarks: Mythic, a five-year-old, Austin, Tex.-based company that’s developing a local AI platform that turns devices into secure intelligent assistants, has raised $9 million in Series A funding. The round was led by DFJ, with participation from Lux Capital, Data Collective, and AME Cloud Ventures. TechCrunch has much more here.
+Linkhere: https://techcrunch.com/2017/03/22/mythic-launches-a-chip-to-enable-computer-vision-and-voice-control-on-any-device/
 
 = Octopus Ventures =
-ID: 629013
+SEQ: 629013
 Date: 2017-Mar-23
-Type:  nf 
+Type: nf 
 Company: Octopus Ventures
 Age: unk
 Location: unk
 Funding: new fund
 Amount: £120
 Remarks: Octopus Ventures, the London-based venture capital firm, has raised £120 million ($150 million)  for a new fund dedicated to investing in machine learning and AI startups in the U.K. The Financial Times has more here.
+Linkhere: https://www.ft.com/content/3559a768-0e47-11e7-b030-768954394623
 Info about: octopusventures.com
-Company:: Octopus Ventures
+CompanyName: Octopus Ventures
 Address: 33 Holborn London EC1N 2HT United Kingdom
 Est. Revenue: $1M - $10M
 Company phone: +44 20 7776 7968
@@ -768,28 +803,30 @@ Tags: Consulting & Professional Services,B2B,Venture Capital
 5. Simon King - Non Executive Director
 
 = Mobvoi =
-ID: 630404
+SEQ: 630404
 Date: 2017-Apr-06
-Type:  ng 
+Type: ng 
 Company: Mobvoi
 Age: five-year-old
 Location: Beijing
 Funding: unk
 Amount: $180
 Remarks: Mobvoi, a five-year-old, Beijing-based company that specializes in voice recognition and natural language processing, has raised $180 million from Volkswagen, though rather than a traditional capital raise, the money will be used for a joint venture intended to “develop and apply AI technologies to automotive industry." TechCrunch has more here.
+Linkhere: https://techcrunch.com/2017/04/06/volkswagen-mobvoi-china/
 
 = Remesh =
-ID: 630509
+SEQ: 630509
 Date: 2017-Apr-07
-Type:  ng 
+Type: ng 
 Company: Remesh
 Age: 3.5-year-old
 Location: Cleveland, Oh.
 Funding: seed fund
 Amount: $2.25
 Remarks: Remesh, a 3.5-year-old, Cleveland, Oh.-based company whose software integrates AI with market research to collect, analyze and present the opinions and thoughts of numerous people quickly and in real time, has raised $2.25 million in seed funding led by LionBird Ventures, with participation from Reimagine Holdings Group and individual investors. More here.
+Linkhere: https://remesh.ai/
 Info about: remesh.ai
-Company:: Remesh
+CompanyName: Remesh
 Address: 44115 New York State Reference Rte 920V, Remsen, NY 13438, USA
 Est. Revenue: $1M - $10M
 Funding Raised: 4.3M
@@ -807,17 +844,18 @@ Tags: B2B,B2C
 5. Jeff Buzulencia - Director of Growth, Customer Success
 
 = Saleswhale =
-ID: 630909
+SEQ: 630909
 Date: 2017-Apr-11
-Type:  ng 
+Type: ng 
 Company: Saleswhale
 Age: 1.5-year-old
 Location: Singapore
 Funding: seed fund
 Amount: $1.2
 Remarks: Saleswhale, a 1.5-year-old, Singapore-based AI startup focused on automating sales emails, has raised $1.2 million in seed funding from Monk's Hill Ventures, Gree Ventures, Wavemaker Partners, and numerous angel investors. TechCrunch has more here.
+Linkhere: http://tcrn.ch/2nYVnal
 Info about: saleswhale.io
-Company:: Saleswhale
+CompanyName: Saleswhale
 Address: 81 Joo Chiat Road #02-02 Singapore 427725 Singapore
 Est. Revenue: $1M - $10M
 Facebook: https://facebook.com/saleswhaleio
@@ -835,17 +873,18 @@ Tags: Information Technology & Services,Technology,SAAS,B2B,Internet
 5. Nikhil Sharma
 
 = Innefu Labs =
-ID: 631605
+SEQ: 631605
 Date: 2017-Apr-18
-Type:  ng 
+Type: ng 
 Company: Innefu Labs
 Age: six-year-old
 Location: New Delhi, India
 Funding: Series A
 Amount: $2
 Remarks: Innefu Labs, a six-year-old, New Delhi, India-based artificial intelligence startup, has raised $2 million in Series A funding from IndiaNivesh Venture Capital Fund, with participation from former KPMG partner (and earlier investors) Bala Swaminathan. Inc 42 has more here.
+Linkhere: https://inc42.com/buzz/innefu-indianivesh-funding/
 Info about: innefu.com
-Company:: Innefu Labs Pvt Ltd
+CompanyName: Innefu Labs Pvt Ltd
 Est. Revenue: $1M - $10M
 Funding Raised: 2M
 Company phone: +91 11 4706 5866
@@ -861,17 +900,18 @@ Tags: Consulting & Professional Services,Enterprise,B2B
 5. Manish Sharma
 
 = Groq =
-ID: 631903
+SEQ: 631903
 Date: 2017-Apr-21
-Type:  ng 
+Type: ng 
 Company: Groq
 Age: new
 Location: unk
 Funding: unk
 Amount: $10.3
 Remarks: Groq, a new, Bay Area-based stealth next-gen computing startup led by former members of Google's Tensor Processing Unit (which is itself at work on new computer processors that squeeze more power onto less silicon), have raised $10.3 million in funding from Social Capital. (For what it's worth, a highly regarded founder and investor told us last night that, on the spectrum of "real" to "bullsh_t" investments, investment in chips capable of powering AI is "real.") CNBC has the scoop here.
+Linkhere: http://www.cnbc.com/2017/04/20/ex-googlers-left-secretive-ai-unit-to-form-groq-with-palihapitiya.html
 Info about: groq.com
-Company:: groq.com
+CompanyName: groq.com
 Address: 120 Hawthorne Ave, Palo Alto, CA 94301, USA
 Company email: info@groq.com
 Website: https://app.growthbot.org//l/?code=7716823253748179954
@@ -881,61 +921,66 @@ Tags:
 2. Doug Wightman
 
 = AIdoc Medical =
-ID: 632401
+SEQ: 632401
 Date: 2017-Apr-26
-Type:  ng 
+Type: ng 
 Company: AIdoc Medical
 Age: year-old
 Location: Israel
 Funding: unk
 Amount: $7
 Remarks: AIdoc Medical, a year-old, Israel-based company that has built what it describes as an AI that can spot visual abnormalities in medical scans, has raised $7 million in funding led by TLV Partners, with participation from previous investors, including Magma Ventures and Emerge. TechCrunch has more here.
+Linkhere: https://techcrunch.com/2017/04/26/aidoc-medical/
 
 = Bitfusion =
-ID: 633002
+SEQ: 633002
 Date: 2017-May-02
-Type:  ng 
+Type: ng 
 Company: Bitfusion
 Age: 2.5-year-old
 Location: Austin, Tex.- and Sunnyvale, Ca.
 Funding: Series A
 Amount: $5
 Remarks: Bitfusion, a 2.5-year-old, Austin, Tex.- and Sunnyvale, Ca.-based maker of AI infrastructure management software, has raised $5 million in Series A funding led by Vanedge Capital, with participation from Sierra Ventures and earlier backers Data Collective, Resonant VC, and Geekdom. TechCrunch has more here.
+Linkhere: https://techcrunch.com/2017/05/02/bitfusion-raises-5m-for-its-ai-lifecycle-management-platform/
 
 = Bonsai =
-ID: 633104
+SEQ: 633104
 Date: 2017-May-03
-Type:  ng 
+Type: ng 
 Company: Bonsai
 Age: two-year-old
 Location: Berkeley, Ca.
 Funding: unk
 Amount: $7.6
 Remarks: Bonsai, a two-year-old, Berkeley, Ca.-based AI enterprise development startup, has raised raised $7.6 million in funding co-led by Microsoft Ventures and New Enterprise Associates, with participation from Samsung, Siemens, and ABB Technology Ventures. VentureBeat has more here.
+Linkhere: https://venturebeat.com/2017/05/02/bonsai-raises-7-6-million-to-let-companies-build-their-own-ai/
 
 = Mya Systems =
-ID: 633811
+SEQ: 633811
 Date: 2017-May-10
-Type:  ng 
+Type: ng 
 Company: Mya Systems
 Age: five-year-old
 Location: San Francisco
 Funding: unk
 Amount: $11.4
 Remarks: Mya Systems, a five-year-old, San Francisco-based startup behind a recruiter chatbot that uses artificial intelligence to automate outreach to job candidates, has raised $11.4 million in funding. The entire round came from Emergence Capital. VentureBeat has more here.
+Linkhere: https://venturebeat.com/2017/05/10/mya-systems-raises-11-4-million-for-its-ai-recruiter-chatbot/
 
 = Inflowz =
-ID: 635305
+SEQ: 635305
 Date: 2017-May-25
-Type:  ng 
+Type: ng 
 Company: Inflowz
 Age: months-old
 Location: Tel Aviv, Israel
 Funding: seed fund
 Amount: $3.5
 Remarks: Inflowz, a months-old, Tel Aviv, Israel-based AI process optimization company, has raised $3.5 million in seed funding from Glilot Capital Partners. More here.
+Linkhere: http://www.prnewswire.com/news-releases/clarizens-founder-raises-35m-from-glilot-capital-partners-624033984.html
 Info about: inflowz.com
-Company:: inflowz.com
+CompanyName: inflowz.com
 Company email: info@inflowz.com
 Website: https://app.growthbot.org//l/?code=2032752392037191929
 Tags:
@@ -945,17 +990,18 @@ Tags:
 4. Rachel Hadas
 
 = Workey =
-ID: 636522
+SEQ: 636522
 Date: 2017-Jun-06
-Type:  ng 
+Type: ng 
 Company: Workey
 Age: two-year-old
 Location: Tel Aviv
 Funding: Series A
 Amount: $8
 Remarks: Workey, a two-year-old, Tel Aviv-based career site that uses artificial intelligence to streamline the process of matching companies with potential candidates, has raised $8 million in Series A funding. The round was led by PICO Partners and Magma VC and brings the total Workey has raised so far to $9.6 million. TechCrunch has more here.
+Linkhere: https://techcrunch.com/2017/06/06/career-site-workey-raises-8m-to-replace-headhunters-with-artificial-intelligence/
 Info about: workey.co
-Company:: Workey
+CompanyName: Workey
 Funding Raised: 9.6M
 Facebook: https://facebook.com/workey
 Twitter: https://twitter.com/Workey_co
@@ -970,17 +1016,18 @@ Tags: Internet,Technology,B2C
 5. Melanie Pasch - Community Manager Workey
 
 = Citrine Informatics =
-ID: 636705
+SEQ: 636705
 Date: 2017-Jun-08
-Type:  ng 
+Type: ng 
 Company: Citrine Informatics
 Age: four-year-old
 Location: Redwood City, Ca.
 Funding: Series A
 Amount: $7.6
 Remarks: Citrine Informatics, a four-year-old, Redwood City, Ca.-based chemicals and materials artificial intelligence platform, has raised $7.6 million in Series A funding. The round was led by Innovation Endeavors, DCVC, and Prelude Ventures, with participation from AME Cloud Ventures and XSeed Capital. More here.
+Linkhere: https://citrine.io/
 Info about: citrine.io
-Company:: Citrine Informatics
+CompanyName: Citrine Informatics
 Est. Revenue: $0 - $1M
 Company email: gjmulhol@stanford.edu
 Company phone: 919-600-2598
@@ -998,17 +1045,18 @@ Tags: Information Technology & Services,Technology,SAAS,Enterprise,B2B,Software
 5. Christina Hartman - Director of Data Operations
 
 = Cognata =
-ID: 636706
+SEQ: 636706
 Date: 2017-Jun-08
-Type:  ng 
+Type: ng 
 Company: Cognata
 Age: year-old
 Location: Rehovot, Israel
 Funding: unk
 Amount: unk
 Remarks: Cognata, a year-old, Rehovot, Israel-based company that combines artificial intelligence, deep learning, and computer vision in a simulation platform that's used by autonomous vehicle developers to shave years off their road tests, has raised $5 million in funding. Backers include Emerge, Maniv Mobility, and Airbus Ventures. TechCrunch has more here.
+Linkhere: https://techcrunch.com/2017/06/08/cognata-receives-5-to-speed-up-autonomous-testing/
 Info about: cognata.com
-Company:: cognata.com
+CompanyName: cognata.com
 Funding Raised: 5M
 Website: https://app.growthbot.org//l/?code=5048716073003479314
 Description: Fast Lane to Autonomous Cognata provides driving validation platform for the autonomous vehicles industry.
@@ -1018,19 +1066,19 @@ Tags: B2B
 3. Guy Tsafrir
 
 = mPrest =
-ID: 586705
+SEQ: 586705
 Date: 2016-Jan-25
-Type:  ng 
+Type: ng 
 Company: mPrest
 Age: 13-year-old
 Location: Israel
 Funding: Series A
 Amount: unk
 Remarks: mPrest, a 13-year-old, Israel-based developer of monitoring and control software for the Internet of Things, has raised $20 million in Series A funding co-led by GE Ventures and OurCrowd. More here.
-Morehere: http://www.businesswire.com/news/home/20160124005021/en
+Linkhere: http://www.businesswire.com/news/home/20160124005021/en
 growthbotAPP [11:49 PM] 
 Info about: mprest.com
-Company:: mPrest Systems
+CompanyName: mPrest Systems
 Address: 94 Em-Hamoshavot Rd Park Azorim, Kiriat Arieh Petah Tikva 49130 Israel
 Est. Revenue: $10M - $50M
 Company email: info@mprest.com
@@ -1060,18 +1108,18 @@ https://www.facebook.com/MPrest-systems-658160444214300/
 
 = Seebo =
 /bin/bash: Seebo: No such file or directory
-ID: 586815
+SEQ: 586815
 Date: 2016-Jan-26
-Type:  ng 
+Type: ng 
 Company: Seebo
 Age: 3.5-year-old
 Location: Tel Aviv, Israel
 Funding: Series A
 Amount: unk
 Remarks: Seebo, a 3.5-year-old, Tel Aviv, Israel-based startup that offers an Internet of Things (IoT) end-to-end platform to help companies launch smart products faster, has raised $8.5 million in Series A funding. The round was led by Carmel Ventures, with participation from earlier backers, including TPY Capital. The company has now raised $14 million altogether. TechCrunch has more here.
-Morehere: http://techcrunch.com/2016/01/26/seebo
+Linkhere: http://techcrunch.com/2016/01/26/seebo
 Info about: seebo.com
-Company:: Seebo Interactive LTD
+CompanyName: Seebo Interactive LTD
 Est. Revenue: $1M - $10M
 Funding Raised: 14M
 Company email: liran@seebo.com
@@ -1091,18 +1139,18 @@ Linkedin: https://www.linkedin.com/company-beta/1477687/
 Facebook: https://www.facebook.com/Seebo.IoT/
 
 = IMJ =
-ID: 588416
+SEQ: 588416
 Date: 2016-Feb-11
-Type:  nf 
+Type: nf 
 Company: IMJ
 Age: unk
 Location: unk
 Funding: new fund
 Amount: $52
 Remarks: IMJ, a venture capital firm based in Japan, has raised roughly $52 million for a new fund that it intends to invest in Japan-based startups that want to transform traditional industries like finance and healthcare, as well those that play in emerging technologies like artificial intelligence, the Internet of Things, and blockchain. TechCrunch has more here.
-Morehere: http://techcrunch.com/2016/02/11/imj-japan-fund
+Linkhere: http://techcrunch.com/2016/02/11/imj-japan-fund
 Info about: adworld.ie
-Company:: IMJ
+CompanyName: IMJ
 Address: Adworld Ventures 45 Upper Mount Street Dublin 2  Ireland
 Est. Revenue: $0 - $1M
 Company email: info@adworld.ie
@@ -1116,18 +1164,18 @@ Tags: B2B
 Imj Kopic
 
 = Nokia Growth Partners =
-ID: 589509
+SEQ: 589509
 Date: 2016-Feb-22
-Type:  nf 
+Type: nf 
 Company: Nokia Growth Partners
 Age: unk
 Location: unk
 Funding: unk
 Amount: unk
 Remarks: At the Mobile World Congress event in Barcelona yesterday, Nokia Growth Partners announced a new, $350 million fund focused specifically on the Internet of Things. TechCrunch has more here.
-Morehere: http://techcrunch.com/2016/02/21/nokia-growth-partners-announces-350m-fund-focused-on-iot/
+Linkhere: http://techcrunch.com/2016/02/21/nokia-growth-partners-announces-350m-fund-focused-on-iot/
 Info about: nokiagrowthpartners.com
-Company:: Nokia Growth Partners
+CompanyName: Nokia Growth Partners
 Address: Europe, India China & CA United States
 Est. Revenue: $10M - $50M
 Company email: info@nokiagrowthpartners.com
@@ -1147,18 +1195,18 @@ Results of search at nokiagrowthpartners.com
 5. Ossi Tiainen - Nokia Growth Partners Europe, Senior Analyst
 
 = Electric Imp =
-ID: 594005
+SEQ: 594005
 Date: 2016-Apr-07
-Type:  ng 
+Type: ng 
 Company: Electric Imp
 Age: five-year-old
 Location: Los Altos, Ca.
 Funding: Series C
 Amount: $21
 Remarks: Electric Imp, a five-year-old, Los Altos, Ca.-based IoT platform that says it securely connects devices to advanced cloud computing resources, has raised $21 million in Series C funding led by London-based Rampart Capital. Other participants include company insiders and earlier investor Redpoint Ventures. The company has now raised $43 million altogether. More here.
-Morehere: https://electricimp.com/
+Linkhere: https://electricimp.com/
 Info about: electricimp.com
-Company:: Electric Imp, Inc.
+CompanyName: Electric Imp, Inc.
 Est. Revenue: $0 - $1M
 Funding Raised: 44M
 Company email: info@electricimp.com
@@ -1179,30 +1227,30 @@ Results of search at electricimp.com
 5. Hugo Fiennes - Senior Hw Engineer
 
 = Grove Ventures =
-ID: 599009
+SEQ: 599009
 Date: 2016-May-27
-Type:  nf 
+Type: nf 
 Company: Grove Ventures
 Age: new
 Location: unk
 Funding: unk
 Amount: unk
 Remarks: Grove Ventures, a new venture firm cofounded by serial entrepreneur Dov Moran, has held a first close of $30 million on a debut fund that’s targeting $100 million. The capital will be used to invest in Israeli startups in the fields of cloud computing, Internet of Things, and artificial intelligence. Haaretz has more here.
-Morehere: http://www.haaretz.com/israel-news/business/1.721164
+Linkhere: http://www.haaretz.com/israel-news/business/1.721164
 
 = LinkBee =
-ID: 599606
+SEQ: 599606
 Date: 2016-Jun-02
-Type:  ng 
+Type: ng 
 Company: LinkBee
 Age: year-old
 Location: New York
 Funding: seed fund
 Amount: $6
 Remarks: LinkBee, a year-old, New York-based stealthy IoT hardware startup, has raised $6 million in seed funding co-led by Pegasus Capital Advisors and Loeb Enterprises. More here.
-Morehere: https://www.linkbee.com/
+Linkhere: https://www.linkbee.com/
 Info about: linkbee.com
-Company:: Linkbee
+CompanyName: Linkbee
 Address: 43 Colborne St. suite 100 Toronto m5e1e3 Canada
 Est. Revenue: $0 - $1M
 Company email: cpavlovski@jokeroo.com
@@ -1222,18 +1270,18 @@ Results of search at linkbee.com
 5. Noah Friedman - Business Stratey
 
 = ProGlove =
-ID: 600404
+SEQ: 600404
 Date: 2016-Jun-10
-Type:  ng 
+Type: ng 
 Company: ProGlove
 Age: 1.5-year-old
 Location: Munich, Germany
 Funding: Series A
 Amount: $2.2
 Remarks: ProGlove, a 1.5-year-old, Munich, Germany-based industrial IoT startup, has raised $2.2 million in Series A funding led by Intel Capital, with participation from Gettylab and Bayern Kapital. GeekTime has more here.
-Morehere: http://www.geektime.com/2016/05/31/smart-glove-startup-out-of-munich-nabs-2-2-million-investment-from-intel/
+Linkhere: http://www.geektime.com/2016/05/31/smart-glove-startup-out-of-munich-nabs-2-2-million-investment-from-intel/
 Info about: proglove.de
-Company:: ProGlove
+CompanyName: ProGlove
 Address: FriedenstraAe 4, 81671 MA1/4nchen, Germany
 Funding Raised: 2.4M
 Facebook: https://facebook.com/proglove.wearables.for.industry
@@ -1251,18 +1299,18 @@ Results of search at proglove.de
 5. Marc Wagner - Managing Director
 
 = B2X =
-ID: 600901
+SEQ: 600901
 Date: 2016-Jun-15
-Type:  ng 
+Type: ng 
 Company: B2X
 Age: nine-year-old
 Location: Munich, Germany
 Funding: unk
 Amount: €6
 Remarks: B2X, a nine-year-old, Munich, Germany-based startup behind a customer care platform for smartphones and IoT device makers, has raised €6 million ($6.7 million) from Harbert European Growth Capital. More here.
-Morehere: https://www.b2x.com/
+Linkhere: https://www.b2x.com/
 Info about: b2x.com
-Company:: B2X Care Solutions
+CompanyName: B2X Care Solutions
 Address: Baierbrunnerstrasse 35 Munich 81379 Germany
 Est. Revenue: $50M - $100M
 Funding Raised: 22.8M
@@ -1283,36 +1331,34 @@ Results of search at b2x.com
 5. Rekha Priyesh - Product Manager
 
 = Kwik =
-ID: 601608
+SEQ: 601608
 Date: 2016-Jun-22
-Type:  ng 
+Type: ng 
 Company: Kwik
 Age: three-year-old
 Location: Tel Aviv
 Funding: seed fund
 Amount: $3
 Remarks: Kwik, a three-year-old, Tel Aviv-based end-to-end IoT platform that connects customers to retailers and service providers, has raised $3 million in seed funding from Norwest Venture Partners. TechCrunch has more here.
-Morehere: https://techcrunch.com/2016/06/21/kwik-raises-3-million-to-take-on-amazon-dash-buttons/
+Linkhere: https://techcrunch.com/2016/06/21/kwik-raises-3-million-to-take-on-amazon-dash-buttons/
 Info about: 590kid.com
-Company:: 590kid.com
+CompanyName: 590kid.com
 Company email: info@590kid.com
 Company phone: +1 208-524-5900 ext. 112
 
-r!mygrep.sh 
-
 = C3 IoT =
-ID: 608804
+SEQ: 608804
 Date: 2016-Sep-02
-Type:  ng 
+Type: ng 
 Company: C3 IoT
 Age: seven-year-old
 Location: Redwood City, Ca.
 Funding: Series D
 Amount: $70
 Remarks: C3 IoT, a seven-year-old, Redwood City, Ca.-based company whose Internet of Things analytics platform rides on top of Amazon Web Services, has raised $70 million in Series D funding led by TPG, with participation from previous investors Sutter Hill, Interwest Partners, and founder and CEO Thomas Siebel. ZDNet has more here.
-Morehere: http://www.zdnet.com/article/c3-iot-raises-70-million-led-by-tpg/
+Linkhere: http://www.zdnet.com/article/c3-iot-raises-70-million-led-by-tpg/
 Info about: c3iot.com
-Company:: C3 IoT
+CompanyName: C3 IoT
 Est. Revenue: $10M - $50M
 Funding Raised: 132.6M
 Company email: info@c3iot.com
@@ -1331,17 +1377,18 @@ Results of search at c3iot.com
 5. Jessica Reiter - CMO
 
 = Razer =
-ID: 609906
+SEQ: 609906
 Date: 2016-Sep-13
-Type:  nf 
+Type: nf 
 Company: Razer
 Age: new
 Location: San Diego
 Funding: unk
 Amount: unk
 Remarks: Razer, an 18-year-old, San Diego-based maker of high-end gaming products, has announced zVentures, a new, $30 million fund that the company plans to invest across a wide range of startups in areas like IoT, big data analytics, virtual and augmented reality, robotics and Android games TechCrunch has more here.
+Linkhere: https://techcrunch.com/2016/09/12/razer-launches-zventures-a-new-30m-fund-for-iot-robotics-vr-and-gaming-startups/
 Info about: razerzone.com
-Company:: Razer
+CompanyName: Razer
 Address: 9 Pasteur Irvine CA 92618 United States
 Est. Revenue: $500M - $1B
 Funding Raised: 175M
@@ -1363,17 +1410,18 @@ Results of search at razerzone.com
 5. Lia Guerrero - Associate Director of Marketing
 
 = PointGrab =
-ID: 614309
+SEQ: 614309
 Date: 2016-Oct-27
-Type:  ng 
+Type: ng 
 Company: PointGrab
 Age: unk
 Location: Hod Hasharon, Israel
 Funding: unk
 Amount: $7
 Remarks: PointGrab, an eight-year-old, Hod Hasharon, Israel-based company whose machine learning technology is installed in optical IoT devices for home and building automation systems, has raised $7 million in funding from Philips Lighting, Mitsubishi UFJ Capital Co., and earlier backer ABB Technology Ventures. VentureBeat has more here.
+Linkhere: http://venturebeat.com/2016/10/25/philips-lighting-joins-7-million-round-for-smart-building-sensor-maker-pointgrab/
 Info about: pointgrab.com
-Company:: PointGrab
+CompanyName: PointGrab
 Address: P.O. Box 170939 Austin TX 73301 United States
 Est. Revenue: $10M - $50M
 Company email: Pointgrab.com@gmail.com
@@ -1394,17 +1442,18 @@ Results of search at pointgrab.com
 5. Efrat Ben-Meir - CFO
 
 = Relayr =
-ID: 614912
+SEQ: 614912
 Date: 2016-Nov-02
-Type:  ng 
+Type: ng 
 Company: Relayr
 Age: three-year-old
 Location: Berlin
 Funding: unk
 Amount: $23
 Remarks: Relayr, a three-year-old, Berlin-based startup creating technologies for industrial customers to harness the Internet of Things (its sensors monitor equipment), has raised $23 million in funding led by Munich Re Group, with participation from Kleiner Perkins Caufield & Byers and Munich Venture Partners. The WSJ has more here.
+Linkhere: http://www.wsj.com/articles/relayr-powers-up-23m-series-b-for-industrial-iot-sensors-1477999801
 Info about: relayr.io
-Company:: relayr Inc.
+CompanyName: relayr Inc.
 Address: 17 Tempelhofer Ufer Berlin Berlin 10963 Germany
 Est. Revenue: $1M - $10M
 Funding Raised: 36.8M
@@ -1426,17 +1475,18 @@ Results of search at relayr.io
 5. Rick Caylor - Director Channel Sales, Strategy North America
 
 = Particle =
-ID: 616412
+SEQ: 616412
 Date: 2016-Nov-17
-Type:  ng 
+Type: ng 
 Company: Particle
 Age: five-year-old
 Location: San Francisco
 Funding: Series A
 Amount: $10.4
 Remarks: Particle, a five-year-old, San Francisco-based development platform for the Internet of Things, has raised $10.4 million in Series A funding led by Root Ventures, with participation from OATV and Rincon Venture Partners. More here.
+Linkhere: https://www.particle.io/
 Info about: particle.io
-Company:: Particle
+CompanyName: Particle
 Address: 320 Alabama Street San Francisco CA 94110 United States
 Est. Revenue: $1M - $10M
 Funding Raised: 15.8M
@@ -1456,80 +1506,87 @@ Results of search at particle.io
 5. Cameron Essalat - VP Worldwide Sales
 
 = Kuang-Chi Group =
-ID: 622111
+SEQ: 622111
 Date: 2017-Jan-13
-Type:  nf 
+Type: nf 
 Company: Kuang-Chi Group
 Age: unk
 Location: unk
 Funding: unk
 Amount: unk
 Remarks: Kuang-Chi Group, a Shenzhen, China-based tech conglomerate, has launched a new, $250 million fund called Global Community of Innovation Fund II that it plans to invest in smart city/smart home, internet of Things, artificial intelligence, virtual reality and artificial reality and robotics companies. DealStreetAsia has more here.
+Linkhere: http://www.dealstreetasia.com/stories/62582-62582/
 
 = Opti =
-ID: 624109
+SEQ: 624109
 Date: 2017-Feb-02
-Type:  ng 
+Type: ng 
 Company: Opti
 Age: 2.5-year-old
 Location: Boston
 Funding: unk
 Amount: $5.5
 Remarks: Opti, a 2.5-year-old, Boston-based IoT company that monitors and controls stormwater infrastructure in real-time, has raised $5.5 million in funding led by Ecosystem Integrity Fund, with participation from earlier investors MissionPoint Partners, the Renewal Funds, the Massachusetts Clean Energy Center, and Geosyntec Consultants. More here.
+Linkhere: http://venturebeat.com/2017/03/07/loopme-raises-10-million-to-optimize-mobile-video-ads-through-artificial-intelligence/
 Info about: dashnet.org
-Company:: DashNet
+CompanyName: DashNet
 Est. Revenue: $0 - $1M
 Facebook: https://www.facebook.com/DashNet.Official
 Twitter: https://twitter.com/DashNet_
 Website: https://app.growthbot.org//l/?code=9067685937986082897
+Website: https://optirtc.com/
 Description: Indie game studio & Community
 Tags: B2C
 
 = Trident Capital Cybersecurity =
-ID: 624705
+SEQ: 624705
 Date: 2017-Feb-08
-Type:  nf 
+Type: nf 
 Company: Trident Capital Cybersecurity
 Age: unk
 Location: unk
 Funding: unk
 Amount: $300
 Remarks: Trident Capital Cybersecurity has raised $300 million to invest in new technology companies tackling security threats around the internet of things, payment technologies, identity management, privacy and data management. The San Mateo, Ca., firm was founded in 2015, when the partners of Trident Capital — a venture firm formed in 1993 — created two new, focused firms: Trident Capital Cybersecurity and Sunstone Partners. (Sunstone Partners is a growth equity firm focused on tech-enabled business services.) TechCrunch has more here.
+Linkhere: https://techcrunch.com/2017/02/08/trident-capital-cybersecuritys-300-million-fund-shows-the-depth-of-security-woes/
 
 = Evrything =
-ID: 628105
+SEQ: 628105
 Date: 2017-Mar-14
-Type:  ng 
+Type: ng 
 Company: Evrything
 Age: six-year-old
 Location: New York
 Funding: Series B
 Amount: $24.8
 Remarks: Evrything, a six-year-old, New York-based IoT smart products platform, has raised $24.8 million in Series B funding led by Sway Ventures, with participation from Generation Ventures, Bloc Ventures and earlier investors Cisco, Samsung, BHLP, Atomico, Dawn Capital and Advance Vixeid Partners. TechCrunch has more here.
+Linkhere: https://techcrunch.com/2017/03/14/evrythng-series-b/
 
 = Pepper =
-ID: 629710
+SEQ: 629710
 Date: 2017-Mar-30
-Type:  ng 
+Type: ng 
 Company: Pepper
 Age: unk
 Location: Kansas City Mo.
 Funding: Series B
 Amount: $8.5
 Remarks: Pepper, an 11-month-old, Kansas City Mo.-based IoT platform and service provider, has raised $8.5 million in Series B funding from Leawood Ventures, the KCRise Fund, Royal Street Ventures, OpenAir Equity Partners and Comporium Communications. The Kanas City Star has more here.
+Linkhere: http://www.kansascity.com/news/business/technology/article141670739.html
 
 = Konux =
-ID: 630504
+SEQ: 630504
 Date: 2017-Apr-07
-Type:  ng 
+Type: ng 
 Company: Konux
 Age: 2.5-year-old
 Location: Munich
 Funding: Series A
 Amount: $9
 Remarks: Konux, a 2.5-year-old, Munich-based industrial IoT startup, has raised $9 million in new Series A funding that brings the round's total to $16 million. New Enterprise Associates led the newest tranche, joining MIG, Upbeat Ventures and individual backers, including Andy Bechtolsheim. Tech.eu has more here.
+Linkhere: http://tech.eu/brief/konux-16-million/
 Info about: konux.com
-Company:: Konux, Inc.
+CompanyName: Konux, Inc.
 Address: FlAPAergasse 2, 81369 MA1/4nchen, Germany
 Est. Revenue: $1M - $10M
 Funding Raised: 18.5M
@@ -1550,17 +1607,18 @@ Results of search at konux.com
 5. Christian Brandlhuber - VP Research, DevelopmentTags: SAAS,B2B,Mechanical Engineering
 
 = Ink Labs =
-ID: 631106
+SEQ: 631106
 Date: 2017-Apr-13
-Type:  ng 
+Type: ng 
 Company: Ink Labs
 Age: unk
 Location: Lincoln, Ne.
 Funding: seed fund
 Amount: $6.65
 Remarks: Ink Labs, an eight-month-old, Lincoln, Ne.-based advanced printing company that leverages the so-called Internet of Things, has raised $6.65 million in seed funding led by VTF Capital, Base Ventures, G-Bar Ventures, Nelnet, and IT-Farm, with participation from The Nebraska Department of Economic Development through Invest Nebraska. More here.
+Linkhere: https://inkcloud.me/products
 Info about: ink-labs.com
-Company:: ink-labs.com
+CompanyName: ink-labs.com
 Company email: info@ink-labs.com
 Company phone: +39 340 339 1503
 Website: https://app.growthbot.org//l/?code=1913574877653525110
@@ -1568,28 +1626,30 @@ Results of search at ink-labs.com
 Daniele Pol
 
 = Riot Ventures =
-ID: 631117
+SEQ: 631117
 Date: 2017-Apr-13
-Type:  nf 
+Type: nf 
 Company: Riot Ventures
 Age: new
 Location: unk
 Funding: unk
 Amount: unk
 Remarks: Riot Ventures, a new Boston-based firm led by serial entrepreneur and angel investor Stephen Marcus, is looking to raise $25 million for its debut fund, per an SEC filing flagged by Axios Pro Rata. The outlet says Marcus plans to fund opportunities relating to the Internet of Things. The filing is here.
+Linkhere: https://www.sec.gov/Archives/edgar/data/1701374/000170137417000001/xslFormDX01/primary_doc.xml
 
 = Actility =
-ID: 631501
+SEQ: 631501
 Date: 2017-Apr-17
-Type:  ng 
+Type: ng 
 Company: Actility
 Age: seven-year-old
 Location: unk
 Funding: unk
 Amount: $75
 Remarks: Actility, a seven-year-old Paris-based Internet of Things startup, has raised $75 million, including the private equity firm Creadev SAS, the industrial company Robert Bosch GmbH and satellite operator Inmarsat Plc. Earlier backers also joined the round, including Ginko Ventures (the European investment fund of Foxconn) and the wireless network companies Koninklijke KPN NV, Orange SA and Swisscom AG. Bloomberg has more here.
+Linkhere: https://www.bloomberg.com/news/articles/2017-04-12/bosch-inmarsat-back-startup-that-links-canals-to-the-internet
 Info about: actility.com
-Company:: Actility
+CompanyName: Actility
 Address: 48 Rue Ren Clair Paris le-de-France 75018 France
 Est. Revenue: $1M - $10M
 Funding Raised: 100M
@@ -1611,17 +1671,18 @@ Results of search at actility.com
 5. Dezier Boris - Vice-president Global Sales
 
 = Sensoro =
-ID: 632206
+SEQ: 632206
 Date: 2017-Apr-24
-Type:  ng 
+Type: ng 
 Company: Sensoro
 Age: four-year-old
 Location: Seattle
 Funding: Series B
 Amount: $18
 Remarks: Sensoro, a four-year-old, Seattle-based Internet of Things sensor device and network technology company, has raised $18 million in Series B funding from Bosch, Sumitomo and Tsing Capital. More here.
+Linkhere: http://www.prnewswire.com/news-releases/leading-iot-tech-firm-sensoro-raises-18m-in-series-b-300441467.html
 Info about: sensoro.com
-Company:: Sensoro Inc.
+CompanyName: Sensoro Inc.
 Company email: info@sensoro.com
 Company phone: +86 10 8416 1077
 Website: https://app.growthbot.org//l/?code=8473807971434665024
@@ -1637,17 +1698,18 @@ Results of search at sensoro.com
 5. Patrick Kim
 
 = Armis =
-ID: 636501
+SEQ: 636501
 Date: 2017-Jun-06
-Type:  ng 
+Type: ng 
 Company: Armis
 Age: 1.5-year-old
 Location: Palo Alto, Ca.
 Funding: unk
 Amount: unk
 Remarks: Armis, a 1.5-year-old, Palo Alto, Ca.-based enterprise IoT security company, has emerged from stealth mode with $17 million in funding, including from Sequoia Capital and Tenaya Capital. More here.
+Linkhere: http://www.prnewswire.com/news-releases/armis-launches-from-stealth-to-eliminate-iot-security-blind-spot-for-enterprises-300469178.html
 Info about: armis.pt
-Company:: Armis
+CompanyName: Armis
 Est. Revenue: $10M - $50M
 Company email: info@armis.pt
 LinkedIn: https://www.linkedin.com/company/armis
