@@ -18,7 +18,7 @@ function main {
   html-doc-header
   html-content-header 
   IFS=$'\t'
-  while read SEQ DATE TYPE COMPANY AGE LOC FUND AMT TEXT; do
+  while read SEQ DATE TYPE COMPANY AGE LOC FUND AMT TEXT LINK; do
     html-content-entry
   done 
   html-content-trailer
@@ -28,7 +28,7 @@ function main {
 function html-doc-header {
   echo "<html>"
   echo "<head>"
-  echo "<title>Movies For Sale, List View</title>"
+  echo "<title>Companies</title>"
   echo "<meta http-equiv="Content-Type" content="text/html; charset=utf-8">"
   echo "</head>"
   echo "<body>"
@@ -46,10 +46,11 @@ function html-content-header {
   echo "  <th id="fund">&nbsp;Fund&nbsp;</td>"
   echo "  <th id="amt">&nbsp;Amount&nbsp;</td>"
   echo "  <th id="text">&nbsp;Text&nbsp;</td>"
+  echo "  <th id="link">&nbsp;Text&nbsp;</td>"
   echo "</tr>"
 }
 
-# variables SEQ DATE TYPE COMPANY AGE LOC FUND AMT TEXT
+# variables SEQ DATE TYPE COMPANY AGE LOC FUND AMT LINK TEXT
 function html-content-entry {
   echo "<tr>"
   echo "<td nowrap headers="item" align=left>&nbsp;$SEQ&nbsp;</td>"
@@ -60,6 +61,7 @@ function html-content-entry {
   echo "<td nowrap headers="loc" align=left>&nbsp;$LOC&nbsp;</td>"
   echo "<td nowrap headers="fund" align=left>&nbsp;$FUND&nbsp;</td>"
   echo "<td nowrap headers="amt" align=left>&nbsp;$AMT&nbsp;</td>"
+  echo "<td nowrap headers="link" align=left>&nbsp;$LINK&nbsp;</td>"
   echo "<td headers="text" align=left>$TEXT</td>"
   echo "</tr>"
 }

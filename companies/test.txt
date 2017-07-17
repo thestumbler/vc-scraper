@@ -1,0 +1,23 @@
+| 590408 | 2016-Mar-02 | ng | MarianaIQ            | two-year-old    | Palo Alto, Ca. | unk       | $2   |
+| 592704 | 2016-Mar-25 | ng | DimensionalMechanics | year-old        | Bellevue, Wa.  | unk       | $4.7 |
+| 610113 | 2016-Sep-15 | nf | Sinovation Ventures  | unk             | unk            | unk       | unk  |
+| 612203 | 2016-Oct-06 | ng | CognitiveScale       | unk             | Austin, Tx.    | unk       | $25  |
+| 612303 | 2016-Oct-07 | ng | Nauto                | 1.5-year-old    | Palo Alto, Ca. | Series A  | $12  |
+| 612716 | 2016-Oct-11 | nf | Amino Capital        | four-year-old   | Palo Alto, Ca. | unk       | unk  |
+| 612902 | 2016-Oct-13 | ng | ComplyAdvantage      | two-year-old    | London         | Series A  | $8.2 |
+| 614312 | 2016-Oct-27 | ng | Rokid                | two-year-old    | China          | Series B  | $65  |
+| 614917 | 2016-Nov-02 | ng | Voyager Labs         | four-year-old   | Israel         | unk       | unk  |
+| 615006 | 2016-Nov-03 | ng | German Autolabs      | seven-month-old | Berlin         | seed fund | unk  |
+
+
+| SEQ      | 590408                                                                                                                                                                                                                    |
+| Date     | 2016-Mar-02                                                                                                                                                                                                               |
+| Type     | ng                                                                                                                                                                                                                        |
+| Company  | MarianaIQ                                                                                                                                                                                                                 |
+| Age      | two-year-old                                                                                                                                                                                                              |
+| Location | Palo Alto, Ca.                                                                                                                                                                                                            |
+| Series   | unk                                                                                                                                                                                                                       |
+| Amount   | $2                                                                                                                                                                                                                        |
+| About    | MarianaIQ, a two-year-old, Palo Alto, Ca.-based  platform that uses artificial intelligence for business-to-business marketing, has raised $2 million in convertible notes in a round led by Blumberg Capital. More here. |
+| Link     | https://www.marianaiq.com/                                                                                                                                                                                                |
+|          |                                                                                                                                                                                                                           |
